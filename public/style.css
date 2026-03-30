@@ -1,0 +1,160 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', sans-serif;
+  background: #0f0f1a;
+  color: #e0e0e0;
+  min-height: 100vh;
+}
+
+header {
+  text-align: center;
+  padding: 2rem 1rem 1.5rem;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  border-bottom: 2px solid #e94560;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #e94560;
+  letter-spacing: 0.1em;
+}
+
+.subtitle {
+  color: #888;
+  font-size: 0.9rem;
+  margin-top: 0.3rem;
+}
+
+.meta {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: #666;
+}
+
+.meta a {
+  color: #e94560;
+  text-decoration: none;
+}
+
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.episode-card {
+  background: #1a1a2e;
+  border-radius: 12px;
+  padding: 1.2rem;
+  margin-bottom: 1rem;
+  border: 1px solid #2a2a4a;
+}
+
+.episode-card:hover {
+  border-color: #e94560;
+}
+
+.episode-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.5rem;
+}
+
+.episode-date {
+  font-size: 0.8rem;
+  color: #e94560;
+  font-weight: bold;
+}
+
+.episode-duration {
+  font-size: 0.75rem;
+  color: #666;
+}
+
+.episode-title {
+  font-size: 1.1rem;
+  color: #fff;
+  margin-bottom: 0.5rem;
+}
+
+.episode-cast {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-bottom: 0.8rem;
+}
+
+.cast-chip {
+  background: #2a2a4a;
+  color: #aaa;
+  font-size: 0.7rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 10px;
+}
+
+.episode-segments {
+  font-size: 0.75rem;
+  color: #666;
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
+}
+
+.segment-item {
+  cursor: pointer;
+  padding: 0.1rem 0;
+}
+
+.segment-item:hover {
+  color: #e94560;
+}
+
+.segment-time {
+  color: #555;
+  margin-right: 0.3rem;
+  font-variant-numeric: tabular-nums;
+}
+
+audio {
+  width: 100%;
+  height: 40px;
+  border-radius: 8px;
+}
+
+.mode-badge {
+  display: inline-block;
+  font-size: 0.65rem;
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+  margin-left: 0.4rem;
+  vertical-align: middle;
+}
+
+.mode-daily { background: #1b4332; color: #52b788; }
+.mode-weekly { background: #3a1078; color: #c77dff; }
+
+.loading {
+  text-align: center;
+  color: #666;
+  padding: 3rem;
+}
+
+.empty {
+  text-align: center;
+  color: #555;
+  padding: 3rem;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem;
+  color: #444;
+  font-size: 0.75rem;
+}
+
+@media (max-width: 480px) {
+  h1 { font-size: 1.5rem; }
+  .episode-card { padding: 1rem; }
+  .episode-title { font-size: 1rem; }
+}
