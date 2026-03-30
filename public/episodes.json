@@ -1,5 +1,88 @@
 [
   {
+    "id": "20260328_weekly",
+    "title": "スタラジ土曜増刊号　2026年3月28日放送分",
+    "date": "2026-03-28",
+    "broadcastMode": "weekly",
+    "durationSec": 557.0160000000009,
+    "durationFormatted": "9:17",
+    "cast": [
+      "ヨースケ",
+      "みのりん"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト",
+        "startSec": 154.70400000000004
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
+        "startSec": 281.20799999999997
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
+        "startSec": 443.6640000000004
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 516.5520000000006
+      }
+    ],
+    "sources": [
+      {
+        "source": "NHK",
+        "title": "G7外相会合 イラン情勢めぐり共同声明「民間への攻撃停止を」"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "「底抜けた世界」だからこそ　核兵器廃絶へ対話を　イラン攻撃1カ月"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Memory chip giant SK hynix could help end 'RAMmageddon' with blockbuster US IPO"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Memory chip stocks shed $100bn as AI-driven shortage trade unwinds"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Google nears deal to help finance multibillion-dollar data centre leased to Anthropic"
+      },
+      {
+        "source": "Variety",
+        "title": "'Chicago Fire,' 'Chicago PD,' 'Chicago Med' Renewed at NBC"
+      },
+      {
+        "source": "Qiita",
+        "title": "Remotion × Whisper × TTS で完全無料のショート動画自動生成パイプラインを構築する"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Some uncomfortable truths about AI coding agents"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Elon Musk Joins in Phone Call Between Donald Trump and Narendra Modi"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Race With China Links Tech, Government Leaders"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Miley Cyrus Brings Back 'Hannah Montana,' 'Daredevil: Born Again' Returns and This Week's Best Events"
+      }
+    ],
+    "audioFile": "20260328_weekly.mp3",
+    "scriptFile": "20260328_weekly.md",
+    "publishedAt": "2026-03-27T20:45:24.193Z"
+  },
+  {
     "id": "20260327_daily",
     "title": "スタラジ 2026年3月27日 配信分",
     "date": "2026-03-27",
