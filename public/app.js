@@ -322,23 +322,49 @@
     switchView(tab.getAttribute('data-view'));
   });
 
-  // ---- Render ----
-  function renderEpisodes(episodes) {
-    container.innerHTML = '';
-    allEpisodes = episodes;
+  // ---- Filter ----
+  var currentFilter = 'all';
 
-    if (episodes.length === 0) {
-      container.innerHTML = '<p class="empty">エピソードはまだありません</p>';
+  function getFilteredEpisodes() {
+    if (currentFilter === 'all') return allEpisodes;
+    return allEpisodes.filter(function (ep) { return ep.broadcastMode === currentFilter; });
+  }
+
+  function renderFilteredList() {
+    var filtered = getFilteredEpisodes();
+    container.innerHTML = '';
+
+    if (filtered.length === 0) {
+      container.innerHTML = '<p class="empty">該当するエピソードはありません</p>';
       return;
     }
 
-    episodes.forEach(function (ep, index) {
-      var expanded = index === 0; // Latest episode expanded by default
+    filtered.forEach(function (ep, index) {
+      var expanded = index === 0;
       var card = createEpisodeCard(ep, expanded);
       card.style.animationDelay = (index * 0.06) + 's';
       container.appendChild(card);
     });
+  }
 
+  // Filter button events
+  var filterBar = document.getElementById('filter-bar');
+  if (filterBar) {
+    filterBar.addEventListener('click', function (e) {
+      var btn = e.target.closest('.filter-btn');
+      if (!btn) return;
+      var btns = filterBar.querySelectorAll('.filter-btn');
+      for (var i = 0; i < btns.length; i++) btns[i].classList.remove('is-active');
+      btn.classList.add('is-active');
+      currentFilter = btn.getAttribute('data-filter');
+      renderFilteredList();
+    });
+  }
+
+  // ---- Render ----
+  function renderEpisodes(episodes) {
+    allEpisodes = episodes;
+    renderFilteredList();
     buildCalendar(episodes);
   }
 

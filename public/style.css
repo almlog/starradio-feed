@@ -164,6 +164,39 @@ a:hover {
   border-color: var(--accent);
 }
 
+/* ---- Filter Bar ---- */
+.filter-bar {
+  display: flex;
+  justify-content: center;
+  gap: 0.35rem;
+  padding: 0.75rem 1.5rem 0;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.filter-btn {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-tertiary);
+  background: transparent;
+  border: 1px solid var(--border);
+  padding: 0.3rem 0.9rem;
+  border-radius: 100px;
+  cursor: pointer;
+  transition: all 0.2s var(--ease-out);
+}
+
+.filter-btn:hover {
+  color: var(--text-secondary);
+  border-color: var(--border-hover);
+}
+
+.filter-btn.is-active {
+  color: var(--text-primary);
+  background: var(--accent-subtle);
+  border-color: var(--accent);
+}
+
 /* ---- Main ---- */
 main {
   max-width: 680px;
