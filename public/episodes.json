@@ -1,5 +1,113 @@
 [
   {
+    "id": "20260331_daily",
+    "title": "スタラジ 2026年3月31日 配信分",
+    "date": "2026-03-31",
+    "broadcastMode": "daily",
+    "durationSec": 432.9840000000004,
+    "durationFormatted": "7:12",
+    "cast": [
+      "ヨースケ",
+      "もえちゃん",
+      "りっくん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AIトラスト問題とInstagram有料化",
+        "startSec": 28.104
+      },
+      {
+        "name": "データセンター部品の供給危機",
+        "startSec": 120.09600000000006
+      },
+      {
+        "name": "国際情勢とエネルギー問題",
+        "startSec": 199.824
+      },
+      {
+        "name": "エンタメ界の大型ニュース",
+        "startSec": 261.672
+      },
+      {
+        "name": "セレブリティとトレンド",
+        "startSec": 340.9440000000002
+      },
+      {
+        "name": "クロージング",
+        "startSec": 407.3280000000003
+      }
+    ],
+    "sources": [
+      {
+        "source": "TechCrunch",
+        "title": "As more Americans adopt AI tools, fewer say they can trust the results"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Instagram Testing New Premium Subscription Offering"
+      },
+      {
+        "source": "TechRadar",
+        "title": "It's not just a RAM crisis — Panasonic says data center batteries are also selling out months in advance"
+      },
+      {
+        "source": "ZDNet",
+        "title": "What Google's TurboQuant can and can't do for AI's spiraling cost"
+      },
+      {
+        "source": "NHK",
+        "title": "フランスのマクロン大統領 きょうから3日間の日程で来日"
+      },
+      {
+        "source": "NHK",
+        "title": "G7 エネルギー安定供給へ「あらゆる措置講じる」など共同声明"
+      },
+      {
+        "source": "Axios",
+        "title": "Exclusive: Zelensky says Russia winning from Iran war"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "実写『キングダム』5弾、合従軍に斎藤工、田中圭、中村蒼、三吉彩花ら　追加キャスト10名発表＆新映像公開"
+      },
+      {
+        "source": "ナタリー",
+        "title": "映画「キングダム」春申君役は斎藤工　呉鳳明役の田中圭、媧燐役の三吉彩花ら10人出演"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "三山凌輝、実写『キングダム』で白麗役　追加キャスト10名発表＆合従軍映す新映像公開"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "実写『キングダム』5弾、項翼役は結木滉星！"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "'Grey's Anatomy' Renewed for Season 23 on ABC"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "BTS Lands at No. 1 on Hot 100 and Billboard 200 Charts"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "U.S. Attack Helicopters Flew to Kid Rock's House. The Army Is Investigating"
+      },
+      {
+        "source": "EURACTIV Media Network",
+        "title": "US Army probes video of Apache helicopter at Kid Rock's home"
+      }
+    ],
+    "audioFile": "20260331_daily.mp3",
+    "scriptFile": "20260331_daily.md",
+    "publishedAt": "2026-03-30T20:43:50.728Z"
+  },
+  {
     "id": "20260330_daily",
     "title": "スタラジ 2026年3月30日 配信分",
     "date": "2026-03-30",
