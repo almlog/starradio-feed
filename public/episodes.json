@@ -1,5 +1,580 @@
 [
   {
+    "id": "20260324_daily",
+    "title": "スタラジ 2026年3月24日 配信分",
+    "date": "2026-03-24",
+    "broadcastMode": "daily",
+    "durationSec": 353.904,
+    "durationFormatted": "5:53",
+    "cast": [
+      "もえちゃん",
+      "そらちゃん",
+      "レイジ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "NVIDIA AI革命の最前線",
+        "startSec": 40.83507692307692
+      },
+      {
+        "name": "Apple WWDC 6月8日開催決定",
+        "startSec": 88.476
+      },
+      {
+        "name": "iPhone大規模脆弱性の衝撃",
+        "startSec": 142.92276923076923
+      },
+      {
+        "name": "エンタメ界の大きな動き",
+        "startSec": 183.75784615384615
+      },
+      {
+        "name": "AI開発の最前線と倫理問題",
+        "startSec": 245.01046153846153
+      },
+      {
+        "name": "クロージング",
+        "startSec": 292.6513846153846
+      }
+    ],
+    "sources": [
+      {
+        "source": "Ars Technica",
+        "title": "Nvidia CEO tries to explain why DLSS 5 isn't just \"AI slop\""
+      },
+      {
+        "source": "Gizmodo Japan",
+        "title": "今年の「WWDC」は6月8日から。気になる「強化Siri」と「Apple版ChatGPT」のゆくえ"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Apple sets WWDC for June 8 — and this may be its last best chance to fix Siri and deliver the AI we were promised"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "John Ternus Emerges as Tim Cook's Possible Successor"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Someone has publicly leaked an exploit kit that can hack millions of iPhones"
+      },
+      {
+        "source": "The Register",
+        "title": "Lightning-fast exploits make it essential to patch fast, ask questions later"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "'Hannah Montana 20th Anniversary Special': How to Watch and What to Expect"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Make Some Noise: How to Watch the 'Hannah Montana 20th Anniversary Special' for Free"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Spotify Lays Off 15 People, About 3% of Podcasting Staff"
+      },
+      {
+        "source": "Variety",
+        "title": "Spotify Layoffs in Podcast Group Cut 3% of Headcount, With Staffers Let Go From The Ringer and Spotify Studios"
+      },
+      {
+        "source": "Qiita",
+        "title": "AIエージェントの安全性と運用"
+      },
+      {
+        "source": "Qiita",
+        "title": "今日のAIエージェント開発最前線"
+      },
+      {
+        "source": "Qiita",
+        "title": "AIとコンテンツの品質問題"
+      }
+    ],
+    "audioFile": "20260324_daily.mp3",
+    "scriptFile": "20260324_daily.md",
+    "publishedAt": "2026-03-24T05:42:00.000Z"
+  },
+  {
+    "id": "20260317_daily",
+    "title": "スタラジ 2026年3月17日 朝の配信",
+    "date": "2026-03-17",
+    "broadcastMode": "daily",
+    "durationSec": 472.584,
+    "durationFormatted": "7:52",
+    "cast": [
+      "グリーン",
+      "ロス",
+      "ベントン"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "セクション1: NVIDIA GTC 2026の衝撃 - AI界隈の大騒ぎ",
+        "startSec": 37.59190909090909
+      },
+      {
+        "name": "セクション2: OpenClaw問題とNVIDIAの対応",
+        "startSec": 134.25681818181818
+      },
+      {
+        "name": "セクション3: Claude界隈とAI実践の新潮流",
+        "startSec": 193.32981818181818
+      },
+      {
+        "name": "セクション4: xAIとGrokの大問題",
+        "startSec": 252.4028181818182
+      },
+      {
+        "name": "セクション5: エンタメ界隈の大ニュース",
+        "startSec": 316.8460909090909
+      },
+      {
+        "name": "セクション6: 配信サービスとTVドラマの新展開",
+        "startSec": 381.28936363636365
+      },
+      {
+        "name": "クロージング",
+        "startSec": 424.25154545454546
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Nvidia's Huang predicts $1tn in AI chip revenue over 2 years"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'We expect at least $1 trillion revenue': Nvidia CEO predicts huge windfall on Rubin and Blackwell chips as he reveals new Vera CPU and server racks"
+      },
+      {
+        "source": "The Verge",
+        "title": "DLSS 5 looks like a real-time generative AI filter for video games"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "ゲームがまるで実写に　NVIDIA、AI活用「DLSS 5」発表　「リアルタイムレイトレ以来の技術革新」"
+      },
+      {
+        "source": "The Register",
+        "title": "Nvidia's DLSS 5 promises to bring you out the other side of the uncanny valley"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'This is as big of a deal as HTML, as big of a deal as Linux': Nvidia NemoClaw looks to make OpenClaw safer and more effective for business use"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "NVIDIA、「NemoClaw」発表　OpenClawを1コマンドで導入、安全に実行可能に"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Are we sure that's wise? Minisforum says its new NAS will come with OpenClaw pre-installed, despite multiple recent security issues"
+      },
+      {
+        "source": "Qiita",
+        "title": "課題ベースで学ぶClaude Code便利機能"
+      },
+      {
+        "source": "Qiita",
+        "title": "AIは『生命体』へ。エンタープライズを激変させるAgentic設計思想"
+      },
+      {
+        "source": "The Verge",
+        "title": "Teens sue Elon Musk's xAI over Grok's AI-generated CSAM"
+      },
+      {
+        "source": "BBC",
+        "title": "Teens sue Musk's xAI over Grok's pornographic images of them"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Musk's Grok Chatbot Made Sexual Images of Minors, Teens Allege in Lawsuit"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Warren presses Pentagon over decision to grant xAI access to classified networks"
+      },
+      {
+        "source": "Variety",
+        "title": "'Dune 3' First Look: Timothée Chalamet Returns in Denis Villeneuve's Epic Finale"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "'Dune 3' First Look Shows Timothée Chalamet as a Very Different Paul Atreides"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Harry Styles' 'Kiss All the Time. Disco, Occasionally' Sells 1M Global Units in Week One"
+      },
+      {
+        "source": "IGN",
+        "title": "The Last of Us Season 3 Adds Patrick Wilson and Jason Ritter to Its Cast"
+      },
+      {
+        "source": "ZDNet",
+        "title": "Paramount+ just dropped to $2.99 a month - here's how to sign up"
+      }
+    ],
+    "audioFile": "20260317_daily.mp3",
+    "scriptFile": "20260317_daily.md",
+    "publishedAt": "2026-03-17T05:42:00.000Z"
+  },
+  {
+    "id": "20260314_weekly",
+    "title": "スタラジ土曜増刊号 - 2026年3月14日",
+    "date": "2026-03-14",
+    "broadcastMode": "weekly",
+    "durationSec": 510.24,
+    "durationFormatted": "8:30",
+    "cast": [
+      "ロス",
+      "ルイス"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク（約5分）",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト（約3分）",
+        "startSec": 131.00756756756755
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する（約8分）",
+        "startSec": 206.85405405405405
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？次は何をする？（約3分）",
+        "startSec": 393.0227027027027
+      },
+      {
+        "name": "Part 5: クロージング（約1分）",
+        "startSec": 461.974054054054
+      }
+    ],
+    "sources": [
+      {
+        "source": "TechRadar",
+        "title": "5 of my favorite horror movies to stream this Friday the 13th"
+      },
+      {
+        "source": "ナタリー",
+        "title": "本日3月14日（土）公開の新作映画"
+      },
+      {
+        "source": "ナタリー",
+        "title": "沢尻エリカの\"今\"と\"素\"を刻んだ20年ぶり写真集「DAY OFF」発売"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "MoviePass CEO: Hollywood Hitting on All Pistons Again"
+      },
+      {
+        "source": "NHK",
+        "title": "「トランプ大統領 訪中後 台湾への武器売却承認の可能性」報道"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Travis Kalanick launches a new company called Atoms focused on robotics"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Travis Kalanick Debuts Plan for 'Gainfully Employed Robots'"
+      },
+      {
+        "source": "The Register",
+        "title": "GitHub infuriates students by removing some models from free Copilot plan"
+      },
+      {
+        "source": "ナタリー",
+        "title": "Vaundy「熱闘甲子園」テーマソング担当「球児たちに負けないくらい、全力投球で挑みます」"
+      },
+      {
+        "source": "The Register",
+        "title": "Claude charts a new course with charts, of course"
+      },
+      {
+        "source": "Qiita",
+        "title": "Claude CoworkがMicrosoft 365 Copilotに採用。「Copilot Cowork」としてリサーチプレビュー公開"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "日本拠点の米軍艦艇を中東に派遣か　イラン情勢巡り海兵隊も　米報道"
+      },
+      {
+        "source": "NHK",
+        "title": "軍事作戦開始から2週間 イランは徹底抗戦の構え 収束見通せず"
+      },
+      {
+        "source": "TechRadar",
+        "title": "A new 'work from home' age? Governments across Asia order employees to stay home due to concerns over the Iran war"
+      },
+      {
+        "source": "時事通信社",
+        "title": "ＮＹ原油、再び１００ドル目前　根強い供給不安で―株は４日続落"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Nvidia prepares AI 'inference' chip launch to counter rising challengers"
+      },
+      {
+        "source": "Hugging Face Blog",
+        "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever's Generalizable Agentic Retrieval Pipeline"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Zach Bryan Buys Jack Kerouac's 'On the Road' Scroll for $12.1 Million"
+      },
+      {
+        "source": "Variety",
+        "title": "Larry David's New HBO Series Sets Title, Release Date and Cast: Bill Hader, Barack Obama, Kathryn Hahn and More to Appear"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Larry David Describes Collaborating With Obama on HBO Series: \"I'm President Here\""
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Digg lays off staff and shuts down app as company retools"
+      },
+      {
+        "source": "The Verge",
+        "title": "Digg's open beta shuts down after just two months, blaming AI bot spam"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Paramount Buys Out Tyler Perry Stake in BET+, Will Fold Streamer into Paramount+"
+      },
+      {
+        "source": "Variety",
+        "title": "Paramount Skydance Buys Out Tyler Perry's Stake in BET+; Streaming Service to Be Phased Out and Content Merged With Paramount+"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Steven Spielberg says he's 'never used AI' in any of his films"
+      },
+      {
+        "source": "IGN",
+        "title": "You Can Configure a Dell Tower Plus RTX 5070 Ti Prebuilt Gaming PC for Just $1,720"
+      },
+      {
+        "source": "NHK",
+        "title": "JR東日本 きょうから運賃値上げ 消費税対応除き会社発足以来初"
+      },
+      {
+        "source": "DevelopersIO",
+        "title": "Obsidian Web Clipper v1.1.0でYouTubeの字幕データを取り込めるようになりました"
+      },
+      {
+        "source": "IGN",
+        "title": "Arc Raiders Boss Says Bungie Did a 'Really Good Job' Addressing Feedback After 'Heavily Criticized' Marathon Playtest"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Oscars Predictions via Feinberg Forecast: Scott's Final Picks"
+      }
+    ],
+    "audioFile": "20260314_weekly.mp3",
+    "scriptFile": "20260314_weekly.md",
+    "publishedAt": "2026-03-14T05:42:00.000Z"
+  },
+  {
+    "id": "20260313_daily",
+    "title": "スタラジ 2026年3月13日配信分 台本",
+    "date": "2026-03-13",
+    "broadcastMode": "daily",
+    "durationSec": 765.576,
+    "durationFormatted": "12:45",
+    "cast": [
+      "ベントン",
+      "ロス",
+      "ハサウェイ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "セクション1: AI開発ツールが変える世界 - Cursorの巨額評価とClaudeの拡張",
+        "startSec": 58.89046153846154
+      },
+      {
+        "name": "セクション2: 企業の明暗 - レイオフの嵐とAI効率化",
+        "startSec": 153.11520000000002
+      },
+      {
+        "name": "セクション3: 基盤技術の進化 - NVIDIAとMicrosoftの野心",
+        "startSec": 223.78375384615384
+      },
+      {
+        "name": "セクション4: 新デバイスラッシュ - AppleとIntelの反撃",
+        "startSec": 318.00849230769234
+      },
+      {
+        "name": "セクション5: 中東情勢と経済への影響",
+        "startSec": 424.0113230769231
+      },
+      {
+        "name": "セクション6: エンタメ界の話題 - 巨匠たちの新しい挑戦",
+        "startSec": 530.0141538461538
+      },
+      {
+        "name": "エンディング",
+        "startSec": 671.3512615384616
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Coding Startup Cursor in Talks for About $50 Billion Valuation"
+      },
+      {
+        "source": "The Register",
+        "title": "Claude charts a new course with charts, of course"
+      },
+      {
+        "source": "Qiita",
+        "title": "Claude CoworkがMicrosoft 365 Copilotに採用。「Copilot Cowork」としてリサーチプレビュー公開"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "M365版「Cowork」登場　Anthropicとの連携が生んだ「新しい仕事の進め方」"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Oracle prepares for lay-offs as it hails efficiencies from AI coding tools"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Atlassian CEO Cites AI Shift When Announcing Plan to Shed 1,600 Jobs"
+      },
+      {
+        "source": "The Register",
+        "title": "Atlassian to shed ten percent of staff, because AI"
+      },
+      {
+        "source": "Qiita",
+        "title": "Claude Codeが採用した「git worktree」を図解する — stashもブランチ切り替えも要らなくなる"
+      },
+      {
+        "source": "Qiita",
+        "title": "Claude Code Skillsで開発ワークフローを自動化する実践ガイド"
+      },
+      {
+        "source": "Qiita",
+        "title": "Claude MCPで日本企業の財務分析をやってみた"
+      },
+      {
+        "source": "Hugging Face Blog",
+        "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever's Generalizable Agentic Retrieval Pipeline"
+      },
+      {
+        "source": "heise online",
+        "title": "Bericht: Nvidia entwickelt KI-Agentenplattform \"NemoClaw\""
+      },
+      {
+        "source": "Hacker News",
+        "title": "Microsoft BitNet: 100B Param 1-Bit model for local CPUs"
+      },
+      {
+        "source": "heise online",
+        "title": "Asus: Apples MacBook Neo schockt den gesamten Markt"
+      },
+      {
+        "source": "The Verge",
+        "title": "Here's where you can buy Apple's budget-friendly MacBook Neo"
+      },
+      {
+        "source": "Gizmodo Japan",
+        "title": "8GBしかメモリがないMacBook Neoのメインブラウザは、Safariがいいと思う"
+      },
+      {
+        "source": "Gizmodo Japan",
+        "title": "MacBook Neoのキーボード、気になる打ち心地はどんな感じ？"
+      },
+      {
+        "source": "The Verge",
+        "title": "Where to buy the new iPhone 17E"
+      },
+      {
+        "source": "Gizmodo Japan",
+        "title": "iPhone 17eを一言で表すなら「そうそう、こういうので良いんだよ」"
+      },
+      {
+        "source": "ASCII.jp",
+        "title": "インテル「Core Ultra 7 270K Plus」「Core Ultra 5 250K Plus」を発表！270K Plusは同コア数のCore Ultra 9 285Kより250ドルも安い"
+      },
+      {
+        "source": "PC Watch",
+        "title": "Ryzenのコスパを圧倒？Eコア増量の「Core Ultra 200S Plus」誕生"
+      },
+      {
+        "source": "The Verge",
+        "title": "Intel announces Core Ultra 270K Plus and 250K Plus, its 'fastest gaming desktop processors ever'"
+      },
+      {
+        "source": "NHK",
+        "title": "軍事作戦開始から2週間 イランは徹底抗戦の構え 収束見通せず"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "日本拠点の米軍艦艇を中東に派遣か　イラン情勢巡り海兵隊も　米報道"
+      },
+      {
+        "source": "時事通信社",
+        "title": "ＮＹ原油、再び１００ドル目前　根強い供給不安で―株は４日続落"
+      },
+      {
+        "source": "NHK",
+        "title": "NYダウ 700ドル超値下がり ホルムズ海峡封鎖が続くとの懸念"
+      },
+      {
+        "source": "NHK",
+        "title": "湾岸諸国の石油生産量 世界需要の約1割相当が減少 IEA分析"
+      },
+      {
+        "source": "TechRadar",
+        "title": "A new 'work from home' age? Governments across Asia order employees to stay home due to concerns over the Iran war"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Larry David Describes Collaborating With Obama on HBO Series: \"I'm President Here\""
+      },
+      {
+        "source": "Variety",
+        "title": "Larry David's New HBO Series Sets Title, Release Date and Cast: Bill Hader, Barack Obama, Kathryn Hahn and More to Appear"
+      },
+      {
+        "source": "Variety",
+        "title": "Will Ferrell's Netflix Golf Comedy 'The Hawk' Unveils Teaser and Sets Summer Premiere"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Will Ferrell's Netflix Golf Comedy Gets Summer Premiere"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Zach Bryan Buys Jack Kerouac's 'On the Road' Scroll for $12.1 Million"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Steven Spielberg says he's 'never used AI' in any of his films"
+      }
+    ],
+    "audioFile": "20260313_daily.mp3",
+    "scriptFile": "20260313_daily.md",
+    "publishedAt": "2026-03-13T05:42:00.000Z"
+  },
+  {
     "id": "20260328_weekly",
     "title": "スタラジ土曜増刊号　2026年3月28日放送分",
     "date": "2026-03-28",

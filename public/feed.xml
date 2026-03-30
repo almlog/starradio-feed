@@ -5,11 +5,39 @@
 <channel>
   <title>スタラジ</title>
   <link>https://almlog.github.io/starradio-feed/</link>
-  <description>AIキャラクターによる自動生成ポッドキャスト「スタラジ（スターラジオ）」</description>
+  <description>AIキャラクターによる自動生成ポッドキャスト</description>
   <language>ja</language>
   <itunes:author>スタラジ制作委員会</itunes:author>
   <itunes:category text="Technology"/>
   <atom:link href="https://almlog.github.io/starradio-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>スタラジ 2026年3月24日 配信分</title>
+      <enclosure url="https://almlog.github.io/starradio-feed/audio/20260324_daily.mp3" type="audio/mpeg"/>
+      <guid>20260324_daily</guid>
+      <pubDate>Tue, 24 Mar 2026 05:42:00 GMT</pubDate>
+      <itunes:duration>353</itunes:duration>
+    </item>
+    <item>
+      <title>スタラジ 2026年3月17日 朝の配信</title>
+      <enclosure url="https://almlog.github.io/starradio-feed/audio/20260317_daily.mp3" type="audio/mpeg"/>
+      <guid>20260317_daily</guid>
+      <pubDate>Tue, 17 Mar 2026 05:42:00 GMT</pubDate>
+      <itunes:duration>472</itunes:duration>
+    </item>
+    <item>
+      <title>スタラジ土曜増刊号 - 2026年3月14日</title>
+      <enclosure url="https://almlog.github.io/starradio-feed/audio/20260314_weekly.mp3" type="audio/mpeg"/>
+      <guid>20260314_weekly</guid>
+      <pubDate>Sat, 14 Mar 2026 05:42:00 GMT</pubDate>
+      <itunes:duration>510</itunes:duration>
+    </item>
+    <item>
+      <title>スタラジ 2026年3月13日配信分 台本</title>
+      <enclosure url="https://almlog.github.io/starradio-feed/audio/20260313_daily.mp3" type="audio/mpeg"/>
+      <guid>20260313_daily</guid>
+      <pubDate>Fri, 13 Mar 2026 05:42:00 GMT</pubDate>
+      <itunes:duration>765</itunes:duration>
+    </item>
     <item>
       <title>スタラジ土曜増刊号　2026年3月28日放送分</title>
       <enclosure url="https://almlog.github.io/starradio-feed/audio/20260328_weekly.mp3" type="audio/mpeg"/>
