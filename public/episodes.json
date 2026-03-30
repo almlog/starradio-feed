@@ -1,5 +1,507 @@
 [
   {
+    "id": "20260330_daily",
+    "title": "スタラジ 2026年3月30日 配信分",
+    "date": "2026-03-30",
+    "broadcastMode": "daily",
+    "durationSec": 416.0880000000005,
+    "durationFormatted": "6:56",
+    "cast": [
+      "みのりん",
+      "りっくん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Google TurboQuantの衝撃",
+        "startSec": 37.416
+      },
+      {
+        "name": "ゲーム業界の大型ニュース",
+        "startSec": 131.11200000000005
+      },
+      {
+        "name": "映画興行収入の新記録",
+        "startSec": 197.136
+      },
+      {
+        "name": "イラン情勢の緊迫",
+        "startSec": 239.49599999999995
+      },
+      {
+        "name": "エンタメニュース総まとめ",
+        "startSec": 293.30400000000003
+      },
+      {
+        "name": "技術ブログの注目記事",
+        "startSec": 350.47200000000026
+      },
+      {
+        "name": "クロージング",
+        "startSec": 395.40000000000043
+      }
+    ],
+    "sources": [],
+    "audioFile": "20260330_daily.mp3",
+    "scriptFile": "20260330_daily.md",
+    "publishedAt": "2026-03-29T20:42:48.216Z"
+  },
+  {
+    "id": "20260328_weekly",
+    "title": "スタラジ土曜増刊号　2026年3月28日放送分",
+    "date": "2026-03-28",
+    "broadcastMode": "weekly",
+    "durationSec": 557.0160000000009,
+    "durationFormatted": "9:17",
+    "cast": [
+      "ヨースケ",
+      "みのりん"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト",
+        "startSec": 154.70400000000004
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
+        "startSec": 281.20799999999997
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
+        "startSec": 443.6640000000004
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 516.5520000000006
+      }
+    ],
+    "sources": [
+      {
+        "source": "NHK",
+        "title": "G7外相会合 イラン情勢めぐり共同声明「民間への攻撃停止を」"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "「底抜けた世界」だからこそ　核兵器廃絶へ対話を　イラン攻撃1カ月"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Memory chip giant SK hynix could help end 'RAMmageddon' with blockbuster US IPO"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Memory chip stocks shed $100bn as AI-driven shortage trade unwinds"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Google nears deal to help finance multibillion-dollar data centre leased to Anthropic"
+      },
+      {
+        "source": "Variety",
+        "title": "'Chicago Fire,' 'Chicago PD,' 'Chicago Med' Renewed at NBC"
+      },
+      {
+        "source": "Qiita",
+        "title": "Remotion × Whisper × TTS で完全無料のショート動画自動生成パイプラインを構築する"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Some uncomfortable truths about AI coding agents"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Elon Musk Joins in Phone Call Between Donald Trump and Narendra Modi"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Race With China Links Tech, Government Leaders"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Miley Cyrus Brings Back 'Hannah Montana,' 'Daredevil: Born Again' Returns and This Week's Best Events"
+      }
+    ],
+    "audioFile": "20260328_weekly.mp3",
+    "scriptFile": "20260328_weekly.md",
+    "publishedAt": "2026-03-27T20:45:24.193Z"
+  },
+  {
+    "id": "20260327_daily",
+    "title": "スタラジ 2026年3月27日 配信分",
+    "date": "2026-03-27",
+    "broadcastMode": "daily",
+    "durationSec": 400.3680000000005,
+    "durationFormatted": "6:40",
+    "cast": [
+      "ヨースケ",
+      "そらちゃん",
+      "みのりん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AI戦国時代の最前線",
+        "startSec": 30.959999999999997
+      },
+      {
+        "name": "ストリーミング値上げ地獄",
+        "startSec": 121.48800000000007
+      },
+      {
+        "name": "音楽界の新たな波",
+        "startSec": 193.48800000000003
+      },
+      {
+        "name": "ゲーム界隈の大騒動",
+        "startSec": 269.56800000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 363.8880000000004
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Google Gemini Adds Tool to Make It Easier to Switch from ChatGPT"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI abandons yet another side quest: ChatGPT's erotic mode"
+      },
+      {
+        "source": "Qiita",
+        "title": "OpenAI Safety Bug Bounty入門 — AIエージェントの「悪用」を見つけて報酬を得る新しいセキュリティのあり方"
+      },
+      {
+        "source": "The Verge",
+        "title": "Netflix is raising prices again"
+      },
+      {
+        "source": "Variety",
+        "title": "Netflix Raising U.S. Prices for Second Time in a Year"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Netflix Hikes Prices Again, Impacting All Plan Tiers"
+      },
+      {
+        "source": "The Verge",
+        "title": "Streaming keeps getting more expensive: all the latest price hikes"
+      },
+      {
+        "source": "TechRadar",
+        "title": "How to watch iHeartRadio Music Awards 2026 for free online from anywhere"
+      },
+      {
+        "source": "ナタリー",
+        "title": "乃木坂46が「TOKYO IDOL FESTIVAL」に2年ぶりに出演"
+      },
+      {
+        "source": "ナタリー",
+        "title": "石井竜也がタイのミュージシャンと｢君がいるだけで」コラボ！BNK48、ラムヤイ・ハイトンカム参加"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Charlie Daniels Hologram to Sing at Military Base"
+      },
+      {
+        "source": "IGN",
+        "title": "Turtle Beach's Next Switch 2 Accessories Include a Light-Up Rosalina-Themed Controller"
+      },
+      {
+        "source": "IGN",
+        "title": "Pokémon Pokopia Players Are Fulfilling a 30-Year-Old Playground Rumor by Hiding Mew Under a Truck"
+      },
+      {
+        "source": "IGN",
+        "title": "Tomodachi Life: Living the Dream Players Are Already Demonstrating Why Nintendo's Strict Image-Sharing Rules Exist"
+      }
+    ],
+    "audioFile": "20260327_daily.mp3",
+    "scriptFile": "20260327_daily.md",
+    "publishedAt": "2026-03-26T20:43:26.269Z"
+  },
+  {
+    "id": "20260326_daily",
+    "title": "スタラジ 2026年3月26日 配信分",
+    "date": "2026-03-26",
+    "broadcastMode": "daily",
+    "durationSec": 622.7280000000007,
+    "durationFormatted": "10:22",
+    "cast": [
+      "そらちゃん",
+      "ホリケイ",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "ソーシャルメディア依存症裁判の衝撃",
+        "startSec": 39.744
+      },
+      {
+        "name": "NVIDIA GTC 2026の余波",
+        "startSec": 149.32800000000003
+      },
+      {
+        "name": "AI開発ツールの新展開",
+        "startSec": 257.688
+      },
+      {
+        "name": "自動車産業のAI革命",
+        "startSec": 334.63200000000023
+      },
+      {
+        "name": "エンタメ界の大型ニュース",
+        "startSec": 410.0880000000005
+      },
+      {
+        "name": "その他の注目ニュース",
+        "startSec": 508.9440000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 588.1440000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Meta and YouTube designed addictive products that harmed young people, jury finds"
+      },
+      {
+        "source": "BBC",
+        "title": "Meta and YouTube found liable in landmark social media addiction trial"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Meta, YouTube must pay $3M to woman who got hooked on apps as a child"
+      },
+      {
+        "source": "heise online",
+        "title": "Prozess um Social-Media-Sucht: US-Jury spricht Meta und Google schuldig"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Meta Lays Off 700 Employees, While Rewarding Top Executives"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "ロブスターに沸いたNVIDIAのGTC 2026、OpenClawでAI業界激震"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Google's new TurboQuant algorithm speeds up AI memory 8x, cutting costs by 50% or more"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Oracle converges the AI data stack to give enterprise agents a single version of truth"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Updates to GitHub Copilot interaction data usage policy"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "OpenHands CLIを利用、「Hello, world!」プログラムをつくる"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Google's new Android Automotive update wants to control your car's 'brain' —as Micron predicts cars will soon need 300GB of RAM"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "クルマを超えて:クルマ、いりますか?　見え始めた「マイカーを持たなくなる未来」"
+      },
+      {
+        "source": "IEEE Spectrum",
+        "title": "Training Driving AI at 50,000× Real Time"
+      },
+      {
+        "source": "Variety",
+        "title": "'Harry Potter' Drops First Looks at HBO's Snape, Draco Malfoy, Dumbledore, McGonagall and More in Magical Trailer"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "HBO's 'Harry Potter' Trailer Reveals New Cast and Surprise Christmas Premiere Date"
+      },
+      {
+        "source": "Variety",
+        "title": "'Harry Potter' Trailer: Harry, Ron and Hermione Head to Hogwarts to Meet Dumbledore, Snape and Hagrid; Christmas 2026 Release Date Set on HBO"
+      },
+      {
+        "source": "ナタリー",
+        "title": "「キングダム 魂の決戦」志尊淳が蒙恬、神尾楓珠が王賁、坂口憲二が桓騎役で出演"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "実写『キングダム』志尊淳が蒙恬、神尾楓珠が王賁、坂口憲二が桓騎役！追加キャスト7名発表＆新映像公開"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Inside Sublime's 'Until the Sun Explodes,' Their First New Album Since 1996"
+      },
+      {
+        "source": "ナタリー",
+        "title": "T-BOLANが活動終了、憧れの日本武道館でラストライブ開催　35年の歴史に幕"
+      },
+      {
+        "source": "BARKS",
+        "title": "T-BOLAN、活動終了「日本武道館で待ってるな」"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'The robots are here' — Melania Trump walks alongside creepy humanoid at White House summit like it's the most normal thing in the world"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Melania Trump wants a robot to homeschool your child"
+      }
+    ],
+    "audioFile": "20260326_daily.mp3",
+    "scriptFile": "20260326_daily.md",
+    "publishedAt": "2026-03-25T20:46:29.981Z"
+  },
+  {
+    "id": "20260325_daily",
+    "title": "スタラジ 2026年3月25日 配信分",
+    "date": "2026-03-25",
+    "broadcastMode": "daily",
+    "durationSec": 465.84000000000054,
+    "durationFormatted": "7:45",
+    "cast": [
+      "レイナ姐さん",
+      "そらちゃん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "OpenAI Sora終了の衝撃",
+        "startSec": 46.824000000000005
+      },
+      {
+        "name": "AI開発ツール競争の激化",
+        "startSec": 124.56000000000003
+      },
+      {
+        "name": "半導体・インフラの大変革",
+        "startSec": 210.71999999999997
+      },
+      {
+        "name": "エンタメ界の新展開",
+        "startSec": 299.85600000000005
+      },
+      {
+        "name": "音楽業界の波紋",
+        "startSec": 364.9680000000003
+      },
+      {
+        "name": "クロージング",
+        "startSec": 420.93600000000043
+      }
+    ],
+    "sources": [
+      {
+        "source": "Variety",
+        "title": "OpenAI Will Shut Down Sora Video Platform"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI Plans to Discontinue Support for Sora AI Video Generator"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI's plans to make ChatGPT more like Amazon aren't going so well"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI adds open source tools to help developers build for teen safety"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Anthropic's Claude can now control your Mac, escalating the fight to build AI agents that actually do work"
+      },
+      {
+        "source": "Qiita",
+        "title": "AIエージェントが「勝手にコードを実行する」時代に備える — LangSmith Sandboxes × Fleet Authorization で作るセキュアなエージェント基盤"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "GPT-5.4 mini登場　複数エージェントでの開発に最適で安い！……が、実は前世代から3倍値上げ"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Arm launches own AI chip in high-stakes strategy shift"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Arm is releasing the first in-house chip in its 35-year history"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'We are going to push the limits of physics in compute': Elon Musk wants Texas 'Terafab' plant to produce one terawatt of computing power each year and build a global robot population using Tesla and SpaceX tech"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Cloudflare's new Dynamic Workers ditch containers to run AI agent code 100x faster"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "'School Spirits' Renewed for Fourth Season at Paramount+"
+      },
+      {
+        "source": "Variety",
+        "title": "'School Spirits' Renewed for Season 4 at Paramount+"
+      },
+      {
+        "source": "Variety",
+        "title": "'Peaky Blinders: The Immortal Man' Debuts With 25.3 Million Views in Three Days on Netflix"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Meghan Markle, Prince Harry Developing Polo Scripted Drama at Netflix"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Jay-Z Weighs in on Drake-Kendrick Feud: 'This Is Taking Us a Couple Steps Back'"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Jay-Z Breaks Silence on Dropped Sexual Assault Lawsuit and Wading Through Rap's Toxic Era"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Suge Knight to Release 'Unflinching' Memoir Detailing Tupac's Murder and 'Brawls' With Diddy"
+      }
+    ],
+    "audioFile": "20260325_daily.mp3",
+    "scriptFile": "20260325_daily.md",
+    "publishedAt": "2026-03-24T20:42:26.375Z"
+  },
+  {
     "id": "20260324_daily",
     "title": "スタラジ 2026年3月24日 配信分",
     "date": "2026-03-24",
@@ -573,507 +1075,5 @@
     "audioFile": "20260313_daily.mp3",
     "scriptFile": "20260313_daily.md",
     "publishedAt": "2026-03-13T05:42:00.000Z"
-  },
-  {
-    "id": "20260328_weekly",
-    "title": "スタラジ土曜増刊号　2026年3月28日放送分",
-    "date": "2026-03-28",
-    "broadcastMode": "weekly",
-    "durationSec": 557.0160000000009,
-    "durationFormatted": "9:17",
-    "cast": [
-      "ヨースケ",
-      "みのりん"
-    ],
-    "segments": [
-      {
-        "name": "Part 1: オープニング + プライベートトーク",
-        "startSec": 0
-      },
-      {
-        "name": "Part 2: 土曜ニュースダイジェスト",
-        "startSec": 154.70400000000004
-      },
-      {
-        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
-        "startSec": 281.20799999999997
-      },
-      {
-        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
-        "startSec": 443.6640000000004
-      },
-      {
-        "name": "Part 5: クロージング",
-        "startSec": 516.5520000000006
-      }
-    ],
-    "sources": [
-      {
-        "source": "NHK",
-        "title": "G7外相会合 イラン情勢めぐり共同声明「民間への攻撃停止を」"
-      },
-      {
-        "source": "朝日新聞社",
-        "title": "「底抜けた世界」だからこそ　核兵器廃絶へ対話を　イラン攻撃1カ月"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Memory chip giant SK hynix could help end 'RAMmageddon' with blockbuster US IPO"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Memory chip stocks shed $100bn as AI-driven shortage trade unwinds"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Google nears deal to help finance multibillion-dollar data centre leased to Anthropic"
-      },
-      {
-        "source": "Variety",
-        "title": "'Chicago Fire,' 'Chicago PD,' 'Chicago Med' Renewed at NBC"
-      },
-      {
-        "source": "Qiita",
-        "title": "Remotion × Whisper × TTS で完全無料のショート動画自動生成パイプラインを構築する"
-      },
-      {
-        "source": "Hacker News",
-        "title": "Some uncomfortable truths about AI coding agents"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Elon Musk Joins in Phone Call Between Donald Trump and Narendra Modi"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "AI Race With China Links Tech, Government Leaders"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Miley Cyrus Brings Back 'Hannah Montana,' 'Daredevil: Born Again' Returns and This Week's Best Events"
-      }
-    ],
-    "audioFile": "20260328_weekly.mp3",
-    "scriptFile": "20260328_weekly.md",
-    "publishedAt": "2026-03-27T20:45:24.193Z"
-  },
-  {
-    "id": "20260327_daily",
-    "title": "スタラジ 2026年3月27日 配信分",
-    "date": "2026-03-27",
-    "broadcastMode": "daily",
-    "durationSec": 400.3680000000005,
-    "durationFormatted": "6:40",
-    "cast": [
-      "ヨースケ",
-      "そらちゃん",
-      "みのりん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI戦国時代の最前線",
-        "startSec": 30.959999999999997
-      },
-      {
-        "name": "ストリーミング値上げ地獄",
-        "startSec": 121.48800000000007
-      },
-      {
-        "name": "音楽界の新たな波",
-        "startSec": 193.48800000000003
-      },
-      {
-        "name": "ゲーム界隈の大騒動",
-        "startSec": 269.56800000000004
-      },
-      {
-        "name": "クロージング",
-        "startSec": 363.8880000000004
-      }
-    ],
-    "sources": [
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Google Gemini Adds Tool to Make It Easier to Switch from ChatGPT"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "OpenAI abandons yet another side quest: ChatGPT's erotic mode"
-      },
-      {
-        "source": "Qiita",
-        "title": "OpenAI Safety Bug Bounty入門 — AIエージェントの「悪用」を見つけて報酬を得る新しいセキュリティのあり方"
-      },
-      {
-        "source": "The Verge",
-        "title": "Netflix is raising prices again"
-      },
-      {
-        "source": "Variety",
-        "title": "Netflix Raising U.S. Prices for Second Time in a Year"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Netflix Hikes Prices Again, Impacting All Plan Tiers"
-      },
-      {
-        "source": "The Verge",
-        "title": "Streaming keeps getting more expensive: all the latest price hikes"
-      },
-      {
-        "source": "TechRadar",
-        "title": "How to watch iHeartRadio Music Awards 2026 for free online from anywhere"
-      },
-      {
-        "source": "ナタリー",
-        "title": "乃木坂46が「TOKYO IDOL FESTIVAL」に2年ぶりに出演"
-      },
-      {
-        "source": "ナタリー",
-        "title": "石井竜也がタイのミュージシャンと｢君がいるだけで」コラボ！BNK48、ラムヤイ・ハイトンカム参加"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Charlie Daniels Hologram to Sing at Military Base"
-      },
-      {
-        "source": "IGN",
-        "title": "Turtle Beach's Next Switch 2 Accessories Include a Light-Up Rosalina-Themed Controller"
-      },
-      {
-        "source": "IGN",
-        "title": "Pokémon Pokopia Players Are Fulfilling a 30-Year-Old Playground Rumor by Hiding Mew Under a Truck"
-      },
-      {
-        "source": "IGN",
-        "title": "Tomodachi Life: Living the Dream Players Are Already Demonstrating Why Nintendo's Strict Image-Sharing Rules Exist"
-      }
-    ],
-    "audioFile": "20260327_daily.mp3",
-    "scriptFile": "20260327_daily.md",
-    "publishedAt": "2026-03-26T20:43:26.269Z"
-  },
-  {
-    "id": "20260326_daily",
-    "title": "スタラジ 2026年3月26日 配信分",
-    "date": "2026-03-26",
-    "broadcastMode": "daily",
-    "durationSec": 622.7280000000007,
-    "durationFormatted": "10:22",
-    "cast": [
-      "そらちゃん",
-      "ホリケイ",
-      "あやちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "ソーシャルメディア依存症裁判の衝撃",
-        "startSec": 39.744
-      },
-      {
-        "name": "NVIDIA GTC 2026の余波",
-        "startSec": 149.32800000000003
-      },
-      {
-        "name": "AI開発ツールの新展開",
-        "startSec": 257.688
-      },
-      {
-        "name": "自動車産業のAI革命",
-        "startSec": 334.63200000000023
-      },
-      {
-        "name": "エンタメ界の大型ニュース",
-        "startSec": 410.0880000000005
-      },
-      {
-        "name": "その他の注目ニュース",
-        "startSec": 508.9440000000007
-      },
-      {
-        "name": "クロージング",
-        "startSec": 588.1440000000007
-      }
-    ],
-    "sources": [
-      {
-        "source": "The New York Times",
-        "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial"
-      },
-      {
-        "source": "The Guardian",
-        "title": "Meta and YouTube designed addictive products that harmed young people, jury finds"
-      },
-      {
-        "source": "BBC",
-        "title": "Meta and YouTube found liable in landmark social media addiction trial"
-      },
-      {
-        "source": "Ars Technica",
-        "title": "Meta, YouTube must pay $3M to woman who got hooked on apps as a child"
-      },
-      {
-        "source": "heise online",
-        "title": "Prozess um Social-Media-Sucht: US-Jury spricht Meta und Google schuldig"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Meta Lays Off 700 Employees, While Rewarding Top Executives"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "ロブスターに沸いたNVIDIAのGTC 2026、OpenClawでAI業界激震"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "Google's new TurboQuant algorithm speeds up AI memory 8x, cutting costs by 50% or more"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "Oracle converges the AI data stack to give enterprise agents a single version of truth"
-      },
-      {
-        "source": "Hacker News",
-        "title": "Updates to GitHub Copilot interaction data usage policy"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "OpenHands CLIを利用、「Hello, world!」プログラムをつくる"
-      },
-      {
-        "source": "TechRadar",
-        "title": "Google's new Android Automotive update wants to control your car's 'brain' —as Micron predicts cars will soon need 300GB of RAM"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "クルマを超えて:クルマ、いりますか?　見え始めた「マイカーを持たなくなる未来」"
-      },
-      {
-        "source": "IEEE Spectrum",
-        "title": "Training Driving AI at 50,000× Real Time"
-      },
-      {
-        "source": "Variety",
-        "title": "'Harry Potter' Drops First Looks at HBO's Snape, Draco Malfoy, Dumbledore, McGonagall and More in Magical Trailer"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "HBO's 'Harry Potter' Trailer Reveals New Cast and Surprise Christmas Premiere Date"
-      },
-      {
-        "source": "Variety",
-        "title": "'Harry Potter' Trailer: Harry, Ron and Hermione Head to Hogwarts to Meet Dumbledore, Snape and Hagrid; Christmas 2026 Release Date Set on HBO"
-      },
-      {
-        "source": "ナタリー",
-        "title": "「キングダム 魂の決戦」志尊淳が蒙恬、神尾楓珠が王賁、坂口憲二が桓騎役で出演"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "実写『キングダム』志尊淳が蒙恬、神尾楓珠が王賁、坂口憲二が桓騎役！追加キャスト7名発表＆新映像公開"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Inside Sublime's 'Until the Sun Explodes,' Their First New Album Since 1996"
-      },
-      {
-        "source": "ナタリー",
-        "title": "T-BOLANが活動終了、憧れの日本武道館でラストライブ開催　35年の歴史に幕"
-      },
-      {
-        "source": "BARKS",
-        "title": "T-BOLAN、活動終了「日本武道館で待ってるな」"
-      },
-      {
-        "source": "TechRadar",
-        "title": "'The robots are here' — Melania Trump walks alongside creepy humanoid at White House summit like it's the most normal thing in the world"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Melania Trump wants a robot to homeschool your child"
-      }
-    ],
-    "audioFile": "20260326_daily.mp3",
-    "scriptFile": "20260326_daily.md",
-    "publishedAt": "2026-03-25T20:46:29.981Z"
-  },
-  {
-    "id": "20260325_daily",
-    "title": "スタラジ 2026年3月25日 配信分",
-    "date": "2026-03-25",
-    "broadcastMode": "daily",
-    "durationSec": 465.84000000000054,
-    "durationFormatted": "7:45",
-    "cast": [
-      "レイナ姐さん",
-      "そらちゃん",
-      "ひなちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "OpenAI Sora終了の衝撃",
-        "startSec": 46.824000000000005
-      },
-      {
-        "name": "AI開発ツール競争の激化",
-        "startSec": 124.56000000000003
-      },
-      {
-        "name": "半導体・インフラの大変革",
-        "startSec": 210.71999999999997
-      },
-      {
-        "name": "エンタメ界の新展開",
-        "startSec": 299.85600000000005
-      },
-      {
-        "name": "音楽業界の波紋",
-        "startSec": 364.9680000000003
-      },
-      {
-        "name": "クロージング",
-        "startSec": 420.93600000000043
-      }
-    ],
-    "sources": [
-      {
-        "source": "Variety",
-        "title": "OpenAI Will Shut Down Sora Video Platform"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "OpenAI Plans to Discontinue Support for Sora AI Video Generator"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "OpenAI's plans to make ChatGPT more like Amazon aren't going so well"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "OpenAI adds open source tools to help developers build for teen safety"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "Anthropic's Claude can now control your Mac, escalating the fight to build AI agents that actually do work"
-      },
-      {
-        "source": "Qiita",
-        "title": "AIエージェントが「勝手にコードを実行する」時代に備える — LangSmith Sandboxes × Fleet Authorization で作るセキュアなエージェント基盤"
-      },
-      {
-        "source": "アイティメディア",
-        "title": "GPT-5.4 mini登場　複数エージェントでの開発に最適で安い！……が、実は前世代から3倍値上げ"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Arm launches own AI chip in high-stakes strategy shift"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Arm is releasing the first in-house chip in its 35-year history"
-      },
-      {
-        "source": "TechRadar",
-        "title": "'We are going to push the limits of physics in compute': Elon Musk wants Texas 'Terafab' plant to produce one terawatt of computing power each year and build a global robot population using Tesla and SpaceX tech"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "Cloudflare's new Dynamic Workers ditch containers to run AI agent code 100x faster"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "'School Spirits' Renewed for Fourth Season at Paramount+"
-      },
-      {
-        "source": "Variety",
-        "title": "'School Spirits' Renewed for Season 4 at Paramount+"
-      },
-      {
-        "source": "Variety",
-        "title": "'Peaky Blinders: The Immortal Man' Debuts With 25.3 Million Views in Three Days on Netflix"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Meghan Markle, Prince Harry Developing Polo Scripted Drama at Netflix"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Jay-Z Weighs in on Drake-Kendrick Feud: 'This Is Taking Us a Couple Steps Back'"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Jay-Z Breaks Silence on Dropped Sexual Assault Lawsuit and Wading Through Rap's Toxic Era"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Suge Knight to Release 'Unflinching' Memoir Detailing Tupac's Murder and 'Brawls' With Diddy"
-      }
-    ],
-    "audioFile": "20260325_daily.mp3",
-    "scriptFile": "20260325_daily.md",
-    "publishedAt": "2026-03-24T20:42:26.375Z"
-  },
-  {
-    "id": "20260330_daily",
-    "title": "スタラジ 2026年3月30日 配信分",
-    "date": "2026-03-30",
-    "broadcastMode": "daily",
-    "durationSec": 416.0880000000005,
-    "durationFormatted": "6:56",
-    "cast": [
-      "みのりん",
-      "りっくん",
-      "ホムラ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Google TurboQuantの衝撃",
-        "startSec": 37.416
-      },
-      {
-        "name": "ゲーム業界の大型ニュース",
-        "startSec": 131.11200000000005
-      },
-      {
-        "name": "映画興行収入の新記録",
-        "startSec": 197.136
-      },
-      {
-        "name": "イラン情勢の緊迫",
-        "startSec": 239.49599999999995
-      },
-      {
-        "name": "エンタメニュース総まとめ",
-        "startSec": 293.30400000000003
-      },
-      {
-        "name": "技術ブログの注目記事",
-        "startSec": 350.47200000000026
-      },
-      {
-        "name": "クロージング",
-        "startSec": 395.40000000000043
-      }
-    ],
-    "sources": [],
-    "audioFile": "20260330_daily.mp3",
-    "scriptFile": "20260330_daily.md",
-    "publishedAt": "2026-03-29T20:42:48.216Z"
   }
 ]
