@@ -4,18 +4,18 @@
  */
 
 (function () {
-  const BASE = '';
-  const container = document.getElementById('episodes');
+  var BASE = '';
+  var container = document.getElementById('episodes');
 
   function formatTime(sec) {
-    const m = Math.floor(sec / 60);
-    const s = Math.floor(sec % 60);
+    var m = Math.floor(sec / 60);
+    var s = Math.floor(sec % 60);
     return m + ':' + String(s).padStart(2, '0');
   }
 
   function formatDate(dateStr) {
-    const d = new Date(dateStr + 'T00:00:00+09:00');
-    const days = ['日', '月', '火', '水', '木', '金', '土'];
+    var d = new Date(dateStr + 'T00:00:00+09:00');
+    var days = ['日', '月', '火', '水', '木', '金', '土'];
     return d.getFullYear() + '年' +
       (d.getMonth() + 1) + '月' +
       d.getDate() + '日(' +
@@ -23,26 +23,56 @@
   }
 
   function createEpisodeCard(ep) {
-    const card = document.createElement('article');
+    var card = document.createElement('article');
     card.className = 'episode-card';
 
-    const modeLabel = ep.broadcastMode === 'weekly' ? '増刊号' : '日刊';
-    const modeClass = 'mode-' + ep.broadcastMode;
+    var modeLabel = ep.broadcastMode === 'weekly' ? '増刊号' : '日刊';
+    var modeClass = 'mode-' + ep.broadcastMode;
+    var audioId = 'audio-' + ep.id;
+    var sourcesId = 'sources-' + ep.id;
 
-    const castHtml = (ep.cast || [])
+    // Cast chips
+    var castHtml = (ep.cast || [])
       .map(function (c) { return '<span class="cast-chip">' + c + '</span>'; })
       .join('');
 
-    const segmentsHtml = (ep.segments || [])
+    // Segments (inline)
+    var segmentsHtml = (ep.segments || [])
       .map(function (seg) {
-        return '<div class="segment-item" data-time="' + seg.startSec + '">' +
+        return '<span class="segment-item" data-time="' + seg.startSec + '">' +
           '<span class="segment-time">' + formatTime(seg.startSec) + '</span>' +
           seg.name +
-          '</div>';
+          '</span>';
       })
       .join('');
 
-    const audioId = 'audio-' + ep.id;
+    // Sources
+    var sourcesHtml = '';
+    if (ep.sources && ep.sources.length > 0) {
+      var sourceItems = ep.sources.map(function (s) {
+        return '<div class="source-item">' +
+          '<span class="source-name">' + s.source + '</span>' +
+          '<span class="source-title">' + s.title + '</span>' +
+          '</div>';
+      }).join('');
+
+      sourcesHtml =
+        '<div class="episode-sources">' +
+          '<button class="sources-toggle" data-target="' + sourcesId + '">' +
+            '📰 ニュースソース (' + ep.sources.length + '件)' +
+          '</button>' +
+          '<div class="sources-list" id="' + sourcesId + '">' +
+            sourceItems +
+          '</div>' +
+        '</div>';
+    }
+
+    // Script download button
+    var scriptBtn = '';
+    if (ep.scriptFile) {
+      scriptBtn = '<a class="action-btn" href="' + BASE + 'scripts/' + ep.scriptFile +
+        '" download>📝 台本DL</a>';
+    }
 
     card.innerHTML =
       '<div class="episode-header">' +
@@ -56,9 +86,11 @@
       '<div class="episode-segments">' + segmentsHtml + '</div>' +
       '<audio id="' + audioId + '" controls preload="none">' +
         '<source src="' + BASE + 'audio/' + ep.audioFile + '" type="audio/mpeg">' +
-      '</audio>';
+      '</audio>' +
+      '<div class="episode-actions">' + scriptBtn + '</div>' +
+      sourcesHtml;
 
-    // セグメントクリックでシーク
+    // Segment click → seek
     var segmentItems = card.querySelectorAll('.segment-item');
     for (var i = 0; i < segmentItems.length; i++) {
       segmentItems[i].addEventListener('click', (function (id) {
@@ -71,6 +103,15 @@
           }
         };
       })(audioId));
+    }
+
+    // Sources toggle
+    var toggle = card.querySelector('.sources-toggle');
+    if (toggle) {
+      toggle.addEventListener('click', function () {
+        var target = document.getElementById(this.getAttribute('data-target'));
+        if (target) target.classList.toggle('open');
+      });
     }
 
     return card;
