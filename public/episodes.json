@@ -1,5 +1,153 @@
 [
   {
+    "id": "20260326_daily",
+    "title": "スタラジ 2026年3月26日 配信分",
+    "date": "2026-03-26",
+    "broadcastMode": "daily",
+    "durationSec": 622.7280000000007,
+    "durationFormatted": "10:22",
+    "cast": [
+      "そらちゃん",
+      "ホリケイ",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "ソーシャルメディア依存症裁判の衝撃",
+        "startSec": 39.744
+      },
+      {
+        "name": "NVIDIA GTC 2026の余波",
+        "startSec": 149.32800000000003
+      },
+      {
+        "name": "AI開発ツールの新展開",
+        "startSec": 257.688
+      },
+      {
+        "name": "自動車産業のAI革命",
+        "startSec": 334.63200000000023
+      },
+      {
+        "name": "エンタメ界の大型ニュース",
+        "startSec": 410.0880000000005
+      },
+      {
+        "name": "その他の注目ニュース",
+        "startSec": 508.9440000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 588.1440000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Meta and YouTube designed addictive products that harmed young people, jury finds"
+      },
+      {
+        "source": "BBC",
+        "title": "Meta and YouTube found liable in landmark social media addiction trial"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Meta, YouTube must pay $3M to woman who got hooked on apps as a child"
+      },
+      {
+        "source": "heise online",
+        "title": "Prozess um Social-Media-Sucht: US-Jury spricht Meta und Google schuldig"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Meta Lays Off 700 Employees, While Rewarding Top Executives"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "ロブスターに沸いたNVIDIAのGTC 2026、OpenClawでAI業界激震"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Google's new TurboQuant algorithm speeds up AI memory 8x, cutting costs by 50% or more"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Oracle converges the AI data stack to give enterprise agents a single version of truth"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Updates to GitHub Copilot interaction data usage policy"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "OpenHands CLIを利用、「Hello, world!」プログラムをつくる"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Google's new Android Automotive update wants to control your car's 'brain' —as Micron predicts cars will soon need 300GB of RAM"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "クルマを超えて:クルマ、いりますか?　見え始めた「マイカーを持たなくなる未来」"
+      },
+      {
+        "source": "IEEE Spectrum",
+        "title": "Training Driving AI at 50,000× Real Time"
+      },
+      {
+        "source": "Variety",
+        "title": "'Harry Potter' Drops First Looks at HBO's Snape, Draco Malfoy, Dumbledore, McGonagall and More in Magical Trailer"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "HBO's 'Harry Potter' Trailer Reveals New Cast and Surprise Christmas Premiere Date"
+      },
+      {
+        "source": "Variety",
+        "title": "'Harry Potter' Trailer: Harry, Ron and Hermione Head to Hogwarts to Meet Dumbledore, Snape and Hagrid; Christmas 2026 Release Date Set on HBO"
+      },
+      {
+        "source": "ナタリー",
+        "title": "「キングダム 魂の決戦」志尊淳が蒙恬、神尾楓珠が王賁、坂口憲二が桓騎役で出演"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "実写『キングダム』志尊淳が蒙恬、神尾楓珠が王賁、坂口憲二が桓騎役！追加キャスト7名発表＆新映像公開"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Inside Sublime's 'Until the Sun Explodes,' Their First New Album Since 1996"
+      },
+      {
+        "source": "ナタリー",
+        "title": "T-BOLANが活動終了、憧れの日本武道館でラストライブ開催　35年の歴史に幕"
+      },
+      {
+        "source": "BARKS",
+        "title": "T-BOLAN、活動終了「日本武道館で待ってるな」"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'The robots are here' — Melania Trump walks alongside creepy humanoid at White House summit like it's the most normal thing in the world"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Melania Trump wants a robot to homeschool your child"
+      }
+    ],
+    "audioFile": "20260326_daily.mp3",
+    "scriptFile": "20260326_daily.md",
+    "publishedAt": "2026-03-25T20:46:29.981Z"
+  },
+  {
     "id": "20260325_daily",
     "title": "スタラジ 2026年3月25日 配信分",
     "date": "2026-03-25",
