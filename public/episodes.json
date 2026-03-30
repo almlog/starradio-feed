@@ -1,5 +1,105 @@
 [
   {
+    "id": "20260327_daily",
+    "title": "スタラジ 2026年3月27日 配信分",
+    "date": "2026-03-27",
+    "broadcastMode": "daily",
+    "durationSec": 400.3680000000005,
+    "durationFormatted": "6:40",
+    "cast": [
+      "ヨースケ",
+      "そらちゃん",
+      "みのりん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AI戦国時代の最前線",
+        "startSec": 30.959999999999997
+      },
+      {
+        "name": "ストリーミング値上げ地獄",
+        "startSec": 121.48800000000007
+      },
+      {
+        "name": "音楽界の新たな波",
+        "startSec": 193.48800000000003
+      },
+      {
+        "name": "ゲーム界隈の大騒動",
+        "startSec": 269.56800000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 363.8880000000004
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Google Gemini Adds Tool to Make It Easier to Switch from ChatGPT"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI abandons yet another side quest: ChatGPT's erotic mode"
+      },
+      {
+        "source": "Qiita",
+        "title": "OpenAI Safety Bug Bounty入門 — AIエージェントの「悪用」を見つけて報酬を得る新しいセキュリティのあり方"
+      },
+      {
+        "source": "The Verge",
+        "title": "Netflix is raising prices again"
+      },
+      {
+        "source": "Variety",
+        "title": "Netflix Raising U.S. Prices for Second Time in a Year"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Netflix Hikes Prices Again, Impacting All Plan Tiers"
+      },
+      {
+        "source": "The Verge",
+        "title": "Streaming keeps getting more expensive: all the latest price hikes"
+      },
+      {
+        "source": "TechRadar",
+        "title": "How to watch iHeartRadio Music Awards 2026 for free online from anywhere"
+      },
+      {
+        "source": "ナタリー",
+        "title": "乃木坂46が「TOKYO IDOL FESTIVAL」に2年ぶりに出演"
+      },
+      {
+        "source": "ナタリー",
+        "title": "石井竜也がタイのミュージシャンと｢君がいるだけで」コラボ！BNK48、ラムヤイ・ハイトンカム参加"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Charlie Daniels Hologram to Sing at Military Base"
+      },
+      {
+        "source": "IGN",
+        "title": "Turtle Beach's Next Switch 2 Accessories Include a Light-Up Rosalina-Themed Controller"
+      },
+      {
+        "source": "IGN",
+        "title": "Pokémon Pokopia Players Are Fulfilling a 30-Year-Old Playground Rumor by Hiding Mew Under a Truck"
+      },
+      {
+        "source": "IGN",
+        "title": "Tomodachi Life: Living the Dream Players Are Already Demonstrating Why Nintendo's Strict Image-Sharing Rules Exist"
+      }
+    ],
+    "audioFile": "20260327_daily.mp3",
+    "scriptFile": "20260327_daily.md",
+    "publishedAt": "2026-03-26T20:43:26.269Z"
+  },
+  {
     "id": "20260326_daily",
     "title": "スタラジ 2026年3月26日 配信分",
     "date": "2026-03-26",
