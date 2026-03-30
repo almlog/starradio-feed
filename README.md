@@ -22,7 +22,7 @@ https://almlog.github.io/starradio-feed/
 Pi (cron 05:30) → 台本生成 → TTS音声生成 → git push → GitHub Pages 自動deploy
 ```
 
-デプロイ時に `auto-podcast-trader` からキャラクターデータを自動同期し `characters.json` を生成。
+`characters.json` は [auto-podcast-trader](https://github.com/almlog/auto-podcast-trader) のキャラクタースペックから生成。キャラ追加・変更時は手動更新が必要。
 
 ## 技術スタック
 
@@ -55,7 +55,7 @@ public/
 | 折りたたみカード | ヘッダークリックで展開/折りたたみ |
 | キャストツールチップ | ホバーで名前・役割・カテゴリ・プロフィール表示 |
 | セグメントシーク | セグメント名クリックで該当秒にジャンプ再生 |
-| キャラ自動同期 | デプロイ時に auto-podcast-trader のスペックから characters.json を生成 |
+| キャラプロフィール | characters.json に定義。auto-podcast-trader のスペックから生成 |
 
 ## RSS購読
 
