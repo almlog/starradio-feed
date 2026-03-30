@@ -288,17 +288,39 @@
   }
 
   function scrollToEpisode(dateStr) {
+    // Switch to list view first
+    switchView('list');
+
     var card = document.querySelector('.episode-card[data-date="' + dateStr + '"]');
     if (!card) return;
-    // Expand if collapsed
     if (!card.classList.contains('is-expanded')) {
       card.classList.add('is-expanded');
     }
-    card.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    // Flash highlight
-    card.classList.add('is-highlighted');
-    setTimeout(function () { card.classList.remove('is-highlighted'); }, 1500);
+    // Small delay to let the view switch render
+    setTimeout(function () {
+      card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      card.classList.add('is-highlighted');
+      setTimeout(function () { card.classList.remove('is-highlighted'); }, 1500);
+    }, 50);
   }
+
+  // ---- View Tabs ----
+  var viewTabs = document.getElementById('view-tabs');
+
+  function switchView(viewName) {
+    var tabs = viewTabs.querySelectorAll('.view-tab');
+    for (var i = 0; i < tabs.length; i++) {
+      tabs[i].classList.toggle('is-active', tabs[i].getAttribute('data-view') === viewName);
+    }
+    calendarContainer.style.display = viewName === 'calendar' ? '' : 'none';
+    container.style.display = viewName === 'list' ? '' : 'none';
+  }
+
+  viewTabs.addEventListener('click', function (e) {
+    var tab = e.target.closest('.view-tab');
+    if (!tab) return;
+    switchView(tab.getAttribute('data-view'));
+  });
 
   // ---- Render ----
   function renderEpisodes(episodes) {

@@ -20,8 +20,12 @@
       </div>
     </div>
   </header>
-  <div id="calendar"></div>
-  <main id="episodes">
+  <nav class="view-tabs" id="view-tabs">
+    <button class="view-tab is-active" data-view="list">一覧</button>
+    <button class="view-tab" data-view="calendar">カレンダー</button>
+  </nav>
+  <div id="calendar" class="view-panel" style="display:none"></div>
+  <main id="episodes" class="view-panel">
     <p class="loading">読み込み中...</p>
   </main>
   <footer>
