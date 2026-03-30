@@ -1,5 +1,125 @@
 [
   {
+    "id": "20260325_daily",
+    "title": "スタラジ 2026年3月25日 配信分",
+    "date": "2026-03-25",
+    "broadcastMode": "daily",
+    "durationSec": 465.84000000000054,
+    "durationFormatted": "7:45",
+    "cast": [
+      "レイナ姐さん",
+      "そらちゃん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "OpenAI Sora終了の衝撃",
+        "startSec": 46.824000000000005
+      },
+      {
+        "name": "AI開発ツール競争の激化",
+        "startSec": 124.56000000000003
+      },
+      {
+        "name": "半導体・インフラの大変革",
+        "startSec": 210.71999999999997
+      },
+      {
+        "name": "エンタメ界の新展開",
+        "startSec": 299.85600000000005
+      },
+      {
+        "name": "音楽業界の波紋",
+        "startSec": 364.9680000000003
+      },
+      {
+        "name": "クロージング",
+        "startSec": 420.93600000000043
+      }
+    ],
+    "sources": [
+      {
+        "source": "Variety",
+        "title": "OpenAI Will Shut Down Sora Video Platform"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI Plans to Discontinue Support for Sora AI Video Generator"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI's plans to make ChatGPT more like Amazon aren't going so well"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI adds open source tools to help developers build for teen safety"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Anthropic's Claude can now control your Mac, escalating the fight to build AI agents that actually do work"
+      },
+      {
+        "source": "Qiita",
+        "title": "AIエージェントが「勝手にコードを実行する」時代に備える — LangSmith Sandboxes × Fleet Authorization で作るセキュアなエージェント基盤"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "GPT-5.4 mini登場　複数エージェントでの開発に最適で安い！……が、実は前世代から3倍値上げ"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Arm launches own AI chip in high-stakes strategy shift"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Arm is releasing the first in-house chip in its 35-year history"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'We are going to push the limits of physics in compute': Elon Musk wants Texas 'Terafab' plant to produce one terawatt of computing power each year and build a global robot population using Tesla and SpaceX tech"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Cloudflare's new Dynamic Workers ditch containers to run AI agent code 100x faster"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "'School Spirits' Renewed for Fourth Season at Paramount+"
+      },
+      {
+        "source": "Variety",
+        "title": "'School Spirits' Renewed for Season 4 at Paramount+"
+      },
+      {
+        "source": "Variety",
+        "title": "'Peaky Blinders: The Immortal Man' Debuts With 25.3 Million Views in Three Days on Netflix"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Meghan Markle, Prince Harry Developing Polo Scripted Drama at Netflix"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Jay-Z Weighs in on Drake-Kendrick Feud: 'This Is Taking Us a Couple Steps Back'"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Jay-Z Breaks Silence on Dropped Sexual Assault Lawsuit and Wading Through Rap's Toxic Era"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Suge Knight to Release 'Unflinching' Memoir Detailing Tupac's Murder and 'Brawls' With Diddy"
+      }
+    ],
+    "audioFile": "20260325_daily.mp3",
+    "scriptFile": "20260325_daily.md",
+    "publishedAt": "2026-03-24T20:42:26.375Z"
+  },
+  {
     "id": "20260330_daily",
     "title": "スタラジ 2026年3月30日 配信分",
     "date": "2026-03-30",
