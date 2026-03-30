@@ -150,18 +150,67 @@ main {
   box-shadow: var(--shadow-card-hover);
 }
 
+/* ---- Collapsible Card ---- */
+.episode-card-toggle {
+  cursor: pointer;
+  user-select: none;
+}
+
+.episode-card-body {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height 0.35s var(--ease-out),
+              opacity 0.25s var(--ease-out),
+              margin-top 0.35s var(--ease-out);
+  margin-top: 0;
+}
+
+.episode-card.is-expanded .episode-card-body {
+  max-height: 800px;
+  opacity: 1;
+  margin-top: 0.6rem;
+}
+
+/* Chevron */
+.episode-chevron {
+  display: inline-block;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-right: 2px solid var(--text-tertiary);
+  border-bottom: 2px solid var(--text-tertiary);
+  transform: rotate(45deg);
+  transition: transform 0.25s var(--ease-out);
+  margin-left: 0.5rem;
+}
+
+.episode-card.is-expanded .episode-chevron {
+  transform: rotate(-135deg);
+}
+
+/* Highlight flash from calendar click */
+.episode-card.is-highlighted {
+  box-shadow: 0 0 0 2px var(--accent), var(--shadow-card-hover);
+  transition: box-shadow 0.3s var(--ease-out);
+}
+
 /* ---- Card Header ---- */
 .episode-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.4rem;
 }
 
 .episode-header-left {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+}
+
+.episode-header-right {
+  display: flex;
+  align-items: center;
 }
 
 .episode-date {
@@ -473,6 +522,132 @@ audio:hover {
   color: var(--text-tertiary);
   padding: 4rem 1rem;
   font-size: 0.9rem;
+}
+
+/* ---- Calendar ---- */
+#calendar {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem 0;
+}
+
+.calendar {
+  background: var(--bg-elevated);
+  border-radius: 16px;
+  padding: 1.2rem;
+  box-shadow: var(--shadow-card);
+}
+
+.calendar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.calendar-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.calendar-nav {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s var(--ease-out), border-color 0.15s var(--ease-out);
+}
+
+.calendar-nav:hover {
+  background: var(--bg-secondary);
+  border-color: var(--border-hover);
+}
+
+.calendar-days {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 0;
+  margin-bottom: 0.25rem;
+}
+
+.calendar-day-name {
+  text-align: center;
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--text-tertiary);
+  padding: 0.25rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 2px;
+}
+
+.calendar-cell {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1;
+  border-radius: 8px;
+  cursor: default;
+  transition: background 0.15s var(--ease-out);
+}
+
+.calendar-cell--empty {
+  visibility: hidden;
+}
+
+.calendar-cell-num {
+  font-size: 0.75rem;
+  color: var(--text-tertiary);
+  font-variant-numeric: tabular-nums;
+}
+
+.calendar-cell--today .calendar-cell-num {
+  color: var(--text-primary);
+  font-weight: 700;
+}
+
+.calendar-cell--has-episode {
+  cursor: pointer;
+}
+
+.calendar-cell--has-episode .calendar-cell-num {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+.calendar-cell--has-episode:hover {
+  background: var(--accent-subtle);
+}
+
+.calendar-cell--has-episode:hover .calendar-cell-num {
+  color: var(--accent);
+}
+
+.calendar-cell-dot {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-top: 2px;
+}
+
+.calendar-cell--today {
+  background: rgba(255, 255, 255, 0.05);
 }
 
 /* ---- Footer ---- */
