@@ -9,7 +9,11 @@ https://almlog.github.io/starradio-feed/
 ## 概要
 
 - Raspberry Pi上で毎朝自動生成されるポッドキャスト音声をGitHub Pagesで配信
-- エピソード一覧 + ブラウザ内音声プレーヤー
+- ミニマル・モダンデザイン（Apple HIG準拠のダークテーマ）
+- エピソード一覧 + カレンダービューの切り替え表示
+- 折りたたみ式エピソードカード（最新は展開、過去分は折りたたみ）
+- キャストチップのホバーでパーソナリティプロフィール表示
+- セグメントクリックで該当箇所にシーク再生
 - Podcast RSS (feed.xml) 対応
 
 ## 仕組み
@@ -18,24 +22,40 @@ https://almlog.github.io/starradio-feed/
 Pi (cron 05:30) → 台本生成 → TTS音声生成 → git push → GitHub Pages 自動deploy
 ```
 
+デプロイ時に `auto-podcast-trader` からキャラクターデータを自動同期し `characters.json` を生成。
+
 ## 技術スタック
 
-- 静的HTML/CSS/JS（フレームワーク不使用）
+- 静的HTML/CSS/JS（フレームワーク不使用、ビルドステップなし）
 - GitHub Pages + GitHub Actions
 - HTML5 `<audio>` によるストリーミング再生
 - Podcast RSS 2.0 + iTunes namespace
+- CSS Custom Properties によるデザイントークン管理
 
 ## ファイル構成
 
 ```
 public/
-  index.html       # プレーヤーUI
-  style.css        # ダークテーマ
-  app.js           # エピソード読込+描画
-  episodes.json    # エピソードメタデータ
-  feed.xml         # Podcast RSS
-  audio/           # mp3ファイル (自動管理、90日保持)
+  index.html         # プレーヤーUI（タブ切り替え対応）
+  style.css          # ミニマル・モダン ダークテーマ
+  app.js             # エピソード描画 + カレンダー + ツールチップ
+  characters.json    # パーソナリティプロフィール（自動同期）
+  episodes.json      # エピソードメタデータ（自動更新）
+  feed.xml           # Podcast RSS（自動更新）
+  audio/             # mp3ファイル（自動管理、90日保持）
+  scripts/           # 台本.md（自動管理、90日保持）
 ```
+
+## 機能一覧
+
+| 機能 | 説明 |
+|------|------|
+| タブ切り替え | 一覧 / カレンダーの表示切り替え |
+| カレンダー | 月ナビ付き。配信日にドット表示、クリックで該当エピソードへ |
+| 折りたたみカード | ヘッダークリックで展開/折りたたみ |
+| キャストツールチップ | ホバーで名前・役割・カテゴリ・プロフィール表示 |
+| セグメントシーク | セグメント名クリックで該当秒にジャンプ再生 |
+| キャラ自動同期 | デプロイ時に auto-podcast-trader のスペックから characters.json を生成 |
 
 ## RSS購読
 
