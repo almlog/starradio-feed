@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -21,6 +21,62 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+
+      # auto-podcast-trader からキャラデータを同期
+      - name: Sync characters.json from auto-podcast-trader
+        run: |
+          # specsディレクトリをsparse checkoutで取得
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/almlog/auto-podcast-trader.git /tmp/pipeline
+          cd /tmp/pipeline
+          git sparse-checkout set assets/characters/specs
+          cd -
+
+          # specファイルからcharacters.jsonを生成
+          node -e '
+          const fs = require("fs");
+          const path = require("path");
+          const specsDir = "/tmp/pipeline/assets/characters/specs";
+          const result = {};
+
+          const files = fs.readdirSync(specsDir).filter(f => f.endsWith(".json") && f !== "_common.json");
+
+          for (const file of files) {
+            try {
+              const spec = JSON.parse(fs.readFileSync(path.join(specsDir, file), "utf8"));
+              if (!spec.nickname) continue;
+
+              const categoryMap = {
+                "メインMC": (r) => /MC/.test(r) && !/ゲスト|準レギュラー/.test(r),
+                "アシスタント": (r) => /アシスタント/.test(r),
+                "ゲスト": (r) => /ゲスト|準レギュラー/.test(r),
+              };
+
+              let category = "ゲスト";
+              const role = spec.role || "";
+              for (const [cat, test] of Object.entries(categoryMap)) {
+                if (test(role)) { category = cat; break; }
+              }
+
+              const personality = spec.personality || {};
+              const desc = personality.tone || personality.type || role;
+
+              result[spec.nickname] = {
+                name: spec.name || spec.nickname,
+                role: role,
+                category: category,
+                description: desc,
+                color: spec.theme_color || null
+              };
+            } catch (e) {
+              console.error("Skip " + file + ": " + e.message);
+            }
+          }
+
+          fs.writeFileSync("public/characters.json", JSON.stringify(result, null, 2) + "\n");
+          console.log("Generated characters.json with " + Object.keys(result).length + " characters");
+          '
+
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3
         with:

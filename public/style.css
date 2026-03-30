@@ -216,6 +216,7 @@ main {
 }
 
 .cast-chip {
+  position: relative;
   background: var(--bg-secondary);
   color: var(--text-secondary);
   font-size: 0.7rem;
@@ -228,6 +229,124 @@ main {
 .cast-chip:hover {
   background: var(--bg-tertiary);
   color: var(--text-primary);
+}
+
+/* ---- Cast Tooltip ---- */
+.cast-chip--has-tooltip {
+  cursor: pointer;
+}
+
+.cast-tooltip {
+  display: none;
+  position: fixed;
+  width: 260px;
+  max-width: calc(100vw - 2rem);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-hover);
+  border-radius: 12px;
+  padding: 0.85rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+  z-index: 100;
+  text-align: left;
+  pointer-events: none;
+  animation: tooltipIn 0.15s var(--ease-out);
+}
+
+.cast-tooltip.is-visible {
+  display: block;
+}
+
+/* Arrow (above chip — default) */
+.cast-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: var(--arrow-left, 50%);
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: var(--border-hover);
+}
+
+/* Arrow (below chip — flipped) */
+.cast-tooltip--below::after {
+  top: auto;
+  bottom: 100%;
+  border-top-color: transparent;
+  border-bottom-color: var(--border-hover);
+}
+
+.cast-tooltip-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+}
+
+.cast-tooltip-name {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.cast-tooltip-category {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.cast-tooltip-category--mc {
+  background: var(--accent-subtle);
+  color: var(--accent);
+}
+
+.cast-tooltip-category--assistant {
+  background: var(--badge-daily-bg);
+  color: var(--badge-daily-text);
+}
+
+.cast-tooltip-category--guest {
+  background: var(--badge-weekly-bg);
+  color: var(--badge-weekly-text);
+}
+
+.cast-tooltip-role {
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.4rem;
+}
+
+.cast-tooltip-desc {
+  font-size: 0.7rem;
+  color: var(--text-tertiary);
+  line-height: 1.5;
+}
+
+.cast-tooltip-desc--unknown {
+  color: var(--text-tertiary);
+  font-style: italic;
+  opacity: 0.7;
+}
+
+@keyframes tooltipIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Tooltip size for small screens */
+@media (max-width: 480px) {
+  .cast-tooltip {
+    width: 220px;
+  }
 }
 
 /* ---- Segments ---- */
