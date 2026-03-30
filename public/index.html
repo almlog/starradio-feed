@@ -6,24 +6,25 @@
   <title>スタラジ - AI自動生成ポッドキャスト</title>
   <link rel="alternate" type="application/rss+xml" title="スタラジ RSS" href="feed.xml">
   <link rel="stylesheet" href="style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎙</text></svg>">
 </head>
 <body>
-  <header>
-    <div class="header-inner">
-      <div class="logo">🎙 スタラジ</div>
-      <p class="tagline">Star Radio — AI自動生成ポッドキャスト</p>
-      <nav>
-        <a href="feed.xml" class="nav-link">📡 RSS</a>
-      </nav>
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="hero-badge">PODCAST</p>
+      <h1 class="hero-title">スタラジ</h1>
+      <p class="hero-subtitle">AI自動生成ポッドキャスト</p>
+      <div class="hero-meta">
+        <span>毎朝自動配信</span>
+        <span class="hero-divider" aria-hidden="true"></span>
+        <a href="feed.xml" class="hero-rss">RSS Feed</a>
+      </div>
     </div>
   </header>
   <main id="episodes">
-    <div class="loading"><div class="spinner"></div>読み込み中...</div>
+    <p class="loading">読み込み中...</p>
   </main>
   <footer>
-    <p>スタラジ制作委員会 | 毎朝自動生成・配信</p>
-    <p class="footer-sub">Powered by Claude + Raspberry Pi</p>
+    <p>&copy; スタラジ制作委員会</p>
   </footer>
   <script src="app.js"></script>
 </body>
