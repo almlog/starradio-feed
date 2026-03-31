@@ -1,5 +1,129 @@
 [
   {
+    "id": "20260401_daily",
+    "title": "スタラジ 2026年4月1日 配信分",
+    "date": "2026-04-01",
+    "broadcastMode": "daily",
+    "durationSec": 559.9440000000006,
+    "durationFormatted": "9:19",
+    "cast": [
+      "レイナ姐さん",
+      "りっくん",
+      "ホリケイ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "OpenAIの超巨額調達と市場支配",
+        "startSec": 43.608
+      },
+      {
+        "name": "イラン情勢と石油危機",
+        "startSec": 141.28800000000004
+      },
+      {
+        "name": "スーパーマリオ映画とエンタメの覇権争い",
+        "startSec": 241.51199999999997
+      },
+      {
+        "name": "Gmail 22周年とテック界の変化",
+        "startSec": 325.5360000000001
+      },
+      {
+        "name": "ソーシャルメディアの転換点",
+        "startSec": 396.45600000000024
+      },
+      {
+        "name": "エンタメ界の大型案件",
+        "startSec": 471.91200000000055
+      },
+      {
+        "name": "クロージング",
+        "startSec": 534.2400000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI Valued at $852 Billion After Completing $122 Billion Round"
+      },
+      {
+        "source": "Financial Times",
+        "title": "OpenAI raises $3bn from retail investors as part of record funding haul"
+      },
+      {
+        "source": "Axios",
+        "title": "China and Pakistan present new Iran deal: Ceasefire for opening Hormuz"
+      },
+      {
+        "source": "EURACTIV Media Network",
+        "title": "Iran threatens to strike US-owned tech companies in the Middle East"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "「石油は自分で手に入れろ！」　トランプ氏、石油不足の各国突き放す"
+      },
+      {
+        "source": "Variety",
+        "title": "'The Super Mario Galaxy Movie' Review: Frenetic and Disappointing Sequel is a Threadbare Adventure That's All Video-Game Easter Eggs"
+      },
+      {
+        "source": "IGN",
+        "title": "The Super Mario Galaxy Movie Review"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "'The Super Mario Galaxy Movie' Review: Chris Pratt and Charlie Day Return for a Sequel That Will Delight Fans (but Few Others)"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "'The Super Mario Galaxy Movie' Creators Tease 'Expansive World' for Nintendo Movies"
+      },
+      {
+        "source": "IGN",
+        "title": "Shigeru Miyamoto Says Mario Became a 'Person' When He Hit the Big Screen"
+      },
+      {
+        "source": "The Register",
+        "title": "Gmail celebrates 22 years by finally letting users change their addresses"
+      },
+      {
+        "source": "DevelopersIO",
+        "title": "AWS DevOps Agentが一般提供[GA]になりました"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Is this social media's tobacco moment?"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Meta was finally held accountable for harming teens. Now what?"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Go play this secret game in your TikTok DMs"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "'Happy Feet' Broadway Musical in the Works"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "新婚の柳俊太郎、渋川清彦にアドバイス求む「お財布はどちらが握る方がいい？」"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "波瑠、ジブリ『魔女の宅急便』の大ファン　「大人になってから泣いた」"
+      }
+    ],
+    "audioFile": "20260401_daily.mp3",
+    "scriptFile": "20260401_daily.md",
+    "publishedAt": "2026-03-31T20:44:08.936Z"
+  },
+  {
     "id": "20260331_daily",
     "title": "スタラジ 2026年3月31日 配信分",
     "date": "2026-03-31",
