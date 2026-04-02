@@ -1,5 +1,137 @@
 [
   {
+    "id": "20260403_daily",
+    "title": "スタラジ 2026年4月3日 配信分",
+    "date": "2026-04-03",
+    "broadcastMode": "daily",
+    "durationSec": 502.5840000000007,
+    "durationFormatted": "8:22",
+    "cast": [
+      "ヨースケ",
+      "りっくん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "OpenAIの大型買収とAI業界の再編",
+        "startSec": 40.608000000000004
+      },
+      {
+        "name": "Microsoftの独自AI戦略",
+        "startSec": 139.41600000000005
+      },
+      {
+        "name": "Claude Codeの実践レビューとメモリ機能",
+        "startSec": 203.73600000000002
+      },
+      {
+        "name": "トランプ政権の司法長官解任と新関税",
+        "startSec": 264.312
+      },
+      {
+        "name": "イラン情勢と原油価格高騰",
+        "startSec": 325.2480000000003
+      },
+      {
+        "name": "エンタメ界の大型ニュース",
+        "startSec": 393.6960000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 465.9120000000006
+      }
+    ],
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "OpenAI Buys Streaming Show 'TBPN,' Aiming to Change Narrative on A.I."
+      },
+      {
+        "source": "Financial Times",
+        "title": "OpenAI acquires popular tech talk show for 'low hundreds of millions'"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show"
+      },
+      {
+        "source": "WIRED",
+        "title": "OpenAI Acquires Tech Talk Show 'TBPN'—and Buys Itself Some Positive News"
+      },
+      {
+        "source": "The Register",
+        "title": "Microsoft shivs OpenAI with three new AI models for speech and images"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Microsoft Hit 'Audacious' Copilot Goals After Analyst Input"
+      },
+      {
+        "source": "Qiita",
+        "title": "最近話題のClaude Code /loop使ってみた"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "GeminiとClaudeのメモリインポート機能を比較してみた　便利さとプライバシーのバランスには注意が必要かも？"
+      },
+      {
+        "source": "時事通信社",
+        "title": "トランプ米大統領、ボンディ司法長官を解任"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "トランプ氏、米司法長官解任　エプスタイン事件対応などで不満か"
+      },
+      {
+        "source": "Axios",
+        "title": "Attorney General Pam Bondi pushed out"
+      },
+      {
+        "source": "The Verge",
+        "title": "Trump fires US attorney general Pam Bondi"
+      },
+      {
+        "source": "EURACTIV Media Network",
+        "title": "Trump imposes tariffs on pharmaceuticals, adjusts duties on steel, other metals"
+      },
+      {
+        "source": "NHK",
+        "title": "NY原油市場 WTI先物価格 一時1バレル113ドル台まで上昇"
+      },
+      {
+        "source": "Axios",
+        "title": "U.S. bombs Iran's civilian infrastructure for first time after \"Stone Ages\" threat"
+      },
+      {
+        "source": "EURACTIV Media Network",
+        "title": "Europe up for policing Hormuz — but only if the fighting stops"
+      },
+      {
+        "source": "Variety",
+        "title": "J.J. Abrams to Downsize Bad Robot, Production Company to Move From L.A. to New York"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "J.J. Abrams Scaling Down Bad Robot As He Moves to New York"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "J. Cole Joins Chinese Basketball Team, the Nanjing Monkey Kings"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "実写『キングダム』5弾、顔の見えない4名の正体判明！"
+      }
+    ],
+    "audioFile": "20260403_daily.mp3",
+    "scriptFile": "20260403_daily.md",
+    "publishedAt": "2026-04-02T20:45:10.986Z"
+  },
+  {
     "id": "20260401_daily",
     "title": "スタラジ 2026年4月1日 配信分",
     "date": "2026-04-01",
