@@ -1,5 +1,43 @@
 [
   {
+    "id": "20260404_weekly",
+    "title": "スタラジ土曜増刊号 - 2026年4月4日放送分",
+    "date": "2026-04-04",
+    "broadcastMode": "weekly",
+    "durationSec": 672.5040000000012,
+    "durationFormatted": "11:12",
+    "cast": [
+      "ヨースケ",
+      "ホリケイ"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク（約5分）",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト（約3分）",
+        "startSec": 156.02400000000003
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する（約8分）",
+        "startSec": 281.952
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？次は何をする？（約3分）",
+        "startSec": 551.5680000000008
+      },
+      {
+        "name": "Part 5: クロージング（約1分）",
+        "startSec": 633.5520000000009
+      }
+    ],
+    "sources": [],
+    "audioFile": "20260404_weekly.mp3",
+    "scriptFile": "20260404_weekly.md",
+    "publishedAt": "2026-04-03T20:46:03.128Z"
+  },
+  {
     "id": "20260403_daily",
     "title": "スタラジ 2026年4月3日 配信分",
     "date": "2026-04-03",
