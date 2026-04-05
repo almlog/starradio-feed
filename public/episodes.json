@@ -1,5 +1,117 @@
 [
   {
+    "id": "20260406_daily",
+    "title": "スタラジ 2026年4月6日 配信分",
+    "date": "2026-04-06",
+    "broadcastMode": "daily",
+    "durationSec": 482.68800000000044,
+    "durationFormatted": "8:02",
+    "cast": [
+      "みのりん",
+      "そらちゃん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AI開発ツールの大型調達ラッシュ",
+        "startSec": 47.04
+      },
+      {
+        "name": "Claude Codeの妹化現象",
+        "startSec": 126.16800000000002
+      },
+      {
+        "name": "ロシアのインターネット遮断と銀行システム",
+        "startSec": 199.89599999999996
+      },
+      {
+        "name": "イラン情勢とトランプ大統領の強硬姿勢",
+        "startSec": 260.4
+      },
+      {
+        "name": "NASAの月面トイレ問題",
+        "startSec": 329.54400000000015
+      },
+      {
+        "name": "エンタメ速報・マリオとBTS",
+        "startSec": 385.1280000000002
+      },
+      {
+        "name": "クロージング",
+        "startSec": 453.38400000000036
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Cursor aims for $50B valuation in talks with investors"
+      },
+      {
+        "source": "Qiita",
+        "title": "Claude Codeに「妹」にして、AIにイラつかない最強の開発環境を作る"
+      },
+      {
+        "source": "Qiita",
+        "title": "AIを使っても「設計判断」は人間がやる話"
+      },
+      {
+        "source": "Qiita",
+        "title": "このAI、気づいたら人間抜きで世界を回し始めている"
+      },
+      {
+        "source": "heise online",
+        "title": "Russland sperrt Messenger und VPNs – und seine Banken gleich mit"
+      },
+      {
+        "source": "heise online",
+        "title": "Internetsperre im Iran ist jetzt die längste der Weltgeschichte"
+      },
+      {
+        "source": "Axios",
+        "title": "Pope calls for peace, Trump vows hell for Iran on Easter"
+      },
+      {
+        "source": "Axios",
+        "title": "\"Open the Fuckin' Strait\": Trump threatens to start bombing civilian infrastructure Tuesday"
+      },
+      {
+        "source": "Axios",
+        "title": "Trump to Axios: Iran deal possible by Tues., otherwise \"I am blowing up everything\""
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Trump Warns Iran on Easter: 'Open the F-ckin' Strait, You Crazy Bastards'"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "On NASA's Moon Mission, the Biggest Headache Has Been the Toilet"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Artemis II crew see first glimpse of far side of Moon [video]"
+      },
+      {
+        "source": "Variety",
+        "title": "'Super Mario Galaxy Movie' Powers to $372 Million Globally, 'Project Hail Mary' Hits $420 Million"
+      },
+      {
+        "source": "Variety",
+        "title": "Kanye West's 'Bully' Debuts at No. 2 on Albums Chart as BTS Holds Top Spot With 'Arirang'"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Pepsi Pulls U.K. Festival Sponsorship Amid Kanye \"Ye\" West Booking"
+      }
+    ],
+    "audioFile": "20260406_daily.mp3",
+    "scriptFile": "20260406_daily.md",
+    "publishedAt": "2026-04-05T20:44:51.065Z"
+  },
+  {
     "id": "20260404_weekly",
     "title": "スタラジ土曜増刊号 - 2026年4月4日放送分",
     "date": "2026-04-04",
