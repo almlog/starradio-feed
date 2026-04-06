@@ -1,5 +1,145 @@
 [
   {
+    "id": "20260407_daily",
+    "title": "スタラジ 2026年4月7日 配信分",
+    "date": "2026-04-07",
+    "broadcastMode": "daily",
+    "durationSec": 471.2400000000007,
+    "durationFormatted": "7:51",
+    "cast": [
+      "もえちゃん",
+      "そらちゃん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "NVIDIA帝国の拡大と半導体戦争",
+        "startSec": 36.336
+      },
+      {
+        "name": "AIツールの品質問題と開発者の反発",
+        "startSec": 117.45600000000003
+      },
+      {
+        "name": "Qiitaで話題のAI活用術",
+        "startSec": 192.35999999999999
+      },
+      {
+        "name": "ビッグテックの新サービスと買収劇",
+        "startSec": 264.02399999999994
+      },
+      {
+        "name": "エンタメ界のビッグニュース",
+        "startSec": 324.86400000000015
+      },
+      {
+        "name": "朝の実用情報コーナー",
+        "startSec": 384.1920000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 440.61600000000055
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Nvidia-Backed Data Center Builder Firmus Raises $505 Million"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'The inference inflection has arrived': Nvidia pumps $2 billion into chipmaker Marvell to boost its AI factories to the next level — so does this mean it'll be working with Amazon Trainium soon?"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Iran threatens 'Stargate' AI data centers"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'Up to 75% higher': Experts say your next SSD or memory upgrade will get a lot more expensive — and I fear the Iran war will make it even worse"
+      },
+      {
+        "source": "The Register",
+        "title": "AMD's AI director slams Claude Code for becoming dumber and lazier since last update"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The cult of vibe coding is insane"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "AIがコードを書く時代、新人はどう育てる？　「使わせるか」「禁止するか」のジレンマ"
+      },
+      {
+        "source": "Qiita",
+        "title": "【営業マン向け】ChatGPTで「見込み客のニーズを先読みする」プロンプト集"
+      },
+      {
+        "source": "Qiita",
+        "title": "【営業マン向け】ChatGPTで「値引き交渉」に負けない切り返しトークを事前準備する方法"
+      },
+      {
+        "source": "Qiita",
+        "title": "【営業マン向け】ChatGPTで「価値訴求型」提案書を作る3ステップ｜価格勝負から脱却する方法"
+      },
+      {
+        "source": "Qiita",
+        "title": "AIの出力を「採点」する仕組みを作った -- Eval Harnessで品質保証を自動化する"
+      },
+      {
+        "source": "Qiita",
+        "title": "問いを生むAIへ——Innovative AIと、いまの生成AIの境目"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Amazon Reaches US Postal Service Deal for 1 Billion Packages"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Google quietly launched an AI dictation app that works offline"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Netflix is expanding into kids' games with a new standalone app"
+      },
+      {
+        "source": "ナタリー",
+        "title": "秦VS六国…山﨑賢人が口火を切る「キングダム」新映像、清野菜名・岡山天音らも続投"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Zendaya Thinks 'Euphoria' Will End After Season 3: 'That Closure Is Coming'"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "6ix9ine Celebrates Prison Release by Showing Off Maduro-Signed SpongeBob SquarePants Toy"
+      },
+      {
+        "source": "NHK",
+        "title": "今年度予算案 きょう採決が行われれば成立する公算大きく"
+      },
+      {
+        "source": "NHK",
+        "title": "ことしの大型連休に旅行に出かける人 去年比1.9％増 民間予測"
+      },
+      {
+        "source": "NHK",
+        "title": "航空会社の多く 国内線で運賃値上げや燃油サーチャージ検討"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "自治体4割「法規制必要」　災害時のSNS偽情報、AIで巧妙に"
+      }
+    ],
+    "audioFile": "20260407_daily.mp3",
+    "scriptFile": "20260407_daily.md",
+    "publishedAt": "2026-04-06T20:44:09.995Z"
+  },
+  {
     "id": "20260406_daily",
     "title": "スタラジ 2026年4月6日 配信分",
     "date": "2026-04-06",
