@@ -1,5 +1,125 @@
 [
   {
+    "id": "20260408_daily",
+    "title": "スタラジ 2026年4月8日 配信分",
+    "date": "2026-04-08",
+    "broadcastMode": "daily",
+    "durationSec": 529.7280000000006,
+    "durationFormatted": "8:49",
+    "cast": [
+      "レイナ姐さん",
+      "そらちゃん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Anthropic Mythos Preview発表",
+        "startSec": 49.272
+      },
+      {
+        "name": "イラン情勢と午前9時の期限",
+        "startSec": 164.28000000000003
+      },
+      {
+        "name": "テック業界の新展開",
+        "startSec": 243.144
+      },
+      {
+        "name": "NASA月周回ミッション帰還",
+        "startSec": 330.6000000000002
+      },
+      {
+        "name": "エンタメ界のトレンド",
+        "startSec": 408.9360000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 495.24000000000046
+      }
+    ],
+    "sources": [
+      {
+        "source": "Financial Times",
+        "title": "Anthropic rolls out cyber AI model days after source code leak"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity 'Reckoning'"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly — so it built Project Glasswing"
+      },
+      {
+        "source": "Axios",
+        "title": "Anthropic withholds Mythos Preview model because its hacking is too powerful"
+      },
+      {
+        "source": "NHK",
+        "title": "イラン情勢 トランプ大統領が主張する期限 午前9時が迫る"
+      },
+      {
+        "source": "EURACTIV Media Network",
+        "title": "'Only the president knows': The world awaits Trump's Iran deadline"
+      },
+      {
+        "source": "Axios",
+        "title": "Pakistan proposes 2-week Iran ceasefire ahead of Trump deadline"
+      },
+      {
+        "source": "Hacker News",
+        "title": "S3 Files and the changing face of S3"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Amazon S3 Files gives AI agents a native file system workspace, ending the object-file split that breaks multi-agent pipelines"
+      },
+      {
+        "source": "ASCII.jp",
+        "title": "本日発売の「Snapdragon X2」を計ったら驚愕の爆速CPUでしたっ!!＝ASUS「Zenbook SORA 16」実機レビュー"
+      },
+      {
+        "source": "ZDNet",
+        "title": "I swapped my MacBook Air with a Snapdragon X Elite Extreme laptop - here's how they compared"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "NASA Crew Loops Moon and Heads Home"
+      },
+      {
+        "source": "WIRED",
+        "title": "Artemis II's Breathtaking View of the Far Side of the Moon"
+      },
+      {
+        "source": "CNET Japan",
+        "title": "【画像】約50年ぶりの有人月周回、クルーが撮影した「月面」「地球の入り」公開　アルテミス2"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "How Taylor Swift's 'Reputation' Concert Film Inspired Anne Hathaway's Performance in 'Mother Mary'"
+      },
+      {
+        "source": "Variety",
+        "title": "'XO, Kitty' Season 3 Snags 12.9 Million Views in Four Days on Netflix"
+      },
+      {
+        "source": "ナタリー",
+        "title": "矢沢永吉全国ツアー開催、日本人男性ソロアーティストで最多！日本武道館で6DAYS"
+      },
+      {
+        "source": "Variety",
+        "title": "Madonna Biopic Lives (Sort Of): How 'The Studio' Season 2 Revives the Axed Movie and Ends the Icon's 23-Year Acting Break"
+      }
+    ],
+    "audioFile": "20260408_daily.mp3",
+    "scriptFile": "20260408_daily.md",
+    "publishedAt": "2026-04-07T20:43:26.627Z"
+  },
+  {
     "id": "20260407_daily",
     "title": "スタラジ 2026年4月7日 配信分",
     "date": "2026-04-07",
