@@ -1,5 +1,141 @@
 [
   {
+    "id": "20260409_daily",
+    "title": "スタラジ 2026年4月9日 配信分",
+    "date": "2026-04-09",
+    "broadcastMode": "daily",
+    "durationSec": 390.8160000000005,
+    "durationFormatted": "6:30",
+    "cast": [
+      "ホリケイ",
+      "そらちゃん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "中東情勢とエネルギー危機",
+        "startSec": 41.376000000000005
+      },
+      {
+        "name": "Meta AI戦略の大転換",
+        "startSec": 130.63200000000003
+      },
+      {
+        "name": "半導体・メモリ危機の深刻化",
+        "startSec": 202.296
+      },
+      {
+        "name": "エンタメ業界の復活劇",
+        "startSec": 265.67999999999995
+      },
+      {
+        "name": "テック企業のサービス終了ラッシュ",
+        "startSec": 309.40800000000013
+      },
+      {
+        "name": "クロージング",
+        "startSec": 354.50400000000036
+      }
+    ],
+    "sources": [
+      {
+        "source": "EURACTIV Media Network",
+        "title": "'I don't see anyone accepting that': Oil industry balks at Iran's shipping toll"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "ホルムズ海峡再封鎖か　イランメディア報道、イスラエルに反発"
+      },
+      {
+        "source": "NHK",
+        "title": "2週間停戦合意 日本政府は歓迎 最終合意につながるか見極め"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "イスラエルがレバノンを攻撃　イランは「停戦合意違反」と批判"
+      },
+      {
+        "source": "WIRED",
+        "title": "As the Strait of Hormuz Reopens, Global Shipping Will Take Months to Recover"
+      },
+      {
+        "source": "Axios",
+        "title": "Vance to lead U.S. delegation at peace talks with Iran in Pakistan on Saturday"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Meta debuts the Muse Spark model in a 'ground-up overhaul' of its AI"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — first since Superintelligence Labs' formation"
+      },
+      {
+        "source": "heise online",
+        "title": "Muse Spark: Meta präsentiert neues KI-Modell"
+      },
+      {
+        "source": "WIRED",
+        "title": "Meta's New AI Model Gives Mark Zuckerberg a Seat at the Big Kid's Table"
+      },
+      {
+        "source": "Meta AI Blog",
+        "title": "Trust But Canary: Configuration Safety at Scale"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Talk about bad timing — even Linux is asking for more RAM now, despite global shortages hitting PC users hard"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Motorola's budget phones are now up to 50% more expensive as memory shortage drags on"
+      },
+      {
+        "source": "The Verge",
+        "title": "The AI RAM shortage is also driving up SSD prices"
+      },
+      {
+        "source": "The Register",
+        "title": "Nvidia's Rubin GPU is likely to be late thanks to memory shortage and technical challenges"
+      },
+      {
+        "source": "Variety",
+        "title": "Cameron Diaz to Star in 'Troop Beverly Hills' Sequel Directed by Clea DuVall"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Cameron Diaz Eyed to Star in 'Troop Beverly Hills' Sequel for Director Clea DuVall at TriStar"
+      },
+      {
+        "source": "Variety",
+        "title": "'American Horror Story' Season 13 Reveals Sarah Paulson's Return as Cordelia, Teases 'Coven' Sequel: 'The Supreme Rises'"
+      },
+      {
+        "source": "Variety",
+        "title": "Peter Dinklage Joins 'Alien: Earth' Season 2"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Amazon to end support for older Kindle devices"
+      },
+      {
+        "source": "ZDNet",
+        "title": "Your Kindle's not obsolete, it just needs a jailbreak - and I'll show you how it's done"
+      },
+      {
+        "source": "ZDNet",
+        "title": "How to quickly convert EPUB files to Kindle format - and why it matters"
+      }
+    ],
+    "audioFile": "20260409_daily.mp3",
+    "scriptFile": "20260409_daily.md",
+    "publishedAt": "2026-04-08T20:41:02.691Z"
+  },
+  {
     "id": "20260408_daily",
     "title": "スタラジ 2026年4月8日 配信分",
     "date": "2026-04-08",
