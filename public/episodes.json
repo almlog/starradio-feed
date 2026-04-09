@@ -1,5 +1,125 @@
 [
   {
+    "id": "20260410_daily",
+    "title": "スタラジ 2026年4月10日 配信分",
+    "date": "2026-04-10",
+    "broadcastMode": "daily",
+    "durationSec": 518.1600000000005,
+    "durationFormatted": "8:38",
+    "cast": [
+      "ヨースケ",
+      "そらちゃん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AI業界の覇権争い激化",
+        "startSec": 54.768
+      },
+      {
+        "name": "データセンターと電力危機",
+        "startSec": 162.696
+      },
+      {
+        "name": "原油価格急騰と中東情勢",
+        "startSec": 242.47199999999995
+      },
+      {
+        "name": "エンタメ業界の大型ニュース",
+        "startSec": 314.7840000000001
+      },
+      {
+        "name": "日常生活を変えるテック革新",
+        "startSec": 372.1200000000003
+      },
+      {
+        "name": "国内ニュースピックアップ",
+        "startSec": 431.90400000000034
+      },
+      {
+        "name": "クロージング",
+        "startSec": 474.0720000000004
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI Tells Investors It Has Computing Advantage Over Anthropic"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Mythos autonomously exploited vulnerabilities that survived 27 years of human review. Security teams need a new detection playbook"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Maine Is About to Become the First State to Ban Major New Data Centers"
+      },
+      {
+        "source": "heise online",
+        "title": "Hohe Energiekosten und Regularien: OpenAI pausiert Stargate UK"
+      },
+      {
+        "source": "heise online",
+        "title": "KI-Wettlauf: Meta und CoreWeave mit 21-Milliarden-Dollar-Deal"
+      },
+      {
+        "source": "NHK",
+        "title": "NY原油市場 WTI先物価格が上昇 一時1バレル＝102ドル台に"
+      },
+      {
+        "source": "Axios",
+        "title": "Strait of Hormuz remains all but closed, despite Iran ceasefire deal"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Airlines Jack Up Fees to Cover Rising Fuel Costs Amid War"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "'Metal Gear Solid' Movie in the Works From 'Final Destination' Duo as They Ink Sony First-Look (Exclusive)"
+      },
+      {
+        "source": "Variety",
+        "title": "'Metal Gear Solid' Movie in the Works at Sony From 'Final Destination: Bloodlines' Directors"
+      },
+      {
+        "source": "IGN",
+        "title": "Metal Gear Solid Movie to be Directed by Final Destination Bloodlines Duo"
+      },
+      {
+        "source": "The Verge",
+        "title": "Netflix's TV games get a big boost with Jackbox collection"
+      },
+      {
+        "source": "The Verge",
+        "title": "Framework is teasing a lot of Linux for its April 21st event"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "VS CodeのPython拡張機能が強化、venv内パッケージのシンボル検索が可能に"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "弥生時代のブランド石は… 使い勝手良く、四国から兵庫まで流通"
+      },
+      {
+        "source": "NHK",
+        "title": "再審見直し案 政府が修正検討 検察の不服申し立て禁止意見も"
+      }
+    ],
+    "audioFile": "20260410_daily.mp3",
+    "scriptFile": "20260410_daily.md",
+    "publishedAt": "2026-04-09T20:42:44.275Z"
+  },
+  {
     "id": "20260409_daily",
     "title": "スタラジ 2026年4月9日 配信分",
     "date": "2026-04-09",
