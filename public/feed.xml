@@ -11,6 +11,13 @@
   <itunes:category text="Technology"/>
   <atom:link href="https://almlog.github.io/starradio-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>スタラジ土曜増刊号 2026年4月11日配信</title>
+      <enclosure url="https://almlog.github.io/starradio-feed/audio/20260411_weekly.mp3" type="audio/mpeg"/>
+      <guid>20260411_weekly</guid>
+      <pubDate>Fri, 10 Apr 2026 20:44:02 GMT</pubDate>
+      <itunes:duration>449</itunes:duration>
+    </item>
+    <item>
       <title>スタラジ 2026年4月10日 配信分</title>
       <enclosure url="https://almlog.github.io/starradio-feed/audio/20260410_daily.mp3" type="audio/mpeg"/>
       <guid>20260410_daily</guid>
