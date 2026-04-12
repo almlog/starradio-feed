@@ -1,5 +1,133 @@
 [
   {
+    "id": "20260413_daily",
+    "title": "スタラジ 2026年4月13日 配信分",
+    "date": "2026-04-13",
+    "broadcastMode": "daily",
+    "durationSec": 557.1360000000006,
+    "durationFormatted": "9:17",
+    "cast": [
+      "みのりん",
+      "りっくん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "ハンガリー政変の衝撃",
+        "startSec": 43.151999999999994
+      },
+      {
+        "name": "イラン・中東情勢の緊迫",
+        "startSec": 122.88000000000004
+      },
+      {
+        "name": "AI開発ツール戦争の激化",
+        "startSec": 200.64000000000001
+      },
+      {
+        "name": "Qiitaで話題のAI実装記事",
+        "startSec": 302.40000000000015
+      },
+      {
+        "name": "ルーターセキュリティ問題",
+        "startSec": 377.23200000000037
+      },
+      {
+        "name": "エンタメニュース速報",
+        "startSec": 438.55200000000053
+      },
+      {
+        "name": "クロージング",
+        "startSec": 517.1760000000006
+      }
+    ],
+    "sources": [
+      {
+        "source": "毎日新聞社",
+        "title": "ハンガリー総選挙　保守系野党が勝利　16年ぶり政権交代へ"
+      },
+      {
+        "source": "Axios",
+        "title": "Earthquake in Hungary: Orbán defeated after 16 years in power"
+      },
+      {
+        "source": "EURACTIV Media Network",
+        "title": "Orbán's 16-year rule over Hungary ends in crushing election defeat"
+      },
+      {
+        "source": "NHK",
+        "title": "トランプ大統領「ホルムズ海峡で封鎖措置」 イラン側はけん制"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "トランプ氏、イランと「核で一致せず」　戦闘再開辞さない構え強調"
+      },
+      {
+        "source": "Axios",
+        "title": "Trump pitches Iran blockade as boon to U.S. oil"
+      },
+      {
+        "source": "EURACTIV Media Network",
+        "title": "The war with Iran offers a snapshot of Trump world. It's not a pretty picture."
+      },
+      {
+        "source": "アイティメディア",
+        "title": "そのPC作業、まだ\"手動\"でやっているんですか？　チャットの次は「AIに作業を任せる」時代へ（Cowork活用編）"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "注目集める「AIエージェント」、一問一答型から自律的なシステムに"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "我が社でも使える？Copilotを使い始める手順"
+      },
+      {
+        "source": "Qiita",
+        "title": "26万件の楽譜データと戦う。MIDIから「人間らしいABC譜面」を復元する狂気のデジタル考古学"
+      },
+      {
+        "source": "Qiita",
+        "title": "【備忘録】エンジニアはAI時代にどう向き合うか ― Anthropicの公開情報から整理してみる"
+      },
+      {
+        "source": "Qiita",
+        "title": "Claude API実践ガイド: Haiku/Sonnet/Opusの使い分けとコスト最適化【Python実装例付き】"
+      },
+      {
+        "source": "Qiita",
+        "title": "AIエージェントがツールを呼びすぎる問題——メタ認知の欠如"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'71% of US households get routers from ISPs': Why new FCC rules could leave millions stuck with outdated, insecure hardware"
+      },
+      {
+        "source": "ナタリー",
+        "title": "西城秀樹サブスク解禁！第1弾は1972～1982年のシングル43曲"
+      },
+      {
+        "source": "ナタリー",
+        "title": "横浜流星と広瀬すずが涙…「汝、星のごとく」予告映像公開、ティザービジュアルも到着"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "横浜流星×広瀬すず『汝、星のごとく』公開日決定　二人の涙映す予告編＆ティザービジュアル公開"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Asha Bhosle, Legendary Bollywood Singer, Dead at 92"
+      }
+    ],
+    "audioFile": "20260413_daily.mp3",
+    "scriptFile": "20260413_daily.md",
+    "publishedAt": "2026-04-12T20:43:57.036Z"
+  },
+  {
     "id": "20260411_weekly",
     "title": "スタラジ土曜増刊号 2026年4月11日配信",
     "date": "2026-04-11",
