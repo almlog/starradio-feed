@@ -1,5 +1,101 @@
 [
   {
+    "id": "20260414_daily",
+    "title": "スタラジ 2026年4月14日 配信分",
+    "date": "2026-04-14",
+    "broadcastMode": "daily",
+    "durationSec": 542.4960000000005,
+    "durationFormatted": "9:02",
+    "cast": [
+      "もえちゃん",
+      "りっくん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AIコーディングツールの大型資金調達と進化",
+        "startSec": 43.32
+      },
+      {
+        "name": "ホルムズ海峡封鎖の影響拡大",
+        "startSec": 164.13600000000002
+      },
+      {
+        "name": "セキュリティ脅威の拡大",
+        "startSec": 254.27999999999992
+      },
+      {
+        "name": "エンタメ業界のテック活用最前線",
+        "startSec": 346.8000000000001
+      },
+      {
+        "name": "科学・宇宙の話題",
+        "startSec": 454.7760000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 505.24800000000056
+      }
+    ],
+    "sources": [
+      {
+        "source": "VentureBeat",
+        "title": "Agentic coding at enterprise scale demands spec-driven development"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Microsoft is working on yet another OpenClaw-like agent"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'Accuracy over volume': Here's why high-value pros are using AI to work slower, not faster"
+      },
+      {
+        "source": "NHK",
+        "title": "ホルムズ海峡めぐり米の対イラン封鎖始まる イランは反発"
+      },
+      {
+        "source": "EURACTIV Media Network",
+        "title": "Israel backs U.S. Hormuz blockade as Netanyahu signals readiness to resume war"
+      },
+      {
+        "source": "WIRED",
+        "title": "Marine Animals in the Strait of Hormuz Don't Get a Ceasefire"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Bain & Co vulnerability exposed by hacker a month after McKinsey"
+      },
+      {
+        "source": "The Verge",
+        "title": "AI influencers are 'everywhere' at Coachella"
+      },
+      {
+        "source": "Variety",
+        "title": "Kim Kardashian Producing Broadway Prison Drama 'The Fear of 13' to Draw Attention to Criminal Justice Reform"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Kim Kardashian Joins Producing Team of Broadway's 'The Fear of 13'"
+      },
+      {
+        "source": "NHK",
+        "title": "パンスターズすい星 今月20日にかけ 明け方東の空で見えるか"
+      }
+    ],
+    "audioFile": "20260414_daily.mp3",
+    "scriptFile": "20260414_daily.md",
+    "publishedAt": "2026-04-13T20:43:23.705Z"
+  },
+  {
     "id": "20260413_daily",
     "title": "スタラジ 2026年4月13日 配信分",
     "date": "2026-04-13",
