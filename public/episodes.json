@@ -1,5 +1,97 @@
 [
   {
+    "id": "20260415_daily",
+    "title": "スタラジ 2026年4月15日 配信分",
+    "date": "2026-04-15",
+    "broadcastMode": "daily",
+    "durationSec": 432.4320000000004,
+    "durationFormatted": "7:12",
+    "cast": [
+      "レイナ姐さん",
+      "りっくん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "サイバーセキュリティAIの攻防戦",
+        "startSec": 51.672000000000004
+      },
+      {
+        "name": "Amazonの宇宙通信参入とMuskとの競争",
+        "startSec": 133.12800000000007
+      },
+      {
+        "name": "AIボットによるインターネット支配",
+        "startSec": 199.29599999999996
+      },
+      {
+        "name": "音楽業界のAI転換点",
+        "startSec": 256.79999999999995
+      },
+      {
+        "name": "エンタメ業界の大型M&A反対運動",
+        "startSec": 308.1600000000001
+      },
+      {
+        "name": "政治スキャンダルと議員辞任",
+        "startSec": 364.46400000000017
+      },
+      {
+        "name": "クロージング",
+        "startSec": 402.8880000000003
+      }
+    ],
+    "sources": [
+      {
+        "source": "WIRED",
+        "title": "In the Wake of Anthropic's Mythos, OpenAI Has a New Cybersecurity Model—and Strategy"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI Releases Cyber Model to Limited Group in Race With Mythos"
+      },
+      {
+        "source": "Axios",
+        "title": "OpenAI expands access to cyber AI as hacking risks grow"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "「悪魔のツール」Claude Mythos、防御側に恩恵をもたらす盾ともなるか"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Amazon's $11.6 Billion Globalstar Deal Amps Up Rivalry With Musk"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Lumen CEO Says AI Bots Are Taking Over the Internet"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "The Music Industry Crosses an AI Tipping Point"
+      },
+      {
+        "source": "Variety",
+        "title": "Florence Pugh, Pedro Pascal and More Join Fight to Block Paramount-Warner Bros. Merger as Open Letter Surpasses 2,000 Hollywood Names"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Eric Swalwell Resigns From Congress Amid Sexual-Misconduct Allegations"
+      },
+      {
+        "source": "Axios",
+        "title": "Reps. Eric Swalwell and Tony Gonzales formally submit resignations from Congress"
+      }
+    ],
+    "audioFile": "20260415_daily.mp3",
+    "scriptFile": "20260415_daily.md",
+    "publishedAt": "2026-04-14T20:41:33.613Z"
+  },
+  {
     "id": "20260414_daily",
     "title": "スタラジ 2026年4月14日 配信分",
     "date": "2026-04-14",
