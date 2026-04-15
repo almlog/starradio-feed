@@ -1,5 +1,113 @@
 [
   {
+    "id": "20260416_daily",
+    "title": "スタラジ 2026年4月16日 配信分",
+    "date": "2026-04-16",
+    "broadcastMode": "daily",
+    "durationSec": 428.7120000000005,
+    "durationFormatted": "7:08",
+    "cast": [
+      "ホリケイ",
+      "りっくん",
+      "サヤさん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "GitHub Copilot料金混乱とAIツール競争",
+        "startSec": 39.959999999999994
+      },
+      {
+        "name": "メタのAI研究とClaudeの進化",
+        "startSec": 109.77600000000002
+      },
+      {
+        "name": "巨額買収ラッシュと宇宙ビジネス",
+        "startSec": 160.584
+      },
+      {
+        "name": "エンタメ業界の大型再編",
+        "startSec": 222.95999999999995
+      },
+      {
+        "name": "国内ニュースと社会問題",
+        "startSec": 293.47200000000004
+      },
+      {
+        "name": "データセンター規制と環境問題",
+        "startSec": 335.32800000000026
+      },
+      {
+        "name": "クロージング",
+        "startSec": 390.2640000000004
+      }
+    ],
+    "sources": [
+      {
+        "source": "The Register",
+        "title": "Customers revolt as GitHub Copilot 'fixes' rate limits"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Meta researchers introduce 'hyperagents' to unlock self-improving AI for non-coding tasks"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "We tested Anthropic's redesigned Claude Code desktop app and 'Routines' — here's what enterprises should know"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Amazon to Buy Satellite Company Globalstar for $11.6B"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "SpaceX Plans Site Visits for Large Investors as Mega-IPO Nears"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "CBS 2026-27 Schedule: 'Ghosts,' 'Matlock' Move to Midseason, 'Cupertino' Legal Drama Gets Fall Spot"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "'NCIS' Franchise Expands to New York, LL Cool J Returning as Sam Hanna"
+      },
+      {
+        "source": "Variety",
+        "title": "'NCIS: New York' Starring LL Cool J and Scott Caan Set at CBS"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Live Nation Illegally Monopolized Ticketing Market, Jury Finds"
+      },
+      {
+        "source": "NHK",
+        "title": "熊本地震10年 記憶や教訓の伝承が課題に 初の合同追悼式も"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "神戸市、タワマン「空き部屋課税」試案　導入には課題も"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'If these centers aren't thoughtfully planned and coordinated, they can place extraordinary demands on electric infrastructure, the surrounding environment and host communities': Maine becomes first US state to pass data centre construction ban"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'Maybe it's not science fiction': Solar panels are causing rainwater to fall in one of the driest places on Earth"
+      }
+    ],
+    "audioFile": "20260416_daily.mp3",
+    "scriptFile": "20260416_daily.md",
+    "publishedAt": "2026-04-15T20:50:34.549Z"
+  },
+  {
     "id": "20260415_daily",
     "title": "スタラジ 2026年4月15日 配信分",
     "date": "2026-04-15",
