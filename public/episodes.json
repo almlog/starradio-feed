@@ -1,5 +1,121 @@
 [
   {
+    "id": "20260417_daily",
+    "title": "スタラジ 2026年4月17日 配信分",
+    "date": "2026-04-17",
+    "broadcastMode": "daily",
+    "durationSec": 491.0400000000007,
+    "durationFormatted": "8:11",
+    "cast": [
+      "ヨースケ",
+      "りっくん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "10代創業者の衝撃",
+        "startSec": 52.080000000000005
+      },
+      {
+        "name": "AI開発競争の新局面",
+        "startSec": 142.008
+      },
+      {
+        "name": "Netflixの大転換",
+        "startSec": 222.5039999999999
+      },
+      {
+        "name": "エンタメ業界の新展開",
+        "startSec": 283.65599999999995
+      },
+      {
+        "name": "テクノロジーの驚異",
+        "startSec": 339.33600000000024
+      },
+      {
+        "name": "社会の暗部",
+        "startSec": 396.6720000000005
+      },
+      {
+        "name": "クロージング",
+        "startSec": 450.4080000000006
+      }
+    ],
+    "sources": [
+      {
+        "source": "TechCrunch",
+        "title": "Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Slash CEO on Displacing 'Legacy' Banks With AI Agents"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop"
+      },
+      {
+        "source": "The Register",
+        "title": "Anthropic squeezes enterprises by ejecting bundled tokens from seat deal"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI Takes on Google With New AI Model Aimed at Drug Discovery"
+      },
+      {
+        "source": "The Verge",
+        "title": "Netflix co-founder Reed Hastings is officially leaving the company"
+      },
+      {
+        "source": "Variety",
+        "title": "Reed Hastings to Exit Netflix Board"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Netflix Quarterly Revenue Rocks on Better-Than-Expected Subscriber Growth"
+      },
+      {
+        "source": "The Verge",
+        "title": "Netflix embraces vertical video with major mobile app update"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Maverick Returns: Tom Cruise Confirmed for 'Top Gun 3'"
+      },
+      {
+        "source": "ナタリー",
+        "title": "高橋文哉主演「ブルーロック」で&TEAM・Kが凪誠士郎役、綱啓永や樋口幸平と\"チームV\"に"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'1,000 hp': This record-breaking electric motor packs Tesla Plaid EV power into a beer keg-sized device"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Rolls-Royce launches its most 'ambitious work' to date — as limited edition Project Nightingale takes electric luxury to a new level"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "真相・ニュースの現場から:特殊詐欺「日本人攻略本」発見　タイ・カンボジア国境の拠点で"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "真相・ニュースの現場から:「まるで街」特殊詐欺の拠点に病院や風俗店　日本人「攻略本」も"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "真相・ニュースの現場から:特殊詐欺の被害者証言　海外拠点に残る「記録」と一致"
+      }
+    ],
+    "audioFile": "20260417_daily.mp3",
+    "scriptFile": "20260417_daily.md",
+    "publishedAt": "2026-04-16T20:43:34.338Z"
+  },
+  {
     "id": "20260416_daily",
     "title": "スタラジ 2026年4月16日 配信分",
     "date": "2026-04-16",
