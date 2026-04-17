@@ -1,5 +1,108 @@
 [
   {
+    "id": "20260418_weekly",
+    "title": "スタラジ土曜増刊号 - 2026年4月18日配信分",
+    "date": "2026-04-18",
+    "broadcastMode": "weekly",
+    "durationSec": 524.2080000000008,
+    "durationFormatted": "8:44",
+    "cast": [
+      "みのりん",
+      "もえちゃん"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト",
+        "startSec": 95.35200000000005
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
+        "startSec": 252.5999999999999
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
+        "startSec": 433.8480000000004
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 498.50400000000053
+      }
+    ],
+    "sources": [
+      {
+        "source": "TechCrunch",
+        "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Cursor In Talks to Raise $2 Billion at Over $50 Billion Value"
+      },
+      {
+        "source": "BBC",
+        "title": "Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Zoom teams up with World to verify humans in meetings"
+      },
+      {
+        "source": "WIRED",
+        "title": "Gazing Into Sam Altman's Orb Now Proves You're Human on Tinder"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Anthropic CEO to meet White House chief of staff as US seeks access to Mythos model"
+      },
+      {
+        "source": "The Verge",
+        "title": "Anthropic's new cybersecurity model could get it back in the government's good graces"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "VC Dealmaking Sets Record, But Nearly All Funds Go to AI"
+      },
+      {
+        "source": "NHK",
+        "title": "イラン外相 条件をつけた上で \"ホルムズ海峡を商船に開放\""
+      },
+      {
+        "source": "NHK",
+        "title": "ホルムズ海峡 安全な航行確保へ 英仏主導の会合開催"
+      },
+      {
+        "source": "WIRED",
+        "title": "OpenAI Executive Kevin Weil Is Leaving the Company"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "'Tokenmaxxing' is making developers less productive than they think"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Everything We Know About Olivia Rodrigo's New Album"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Alright, Drake, What's Going on With 'Iceman'?"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "縮小社会に生きる:「旧制一中」名門進学校が定員割れ　元校長「県民に申し訳ない」"
+      },
+      {
+        "source": "Qiita",
+        "title": "claudeは知識にないことを聞くとアホである"
+      }
+    ],
+    "audioFile": "20260418_weekly.mp3",
+    "scriptFile": "20260418_weekly.md",
+    "publishedAt": "2026-04-17T20:45:13.255Z"
+  },
+  {
     "id": "20260417_daily",
     "title": "スタラジ 2026年4月17日 配信分",
     "date": "2026-04-17",
