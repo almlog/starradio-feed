@@ -1,5 +1,129 @@
 [
   {
+    "id": "20260420_daily",
+    "title": "スタラジ 2026年4月20日 配信分",
+    "date": "2026-04-20",
+    "broadcastMode": "daily",
+    "durationSec": 429.0000000000004,
+    "durationFormatted": "7:09",
+    "cast": [
+      "みのりん",
+      "そらちゃん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "宇宙開発とBlue Origin",
+        "startSec": 40.704
+      },
+      {
+        "name": "AI開発者向けツールの進化",
+        "startSec": 115.92000000000004
+      },
+      {
+        "name": "米国・イラン情勢の新展開",
+        "startSec": 195.33599999999998
+      },
+      {
+        "name": "NSAとAnthropic Mythosの関係",
+        "startSec": 252.45599999999993
+      },
+      {
+        "name": "エンタメとコーチェラ音楽祭",
+        "startSec": 307.392
+      },
+      {
+        "name": "日本のエンタメ最新情報",
+        "startSec": 353.1360000000001
+      },
+      {
+        "name": "クロージング",
+        "startSec": 397.2480000000003
+      }
+    ],
+    "sources": [
+      {
+        "source": "The Verge",
+        "title": "Blue Origin successfully reused its New Glenn rocket"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Blue Origin's New Glenn put a customer satellite in the wrong orbit during its third launch"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Blue Origin's rocket reuse achievement marred by upper stage failure"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Blue Origin CEO on Growing Satellite Launch Demands"
+      },
+      {
+        "source": "Qiita",
+        "title": "企業導入前に押さえたいClaude Codeの便利機能12選と現場で活きる3つの組み合わせ例"
+      },
+      {
+        "source": "Qiita",
+        "title": "AI に全部書かせたら、自分には何も残らなかった話"
+      },
+      {
+        "source": "Qiita",
+        "title": "電気料金 API を 110 秒 → 115ms（約 1,000 倍）に高速化した話 ── プロファイラで順にボトルネックを潰す"
+      },
+      {
+        "source": "NHK",
+        "title": "トランプ大統領「私の代表団がパキスタンへ向かっている」"
+      },
+      {
+        "source": "時事通信社",
+        "title": "米代表団「２０日パキスタン入り」　イラン和平、再協議か―停戦期限控え「新提案」"
+      },
+      {
+        "source": "Axios",
+        "title": "Trump says he'll send negotiators to Pakistan, Iran suspects trap"
+      },
+      {
+        "source": "Axios",
+        "title": "Scoop: NSA using Anthropic's Mythos despite Defense Department blacklist"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "See Justin Bieber Bring Out Billie Eilish, SZA at Second Coachella Show"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "See Olivia Rodrigo Debut 'Drop Dead' Live During Addison Rae's Coachella Set"
+      },
+      {
+        "source": "Variety",
+        "title": "The Strokes End Coachella Set With Video Condemning U.S. and Israeli Bombings in Iran and Gaza"
+      },
+      {
+        "source": "ナタリー",
+        "title": "「銀魂」完結以来約7年ぶり、空知英秋の新連載は魔王コメディ！ジャンプで開幕"
+      },
+      {
+        "source": "BARKS",
+        "title": "時速36km、アニメ『ONE PIECE』ED主題歌「その未来」MV公開＋フリーライブをYouTube生配信へ"
+      },
+      {
+        "source": "SPICE",
+        "title": "時速36km、新曲「その未来」のミュージックビデオを公開　フリーライブ『時代』のYouTube生配信が決定"
+      },
+      {
+        "source": "ナタリー",
+        "title": "松村北斗が作った街を初公開　指原莉乃、MAHINA、狩野英孝と楽しむ「ぽこポケ」新CM放送"
+      }
+    ],
+    "audioFile": "20260420_daily.mp3",
+    "scriptFile": "20260420_daily.md",
+    "publishedAt": "2026-04-19T20:46:35.075Z"
+  },
+  {
     "id": "20260418_weekly",
     "title": "スタラジ土曜増刊号 - 2026年4月18日配信分",
     "date": "2026-04-18",
