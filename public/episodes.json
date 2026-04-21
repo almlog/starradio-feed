@@ -1,5 +1,169 @@
 [
   {
+    "id": "20260422_daily",
+    "title": "スタラジ 2026年4月22日 配信分",
+    "date": "2026-04-22",
+    "broadcastMode": "daily",
+    "durationSec": 606.264000000001,
+    "durationFormatted": "10:06",
+    "cast": [
+      "レイナ姐さん",
+      "そらちゃん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Apple CEO交代劇",
+        "startSec": 50.64
+      },
+      {
+        "name": "OpenAI Images 2.0の衝撃",
+        "startSec": 156.288
+      },
+      {
+        "name": "イラン・米国の緊張続く",
+        "startSec": 258.264
+      },
+      {
+        "name": "Framework新型ラップトップ登場",
+        "startSec": 342.7680000000002
+      },
+      {
+        "name": "AIガバナンスの危機",
+        "startSec": 423.3360000000004
+      },
+      {
+        "name": "エンタメニュース速報",
+        "startSec": 487.63200000000063
+      },
+      {
+        "name": "クロージング",
+        "startSec": 538.8720000000006
+      }
+    ],
+    "sources": [
+      {
+        "source": "TechCrunch",
+        "title": "Apple's John Ternus will run one of the world's most powerful companies; the job is a minefield"
+      },
+      {
+        "source": "The Verge",
+        "title": "Tim Cook was an innovator — just not the Jobs kind"
+      },
+      {
+        "source": "Financial Times",
+        "title": "John Ternus is probably 50 years old"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'This is not goodbye' : Tim Cook makes it clear he's not walking away from Apple"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Tim Cook Turned Apple Into a Hollywood Power Player. Does the New CEO Feel the Same Way?"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Apple Isn't on Right Path for AI, Piecyck Says"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "ChatGPT's new Images 2.0 model is surprisingly good at generating text"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly"
+      },
+      {
+        "source": "WIRED",
+        "title": "OpenAI Beefs Up ChatGPT's Image Generation Model"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI Unveils New Image Model That's Better at Charts and Diagrams"
+      },
+      {
+        "source": "The Verge",
+        "title": "OpenAI's updated image generator can now pull information from the web"
+      },
+      {
+        "source": "ZDNet",
+        "title": "I got an early look at ChatGPT Images 2.0, and it's impressive - with one exception"
+      },
+      {
+        "source": "Axios",
+        "title": "Images in ChatGPT are getting a major update"
+      },
+      {
+        "source": "Axios",
+        "title": "Trump extends Iran ceasefire, citing \"fractured\" Iranian government"
+      },
+      {
+        "source": "Axios",
+        "title": "Vance's Pakistan trip postponed indefinitely as Iran boycotts peace talks"
+      },
+      {
+        "source": "時事通信社",
+        "title": "米軍の海上封鎖「戦争行為」　イラン外相"
+      },
+      {
+        "source": "EURACTIV Media Network",
+        "title": "Iran talks on hold because of Trump's blockade"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Iran alleges systematic sabotage of US-made networking infrastructure mid-conflict — hardware shut down and rebooted despite internet blackout"
+      },
+      {
+        "source": "WIRED",
+        "title": "Framework Has a Better, More Take-Apart-Able Laptop"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype"
+      },
+      {
+        "source": "ZDNet",
+        "title": "I saw Framework's new 'MacBook Pro for Linux' and it's the hardware enthusiasts deserve"
+      },
+      {
+        "source": "The Verge",
+        "title": "Framework's Laptop 13 Pro launch event"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "The AI governance mirage: Why 72% of enterprises don't have the control and security they think they do"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Elite law firm Sullivan & Cromwell admits to AI 'hallucinations'"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Drake's 'Iceman' Release Date Revealed"
+      },
+      {
+        "source": "SPICE",
+        "title": "山下達郎、新曲「Finally Free」が「オールフリー〈エールテイスト〉」の新TV-CMに起用【コメントあり】"
+      },
+      {
+        "source": "Variety",
+        "title": "Netflix India's New-Talent Bet Lands Three Films in Global Top 10 as 'Toaster' Hits No. 1 (EXCLUSIVE)"
+      }
+    ],
+    "audioFile": "20260422_daily.mp3",
+    "scriptFile": "20260422_daily.md",
+    "publishedAt": "2026-04-21T20:45:16.028Z"
+  },
+  {
     "id": "20260421_daily",
     "title": "スタラジ 2026年4月21日 配信分",
     "date": "2026-04-21",
