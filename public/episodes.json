@@ -1,5 +1,85 @@
 [
   {
+    "id": "20260501_daily",
+    "title": "スタラジ 2026年5月1日 配信分",
+    "date": "2026-05-01",
+    "broadcastMode": "daily",
+    "durationSec": 423.8400000000006,
+    "durationFormatted": "7:03",
+    "cast": [
+      "ヨースケ",
+      "りっくん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Google vs OpenAI の熾烈な競争",
+        "startSec": 59.064
+      },
+      {
+        "name": "Cursorの超絶評価額",
+        "startSec": 132.72000000000003
+      },
+      {
+        "name": "政治とテクノロジーの交差点",
+        "startSec": 215.59199999999996
+      },
+      {
+        "name": "エンタメ業界の大ニュース",
+        "startSec": 282.4560000000001
+      },
+      {
+        "name": "ゲーム業界の新展開",
+        "startSec": 329.42400000000026
+      },
+      {
+        "name": "クロージング",
+        "startSec": 393.4560000000005
+      }
+    ],
+    "sources": [
+      {
+        "source": "heise online",
+        "title": "Google steckt bis zu 40 Milliarden Dollar mehr in Anthropic"
+      },
+      {
+        "source": "Financial Times",
+        "title": "AI data centre emissions vastly underestimated, UK admits"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Apple's new CEO, and why Elon Musk wants to buy Cursor for $60B"
+      },
+      {
+        "source": "EURACTIV Media Network",
+        "title": "Europeans must recognize US, China and Russia are 'dead against' us, says Macron"
+      },
+      {
+        "source": "Axios",
+        "title": "DOJ drops criminal probe into Fed chair Jerome Powell"
+      },
+      {
+        "source": "Axios",
+        "title": "Witkoff and Kushner to meet Iranian foreign minister in Pakistan: White House"
+      },
+      {
+        "source": "Variety",
+        "title": "Jake Reiner Shares Emotional Tribute to Late Parents Rob Reiner and Michelle Singer: 'This Truly Is My Living Nightmare'"
+      },
+      {
+        "source": "4Gamer.net",
+        "title": "最新拡張パッケージ「ファイナルファンタジーXIV"
+      }
+    ],
+    "audioFile": "20260501_daily.mp3",
+    "scriptFile": "20260501_daily.md",
+    "publishedAt": "2026-04-30T20:42:11.345Z"
+  },
+  {
     "id": "20260424_daily",
     "title": "スタラジ 2026年4月24日 配信分",
     "date": "2026-04-24",
