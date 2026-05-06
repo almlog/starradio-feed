@@ -1,5 +1,145 @@
 [
   {
+    "id": "20260507_daily",
+    "title": "スタラジ 2026年5月7日 配信分",
+    "date": "2026-05-07",
+    "broadcastMode": "daily",
+    "durationSec": 897.5040000000008,
+    "durationFormatted": "14:57",
+    "cast": [
+      "ホリケイ",
+      "そらちゃん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AnthropicとSpaceX、まさかのコンピュート連合",
+        "startSec": 59.976
+      },
+      {
+        "name": "Claudeが「夢を見る」Managed Agents新機能",
+        "startSec": 226.03199999999998
+      },
+      {
+        "name": "AIが専門医を3年先回りする時代",
+        "startSec": 340.20000000000016
+      },
+      {
+        "name": "イラン合意進展、原油急落",
+        "startSec": 455.5680000000004
+      },
+      {
+        "name": "ウクライナの「ロボット戦争」と防衛AI",
+        "startSec": 578.8320000000004
+      },
+      {
+        "name": "政府AI「源内」、霞が関で答弁作成",
+        "startSec": 682.8480000000005
+      },
+      {
+        "name": "エンタメ: 伊藤沙莉のクレしん初参戦＆B'zがW杯",
+        "startSec": 776.5680000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 851.4720000000008
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic Inks Computing Deal With SpaceX to Meet AI Demand"
+      },
+      {
+        "source": "Financial Times",
+        "title": "SpaceX to rent data centre capacity to Anthropic"
+      },
+      {
+        "source": "WIRED",
+        "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "SpaceX may spend up to $119B on 'Terafab' chip factory in Texas"
+      },
+      {
+        "source": "The Register",
+        "title": "Musk has never built a wafer fab, but he wants to burn $119B on one anyway"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Microsoft's AI data center push is colliding with its clean power goals"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of"
+      },
+      {
+        "source": "ZDNet",
+        "title": "Your Claude agents can 'dream' now - how Anthropic's new feature works"
+      },
+      {
+        "source": "DevelopersIO",
+        "title": "【速報】Claude Managed Agents Outcomes試してみた"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'Change in technology that will reshape medicine': Leading medical experts say new AI reasoning models are so good they outperform even the best specialist doctors"
+      },
+      {
+        "source": "GIGAZINE",
+        "title": "専門医よりも3年早くガンを見つけるAIが誕生、通常のCT画像の「見えない変化」を検出"
+      },
+      {
+        "source": "Axios",
+        "title": "Trump optimistic as U.S. awaits Iran's response to peace framework"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "NY原油急落、一時90ドル割れ　供給不安解消の見方広がる"
+      },
+      {
+        "source": "時事通信社",
+        "title": "ホルムズ通航支援を一時停止　米大統領、イランと「大きな進展」―最終合意へ３０日間交渉か"
+      },
+      {
+        "source": "WIRED",
+        "title": "Trump's Team Wants Him to Accept an Iran Deal He's Already Rejected"
+      },
+      {
+        "source": "BBC",
+        "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Meta-Backed Scale AI Wins $500 Million Defense Department Deal"
+      },
+      {
+        "source": "時事通信社",
+        "title": "ＡＩ「源内」で答弁作成へ　政府職員１８万人、連休明け実証開始"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "総務省が自治体にサイバー対策「義務化」、中国製品排除せずも選定を厳格に"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "伊藤沙莉『映画クレヨンしんちゃん』シリーズ初参加で喜び爆発　兄にも先越され「やっと来た！」"
+      },
+      {
+        "source": "ナタリー",
+        "title": "B'zが「FIFAワールドカップ2026」を盛り上げる、日テレ系サッカーテーマソングを担当"
+      }
+    ],
+    "audioFile": "20260507_daily.mp3",
+    "scriptFile": "20260507_daily.md",
+    "publishedAt": "2026-05-06T20:56:48.332Z"
+  },
+  {
     "id": "20260502_weekly",
     "title": "スタラジ全員集合スペシャル 2026年5月2日配信 〜復活記念・緊急特番〜",
     "date": "2026-05-02",
