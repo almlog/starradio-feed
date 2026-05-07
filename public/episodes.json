@@ -1,5 +1,125 @@
 [
   {
+    "id": "20260508_daily",
+    "title": "スタラジ 2026年5月8日 配信分",
+    "date": "2026-05-08",
+    "broadcastMode": "daily",
+    "durationSec": 762.3600000000007,
+    "durationFormatted": "12:42",
+    "cast": [
+      "ヨースケ",
+      "そらちゃん",
+      "レイジ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "磐越道バス事故と部活送迎の安全",
+        "startSec": 50.784000000000006
+      },
+      {
+        "name": "再審制度の見直しと福井事件",
+        "startSec": 190.008
+      },
+      {
+        "name": "AppleのAIデバイス戦略とAirPodsカメラ",
+        "startSec": 317.49600000000004
+      },
+      {
+        "name": "Bumble、スワイプを捨てる",
+        "startSec": 413.3760000000002
+      },
+      {
+        "name": "予測市場Kalshiが評価額220億ドル",
+        "startSec": 515.6160000000003
+      },
+      {
+        "name": "エンタメ枠：訃報・100巻・コナン100億",
+        "startSec": 616.8240000000005
+      },
+      {
+        "name": "クロージング",
+        "startSec": 731.7600000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "NHK",
+        "title": "磐越道 高校生ら21人死傷事故 過失運転致死傷容疑で運転手逮捕"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "磐越道バス事故、運転手を逮捕　過失致死傷容疑　ブレーキ痕なく"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "部活バス事故「人ごとじゃない」　足りない予算、安全は現場任せ"
+      },
+      {
+        "source": "NHK",
+        "title": "再審制度見直し 検察不服申し立て原則禁止 本則か付則かで調整"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "検察抗告の原則禁止、本則化へ調整する方針を表明　再審法案で自民党"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "法務省、証拠開示「消極的」と反省　再審無罪の福井中3殺害で"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Apple's Camera-Equipped AirPods Reach Late Testing in AI Device Push"
+      },
+      {
+        "source": "The Verge",
+        "title": "Apple's AirPods with cameras for AI are apparently close to production"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Bumble is getting rid of the swipe, CEO says"
+      },
+      {
+        "source": "Axios",
+        "title": "Bumble CEO reveals it's killing off the swipe on \"The Axios Show\""
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Kalshi doubles valuation in 5 months, hitting $22B"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Kalshi valuation quadruples to $22bn in less than a year"
+      },
+      {
+        "source": "GIGAZINE",
+        "title": "予測市場「Polymarket」はユーザーのわずか0.1％だけが全利益の67％を獲得している、「最も頻繁に取引を行うトレーダーが最も成功している」という構図"
+      },
+      {
+        "source": "ナタリー",
+        "title": "俳優・大葉健二が死去、「宇宙刑事ギャバン」一条寺烈役など特撮作品で人気博す"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "「宇宙刑事ギャバン」一条寺烈役・大葉健二さん、72歳で死去"
+      },
+      {
+        "source": "ナタリー",
+        "title": "本日100巻発売の「弱虫ペダル」99巻までLINEマンガで無料公開、100時間限定で"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "映画『名探偵コナン』4作連続で興収100億円突破　邦画史上初の快挙達成"
+      }
+    ],
+    "audioFile": "20260508_daily.mp3",
+    "scriptFile": "20260508_daily.md",
+    "publishedAt": "2026-05-07T20:52:00.975Z"
+  },
+  {
     "id": "20260507_daily",
     "title": "スタラジ 2026年5月7日 配信分",
     "date": "2026-05-07",
