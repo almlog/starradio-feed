@@ -1,5 +1,152 @@
 [
   {
+    "id": "20260509_weekly",
+    "title": "スタラジ 土曜増刊号 2026年5月9日",
+    "date": "2026-05-09",
+    "broadcastMode": "weekly",
+    "durationSec": 1038.912000000001,
+    "durationFormatted": "17:18",
+    "cast": [
+      "もえちゃん",
+      "みのりん"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト",
+        "startSec": 218.83199999999994
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
+        "startSec": 379.60800000000023
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
+        "startSec": 874.2000000000011
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 996.408000000001
+      }
+    ],
+    "sources": [
+      {
+        "source": "毎日新聞社",
+        "title": "NY原油急落、一時90ドル割れ　供給不安解消の見方広がる"
+      },
+      {
+        "source": "時事通信社",
+        "title": "ホルムズ通航支援を一時停止　米大統領、イランと「大きな進展」―最終合意へ３０日間交渉か"
+      },
+      {
+        "source": "ナタリー",
+        "title": "B'zが「FIFAワールドカップ2026」を盛り上げる、日テレ系サッカーテーマソングを担当"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "SpaceX may spend up to $119B on 'Terafab' chip factory in Texas"
+      },
+      {
+        "source": "WIRED",
+        "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic Inks Computing Deal With SpaceX to Meet AI Demand"
+      },
+      {
+        "source": "The Register",
+        "title": "Musk has never built a wafer fab, but he wants to burn $119B on one anyway"
+      },
+      {
+        "source": "DevelopersIO",
+        "title": "【速報】Claude Managed Agents Outcomes試してみた"
+      },
+      {
+        "source": "GIGAZINE",
+        "title": "予測市場「Polymarket」はユーザーのわずか0.1％だけが全利益の67％を獲得している、「最も頻繁に取引を行うトレーダーが最も成功している」という構図"
+      },
+      {
+        "source": "NHK",
+        "title": "磐越道 高校生ら21人死傷事故 過失運転致死傷容疑で運転手逮捕"
+      },
+      {
+        "source": "NHK",
+        "title": "再審制度見直し 検察不服申し立て原則禁止 本則か付則かで調整"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "部活バス事故「人ごとじゃない」　足りない予算、安全は現場任せ"
+      },
+      {
+        "source": "ナタリー",
+        "title": "本日100巻発売の「弱虫ペダル」99巻までLINEマンガで無料公開、100時間限定で"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "「宇宙刑事ギャバン」一条寺烈役・大葉健二さん、72歳で死去"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "映画『名探偵コナン』4作連続で興収100億円突破　邦画史上初の快挙達成"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high"
+      },
+      {
+        "source": "WIRED",
+        "title": "Tesla's Latest Recall? Wheels May Fall Off Cybertrucks"
+      },
+      {
+        "source": "The Verge",
+        "title": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic Inks $1.8 Billion Computing Deal With Akamai"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Chipmaker Cerebras Is Said to Plan Raising IPO Price Range"
+      },
+      {
+        "source": "TechRadar",
+        "title": "The Netherlands' ambitious homegrown AI model enters the real world"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'We're going through the single largest infrastructure buildout in human history': Jensen Huang says new Nvidia AI partnership will 'revitalize American manufacturing'"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Chris Hohn's hedge fund slashes $8bn Microsoft stake in warning over AI disruption"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Nintendo raises Switch 2 prices as profits disappoint"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Big Tech's $725bn AI spending spree sends free cash flow to a decade low"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Anthropic weighs deal for near $1tn valuation as revenue surges"
+      }
+    ],
+    "audioFile": "20260509_weekly.mp3",
+    "scriptFile": "20260509_weekly.md",
+    "publishedAt": "2026-05-08T20:59:56.515Z"
+  },
+  {
     "id": "20260508_daily",
     "title": "スタラジ 2026年5月8日 配信分",
     "date": "2026-05-08",
