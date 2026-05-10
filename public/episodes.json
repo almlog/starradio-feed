@@ -1,5 +1,117 @@
 [
   {
+    "id": "20260511_daily",
+    "title": "スタラジ 2026年5月11日 配信分",
+    "date": "2026-05-11",
+    "broadcastMode": "daily",
+    "durationSec": 705.6480000000008,
+    "durationFormatted": "11:45",
+    "cast": [
+      "みのりん",
+      "りっくん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AI開発ツールの使い分けトレンド",
+        "startSec": 37.224
+      },
+      {
+        "name": "ChatGPTで医師に反論しないで問題",
+        "startSec": 175.656
+      },
+      {
+        "name": "中東情勢、ホルムズ封鎖回避に向けて続報",
+        "startSec": 280.08000000000004
+      },
+      {
+        "name": "磐越道バス事故、続報は「制度の穴」へ",
+        "startSec": 396.0000000000002
+      },
+      {
+        "name": "世界卓球、日本男女アベック銀メダル",
+        "startSec": 490.7040000000004
+      },
+      {
+        "name": "エンタメ枠、Dua Lipaがサムスン提訴とKacey Musgraves首位",
+        "startSec": 578.0400000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 679.6560000000009
+      }
+    ],
+    "sources": [
+      {
+        "source": "Zenn",
+        "title": "GitHub Actionsで毎朝OpenAI APIを叩くのをやめて、Codex Automationsに寄せた"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "「Browser Use」を導入、既存ブラウザをAI対応に"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "Gemini本命でも使い分けが正解、ChatGPTとCopilotの得意技"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'It feels like a slap in the face' — never fact-check your doctor with ChatGPT as study shows doing so 'undermines' your relationship with human experts — and could even offend them by making them feel 'disrespected'"
+      },
+      {
+        "source": "時事通信社",
+        "title": "イランが米国案に回答　戦闘終結とホルムズ焦点―報道"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "イラン、米の戦闘終結案にパキスタン通じ回答　国営メディア報道"
+      },
+      {
+        "source": "時事通信社",
+        "title": "米財務長官、１１日から訪日表明　高市首相・片山財務相らと会談"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "部活バス事故、識者「構造的問題」　あいまいさで見過ごされたリスク"
+      },
+      {
+        "source": "NHK",
+        "title": "磐越道バス事故 過去遠征でもレンタカー「依頼は一度もない」"
+      },
+      {
+        "source": "時事通信社",
+        "title": "過去に「レンタカー代」の請求書　遠征で手配、顧問「見逃した」―北越高が会見・磐越道事故"
+      },
+      {
+        "source": "NHK",
+        "title": "卓球団体世界選手権 日本男子4大会ぶり銀 決勝で中国に敗れる"
+      },
+      {
+        "source": "NHK",
+        "title": "卓球団体世界選手権 日本女子6大会連続銀 決勝で中国に敗れる"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "世界卓球女子　日本は6大会連続の銀メダル　中国は7大会連続V"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Dua Lipa Sues Samsung for $15 Million for Using Her Face to Sell TVs"
+      },
+      {
+        "source": "Variety",
+        "title": "Kacey Musgraves Has Career-Best Opening Week With 'Middle of Nowhere,' as Michael Jackson Lands Two Albums in the Top 10"
+      }
+    ],
+    "audioFile": "20260511_daily.mp3",
+    "scriptFile": "20260511_daily.md",
+    "publishedAt": "2026-05-10T20:51:28.537Z"
+  },
+  {
     "id": "20260509_weekly",
     "title": "スタラジ 土曜増刊号 2026年5月9日",
     "date": "2026-05-09",
