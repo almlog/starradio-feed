@@ -1,5 +1,93 @@
 [
   {
+    "id": "20260512_daily",
+    "title": "スタラジ 2026年5月12日 配信分",
+    "date": "2026-05-12",
+    "broadcastMode": "daily",
+    "durationSec": 684.912000000001,
+    "durationFormatted": "11:24",
+    "cast": [
+      "もえちゃん",
+      "りっくん",
+      "レイジ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AI評価額バブルの正体",
+        "startSec": 37.488
+      },
+      {
+        "name": "マスク対オープンAI裁判",
+        "startSec": 188.112
+      },
+      {
+        "name": "TikTok月600円サブスクとAngi",
+        "startSec": 295.56
+      },
+      {
+        "name": "トランプ連邦ガソリン税停止と日本のEV",
+        "startSec": 418.94400000000024
+      },
+      {
+        "name": "エンタメ：アンナ・サワイの響アンバサダーとRaye主演デビュー",
+        "startSec": 531.4560000000005
+      },
+      {
+        "name": "クロージング",
+        "startSec": 646.7760000000009
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Chipmaker Cerebras Seeks $4.8 Billion in Upsized IPO | Bloomberg Tech 5/11/2026"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Microsoft Targeted $92 Billion Return on Early OpenAI Investment"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Sutskever Says His OpenAI Stake Worth About $7 Billion"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Inside the Elon Musk-OpenAI Trial Courtroom"
+      },
+      {
+        "source": "BBC",
+        "title": "TikTok launches £3.99 subscription for no ads in UK"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Angi Becomes Latest Company to Announce AI Pivot"
+      },
+      {
+        "source": "Axios",
+        "title": "Trump backs federal gas tax suspension"
+      },
+      {
+        "source": "NHK",
+        "title": "アメリカでのEV計画 日本メーカーの見直し加速 需要減少で"
+      },
+      {
+        "source": "Variety",
+        "title": "Anna Sawai Lands New Role As Global Ambassador for Hibiki Whisky"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Raye Lands First Major Acting Role in Upcoming Crime Drama"
+      }
+    ],
+    "audioFile": "20260512_daily.mp3",
+    "scriptFile": "20260512_daily.md",
+    "publishedAt": "2026-05-11T20:46:43.864Z"
+  },
+  {
     "id": "20260511_daily",
     "title": "スタラジ 2026年5月11日 配信分",
     "date": "2026-05-11",
