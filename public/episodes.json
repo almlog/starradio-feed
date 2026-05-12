@@ -1,5 +1,93 @@
 [
   {
+    "id": "20260513_daily",
+    "title": "スタラジ 2026年5月13日 配信分",
+    "date": "2026-05-13",
+    "broadcastMode": "daily",
+    "durationSec": 706.4880000000007,
+    "durationFormatted": "11:46",
+    "cast": [
+      "レイナ姐さん",
+      "りっくん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AI検索とトークン経済",
+        "startSec": 40.056
+      },
+      {
+        "name": "iOS 27のカメラとSiri刷新",
+        "startSec": 179.61599999999999
+      },
+      {
+        "name": "中東緊張とトランプ訪中",
+        "startSec": 289.24800000000005
+      },
+      {
+        "name": "Samsung労組決裂と半導体株",
+        "startSec": 422.0640000000004
+      },
+      {
+        "name": "カンヌ開幕とエンタメ多彩",
+        "startSec": 533.9520000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 679.0560000000008
+      }
+    ],
+    "sources": [
+      {
+        "source": "日経xTECH",
+        "title": "Google検索の「AIモード」、対話形式でベスト回答を素早く引き出す"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "【独自調査】日本語でAIを使うと「約1.5倍」高く付く？　AI利用のコスパを左右する“トークン効率”を比較"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Apple Plans Customizable Camera for Pros, Siri Design Changes in iOS 27"
+      },
+      {
+        "source": "WIRED",
+        "title": "Iran Is Using Tiny ‘Mosquito’ Boats to Shut Down the Strait of Hormuz"
+      },
+      {
+        "source": "NHK",
+        "title": "トランプ大統領 中国へ出発 経済・台湾・イランなど議論"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Samsung’s Labor Talks Fail, Yonhap Says, as Strike Looms"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Chip Stocks Drag Market Lower in Worrying Sign for Momentum Bet"
+      },
+      {
+        "source": "Variety",
+        "title": "‘The Electric Kiss’ Review: Cannes Opens With a Thud — a ‘Light’ French Period Romance About an Artist and a Fake Psychic, but the Movie Is Inert"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Charli XCX Somehow Found Time to Join Headphone Brand Nothing as Its First Global Ambassador"
+      },
+      {
+        "source": "ナタリー",
+        "title": "緑黄色社会「バレーボール アジア選手権」テーマソング担当！石川祐希や髙橋藍への取材経て完成"
+      }
+    ],
+    "audioFile": "20260513_daily.mp3",
+    "scriptFile": "20260513_daily.md",
+    "publishedAt": "2026-05-12T20:51:25.465Z"
+  },
+  {
     "id": "20260512_daily",
     "title": "スタラジ 2026年5月12日 配信分",
     "date": "2026-05-12",
