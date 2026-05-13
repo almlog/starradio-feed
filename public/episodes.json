@@ -1,5 +1,109 @@
 [
   {
+    "id": "20260514_daily",
+    "title": "スタラジ 2026年5月14日 配信分",
+    "date": "2026-05-14",
+    "broadcastMode": "daily",
+    "durationSec": 827.8320000000007,
+    "durationFormatted": "13:47",
+    "cast": [
+      "ホリケイ",
+      "りっくん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AIメガディール最前線",
+        "startSec": 56.376000000000005
+      },
+      {
+        "name": "フロンティアAIの危険な癖",
+        "startSec": 202.60799999999995
+      },
+      {
+        "name": "AI時代の労働市場の歪み",
+        "startSec": 320.9280000000001
+      },
+      {
+        "name": "ロシア・ウクライナ和平への新提案",
+        "startSec": 434.49600000000027
+      },
+      {
+        "name": "燃料価格とEV、地熱の台頭",
+        "startSec": 552.0000000000003
+      },
+      {
+        "name": "朝のエンタメ便",
+        "startSec": 671.2560000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 797.5200000000006
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic in Talks to Raise $30 Billion at a $900 Billion Valuation"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Chipmaker Cerebras Expects to Price Its IPO at $185 Per Share"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Musk's xAI Races to Get Wall Street Firms to Use Grok Chatbot"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Frontier AI models don't just delete document content — they rewrite it, and the errors are nearly impossible to catch"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Hackers Are Already Using AI to Beef Up Their Attacks, Hide Their Activity"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Cisco Gives Better-Than-Anticipated Forecast, Plans to Cut Jobs"
+      },
+      {
+        "source": "heise online",
+        "title": "Linkedin: Mehr Umsatz, weniger Arbeitsplätze"
+      },
+      {
+        "source": "NHK",
+        "title": "ラブロフ外相 日本のロシア産原油輸入に反対しない考え示す"
+      },
+      {
+        "source": "NHK",
+        "title": "ロシア ウクライナ4州から軍が撤退すれば和平交渉可能に"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Fuel Prices Drive Sales of E.V.s, Just Not in the U.S."
+      },
+      {
+        "source": "The New York Times",
+        "title": "A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public"
+      },
+      {
+        "source": "Variety",
+        "title": "'KPop Demon Hunters' Global Concert Tour Set by Netflix and AEG Presents"
+      },
+      {
+        "source": "ナタリー",
+        "title": "坂口健太郎が海外共同製作ドラマ「kiDnap GAME」で主演、妻を救うため命懸けのゲームに挑む"
+      }
+    ],
+    "audioFile": "20260514_daily.mp3",
+    "scriptFile": "20260514_daily.md",
+    "publishedAt": "2026-05-13T20:51:57.099Z"
+  },
+  {
     "id": "20260513_daily",
     "title": "スタラジ 2026年5月13日 配信分",
     "date": "2026-05-13",
