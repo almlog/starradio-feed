@@ -1,5 +1,101 @@
 [
   {
+    "id": "20260515_daily",
+    "title": "スタラジ 2026年5月15日 配信分",
+    "date": "2026-05-15",
+    "broadcastMode": "daily",
+    "durationSec": 705.3360000000008,
+    "durationFormatted": "11:45",
+    "cast": [
+      "ヨースケ",
+      "りっくん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Cerebras上場、初値89%高で年内最大のIPO",
+        "startSec": 32.448
+      },
+      {
+        "name": "OpenAI、Appleを提訴検討＆マイクロソフトCEOが裁判で証言",
+        "startSec": 181.60799999999998
+      },
+      {
+        "name": "AIデータセンターが家庭の電気代を76%押し上げる現実",
+        "startSec": 322.536
+      },
+      {
+        "name": "中国がボーイング200機購入、米中首脳会談の成果",
+        "startSec": 452.32800000000043
+      },
+      {
+        "name": "エンタメ：蒼井優18年ぶり連ドラ主演＆ダチョウ倶楽部40周年",
+        "startSec": 561.3120000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 670.3920000000008
+      }
+    ],
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Cerebras CEO Is Worth $3.2 Billion After Year's Largest IPO"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn't take the meeting"
+      },
+      {
+        "source": "Financial Times",
+        "title": "OpenAI considering legal action against Apple over iPhone AI deal"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Microsoft's C.E.O. testified about the company's OpenAI investments."
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Buildout Drives 76% Power Bill Jump on Largest US Grid"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Applied Materials' Sales Forecast Gets Boost From AI Demand"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "中国、米ボーイングから200機購入で合意　トランプ氏が表明"
+      },
+      {
+        "source": "NHK",
+        "title": "日本政府 米中首脳会談の内容把握進める 日米電話会談を調整"
+      },
+      {
+        "source": "ナタリー",
+        "title": "蒼井優の主演ドラマ「Tシャツが乾くまで」7月放送スタート、脚本は「silent」生方美久"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "蒼井優、18年ぶり地上波連ドラ主演　「silent」脚本・生方美久とタッグのTBS7月期「Tシャツが乾くまで」放送決定"
+      },
+      {
+        "source": "ナタリー",
+        "title": "「ダチョウ倶楽部40周年感謝祭」片岡鶴太郎、爆笑問題、劇団ひとりら追加出演決定"
+      }
+    ],
+    "audioFile": "20260515_daily.mp3",
+    "scriptFile": "20260515_daily.md",
+    "publishedAt": "2026-05-14T20:49:50.580Z"
+  },
+  {
     "id": "20260514_daily",
     "title": "スタラジ 2026年5月14日 配信分",
     "date": "2026-05-14",
