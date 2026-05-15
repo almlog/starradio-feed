@@ -1,5 +1,132 @@
 [
   {
+    "id": "20260516_weekly",
+    "title": "スタラジ 土曜増刊号 — 2026年5月16日（土）",
+    "date": "2026-05-16",
+    "broadcastMode": "weekly",
+    "durationSec": 1039.6560000000013,
+    "durationFormatted": "17:19",
+    "cast": [
+      "ヨースケ",
+      "ホリケイ"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング ＋ プライベートトーク",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト",
+        "startSec": 200.75999999999993
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
+        "startSec": 398.5680000000002
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？",
+        "startSec": 873.3840000000013
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 995.4480000000015
+      }
+    ],
+    "sources": [
+      {
+        "source": "ナタリー",
+        "title": "蒼井優の主演ドラマ「Tシャツが乾くまで」7月放送スタート、脚本は「silent」生方美久"
+      },
+      {
+        "source": "Variety",
+        "title": "Anna Sawai Lands New Role As Global Ambassador for Hibiki Whisky"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "US Is Starting to See Heavy Job Losses in Roles Exposed to AI"
+      },
+      {
+        "source": "The Register",
+        "title": "AI agents show they can create exploits, not just find vulns"
+      },
+      {
+        "source": "WIRED",
+        "title": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "きょうから名人戦第4局　藤井4連覇か　糸谷初白星か"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Cerebras CEO Is Worth $3.2 Billion After Year's Largest IPO"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Chipmaker Cerebras Expects to Price Its IPO at $185 Per Share"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Inside the Elon Musk-OpenAI Trial Courtroom"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Microsoft Targeted $92 Billion Return on Early OpenAI Investment"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic in Talks to Raise $30 Billion at a $900 Billion Valuation"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Buildout Drives 76% Power Bill Jump on Largest US Grid"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "中国、米ボーイングから200機購入で合意　トランプ氏が表明"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "トランプ氏、中国企業への制裁解除検討か　イラン原油購入巡り"
+      },
+      {
+        "source": "NHK",
+        "title": "卓球団体世界選手権 日本男子4大会ぶり銀 決勝で中国に敗れる"
+      },
+      {
+        "source": "NHK",
+        "title": "卓球団体世界選手権 日本女子6大会連続銀 決勝で中国に敗れる"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "General Catalyst posted VC rage bait and it worked, especially on a16z"
+      },
+      {
+        "source": "The Register",
+        "title": "LocalSend puts your sneakernet out of business"
+      },
+      {
+        "source": "Hacker News",
+        "title": "ABC News has taken all FiveThirtyEight articles offline"
+      },
+      {
+        "source": "Financial Times",
+        "title": "OpenAI considering legal action against Apple over iPhone AI deal"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Apple Plans Customizable Camera for Pros, Siri Design Changes in iOS 27"
+      }
+    ],
+    "audioFile": "20260516_weekly.mp3",
+    "scriptFile": "20260516_weekly.md",
+    "publishedAt": "2026-05-15T20:59:59.172Z"
+  },
+  {
     "id": "20260515_daily",
     "title": "スタラジ 2026年5月15日 配信分",
     "date": "2026-05-15",
