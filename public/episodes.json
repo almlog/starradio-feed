@@ -1,5 +1,113 @@
 [
   {
+    "id": "20260519_daily",
+    "title": "スタラジ 2026年5月19日 配信分",
+    "date": "2026-05-19",
+    "broadcastMode": "daily",
+    "durationSec": 784.7760000000006,
+    "durationFormatted": "13:04",
+    "cast": [
+      "もえちゃん",
+      "そらちゃん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Musk対OpenAI訴訟、判決",
+        "startSec": 38.112
+      },
+      {
+        "name": "中東情勢、攻撃停止と日本への波及",
+        "startSec": 186.83999999999995
+      },
+      {
+        "name": "NVIDIA決算ウィークとAIインフラ熱",
+        "startSec": 307.824
+      },
+      {
+        "name": "Anthropic、開発ツール企業を買収",
+        "startSec": 433.9200000000003
+      },
+      {
+        "name": "伊藤沙莉、大泉洋主演ドラマに参加",
+        "startSec": 552.5520000000005
+      },
+      {
+        "name": "J-POPトリオNumber_iが米Atlantic Recordsと契約",
+        "startSec": 652.1520000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 749.4960000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "Financial Times",
+        "title": "Musk loses case against OpenAI after two hours of jury deliberations"
+      },
+      {
+        "source": "BBC",
+        "title": "Elon Musk just lost another lawsuit. Will he keep fighting?"
+      },
+      {
+        "source": "EURACTIV Media Network",
+        "title": "Trump delays major strikes on Iran at request of Middle East leaders"
+      },
+      {
+        "source": "Axios",
+        "title": "Trump says he's pausing plan to attack Iran"
+      },
+      {
+        "source": "NHK",
+        "title": "中東情勢受け 電気・ガス料金の支援策など対策調整 政府・与党"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "高市首相、シャトル外交で訪韓へ　米中会談直後に連携アピールへ"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Nvidia Earnings This Week; Biggest Power Deal in History | Bloomberg Tech 5/18/2026"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Inside Meta's $200 Billion Louisiana Data Center Bet"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Nvidia's Huang, Michael Dell on Agentic AI, Memory Demand and China"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "半導体市場、28年にメモリー価格下落で縮小　米ガートナー"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "半導体やAI、造船など産業集積へ　政府、「戦略」素案を公表"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare"
+      },
+      {
+        "source": "ナタリー",
+        "title": "伊藤沙莉、大泉洋主演のドラマ「俺たちの箱根駅伝」に参加　今年の生中継を見学していた"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "J-pop Trio Number_i Signs With Atlantic Records, Working on New Music Out Later This Year"
+      }
+    ],
+    "audioFile": "20260519_daily.mp3",
+    "scriptFile": "20260519_daily.md",
+    "publishedAt": "2026-05-18T20:50:34.707Z"
+  },
+  {
     "id": "20260518_daily",
     "title": "スタラジ 2026年5月18日 配信分",
     "date": "2026-05-18",
