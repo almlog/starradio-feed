@@ -1,5 +1,101 @@
 [
   {
+    "id": "20260520_daily",
+    "title": "スタラジ 2026年5月20日 配信分",
+    "date": "2026-05-20",
+    "broadcastMode": "daily",
+    "durationSec": 790.2960000000012,
+    "durationFormatted": "13:10",
+    "cast": [
+      "レイナ姐さん",
+      "そらちゃん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Google I/O 2026",
+        "startSec": 38.83200000000001
+      },
+      {
+        "name": "Metaの8000人レイオフ",
+        "startSec": 185.97600000000003
+      },
+      {
+        "name": "日韓首脳のエネルギー協力",
+        "startSec": 299.0640000000001
+      },
+      {
+        "name": "AIスキルと働き方",
+        "startSec": 407.8320000000004
+      },
+      {
+        "name": "AI創作と評価軸",
+        "startSec": 507.1920000000006
+      },
+      {
+        "name": "エンタメ：来日公演と新作ドラマ",
+        "startSec": 619.4880000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 760.5600000000011
+      }
+    ],
+    "sources": [
+      {
+        "source": "WIRED",
+        "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years"
+      },
+      {
+        "source": "CNET Japan",
+        "title": "「Google検索」をAIで大幅刷新　会話型UIや動的ウィジェット、エージェント機能を投入"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "現実世界を基に\"動き回れる\"仮想空間を生成　Googleの世界生成AI「Project Genie」にストリートビュー連携機能"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation"
+      },
+      {
+        "source": "NHK",
+        "title": "日韓首脳 エネルギー供給強じん化で一致 政策対話で具体化へ"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Want to get promoted at work? New study says learning new AI skills is the key to a pay rise"
+      },
+      {
+        "source": "The Guardian",
+        "title": "'Obvious markers of AI': doubts raised over winner of short story prize"
+      },
+      {
+        "source": "SPICE",
+        "title": "シルク・ドゥ・ソレイユ、4年ぶりとなる日本公演を27年2月より東京で開催"
+      },
+      {
+        "source": "ナタリー",
+        "title": "玉森裕太がある日突然忘れられる、主演ドラマ「マイ・フィクション」7月スタート"
+      },
+      {
+        "source": "ナタリー",
+        "title": "吉岡里帆・前野朋哉・こがけん「SUKIYAKI」に出演、黒柳徹子・渥美清・三木のり平演じる"
+      }
+    ],
+    "audioFile": "20260520_daily.mp3",
+    "scriptFile": "20260520_daily.md",
+    "publishedAt": "2026-05-19T20:57:01.199Z"
+  },
+  {
     "id": "20260519_daily",
     "title": "スタラジ 2026年5月19日 配信分",
     "date": "2026-05-19",
