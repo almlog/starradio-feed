@@ -1,5 +1,101 @@
 [
   {
+    "id": "20260521_daily",
+    "title": "スタラジ 2026年5月21日 配信分",
+    "date": "2026-05-21",
+    "broadcastMode": "daily",
+    "durationSec": 747.288000000001,
+    "durationFormatted": "12:27",
+    "cast": [
+      "ホリケイ",
+      "そらちゃん",
+      "りっくん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "NVIDIA決算とAIチップ戦争",
+        "startSec": 43.559999999999995
+      },
+      {
+        "name": "OpenAI IPO接近と「80年来の数学問題」",
+        "startSec": 173.16
+      },
+      {
+        "name": "キューバ・カストロ氏起訴と外交カード",
+        "startSec": 297.14400000000006
+      },
+      {
+        "name": "海外詐欺拠点と生成AI「顔変える」かけ子",
+        "startSec": 397.15200000000027
+      },
+      {
+        "name": "エンタメ：松本若菜さん新ドラマとマイケル・ジャクソンの再ヒット",
+        "startSec": 517.5840000000004
+      },
+      {
+        "name": "ペンギンの猛暑対策と「適応」という共通テーマ",
+        "startSec": 631.5600000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 718.032000000001
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Nvidia Gives Disappointing Forecast as Chip Competition Mounts"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "China Chips Still Behind US, Nvidia in Performance: Baillie Gifford"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds"
+      },
+      {
+        "source": "The New York Times",
+        "title": "OpenAI Prepares to File for an I.P.O. in Coming Weeks"
+      },
+      {
+        "source": "Financial Times",
+        "title": "OpenAI readies IPO filing to list as soon as September"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI claims it solved an 80-year-old math problem — for real this time"
+      },
+      {
+        "source": "NHK",
+        "title": "米 キューバのラウル・カストロ氏を民間機撃墜事件で起訴"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "海外詐欺拠点で「顔変える」かけ子たち　生成AI、見破るポイントは"
+      },
+      {
+        "source": "ナタリー",
+        "title": "松本若菜×M!LK佐野勇斗がかわいいキャラを生み出す！新ドラマ「君の好きは無敵」7月スタート"
+      },
+      {
+        "source": "Variety",
+        "title": "How Michael Jackson's 'Chicago' Went From Leftover Track to Viral Hit Decades Later"
+      },
+      {
+        "source": "時事通信社",
+        "title": "ペンギンも猛暑対策　春夏の繁殖期、前倒し―ひなの熱中症死減少か・アルゼンチン"
+      }
+    ],
+    "audioFile": "20260521_daily.mp3",
+    "scriptFile": "20260521_daily.md",
+    "publishedAt": "2026-05-20T20:55:42.149Z"
+  },
+  {
     "id": "20260520_daily",
     "title": "スタラジ 2026年5月20日 配信分",
     "date": "2026-05-20",
