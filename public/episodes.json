@@ -1,5 +1,101 @@
 [
   {
+    "id": "20260522_daily",
+    "title": "スタラジ 2026年5月22日 配信分",
+    "date": "2026-05-22",
+    "broadcastMode": "daily",
+    "durationSec": 660.7680000000008,
+    "durationFormatted": "11:00",
+    "cast": [
+      "ヨースケ",
+      "そらちゃん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "ソブリンAIと「デジタル属国」論",
+        "startSec": 39.48
+      },
+      {
+        "name": "APEC開幕と日本政治の足元",
+        "startSec": 141.76800000000003
+      },
+      {
+        "name": "AIセキュリティと現場の落とし穴",
+        "startSec": 241.2719999999999
+      },
+      {
+        "name": "ローカルLLMは本当に手元で動くのか",
+        "startSec": 327.9840000000001
+      },
+      {
+        "name": "ステーブルコイン熱の正体",
+        "startSec": 429.09600000000034
+      },
+      {
+        "name": "エンタメ：GTA6発売決定とアジア発ドラマ",
+        "startSec": 523.4160000000005
+      },
+      {
+        "name": "クロージング",
+        "startSec": 620.7120000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "日経xTECH",
+        "title": "ソブリンAIがなければ「デジタル属国」、MistralのCEOがフランス国会で警告"
+      },
+      {
+        "source": "heise online",
+        "title": "Cloud, KI & Co: Wie der Deutschland-Stack digitale Souveränität schaffen soll"
+      },
+      {
+        "source": "NHK",
+        "title": "APEC貿易相会合 きょう中国で開幕へ"
+      },
+      {
+        "source": "NHK",
+        "title": "自民議員連盟発足 総裁選へ高市首相の党内基盤強化の見方も"
+      },
+      {
+        "source": "The Register",
+        "title": "Threat hunters find Google API keys still usable 23 minutes after deletion"
+      },
+      {
+        "source": "ZDNet",
+        "title": "96% of IT pros use AI now: Their top 7 agentic applications and biggest implementation roadblocks"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "ローカルLLMは本当に手元で動くのか？　ハードウェアとモデルの現実的な選び方【2026年春】"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "膨張するステーブルコインへの期待、気になる疑問　一問一答"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Take-Two Confirms November Debut for 'Grand Theft Auto VI'"
+      },
+      {
+        "source": "Variety",
+        "title": "'GTA 6' Price Still Not Revealed, but Take-Two Chief Says Rockstar on Track to Begin Marketing This Summer"
+      },
+      {
+        "source": "ナタリー",
+        "title": "坂口健太郎主演ドラマ「kiDnap GAME」イ・ジュンギ、アリス・クーら海外キャスト発表"
+      }
+    ],
+    "audioFile": "20260522_daily.mp3",
+    "scriptFile": "20260522_daily.md",
+    "publishedAt": "2026-05-21T20:53:57.340Z"
+  },
+  {
     "id": "20260521_daily",
     "title": "スタラジ 2026年5月21日 配信分",
     "date": "2026-05-21",
