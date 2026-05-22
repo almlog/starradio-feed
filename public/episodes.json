@@ -1,5 +1,116 @@
 [
   {
+    "id": "20260523_weekly",
+    "title": "スタラジ 土曜増刊号 — 2026年5月23日",
+    "date": "2026-05-23",
+    "broadcastMode": "weekly",
+    "durationSec": 883.4880000000005,
+    "durationFormatted": "14:43",
+    "cast": [
+      "ホリケイ",
+      "ヨースケ"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト",
+        "startSec": 156.456
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
+        "startSec": 286.176
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
+        "startSec": 728.5680000000003
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 848.8320000000004
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic to Close Over $30 Billion Round as Soon as Next Week"
+      },
+      {
+        "source": "The Register",
+        "title": "SpaceX scrubs Starship launch with seconds to go"
+      },
+      {
+        "source": "BBC",
+        "title": "Musk's SpaceX postpones Starship launch as mega share sale looms"
+      },
+      {
+        "source": "Axios",
+        "title": "Tulsi Gabbard resigns as director of national intelligence"
+      },
+      {
+        "source": "WIRED",
+        "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Want to get promoted at work? New study says learning new AI skills is the key to a pay rise"
+      },
+      {
+        "source": "Axios",
+        "title": "Trump says he's pausing plan to attack Iran"
+      },
+      {
+        "source": "NHK",
+        "title": "中東情勢受け 電気・ガス料金の支援策など対策調整 政府・与党"
+      },
+      {
+        "source": "NHK",
+        "title": "日韓首脳 エネルギー供給強じん化で一致 政策対話で具体化へ"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI's Expanding Market Grip Traps Active Managers on Wall Street"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code"
+      },
+      {
+        "source": "Variety",
+        "title": "Best of Cannes 2026: 20 Critics' Picks From This Year's Festival"
+      },
+      {
+        "source": "Variety",
+        "title": "Phil Collins Says He Would 'Contemplate' Performing Live Again as Condition Improves"
+      },
+      {
+        "source": "DevelopersIO",
+        "title": "The Agentic Evolution - Anthropicが語るClaudeとエージェント時代のいま - AWS Summit Hamburg 2026 レポート"
+      },
+      {
+        "source": "The New York Times",
+        "title": "OpenAI Prepares to File for an I.P.O. in Coming Weeks"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "ソブリンAIがなければ「デジタル属国」、MistralのCEOがフランス国会で警告"
+      }
+    ],
+    "audioFile": "20260523_weekly.mp3",
+    "scriptFile": "20260523_weekly.md",
+    "publishedAt": "2026-05-22T20:53:28.565Z"
+  },
+  {
     "id": "20260522_daily",
     "title": "スタラジ 2026年5月22日 配信分",
     "date": "2026-05-22",
