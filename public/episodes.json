@@ -1,5 +1,105 @@
 [
   {
+    "id": "20260525_daily",
+    "title": "スタラジ 2026年5月25日 配信分",
+    "date": "2026-05-25",
+    "broadcastMode": "daily",
+    "durationSec": 645.768000000001,
+    "durationFormatted": "10:45",
+    "cast": [
+      "みのりん",
+      "りっくん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AI開発ツールの新世代",
+        "startSec": 40.8
+      },
+      {
+        "name": "ECBがAIを武器に銀行を叩く",
+        "startSec": 162.07200000000003
+      },
+      {
+        "name": "中東情勢続報：ホルムズ海峡から原油タンカー日本到着",
+        "startSec": 270.216
+      },
+      {
+        "name": "高市政権・補正予算3兆円",
+        "startSec": 375.00000000000034
+      },
+      {
+        "name": "エンタメ：Drakeがチャート史上初の3作同時独占",
+        "startSec": 462.6000000000004
+      },
+      {
+        "name": "エンタメ：「汝、星のごとく」追加キャスト",
+        "startSec": 547.2480000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 620.9040000000009
+      }
+    ],
+    "sources": [
+      {
+        "source": "Qiita",
+        "title": "AI Daily Digest: 2026年5月25日 — Grok Build CLI・Cursor Composer 2.5・Qwen 3.7・X-Humanoid慧思開物Agent"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "ECB Convenes Banks to Fix Flaws Exposed by AI Models, FT Says"
+      },
+      {
+        "source": "Financial Times",
+        "title": "ECB summons banks to urge them to fix flaws exposed by latest AI models"
+      },
+      {
+        "source": "NHK",
+        "title": "トランプ大統領「急いで合意するなと指示」イラン情勢めぐり"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "トランプ氏、イランとの合意急がぬ姿勢も　「時間は我々に味方」"
+      },
+      {
+        "source": "NHK",
+        "title": "ホルムズ海峡通過の原油タンカー きょうにも初めて日本到着へ"
+      },
+      {
+        "source": "NHK",
+        "title": "小売各社 中東情勢受け配送回数削減へ 価格転嫁抑えるねらい"
+      },
+      {
+        "source": "NHK",
+        "title": "補正予算案3兆円規模で調整 高市首相 きょう今後の対応を説明"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "不正会計のニデック、監視委が検査へ　金融庁への勧告も視野"
+      },
+      {
+        "source": "Variety",
+        "title": "Drake Sets Album Charts Record as First Artist to Hold Top Three Positions With 'Iceman,' 'Habibti' and 'Maid of Honour'"
+      },
+      {
+        "source": "ナタリー",
+        "title": "横浜流星×広瀬すず「汝、星のごとく」に尾野真千子、木村佳乃、石田ゆり子、長谷川博己"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "石田ゆり子、『汝、星のごとく』で髪バッサリ　尾野真千子・木村佳乃・長谷川博己ら追加キャスト発表"
+      }
+    ],
+    "audioFile": "20260525_daily.mp3",
+    "scriptFile": "20260525_daily.md",
+    "publishedAt": "2026-05-24T20:53:27.215Z"
+  },
+  {
     "id": "20260523_weekly",
     "title": "スタラジ 土曜増刊号 — 2026年5月23日",
     "date": "2026-05-23",
