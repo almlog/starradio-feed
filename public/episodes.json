@@ -1,5 +1,93 @@
 [
   {
+    "id": "20260526_daily",
+    "title": "スタラジ 2026年5月26日 配信分",
+    "date": "2026-05-26",
+    "broadcastMode": "daily",
+    "durationSec": 666.144000000001,
+    "durationFormatted": "11:06",
+    "cast": [
+      "もえちゃん",
+      "りっくん",
+      "レイジ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "エンタープライズAIの「技術負債」",
+        "startSec": 42.215999999999994
+      },
+      {
+        "name": "クラウド値上げと量子コンピュータ二刀流",
+        "startSec": 171.33599999999998
+      },
+      {
+        "name": "AIの責任を誰が取るのか",
+        "startSec": 314.016
+      },
+      {
+        "name": "補正予算続報と「バイ・ブリティッシュ」",
+        "startSec": 433.75200000000035
+      },
+      {
+        "name": "エンタメ：火9枠の社会派化と「クリス問題」",
+        "startSec": 541.1280000000005
+      },
+      {
+        "name": "クロージング",
+        "startSec": 638.0880000000008
+      }
+    ],
+    "sources": [
+      {
+        "source": "VentureBeat",
+        "title": "Why prompt debt, retrieval debt, and evaluation debt are quietly reshaping enterprise AI risk"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "始まったクラウド値上げ　焦点は大手3社、Google「石油価格に懸念なし」"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "Google、量子コンピューター開発を2本立てに　中性原子方式を追加"
+      },
+      {
+        "source": "The New York Times",
+        "title": "As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words"
+      },
+      {
+        "source": "Der Spiegel",
+        "title": "ChatGPT: Kann KI für einen Mord verantwortlich gemacht werden?"
+      },
+      {
+        "source": "NHK",
+        "title": "補正予算案 3兆1000億円規模で提出へ 6月上旬成立目指す 政府"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "赤字国債「市中発行額は増やさず対応」　電気ガス補助へ補正予算"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Rachel Reeves tells ministers to ‘buy British’ in four key industries"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "小池栄子、フジ火9枠で初主演　7月期ドラマ「さよならノワール」北香那と犯罪被害者を救うバディに"
+      },
+      {
+        "source": "Variety",
+        "title": "Films Are More Likely to Star a Man Named Chris or a Talking Animal Than an Older Woman, According to Study"
+      }
+    ],
+    "audioFile": "20260526_daily.mp3",
+    "scriptFile": "20260526_daily.md",
+    "publishedAt": "2026-05-25T20:55:46.996Z"
+  },
+  {
     "id": "20260525_daily",
     "title": "スタラジ 2026年5月25日 配信分",
     "date": "2026-05-25",
