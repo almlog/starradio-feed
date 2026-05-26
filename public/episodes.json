@@ -1,5 +1,109 @@
 [
   {
+    "id": "20260527_daily",
+    "title": "スタラジ 2026年5月27日 配信分",
+    "date": "2026-05-27",
+    "broadcastMode": "daily",
+    "durationSec": 793.8000000000013,
+    "durationFormatted": "13:13",
+    "cast": [
+      "レイナ姐さん",
+      "りっくん",
+      "ホリケイ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Mythos 1万件の脆弱性発見",
+        "startSec": 45.288
+      },
+      {
+        "name": "企業に広がるシャドーAI",
+        "startSec": 185.112
+      },
+      {
+        "name": "中東情勢の続報とエネルギー",
+        "startSec": 296.5680000000001
+      },
+      {
+        "name": "SpaceX IPOとビットコイン保有",
+        "startSec": 424.5600000000004
+      },
+      {
+        "name": "アサヒの「第3のビール」消滅とビール市場",
+        "startSec": 544.6320000000006
+      },
+      {
+        "name": "エンタメ枠 ハウス・オブ・ザ・ドラゴンとトイ・ストーリー5",
+        "startSec": 649.9680000000009
+      },
+      {
+        "name": "クロージング",
+        "startSec": 764.4960000000011
+      }
+    ],
+    "sources": [
+      {
+        "source": "日経xTECH",
+        "title": "Mythosが1万件超の深刻な脆弱性発見　「同等能力のモデル、他社も開発」"
+      },
+      {
+        "source": "NHK",
+        "title": "米アンソロピック「ミュトス」1万件のぜい弱性検出と発表"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Every organization is pouring money into AI right now, and almost none of them know what their people are actually doing with it"
+      },
+      {
+        "source": "Qiita",
+        "title": "Claudeエージェントの封じ込め設計"
+      },
+      {
+        "source": "NHK",
+        "title": "イランのタスニム通信 革命防衛隊が米の無人機を撃墜と報道"
+      },
+      {
+        "source": "NHK",
+        "title": "英海事機関 オマーン沖のタンカーから外部爆発の報告"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Iran starts to restore internet access after months-long blackout"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Elon Musk's SpaceX Has More Bitcoin Than Estimated, SEC Filing Shows"
+      },
+      {
+        "source": "The New York Times",
+        "title": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk"
+      },
+      {
+        "source": "NHK",
+        "title": "アサヒ 主力の第3のビールを「ビール」に 大手4社で同様の対応"
+      },
+      {
+        "source": "Variety",
+        "title": "'House of the Dragon' Boss Calls Season 3's Battle of the Gullet 'Craziest Episode of TV Ever Made'"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Bad Bunny Will Bring a Slice to Life in 'Toy Story 5'"
+      },
+      {
+        "source": "Variety",
+        "title": "'Love Story': From Pulp to Lenny Kravitz, How Music Supervisor Jen Malone Built the Show's Perfect '90s Soundtrack"
+      }
+    ],
+    "audioFile": "20260527_daily.mp3",
+    "scriptFile": "20260527_daily.md",
+    "publishedAt": "2026-05-26T20:54:48.312Z"
+  },
+  {
     "id": "20260526_daily",
     "title": "スタラジ 2026年5月26日 配信分",
     "date": "2026-05-26",
