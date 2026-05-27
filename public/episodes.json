@@ -1,5 +1,101 @@
 [
   {
+    "id": "20260528_daily",
+    "title": "スタラジ 2026年5月28日 配信分",
+    "date": "2026-05-28",
+    "broadcastMode": "daily",
+    "durationSec": 794.4960000000011,
+    "durationFormatted": "13:14",
+    "cast": [
+      "ホリケイ",
+      "りっくん",
+      "レイジ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Snowflake×AWSの60億ドル契約",
+        "startSec": 43.632000000000005
+      },
+      {
+        "name": "AI半導体の勝者と敗者",
+        "startSec": 181.824
+      },
+      {
+        "name": "Fed利上げ姿勢とNY原油の急落",
+        "startSec": 299.9520000000001
+      },
+      {
+        "name": "日本の「国家情報局」と安保の新フェーズ",
+        "startSec": 417.2640000000003
+      },
+      {
+        "name": "キアヌの男気、Netflix1100万ドル詐欺事件",
+        "startSec": 535.3680000000004
+      },
+      {
+        "name": "The White Lotus シーズン4、カンヌでロケ",
+        "startSec": 657.8880000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 764.664000000001
+      }
+    ],
+    "sources": [
+      {
+        "source": "テッククランチ",
+        "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "Snowflake Raises Sales Outlook, Touts Impact of AI Demand"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "Three Charts Capturing Micron's Record Rise to $1 Trillion"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "HP Gives Profit Outlook That Tops Estimate, Managing Chip Crunch"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "Fed's Cook Prepared to Raise Rates If Inflation Lingers"
+      },
+      {
+        "source": "NHK",
+        "title": "NY原油 一時1バレル＝87ドル台に下落 その後は再び上昇も"
+      },
+      {
+        "source": "NHK",
+        "title": "「国家情報局」設置法成立 「対外情報庁」など検討加速 政府"
+      },
+      {
+        "source": "NHK",
+        "title": "台湾 頼清徳総統 アメリカの武器売却に改めて期待示す"
+      },
+      {
+        "source": "毎日新聞",
+        "title": "激動期の安保:非核三原則に「撃ち込ませず」提言 元統合幕僚長の現実路線"
+      },
+      {
+        "source": "バラエティ",
+        "title": "Keanu Reeves Seeks Leniency for Director Who Faces Years in Prison for Swindling Netflix Out of $11 Million"
+      },
+      {
+        "source": "ハリウッドレポーター",
+        "title": "'The White Lotus' Takes Cannes: See the First Photos of Laura Dern, Chris Messina on Set for Season 4"
+      }
+    ],
+    "audioFile": "20260528_daily.mp3",
+    "scriptFile": "20260528_daily.md",
+    "publishedAt": "2026-05-27T20:54:46.122Z"
+  },
+  {
     "id": "20260527_daily",
     "title": "スタラジ 2026年5月27日 配信分",
     "date": "2026-05-27",
