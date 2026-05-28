@@ -1,5 +1,101 @@
 [
   {
+    "id": "20260529_daily",
+    "title": "スタラジ 2026年5月29日 配信分",
+    "date": "2026-05-29",
+    "broadcastMode": "daily",
+    "durationSec": 659.9280000000007,
+    "durationFormatted": "10:59",
+    "cast": [
+      "ヨースケ",
+      "りっくん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "アンソロピック6.5兆円調達でOpenAI超え",
+        "startSec": 31.608
+      },
+      {
+        "name": "AI関連M&Aラッシュ：AsanaがStack AI買収、Autodeskが5400億円買収",
+        "startSec": 173.30399999999997
+      },
+      {
+        "name": "Dell AIサーバー出荷予想を9兆円超に引き上げ",
+        "startSec": 286.51200000000006
+      },
+      {
+        "name": "アジア安保会議と横田早紀江さん拉致問題",
+        "startSec": 368.7360000000002
+      },
+      {
+        "name": "三菱自動車が日産から米国向け車両供給、関税対策のアライアンス連携",
+        "startSec": 471.6960000000003
+      },
+      {
+        "name": "エンタメ：Toy Story 5の感涙シーンとThe Boys配信ランキング1位",
+        "startSec": 542.5680000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 638.9760000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "ブルームバーグ",
+        "title": "Anthropic Raises $65 Billion in Funding Round, Eclipses OpenAI"
+      },
+      {
+        "source": "フィナンシャルタイムズ",
+        "title": "Anthropic finalises $65bn funding deal to surpass OpenAI's valuation"
+      },
+      {
+        "source": "フィナンシャルタイムズ",
+        "title": "Musk's tweet undermines SpaceX's claims about Anthropic data centre deal"
+      },
+      {
+        "source": "テッククランチ",
+        "title": "Asana acquires no-code agent-builder Stack AI"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "Autodesk to Buy MaintainX for About $3.6 Billion in Cash"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "Dell Boosts Outlook to $60 Billion in AI Server Sales This Year"
+      },
+      {
+        "source": "NHK",
+        "title": "「アジア安全保障会議」シンガポールできょうから開催"
+      },
+      {
+        "source": "朝日新聞",
+        "title": "横田早紀江さんが拉致問題解決への思い語る　朝日新聞東京本社を訪問"
+      },
+      {
+        "source": "NHK",
+        "title": "三菱 日産から車両供給受けアメリカで販売へ 関税影響軽減"
+      },
+      {
+        "source": "ハリウッドレポーター",
+        "title": "Tom Hanks Teases \"One of the Most Heartbreaking Scenes I've Seen\" in 'Toy Story 5' as Cast Reunites for U.K. Launch"
+      },
+      {
+        "source": "ハリウッドレポーター",
+        "title": "Streaming Ratings: 'The Boys' Rises to No. 1"
+      }
+    ],
+    "audioFile": "20260529_daily.mp3",
+    "scriptFile": "20260529_daily.md",
+    "publishedAt": "2026-05-28T20:52:22.679Z"
+  },
+  {
     "id": "20260528_daily",
     "title": "スタラジ 2026年5月28日 配信分",
     "date": "2026-05-28",
