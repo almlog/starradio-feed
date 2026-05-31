@@ -1,5 +1,133 @@
 [
   {
+    "id": "20260601_daily",
+    "title": "スタラジ 2026年6月1日 配信分",
+    "date": "2026-06-01",
+    "broadcastMode": "daily",
+    "durationSec": 911.9760000000008,
+    "durationFormatted": "15:11",
+    "cast": [
+      "みのりん",
+      "そらちゃん",
+      "ヨースケ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "ソフトバンクG 14兆円AI投資とコスト見直しの分岐",
+        "startSec": 52.727999999999994
+      },
+      {
+        "name": "AIエージェント用語整理と「AI疲れ」の二面性",
+        "startSec": 203.784
+      },
+      {
+        "name": "AI×クリエイティブ業界の地殻変動",
+        "startSec": 359.71200000000016
+      },
+      {
+        "name": "嵐ラストコンサートとドゥア・リパ結婚",
+        "startSec": 517.4880000000003
+      },
+      {
+        "name": "サッカー日本代表、無失点で壮行戦勝利",
+        "startSec": 657.1200000000003
+      },
+      {
+        "name": "新潟知事3選・皇位継承・イラン情勢の駆け足チェック",
+        "startSec": 773.3760000000005
+      },
+      {
+        "name": "クロージング",
+        "startSec": 874.7040000000006
+      }
+    ],
+    "sources": [
+      {
+        "source": "NHK",
+        "title": "ソフトバンクG 仏で14兆円投じAIデータセンター開発へ"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Major Companies Reconsider AI Costs"
+      },
+      {
+        "source": "The Verge",
+        "title": "How to watch Nvidia's Computex keynote"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "「ハーネス」って結局、何？　みんな使い方が違うAIエージェント用語をHugging Faceが整理"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "AI疲れに効くFirefoxの「AI controls」、余計なお世話を止める"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "LLM特有の課題に対応、W＆B Weaveの主な機能を押さえる"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "'This is fine' artist KC Green reaches agreement with AI startup Artisan"
+      },
+      {
+        "source": "The Guardian",
+        "title": "This model is not a real person: how AI is shaking up fashion – video"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "This weekend's two biggest movies were both directed by YouTubers"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "「We are ARASHI」幸せ感じ　「嵐」がラストコンサート"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "「嵐」が活動終了　ファンと走り抜けた26年半は「最高の思い出」"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Dua Lipa and Callum Turner Are Married"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Dua Lipa Marries Callum Turner During Intimate Ceremony in London"
+      },
+      {
+        "source": "NHK",
+        "title": "サッカー日本代表 壮行試合でアイスランドに1対0で勝利"
+      },
+      {
+        "source": "時事通信社",
+        "title": "小川、狙い通りの決勝点　サッカー日本代表"
+      },
+      {
+        "source": "時事通信社",
+        "title": "長友、健在示す　サッカー日本代表"
+      },
+      {
+        "source": "時事通信社",
+        "title": "新潟知事に花角氏３選　２新人破る"
+      },
+      {
+        "source": "NHK",
+        "title": "安定的な皇位継承 衆参両院の議長・副議長 今週再会談へ"
+      },
+      {
+        "source": "NHK",
+        "title": "イラン議長 安易な譲歩せず \"米大統領は覚書に修正要求\"報道"
+      }
+    ],
+    "audioFile": "20260601_daily.mp3",
+    "scriptFile": "20260601_daily.md",
+    "publishedAt": "2026-05-31T20:57:35.366Z"
+  },
+  {
     "id": "20260529_daily",
     "title": "スタラジ 2026年5月29日 配信分",
     "date": "2026-05-29",
