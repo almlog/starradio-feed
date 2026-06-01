@@ -1,5 +1,97 @@
 [
   {
+    "id": "20260602_daily",
+    "title": "スタラジ 2026年6月2日 配信分",
+    "date": "2026-06-02",
+    "broadcastMode": "daily",
+    "durationSec": 707.4480000000007,
+    "durationFormatted": "11:47",
+    "cast": [
+      "もえちゃん",
+      "そらちゃん",
+      "みのりん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Anthropic、ついにIPO申請",
+        "startSec": 44.592000000000006
+      },
+      {
+        "name": "ゴールドマンの銀行員も「AIデータセンター漬け」",
+        "startSec": 159.83999999999995
+      },
+      {
+        "name": "米中、ボーイングを巡る駆け引き",
+        "startSec": 281.68799999999993
+      },
+      {
+        "name": "本能寺の変、当日の書状",
+        "startSec": 398.59200000000016
+      },
+      {
+        "name": "AIが生んだ13種類の新しい仕事",
+        "startSec": 486.3840000000003
+      },
+      {
+        "name": "エンタメ枠：内田有紀ドラマ復帰とOutlanderスピンオフ",
+        "startSec": 583.6080000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 665.8560000000006
+      }
+    ],
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O."
+      },
+      {
+        "source": "NHK",
+        "title": "米AI新興企業「アンソロピック」新規株式公開を申請と発表"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "For Goldman's Top Bankers, It's All AI Data Centers All the Time"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "HPE Sees Strong Growth Over Next 18 Months on Server Demand"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "GoPro Warns of Going-Concern Risk Amid AI-Fueled Memory Crunch"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "激動期の安保:日本もボーイングに接近　中国に遅れた「日の丸ジェット」の行方"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "「本能寺の変」当日の書状見つかる　秀吉軍と対陣、切迫の戦況伝え"
+      },
+      {
+        "source": "The New York Times",
+        "title": "How Box Created 13 New Types of Jobs Because of A.I."
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "内田有紀、30年ぶりフジ連ドラ主演　timelesz・寺西拓人とW主演で歳の差恋愛描く「ラストノート」7月期放送"
+      },
+      {
+        "source": "Variety",
+        "title": "'Outlander: Blood of My Blood' Season 2 Sets Starz Release Date, Drops Tearjerking First Teaser"
+      }
+    ],
+    "audioFile": "20260602_daily.mp3",
+    "scriptFile": "20260602_daily.md",
+    "publishedAt": "2026-06-01T20:53:09.205Z"
+  },
+  {
     "id": "20260601_daily",
     "title": "スタラジ 2026年6月1日 配信分",
     "date": "2026-06-01",
