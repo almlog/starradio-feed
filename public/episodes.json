@@ -1,5 +1,97 @@
 [
   {
+    "id": "20260603_daily",
+    "title": "スタラジ 2026年6月3日 配信分",
+    "date": "2026-06-03",
+    "broadcastMode": "daily",
+    "durationSec": 731.472000000001,
+    "durationFormatted": "12:11",
+    "cast": [
+      "レイナ姐さん",
+      "そらちゃん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "トランプ政権のAI規制とアンソロピックの世界戦略",
+        "startSec": 44.75999999999999
+      },
+      {
+        "name": "台風6号、首都圏直撃の朝",
+        "startSec": 189.432
+      },
+      {
+        "name": "Microsoftの量子チップと純国産量子の進化",
+        "startSec": 315.9600000000002
+      },
+      {
+        "name": "2200万件の情報漏洩——匿名アプリの落とし穴",
+        "startSec": 460.6800000000005
+      },
+      {
+        "name": "エンタメ枠：ブロードウェイ復活とカズレーザーの新スタイル",
+        "startSec": 567.4560000000008
+      },
+      {
+        "name": "クロージング",
+        "startSec": 709.944000000001
+      }
+    ],
+    "sources": [
+      {
+        "source": "ザ・ニューヨーク・タイムズ",
+        "title": "Trump Signs Executive Order Seeking Oversight of A.I. Models"
+      },
+      {
+        "source": "フィナンシャル・タイムズ",
+        "title": "Trump signs watered-down AI vetting order after Maga infighting"
+      },
+      {
+        "source": "フィナンシャル・タイムズ",
+        "title": "Anthropic to expand Mythos access to more than 15 countries"
+      },
+      {
+        "source": "NHK",
+        "title": "台風6号 和歌山県南部に上陸 関東甲信でも線状降水帯おそれ"
+      },
+      {
+        "source": "NHK",
+        "title": "首都圏の在来線 3日の始発から運休する路線【一覧あり】"
+      },
+      {
+        "source": "CNET Japan",
+        "title": "台風6号接近、大雨警報などが「レベル付き」に刷新--何が変わった？ 暴風警報は従来通り"
+      },
+      {
+        "source": "BBC",
+        "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "純国産量子コンピューターの誕生秘話、開発者の阪大教授が解説"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Anonymous video chat app leaks data on millions of users — more than 22 million records exposed, including 3 million containing names and email addresses"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Broadway Box Office: 'Death of a Salesman' Hits $1.8 Million, 'Book of Mormon' Returns"
+      },
+      {
+        "source": "ナタリー",
+        "title": "カズレーザーとニューヨーク、毎週火曜の生放送に手応え　屋敷「3人で好き勝手できている」"
+      }
+    ],
+    "audioFile": "20260603_daily.mp3",
+    "scriptFile": "20260603_daily.md",
+    "publishedAt": "2026-06-02T20:51:49.308Z"
+  },
+  {
     "id": "20260602_daily",
     "title": "スタラジ 2026年6月2日 配信分",
     "date": "2026-06-02",
