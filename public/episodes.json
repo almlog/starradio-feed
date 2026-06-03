@@ -1,5 +1,105 @@
 [
   {
+    "id": "20260604_daily",
+    "title": "スタラジ 2026年6月4日 配信分",
+    "date": "2026-06-04",
+    "broadcastMode": "daily",
+    "durationSec": 800.6400000000009,
+    "durationFormatted": "13:20",
+    "cast": [
+      "ホリケイ",
+      "そらちゃん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Google 850億ドル調達とAIバブル警鐘",
+        "startSec": 48.12
+      },
+      {
+        "name": "NVIDIAの2世代先ロードマップとRTX Spark",
+        "startSec": 208.87199999999996
+      },
+      {
+        "name": "住民投票でデータセンター永久禁止——カリフォルニアの決断",
+        "startSec": 349.99200000000013
+      },
+      {
+        "name": "EUが脱アメリカtech依存プランを公表",
+        "startSec": 490.6320000000004
+      },
+      {
+        "name": "ハリウッドのAI受容と国内エンタメ",
+        "startSec": 618.1440000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 761.1120000000009
+      }
+    ],
+    "sources": [
+      {
+        "source": "フィナンシャル・タイムズ",
+        "title": "Google upsizes historic equity raising to $85bn to back AI spending spree"
+      },
+      {
+        "source": "テッククランチ",
+        "title": "Alphabet's record-breaking $85B raise for Google's AI business is a helluva good signal"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "DoubleLine's Cohen Warns of AI Bubble Coming to Credit Markets"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "AI CapEx Rush Seen as Continuing as Market Stresses Bubble Up"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "Broadcom Outlook Disappoints Investors Seeking AI-Fueled Blowout"
+      },
+      {
+        "source": "ザ・ヴァージ",
+        "title": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "Nvidia's RTX Spark Sets Up Fight Over the Soul of Windows PCs"
+      },
+      {
+        "source": "ガーディアン",
+        "title": "In first, California city overwhelmingly votes to permanently ban datacenters"
+      },
+      {
+        "source": "テックレーダー",
+        "title": "A PhD student has discovered new plant-inspired window glass that could 'simultaneously store solar energy and darken' a room when sunny to cool it down"
+      },
+      {
+        "source": "ニューヨーク・タイムズ",
+        "title": "European Union Outlines Plan to Reduce Dependence on American Tech"
+      },
+      {
+        "source": "バラエティ",
+        "title": "What Martin Scorsese's AI Embrace Means for Filmmaking's Future: 5 Takeaways"
+      },
+      {
+        "source": "ハリウッドリポーター",
+        "title": "Hasbro Launching an AI Studio That Will Let Companies License Its Stable of Characters"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "『映画クレヨンしんちゃん』新作の主題歌決定　本予告＆本ポスタービジュアルも公開"
+      }
+    ],
+    "audioFile": "20260604_daily.mp3",
+    "scriptFile": "20260604_daily.md",
+    "publishedAt": "2026-06-03T20:55:47.149Z"
+  },
+  {
     "id": "20260603_daily",
     "title": "スタラジ 2026年6月3日 配信分",
     "date": "2026-06-03",
