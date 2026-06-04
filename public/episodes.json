@@ -1,5 +1,105 @@
 [
   {
+    "id": "20260605_daily",
+    "title": "スタラジ 2026年6月5日 配信分",
+    "date": "2026-06-05",
+    "broadcastMode": "daily",
+    "durationSec": 882.6960000000003,
+    "durationFormatted": "14:42",
+    "cast": [
+      "ヨースケ",
+      "そらちゃん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AnthropicとOpenAI ー コードを書くAIがコードを発見する時代",
+        "startSec": 43.488
+      },
+      {
+        "name": "NSAがMythosを兵器化 ー サイバー戦の主役交代",
+        "startSec": 191.904
+      },
+      {
+        "name": "AIが奪う仕事と国家戦略 ー Verizonとカナダ",
+        "startSec": 321.888
+      },
+      {
+        "name": "AIバブルの揺り戻し ー Broadcom株が2850億ドル蒸発",
+        "startSec": 451.27200000000016
+      },
+      {
+        "name": "日本のエネルギー戦略 ー 原発回帰と中東リスク",
+        "startSec": 576.4080000000004
+      },
+      {
+        "name": "夏のエンタメ ー 実写ブルーロックと大追跡シーズン2",
+        "startSec": 711.1200000000002
+      },
+      {
+        "name": "クロージング",
+        "startSec": 843.8400000000001
+      }
+    ],
+    "sources": [
+      {
+        "source": "VentureBeat",
+        "title": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up"
+      },
+      {
+        "source": "TechRadar",
+        "title": "OpenAI's Codex helps discover HTTP/2 Bomb DoS attack that can nuke over 30GB of RAM within seconds, knocking web servers offline before they can react"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery"
+      },
+      {
+        "source": "Financial Times",
+        "title": "NSA using Anthropic's Mythos for cyber attacks"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Verizon CEO Sees AI Replacing Large Share of Customer Service"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Wary of Americans, Canada Bets on Its Own A.I."
+      },
+      {
+        "source": "Financial Times",
+        "title": "Broadcom suffers $285bn rout as revenue outlook disappoints"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Tech groups find a new way to monetise AI hype: selling volatility"
+      },
+      {
+        "source": "NHK",
+        "title": "原発 2040年代までに2～5基建て替えの目標 政府"
+      },
+      {
+        "source": "NHK",
+        "title": "小売各社が省エネ対応加速 中東情勢によるコスト高受け"
+      },
+      {
+        "source": "ナタリー",
+        "title": "高橋文哉・櫻井海音・高橋恭平ら極限の戦い、Adoの主題歌が彩る実写「ブルーロック」予告"
+      },
+      {
+        "source": "ナタリー",
+        "title": "大森南朋×相葉雅紀×松下奈緒のドラマ「大追跡」新シーズンが7月開始、2度目の夏が始まる"
+      }
+    ],
+    "audioFile": "20260605_daily.mp3",
+    "scriptFile": "20260605_daily.md",
+    "publishedAt": "2026-06-04T20:57:05.050Z"
+  },
+  {
     "id": "20260604_daily",
     "title": "スタラジ 2026年6月4日 配信分",
     "date": "2026-06-04",
