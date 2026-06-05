@@ -1,5 +1,124 @@
 [
   {
+    "id": "20260606_weekly",
+    "title": "スタラジ土曜増刊号 - 2026年6月6日配信",
+    "date": "2026-06-06",
+    "broadcastMode": "weekly",
+    "durationSec": 914.6400000000009,
+    "durationFormatted": "15:14",
+    "cast": [
+      "もえちゃん",
+      "レイナ姐さん"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト",
+        "startSec": 183.144
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
+        "startSec": 313.6560000000001
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
+        "startSec": 757.6320000000007
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 875.9280000000008
+      }
+    ],
+    "sources": [
+      {
+        "source": "ナタリー",
+        "title": "「THE MUSIC DAY」今年は9時間半の生放送！総合司会は14年連続で櫻井翔"
+      },
+      {
+        "source": "TechRadar",
+        "title": "The Dyson HushJet Mini Cool is the powerful personal fan you won't want to live without this summer — and it's surprisingly reasonably priced, too"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "SpaceX Inks $30 Billion Computing Power Deal With Google"
+      },
+      {
+        "source": "BBC",
+        "title": "Trump to meet AI leaders to discuss US investment in their companies"
+      },
+      {
+        "source": "Variety",
+        "title": "Madonna to Release 'Confessions II – The Film' on YouTube Next Week"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "「嵐」が活動終了　ファンと走り抜けた26年半は「最高の思い出」"
+      },
+      {
+        "source": "NHK",
+        "title": "ソフトバンクG 仏で14兆円投じAIデータセンター開発へ"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O."
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Trump Signs Executive Order Seeking Oversight of A.I. Models"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Trump signs watered-down AI vetting order after Maga infighting"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Alphabet's record-breaking $85B raise for Google's AI business is a helluva good signal"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Google upsizes historic equity raising to $85bn to back AI spending spree"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Nasdaq tumbles 4% as shares in chip and memory groups sink"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Tech Leaders Mull the Next Phase of AI as Top Labs Plan IPOs"
+      },
+      {
+        "source": "Qiita",
+        "title": "Microsoft Build 2026 の AI 発表を整理する"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "温暖化で水没危機の島国ツバル　首相が先進国に求める「補償」は"
+      },
+      {
+        "source": "The Guardian",
+        "title": "In first, California city overwhelmingly votes to permanently ban datacenters"
+      },
+      {
+        "source": "Qiita",
+        "title": "Claude API 障害レポート"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "DoubleLine's Cohen Warns of AI Bubble Coming to Credit Markets"
+      }
+    ],
+    "audioFile": "20260606_weekly.mp3",
+    "scriptFile": "20260606_weekly.md",
+    "publishedAt": "2026-06-05T20:55:57.325Z"
+  },
+  {
     "id": "20260605_daily",
     "title": "スタラジ 2026年6月5日 配信分",
     "date": "2026-06-05",
