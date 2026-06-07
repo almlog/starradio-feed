@@ -1,5 +1,105 @@
 [
   {
+    "id": "20260608_daily",
+    "title": "スタラジ 2026年6月8日 配信分",
+    "date": "2026-06-08",
+    "broadcastMode": "daily",
+    "durationSec": 699.4800000000009,
+    "durationFormatted": "11:39",
+    "cast": [
+      "みのりん",
+      "りっくん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "中東情勢、停戦後初のミサイル発射",
+        "startSec": 52.775999999999996
+      },
+      {
+        "name": "Apple、AIに本気になった「秘密会議」",
+        "startSec": 176.73600000000002
+      },
+      {
+        "name": "AIインフラに「死のスパイラル」？ データセンター反発も",
+        "startSec": 307.0560000000001
+      },
+      {
+        "name": "個人開発者の「API代の壁」とAI社員時代",
+        "startSec": 460.4640000000005
+      },
+      {
+        "name": "エンタメ、Vaundyの甲子園と「ペルソナ4 リバイバル」",
+        "startSec": 575.4480000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 661.6080000000009
+      }
+    ],
+    "sources": [
+      {
+        "source": "時事通信社",
+        "title": "イランがミサイル発射　イスラエルへ停戦後初"
+      },
+      {
+        "source": "NHK",
+        "title": "“イランからイスラエルへミサイル発射” イスラエル軍が発表"
+      },
+      {
+        "source": "Axios",
+        "title": "Trump tells Axios he will ask Netanyahu not to strike back at Iran"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "産油国、7月も生産枠拡大　4カ月連続で小幅増産"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Inside Apple's Secret Meeting That Led It to Finally Take AI Seriously"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Why an AI 'Death Spiral' Threatens the Internet"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Kevin O'Leary's Huge Data Center in Canada Faces a Skeptical Public"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Is this the dawn of the Tokenpocalypse?"
+      },
+      {
+        "source": "Qiita",
+        "title": "マイクラAIを個人で作ったら、API代という現実の壁にぶち当たった話"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "「情シスが人事に」「AI費用は人件費に」、AI社員誕生　火付け役はOpenClaw"
+      },
+      {
+        "source": "ナタリー",
+        "title": "Vaundyが夏の高校野球応援ソング書き下ろし、中継や「熱闘甲子園」を彩る"
+      },
+      {
+        "source": "4Gamer.net",
+        "title": "「ペルソナ4 リバイバル」，新戦術「ボコスカラッシュ」やフルボイス化などの詳細が判明。価格・エディション情報も公開"
+      },
+      {
+        "source": "NHK",
+        "title": "沖縄 土砂災害などに十分注意を 関東甲信と東海で梅雨入り"
+      }
+    ],
+    "audioFile": "20260608_daily.mp3",
+    "scriptFile": "20260608_daily.md",
+    "publishedAt": "2026-06-07T20:49:56.296Z"
+  },
+  {
     "id": "20260606_weekly",
     "title": "スタラジ土曜増刊号 - 2026年6月6日配信",
     "date": "2026-06-06",
