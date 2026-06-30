@@ -1,5 +1,101 @@
 [
   {
+    "id": "20260701_daily",
+    "title": "スタラジ 2026年7月1日 配信分",
+    "date": "2026-07-01",
+    "broadcastMode": "daily",
+    "durationSec": 680.6640000000006,
+    "durationFormatted": "11:20",
+    "cast": [
+      "レイナ姐さん",
+      "そらちゃん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AI×医療・創薬の新展開",
+        "startSec": 41.471999999999994
+      },
+      {
+        "name": "「ChatGPT広告」日本上陸と法務AIの加速",
+        "startSec": 176.76000000000005
+      },
+      {
+        "name": "AI社会リスク：医療デマと金融キルスイッチ",
+        "startSec": 309.40800000000024
+      },
+      {
+        "name": "米国動向：出生地主義の最高裁判断とBending Spoons上場",
+        "startSec": 414.4320000000004
+      },
+      {
+        "name": "エンタメ：The Bear S5、生田斗真×10-FEET、海外カードゲーム事情",
+        "startSec": 537.2640000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 649.8000000000005
+      }
+    ],
+    "sources": [
+      {
+        "source": "Financial Times",
+        "title": "Anthropic launches Claude Science in push for pharma revenue"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "量子の活用5選　ホンダは材料を高速開発、塩野義製薬「創薬に有用」"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "「ChatGPT広告」が日本上陸　AIが揺さぶるマーケティングの常識"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "企業法務にAI活用、法務省が検討会設置へ　「非弁行為」規制を緩和"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds"
+      },
+      {
+        "source": "Financial Times",
+        "title": "‘Kill switches’ could be needed for AI-powered trading, BoE official says"
+      },
+      {
+        "source": "NHK",
+        "title": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "SpaceX Cuts Starlink Internet Prices in Memphis After Data Center Opposition"
+      },
+      {
+        "source": "Variety",
+        "title": "Lionel Boyce on Why ‘The Bear’ Season 5 Was His ‘Most Intense Shoot’ Yet and Wrapping Up Marcus’ Arc"
+      },
+      {
+        "source": "BARKS",
+        "title": "生田斗真、10-FEETのTAKUMA楽曲提供による10-FEET演奏の6分越えコラボナンバーを緊急リリース"
+      },
+      {
+        "source": "IGN",
+        "title": "Card Shop Suspends Yu-Gi-Oh Tournaments Over Smelly Players"
+      }
+    ],
+    "audioFile": "20260701_daily.mp3",
+    "scriptFile": "20260701_daily.md",
+    "publishedAt": "2026-06-30T21:20:16.320Z"
+  },
+  {
     "id": "20260630_daily",
     "title": "スタラジ 2026年6月30日 配信分",
     "date": "2026-06-30",
@@ -5488,129 +5584,5 @@
     "audioFile": "20260403_daily.mp3",
     "scriptFile": "20260403_daily.md",
     "publishedAt": "2026-04-02T20:45:10.986Z"
-  },
-  {
-    "id": "20260401_daily",
-    "title": "スタラジ 2026年4月1日 配信分",
-    "date": "2026-04-01",
-    "broadcastMode": "daily",
-    "durationSec": 559.9440000000006,
-    "durationFormatted": "9:19",
-    "cast": [
-      "レイナ姐さん",
-      "りっくん",
-      "ホリケイ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "OpenAIの超巨額調達と市場支配",
-        "startSec": 43.608
-      },
-      {
-        "name": "イラン情勢と石油危機",
-        "startSec": 141.28800000000004
-      },
-      {
-        "name": "スーパーマリオ映画とエンタメの覇権争い",
-        "startSec": 241.51199999999997
-      },
-      {
-        "name": "Gmail 22周年とテック界の変化",
-        "startSec": 325.5360000000001
-      },
-      {
-        "name": "ソーシャルメディアの転換点",
-        "startSec": 396.45600000000024
-      },
-      {
-        "name": "エンタメ界の大型案件",
-        "startSec": 471.91200000000055
-      },
-      {
-        "name": "クロージング",
-        "startSec": 534.2400000000007
-      }
-    ],
-    "sources": [
-      {
-        "source": "Bloomberg L.P.",
-        "title": "OpenAI Valued at $852 Billion After Completing $122 Billion Round"
-      },
-      {
-        "source": "Financial Times",
-        "title": "OpenAI raises $3bn from retail investors as part of record funding haul"
-      },
-      {
-        "source": "Axios",
-        "title": "China and Pakistan present new Iran deal: Ceasefire for opening Hormuz"
-      },
-      {
-        "source": "EURACTIV Media Network",
-        "title": "Iran threatens to strike US-owned tech companies in the Middle East"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "「石油は自分で手に入れろ！」　トランプ氏、石油不足の各国突き放す"
-      },
-      {
-        "source": "Variety",
-        "title": "'The Super Mario Galaxy Movie' Review: Frenetic and Disappointing Sequel is a Threadbare Adventure That's All Video-Game Easter Eggs"
-      },
-      {
-        "source": "IGN",
-        "title": "The Super Mario Galaxy Movie Review"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "'The Super Mario Galaxy Movie' Review: Chris Pratt and Charlie Day Return for a Sequel That Will Delight Fans (but Few Others)"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "'The Super Mario Galaxy Movie' Creators Tease 'Expansive World' for Nintendo Movies"
-      },
-      {
-        "source": "IGN",
-        "title": "Shigeru Miyamoto Says Mario Became a 'Person' When He Hit the Big Screen"
-      },
-      {
-        "source": "The Register",
-        "title": "Gmail celebrates 22 years by finally letting users change their addresses"
-      },
-      {
-        "source": "DevelopersIO",
-        "title": "AWS DevOps Agentが一般提供[GA]になりました"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Is this social media's tobacco moment?"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Meta was finally held accountable for harming teens. Now what?"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Go play this secret game in your TikTok DMs"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "'Happy Feet' Broadway Musical in the Works"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "新婚の柳俊太郎、渋川清彦にアドバイス求む「お財布はどちらが握る方がいい？」"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "波瑠、ジブリ『魔女の宅急便』の大ファン　「大人になってから泣いた」"
-      }
-    ],
-    "audioFile": "20260401_daily.mp3",
-    "scriptFile": "20260401_daily.md",
-    "publishedAt": "2026-03-31T20:44:08.936Z"
   }
 ]
