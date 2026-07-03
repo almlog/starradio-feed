@@ -1,5 +1,68 @@
 [
   {
+    "id": "20260704_weekly",
+    "title": "スタラジ 土曜増刊号 — 2026年7月4日（土）",
+    "date": "2026-07-04",
+    "broadcastMode": "weekly",
+    "durationSec": 830.1120000000011,
+    "durationFormatted": "13:50",
+    "cast": [
+      "もえちゃん",
+      "ヨースケ"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング — 週末の挨拶、そして正直な話",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 探偵劇 第一幕 — ハードウェアが勝手に再起動していた",
+        "startSec": 105.14400000000002
+      },
+      {
+        "name": "Part 3: 探偵劇 第二幕 — 「推測」から「計測」への転換",
+        "startSec": 225.38399999999996
+      },
+      {
+        "name": "Part 4: 探偵劇 第三幕 — コントロールできない層を、受け入れて包む",
+        "startSec": 393.28800000000024
+      },
+      {
+        "name": "Part 5: 探偵劇 第四幕 — 安全網そのものにバグがあった",
+        "startSec": 463.41600000000034
+      },
+      {
+        "name": "Part 6: 今週の締めと、直近ニュースへ",
+        "startSec": 579.2400000000007
+      },
+      {
+        "name": "Part 7: 展望とクロージング",
+        "startSec": 751.4400000000009
+      }
+    ],
+    "sources": [
+      {
+        "source": "Qiita",
+        "title": "Claude Codeが確認の返事を60秒待って勝手に進む——消したファイルが復元されコードが書き換わる事故と、その防ぎ方"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Rocket Lab buys Iridium in an $8 billion deal to build the most formidable rival to Musk's SpaceX — will it change the Ukraine war?"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari"
+      },
+      {
+        "source": "The Register",
+        "title": "Amazon Leo constellation nears 400 satellites as broadband launch looms"
+      }
+    ],
+    "audioFile": "20260704_weekly.mp3",
+    "scriptFile": "20260704_weekly.md",
+    "publishedAt": "2026-07-03T20:54:25.707Z"
+  },
+  {
     "id": "20260703_daily",
     "title": "スタラジ 2026年7月3日 配信分",
     "date": "2026-07-03",
@@ -5510,43 +5573,5 @@
     "audioFile": "20260406_daily.mp3",
     "scriptFile": "20260406_daily.md",
     "publishedAt": "2026-04-05T20:44:51.065Z"
-  },
-  {
-    "id": "20260404_weekly",
-    "title": "スタラジ土曜増刊号 - 2026年4月4日放送分",
-    "date": "2026-04-04",
-    "broadcastMode": "weekly",
-    "durationSec": 672.5040000000012,
-    "durationFormatted": "11:12",
-    "cast": [
-      "ヨースケ",
-      "ホリケイ"
-    ],
-    "segments": [
-      {
-        "name": "Part 1: オープニング + プライベートトーク（約5分）",
-        "startSec": 0
-      },
-      {
-        "name": "Part 2: 土曜ニュースダイジェスト（約3分）",
-        "startSec": 156.02400000000003
-      },
-      {
-        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する（約8分）",
-        "startSec": 281.952
-      },
-      {
-        "name": "Part 4: 展望 — 来週どうなる？次は何をする？（約3分）",
-        "startSec": 551.5680000000008
-      },
-      {
-        "name": "Part 5: クロージング（約1分）",
-        "startSec": 633.5520000000009
-      }
-    ],
-    "sources": [],
-    "audioFile": "20260404_weekly.mp3",
-    "scriptFile": "20260404_weekly.md",
-    "publishedAt": "2026-04-03T20:46:03.128Z"
   }
 ]
