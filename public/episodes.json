@@ -1,5 +1,97 @@
 [
   {
+    "id": "20260706_daily",
+    "title": "スタラジ 2026年7月6日 配信分",
+    "date": "2026-07-06",
+    "broadcastMode": "daily",
+    "durationSec": 731.4240000000012,
+    "durationFormatted": "12:11",
+    "cast": [
+      "みのりん",
+      "りっくん",
+      "もえちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AIエージェント評価の新潮流",
+        "startSec": 37.92
+      },
+      {
+        "name": "Trumpミームコインで消えた38億ドル",
+        "startSec": 178.752
+      },
+      {
+        "name": "日本のロボット1000万台計画とAI規制論",
+        "startSec": 289.9440000000001
+      },
+      {
+        "name": "OPEC増産とデータセンターの電力争奪",
+        "startSec": 399.60000000000036
+      },
+      {
+        "name": "大坂なおみ ウィンブルドン準々決勝進出",
+        "startSec": 499.8720000000006
+      },
+      {
+        "name": "市川團十郎襲名とハリウッド新作",
+        "startSec": 588.7680000000008
+      },
+      {
+        "name": "クロージング",
+        "startSec": 704.1360000000012
+      }
+    ],
+    "sources": [
+      {
+        "source": "Qiita",
+        "title": "SWE-benchだけではAIエージェントを測れない時代へ"
+      },
+      {
+        "source": "Hacker News",
+        "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Trump memecoin investors lost $3.8 billion, analysis finds"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Japan reveals new Noetra plan to flood the country with 10 million robots by 2040 — including work in the nursing, food and drink sectors"
+      },
+      {
+        "source": "The Guardian",
+        "title": "AI poses 'Hiroshima'-style threat to humanity without global rules, says Cooper"
+      },
+      {
+        "source": "NHK",
+        "title": "OPECプラスの7か国 8月に日量18万バレル余の増産発表"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Data centres are a crucial test of US industrial resolve"
+      },
+      {
+        "source": "NHK",
+        "title": "ウィンブルドン 大坂なおみが世界1位破り初の準々決勝進出"
+      },
+      {
+        "source": "ナタリー",
+        "title": "市川團十郎が親子同時襲名に挑む舞台裏、三池崇史の監督作「襲名」予告解禁"
+      },
+      {
+        "source": "Variety",
+        "title": "Tom Holland Thought Christopher Nolan Hated His 'Odyssey' Performance on His First Day Filming: 'I Thought I Was Totally S—-ing the Bed'"
+      }
+    ],
+    "audioFile": "20260706_daily.mp3",
+    "scriptFile": "20260706_daily.md",
+    "publishedAt": "2026-07-05T20:57:02.197Z"
+  },
+  {
     "id": "20260704_weekly",
     "title": "スタラジ 土曜増刊号 — 2026年7月4日（土）",
     "date": "2026-07-04",
@@ -5461,117 +5553,5 @@
     "audioFile": "20260407_daily.mp3",
     "scriptFile": "20260407_daily.md",
     "publishedAt": "2026-04-06T20:44:09.995Z"
-  },
-  {
-    "id": "20260406_daily",
-    "title": "スタラジ 2026年4月6日 配信分",
-    "date": "2026-04-06",
-    "broadcastMode": "daily",
-    "durationSec": 482.68800000000044,
-    "durationFormatted": "8:02",
-    "cast": [
-      "みのりん",
-      "そらちゃん",
-      "ホムラ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI開発ツールの大型調達ラッシュ",
-        "startSec": 47.04
-      },
-      {
-        "name": "Claude Codeの妹化現象",
-        "startSec": 126.16800000000002
-      },
-      {
-        "name": "ロシアのインターネット遮断と銀行システム",
-        "startSec": 199.89599999999996
-      },
-      {
-        "name": "イラン情勢とトランプ大統領の強硬姿勢",
-        "startSec": 260.4
-      },
-      {
-        "name": "NASAの月面トイレ問題",
-        "startSec": 329.54400000000015
-      },
-      {
-        "name": "エンタメ速報・マリオとBTS",
-        "startSec": 385.1280000000002
-      },
-      {
-        "name": "クロージング",
-        "startSec": 453.38400000000036
-      }
-    ],
-    "sources": [
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Cursor aims for $50B valuation in talks with investors"
-      },
-      {
-        "source": "Qiita",
-        "title": "Claude Codeに「妹」にして、AIにイラつかない最強の開発環境を作る"
-      },
-      {
-        "source": "Qiita",
-        "title": "AIを使っても「設計判断」は人間がやる話"
-      },
-      {
-        "source": "Qiita",
-        "title": "このAI、気づいたら人間抜きで世界を回し始めている"
-      },
-      {
-        "source": "heise online",
-        "title": "Russland sperrt Messenger und VPNs – und seine Banken gleich mit"
-      },
-      {
-        "source": "heise online",
-        "title": "Internetsperre im Iran ist jetzt die längste der Weltgeschichte"
-      },
-      {
-        "source": "Axios",
-        "title": "Pope calls for peace, Trump vows hell for Iran on Easter"
-      },
-      {
-        "source": "Axios",
-        "title": "\"Open the Fuckin' Strait\": Trump threatens to start bombing civilian infrastructure Tuesday"
-      },
-      {
-        "source": "Axios",
-        "title": "Trump to Axios: Iran deal possible by Tues., otherwise \"I am blowing up everything\""
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Trump Warns Iran on Easter: 'Open the F-ckin' Strait, You Crazy Bastards'"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "On NASA's Moon Mission, the Biggest Headache Has Been the Toilet"
-      },
-      {
-        "source": "Hacker News",
-        "title": "Artemis II crew see first glimpse of far side of Moon [video]"
-      },
-      {
-        "source": "Variety",
-        "title": "'Super Mario Galaxy Movie' Powers to $372 Million Globally, 'Project Hail Mary' Hits $420 Million"
-      },
-      {
-        "source": "Variety",
-        "title": "Kanye West's 'Bully' Debuts at No. 2 on Albums Chart as BTS Holds Top Spot With 'Arirang'"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Pepsi Pulls U.K. Festival Sponsorship Amid Kanye \"Ye\" West Booking"
-      }
-    ],
-    "audioFile": "20260406_daily.mp3",
-    "scriptFile": "20260406_daily.md",
-    "publishedAt": "2026-04-05T20:44:51.065Z"
   }
 ]
