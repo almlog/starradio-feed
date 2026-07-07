@@ -1,5 +1,101 @@
 [
   {
+    "id": "20260708_daily",
+    "title": "スタラジ 2026年7月8日 配信分",
+    "date": "2026-07-08",
+    "broadcastMode": "daily",
+    "durationSec": 902.184000000001,
+    "durationFormatted": "15:02",
+    "cast": [
+      "レイナ姐さん",
+      "りっくん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "企業AIエージェントの「本当のコスト」",
+        "startSec": 54.6
+      },
+      {
+        "name": "Metaの新画像生成AI「Muse」",
+        "startSec": 244.67999999999998
+      },
+      {
+        "name": "AIサイバー攻撃の「完全自動化」",
+        "startSec": 390.7200000000003
+      },
+      {
+        "name": "W杯とウインブルドン、スポーツの週末",
+        "startSec": 543.2400000000005
+      },
+      {
+        "name": "エンタメ二連発：エルトン・ジョン復活公演と内田有紀",
+        "startSec": 691.4400000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 840.3600000000009
+      }
+    ],
+    "sources": [
+      {
+        "source": "{VentureBeat|ベンチャービート}",
+        "title": "The real cost, security, and culture problems behind enterprise AI agents"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Microsoft joins AI cost-cutting trend by relying more on its own models"
+      },
+      {
+        "source": "{The New York Times|ニューヨーク・タイムズ}",
+        "title": "Meta Unveils an A.I. Image Generator"
+      },
+      {
+        "source": "{Financial Times|フィナンシャル・タイムズ}",
+        "title": "Meta releases first image model since Zuckerberg's AI overhaul"
+      },
+      {
+        "source": "Qiita",
+        "title": "JADEPUFFER"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "「AI駆動型ワーム」の脅威　自律的に脆弱性を見つけて感染、特定率は8割超"
+      },
+      {
+        "source": "時事通信社",
+        "title": "アルゼンチン、逆転勝ちで８強　メッシが９試合連続ゴール"
+      },
+      {
+        "source": "NHK",
+        "title": "テニス ウインブルドン選手権 大坂なおみ敗れ準決勝進出ならず"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "World Cup Sets Another Ratings Record in U.S. Loss to Belgium"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Elton John to Conclude Farewell Tour — Three Years After It Ended — in Mexico City"
+      },
+      {
+        "source": "ナタリー",
+        "title": "内田有紀とtimelesz寺西拓人「ラストノート」オファー時の反応は対照的「やったー」「申し訳ない」"
+      }
+    ],
+    "audioFile": "20260708_daily.mp3",
+    "scriptFile": "20260708_daily.md",
+    "publishedAt": "2026-07-07T21:02:46.137Z"
+  },
+  {
     "id": "20260707_daily",
     "title": "スタラジ 2026年7月7日 配信分",
     "date": "2026-07-07",
@@ -5385,125 +5481,5 @@
     "audioFile": "20260409_daily.mp3",
     "scriptFile": "20260409_daily.md",
     "publishedAt": "2026-04-08T20:41:02.691Z"
-  },
-  {
-    "id": "20260408_daily",
-    "title": "スタラジ 2026年4月8日 配信分",
-    "date": "2026-04-08",
-    "broadcastMode": "daily",
-    "durationSec": 529.7280000000006,
-    "durationFormatted": "8:49",
-    "cast": [
-      "レイナ姐さん",
-      "そらちゃん",
-      "ひなちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Anthropic Mythos Preview発表",
-        "startSec": 49.272
-      },
-      {
-        "name": "イラン情勢と午前9時の期限",
-        "startSec": 164.28000000000003
-      },
-      {
-        "name": "テック業界の新展開",
-        "startSec": 243.144
-      },
-      {
-        "name": "NASA月周回ミッション帰還",
-        "startSec": 330.6000000000002
-      },
-      {
-        "name": "エンタメ界のトレンド",
-        "startSec": 408.9360000000004
-      },
-      {
-        "name": "クロージング",
-        "startSec": 495.24000000000046
-      }
-    ],
-    "sources": [
-      {
-        "source": "Financial Times",
-        "title": "Anthropic rolls out cyber AI model days after source code leak"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity 'Reckoning'"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly — so it built Project Glasswing"
-      },
-      {
-        "source": "Axios",
-        "title": "Anthropic withholds Mythos Preview model because its hacking is too powerful"
-      },
-      {
-        "source": "NHK",
-        "title": "イラン情勢 トランプ大統領が主張する期限 午前9時が迫る"
-      },
-      {
-        "source": "EURACTIV Media Network",
-        "title": "'Only the president knows': The world awaits Trump's Iran deadline"
-      },
-      {
-        "source": "Axios",
-        "title": "Pakistan proposes 2-week Iran ceasefire ahead of Trump deadline"
-      },
-      {
-        "source": "Hacker News",
-        "title": "S3 Files and the changing face of S3"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "Amazon S3 Files gives AI agents a native file system workspace, ending the object-file split that breaks multi-agent pipelines"
-      },
-      {
-        "source": "ASCII.jp",
-        "title": "本日発売の「Snapdragon X2」を計ったら驚愕の爆速CPUでしたっ!!＝ASUS「Zenbook SORA 16」実機レビュー"
-      },
-      {
-        "source": "ZDNet",
-        "title": "I swapped my MacBook Air with a Snapdragon X Elite Extreme laptop - here's how they compared"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "NASA Crew Loops Moon and Heads Home"
-      },
-      {
-        "source": "WIRED",
-        "title": "Artemis II's Breathtaking View of the Far Side of the Moon"
-      },
-      {
-        "source": "CNET Japan",
-        "title": "【画像】約50年ぶりの有人月周回、クルーが撮影した「月面」「地球の入り」公開　アルテミス2"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "How Taylor Swift's 'Reputation' Concert Film Inspired Anne Hathaway's Performance in 'Mother Mary'"
-      },
-      {
-        "source": "Variety",
-        "title": "'XO, Kitty' Season 3 Snags 12.9 Million Views in Four Days on Netflix"
-      },
-      {
-        "source": "ナタリー",
-        "title": "矢沢永吉全国ツアー開催、日本人男性ソロアーティストで最多！日本武道館で6DAYS"
-      },
-      {
-        "source": "Variety",
-        "title": "Madonna Biopic Lives (Sort Of): How 'The Studio' Season 2 Revives the Axed Movie and Ends the Icon's 23-Year Acting Break"
-      }
-    ],
-    "audioFile": "20260408_daily.mp3",
-    "scriptFile": "20260408_daily.md",
-    "publishedAt": "2026-04-07T20:43:26.627Z"
   }
 ]
