@@ -1,5 +1,105 @@
 [
   {
+    "id": "20260710_daily",
+    "title": "スタラジ 2026年7月10日 配信分",
+    "date": "2026-07-10",
+    "broadcastMode": "daily",
+    "durationSec": 715.8720000000011,
+    "durationFormatted": "11:55",
+    "cast": [
+      "ヨースケ",
+      "りっくん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "OpenAI GPT-5.6 と ChatGPT Work",
+        "startSec": 40.056
+      },
+      {
+        "name": "AI業界に吹く逆風：訴訟とホワイトハウス",
+        "startSec": 193.12799999999996
+      },
+      {
+        "name": "メモリー戦争とSK Hynixの2.65兆円上場",
+        "startSec": 325.3920000000001
+      },
+      {
+        "name": "西ヨーロッパ「史上最も暑い6月」と現場の備え",
+        "startSec": 459.19200000000046
+      },
+      {
+        "name": "エンタメ枠：ハンガー・ゲームズ復活、原菜乃華主演、亀梨和也の野球取材",
+        "startSec": 568.5840000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 682.104000000001
+      }
+    ],
+    "sources": [
+      {
+        "source": "ZDNet",
+        "title": "OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "デスクトップ版ChatGPT大幅刷新　AIエージェント「Codex」統合、「ChatGPT Work」に"
+      },
+      {
+        "source": "Qiita",
+        "title": "GPT-5.6 は何が変わった？ Luna / Terra / Sol の違いと実務での選び方"
+      },
+      {
+        "source": "The New York Times",
+        "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI, Anthropic Hit New Speed Bump With US Government"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Former Fed Chairman Bernanke Joins Anthropic Oversight Trust"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "SK Hynix's $26.5 Billion Listing Reopens Asia Route to US Market"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Lutnick Presses SK Hynix, Samsung to Boost Memory Output in US"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "メモリー高騰に苦慮するFCNT、「arrows We3」など新機種で何を強化したのか"
+      },
+      {
+        "source": "NHK",
+        "title": "「西ヨーロッパ、史上最も暑い6月」EU気象情報機関"
+      },
+      {
+        "source": "Variety",
+        "title": "All 5 'Hunger Games' Movies Return to Theaters With 'Sunrise on the Reaping' Sneak Peek"
+      },
+      {
+        "source": "ナタリー",
+        "title": "原菜乃華が連続ドラマ「もうパパ！」で主演、「虎に翼」吉田恵里香によるオリジナル脚本"
+      },
+      {
+        "source": "ナタリー",
+        "title": "亀梨和也が巨人選手の食事や\"名ショート\"を取材、日テレプロ野球中継「DRAMATIC BASEBALL」"
+      }
+    ],
+    "audioFile": "20260710_daily.mp3",
+    "scriptFile": "20260710_daily.md",
+    "publishedAt": "2026-07-09T21:18:58.218Z"
+  },
+  {
     "id": "20260709_daily",
     "title": "スタラジ 2026年7月9日 配信分",
     "date": "2026-07-09",
@@ -5329,125 +5429,5 @@
     "audioFile": "20260411_weekly.mp3",
     "scriptFile": "20260411_weekly.md",
     "publishedAt": "2026-04-10T20:44:02.651Z"
-  },
-  {
-    "id": "20260410_daily",
-    "title": "スタラジ 2026年4月10日 配信分",
-    "date": "2026-04-10",
-    "broadcastMode": "daily",
-    "durationSec": 518.1600000000005,
-    "durationFormatted": "8:38",
-    "cast": [
-      "ヨースケ",
-      "そらちゃん",
-      "まほ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI業界の覇権争い激化",
-        "startSec": 54.768
-      },
-      {
-        "name": "データセンターと電力危機",
-        "startSec": 162.696
-      },
-      {
-        "name": "原油価格急騰と中東情勢",
-        "startSec": 242.47199999999995
-      },
-      {
-        "name": "エンタメ業界の大型ニュース",
-        "startSec": 314.7840000000001
-      },
-      {
-        "name": "日常生活を変えるテック革新",
-        "startSec": 372.1200000000003
-      },
-      {
-        "name": "国内ニュースピックアップ",
-        "startSec": 431.90400000000034
-      },
-      {
-        "name": "クロージング",
-        "startSec": 474.0720000000004
-      }
-    ],
-    "sources": [
-      {
-        "source": "Bloomberg L.P.",
-        "title": "OpenAI Tells Investors It Has Computing Advantage Over Anthropic"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "Mythos autonomously exploited vulnerabilities that survived 27 years of human review. Security teams need a new detection playbook"
-      },
-      {
-        "source": "Hacker News",
-        "title": "Maine Is About to Become the First State to Ban Major New Data Centers"
-      },
-      {
-        "source": "heise online",
-        "title": "Hohe Energiekosten und Regularien: OpenAI pausiert Stargate UK"
-      },
-      {
-        "source": "heise online",
-        "title": "KI-Wettlauf: Meta und CoreWeave mit 21-Milliarden-Dollar-Deal"
-      },
-      {
-        "source": "NHK",
-        "title": "NY原油市場 WTI先物価格が上昇 一時1バレル＝102ドル台に"
-      },
-      {
-        "source": "Axios",
-        "title": "Strait of Hormuz remains all but closed, despite Iran ceasefire deal"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Airlines Jack Up Fees to Cover Rising Fuel Costs Amid War"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "'Metal Gear Solid' Movie in the Works From 'Final Destination' Duo as They Ink Sony First-Look (Exclusive)"
-      },
-      {
-        "source": "Variety",
-        "title": "'Metal Gear Solid' Movie in the Works at Sony From 'Final Destination: Bloodlines' Directors"
-      },
-      {
-        "source": "IGN",
-        "title": "Metal Gear Solid Movie to be Directed by Final Destination Bloodlines Duo"
-      },
-      {
-        "source": "The Verge",
-        "title": "Netflix's TV games get a big boost with Jackbox collection"
-      },
-      {
-        "source": "The Verge",
-        "title": "Framework is teasing a lot of Linux for its April 21st event"
-      },
-      {
-        "source": "アイティメディア",
-        "title": "VS CodeのPython拡張機能が強化、venv内パッケージのシンボル検索が可能に"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "弥生時代のブランド石は… 使い勝手良く、四国から兵庫まで流通"
-      },
-      {
-        "source": "NHK",
-        "title": "再審見直し案 政府が修正検討 検察の不服申し立て禁止意見も"
-      }
-    ],
-    "audioFile": "20260410_daily.mp3",
-    "scriptFile": "20260410_daily.md",
-    "publishedAt": "2026-04-09T20:42:44.275Z"
   }
 ]
