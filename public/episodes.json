@@ -1,5 +1,140 @@
 [
   {
+    "id": "20260711_weekly",
+    "title": "スタラジ 土曜増刊号 — 2026年7月11日",
+    "date": "2026-07-11",
+    "broadcastMode": "weekly",
+    "durationSec": 893.3280000000016,
+    "durationFormatted": "14:53",
+    "cast": [
+      "ホリケイ",
+      "レイナ"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト",
+        "startSec": 175.704
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
+        "startSec": 362.11200000000025
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
+        "startSec": 748.6080000000012
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 873.4800000000015
+      }
+    ],
+    "sources": [
+      {
+        "source": "ASCII.jp",
+        "title": "来週は真夏日！ 冷えたビールOKのタイガー真空断熱ボトルで乗り切れ"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Inside Wes Anderson’s Hollywood Bowl Concerts: “The Music’s Always Been Another Actor”"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "SK Hynix CEO Expects Memory Crunch to Last Into Next Decade"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Bezos-backed fusion start-up to become first to go public"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Xiaomi has a NAS device, sitting alongside a supercar, a rice cooker, a nose hair trimmer, and smartphones, of course"
+      },
+      {
+        "source": "NHK",
+        "title": "【台風9号情報】沖縄 先島諸島・本島地方暴風域に 厳重警戒を"
+      },
+      {
+        "source": "Axios",
+        "title": "U.S. strikes Iranian targets in Strait of Hormuz for 2nd straight day"
+      },
+      {
+        "source": "NHK",
+        "title": "「西ヨーロッパ、史上最も暑い6月」EU気象情報機関"
+      },
+      {
+        "source": "NHK",
+        "title": "ウィンブルドン 大坂なおみが世界1位破り初の準々決勝進出"
+      },
+      {
+        "source": "NHK",
+        "title": "テニス ウインブルドン選手権 大坂なおみ敗れ準決勝進出ならず"
+      },
+      {
+        "source": "ZDNet",
+        "title": "OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "デスクトップ版ChatGPT大幅刷新　AIエージェント「Codex」統合、「ChatGPT Work」に"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Former Fed Chairman Bernanke Joins Anthropic Oversight Trust"
+      },
+      {
+        "source": "Financial Times",
+        "title": "SK Hynix’s US shares jump 13% on Nasdaq debut"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Nasdaq President Sees SK Hynix Listing Growing Foreign IPO Pipeline"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Elton John to Conclude Farewell Tour — Three Years After It Ended — in Mexico City"
+      },
+      {
+        "source": "Variety",
+        "title": "Tom Holland Thought Christopher Nolan Hated His ‘Odyssey’ Performance on His First Day Filming"
+      },
+      {
+        "source": "Variety",
+        "title": "Christopher Nolan Says ‘Odyssey’ Backlash Over Casting and More Is ‘Irrelevant’ and He’s Learned Not to Worry"
+      },
+      {
+        "source": "VentureBeat",
+        "title": "Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'Today, the token economy is emerging': AI use in China increases 1000-fold with usage exceeding 140 trillion tokens a day"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Ransomware attacks against education sector rise 16% in one year becoming the new favorite target — and reckless GenAI use could be to blame"
+      },
+      {
+        "source": "Zenn",
+        "title": "Fable 5にアプリを自分自身ごと進化させたら、6夜でOSS公開まで走れた — 壊れなかった仕組み"
+      }
+    ],
+    "audioFile": "20260711_weekly.mp3",
+    "scriptFile": "20260711_weekly.md",
+    "publishedAt": "2026-07-10T21:17:56.427Z"
+  },
+  {
     "id": "20260710_daily",
     "title": "スタラジ 2026年7月10日 配信分",
     "date": "2026-07-10",
@@ -5391,43 +5526,5 @@
     "audioFile": "20260413_daily.mp3",
     "scriptFile": "20260413_daily.md",
     "publishedAt": "2026-04-12T20:43:57.036Z"
-  },
-  {
-    "id": "20260411_weekly",
-    "title": "スタラジ土曜増刊号 2026年4月11日配信",
-    "date": "2026-04-11",
-    "broadcastMode": "weekly",
-    "durationSec": 449.4480000000004,
-    "durationFormatted": "7:29",
-    "cast": [
-      "みのりん",
-      "もえちゃん"
-    ],
-    "segments": [
-      {
-        "name": "Part 1: オープニング + プライベートトーク（約5分）",
-        "startSec": 0
-      },
-      {
-        "name": "Part 2: 土曜ニュースダイジェスト（約3分）",
-        "startSec": 100.89600000000004
-      },
-      {
-        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する（約8分）",
-        "startSec": 191.23200000000003
-      },
-      {
-        "name": "Part 4: 展望 — 来週どうなる？次は何をする？（約3分）",
-        "startSec": 351.4800000000002
-      },
-      {
-        "name": "Part 5: クロージング（約1分）",
-        "startSec": 419.3280000000003
-      }
-    ],
-    "sources": [],
-    "audioFile": "20260411_weekly.mp3",
-    "scriptFile": "20260411_weekly.md",
-    "publishedAt": "2026-04-10T20:44:02.651Z"
   }
 ]
