@@ -1,5 +1,93 @@
 [
   {
+    "id": "20260713_daily",
+    "title": "スタラジ 2026年7月13日 配信分",
+    "date": "2026-07-13",
+    "broadcastMode": "daily",
+    "durationSec": 761.4960000000005,
+    "durationFormatted": "12:41",
+    "cast": [
+      "そらちゃん",
+      "みのりん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Appleが「AIの会社」に変わる — M6・M7・M8ロードマップ",
+        "startSec": 47.832
+      },
+      {
+        "name": "AIモデル、コスト競争の第二幕",
+        "startSec": 207.21599999999998
+      },
+      {
+        "name": "日本のAI最前線 — LINE 15周年とフリーのCAIO直下組織",
+        "startSec": 344.6160000000001
+      },
+      {
+        "name": "兵庫・斎藤知事「公益通報」問題ふたたび",
+        "startSec": 462.74400000000026
+      },
+      {
+        "name": "佐々木麟太郎、マーリンズが8巡目で指名",
+        "startSec": 554.7120000000003
+      },
+      {
+        "name": "エンタメ — マドンナ全米1位帰還と SEKAI NO OWARI ドームツアー開幕",
+        "startSec": 641.2800000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 738.9120000000005
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg",
+        "title": "Apple's M6, M7 and M8 Chips Show How AI Is Reshaping the Company"
+      },
+      {
+        "source": "Bloomberg",
+        "title": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "15周年を迎えた「LINE」、AIエージェントとLYPプレミアムに次の成長を託す"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "フリーは「AIが使いやすい」SaaSを目指す、CAIO直下に新組織"
+      },
+      {
+        "source": "毎日新聞",
+        "title": "「公益通報」を問う:七つの疑惑から始まった混乱　斎藤・兵庫知事巡る告発問題とは"
+      },
+      {
+        "source": "毎日新聞",
+        "title": "「公益通報」を問う:公益通報体制、8道府県が見直し　兵庫・斎藤知事巡る告発問題で"
+      },
+      {
+        "source": "時事通信",
+        "title": "マーリンズが佐々木麟太郎を指名　８巡目、全体２３５位で―米大リーグドラフト"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Madonna Returns to Number One on the Charts With 'Confessions II'"
+      },
+      {
+        "source": "BARKS",
+        "title": "【ライブレポート】SEKAI NO OWARI、東阪ドームツアー＜THE CINEMA＞開幕"
+      }
+    ],
+    "audioFile": "20260713_daily.mp3",
+    "scriptFile": "20260713_daily.md",
+    "publishedAt": "2026-07-12T21:15:43.663Z"
+  },
+  {
     "id": "20260711_weekly",
     "title": "スタラジ 土曜増刊号 — 2026年7月11日",
     "date": "2026-07-11",
@@ -5398,133 +5486,5 @@
     "audioFile": "20260414_daily.mp3",
     "scriptFile": "20260414_daily.md",
     "publishedAt": "2026-04-13T20:43:23.705Z"
-  },
-  {
-    "id": "20260413_daily",
-    "title": "スタラジ 2026年4月13日 配信分",
-    "date": "2026-04-13",
-    "broadcastMode": "daily",
-    "durationSec": 557.1360000000006,
-    "durationFormatted": "9:17",
-    "cast": [
-      "みのりん",
-      "りっくん",
-      "ホムラ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "ハンガリー政変の衝撃",
-        "startSec": 43.151999999999994
-      },
-      {
-        "name": "イラン・中東情勢の緊迫",
-        "startSec": 122.88000000000004
-      },
-      {
-        "name": "AI開発ツール戦争の激化",
-        "startSec": 200.64000000000001
-      },
-      {
-        "name": "Qiitaで話題のAI実装記事",
-        "startSec": 302.40000000000015
-      },
-      {
-        "name": "ルーターセキュリティ問題",
-        "startSec": 377.23200000000037
-      },
-      {
-        "name": "エンタメニュース速報",
-        "startSec": 438.55200000000053
-      },
-      {
-        "name": "クロージング",
-        "startSec": 517.1760000000006
-      }
-    ],
-    "sources": [
-      {
-        "source": "毎日新聞社",
-        "title": "ハンガリー総選挙　保守系野党が勝利　16年ぶり政権交代へ"
-      },
-      {
-        "source": "Axios",
-        "title": "Earthquake in Hungary: Orbán defeated after 16 years in power"
-      },
-      {
-        "source": "EURACTIV Media Network",
-        "title": "Orbán's 16-year rule over Hungary ends in crushing election defeat"
-      },
-      {
-        "source": "NHK",
-        "title": "トランプ大統領「ホルムズ海峡で封鎖措置」 イラン側はけん制"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "トランプ氏、イランと「核で一致せず」　戦闘再開辞さない構え強調"
-      },
-      {
-        "source": "Axios",
-        "title": "Trump pitches Iran blockade as boon to U.S. oil"
-      },
-      {
-        "source": "EURACTIV Media Network",
-        "title": "The war with Iran offers a snapshot of Trump world. It's not a pretty picture."
-      },
-      {
-        "source": "アイティメディア",
-        "title": "そのPC作業、まだ\"手動\"でやっているんですか？　チャットの次は「AIに作業を任せる」時代へ（Cowork活用編）"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "注目集める「AIエージェント」、一問一答型から自律的なシステムに"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "我が社でも使える？Copilotを使い始める手順"
-      },
-      {
-        "source": "Qiita",
-        "title": "26万件の楽譜データと戦う。MIDIから「人間らしいABC譜面」を復元する狂気のデジタル考古学"
-      },
-      {
-        "source": "Qiita",
-        "title": "【備忘録】エンジニアはAI時代にどう向き合うか ― Anthropicの公開情報から整理してみる"
-      },
-      {
-        "source": "Qiita",
-        "title": "Claude API実践ガイド: Haiku/Sonnet/Opusの使い分けとコスト最適化【Python実装例付き】"
-      },
-      {
-        "source": "Qiita",
-        "title": "AIエージェントがツールを呼びすぎる問題——メタ認知の欠如"
-      },
-      {
-        "source": "TechRadar",
-        "title": "'71% of US households get routers from ISPs': Why new FCC rules could leave millions stuck with outdated, insecure hardware"
-      },
-      {
-        "source": "ナタリー",
-        "title": "西城秀樹サブスク解禁！第1弾は1972～1982年のシングル43曲"
-      },
-      {
-        "source": "ナタリー",
-        "title": "横浜流星と広瀬すずが涙…「汝、星のごとく」予告映像公開、ティザービジュアルも到着"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "横浜流星×広瀬すず『汝、星のごとく』公開日決定　二人の涙映す予告編＆ティザービジュアル公開"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Asha Bhosle, Legendary Bollywood Singer, Dead at 92"
-      }
-    ],
-    "audioFile": "20260413_daily.mp3",
-    "scriptFile": "20260413_daily.md",
-    "publishedAt": "2026-04-12T20:43:57.036Z"
   }
 ]
