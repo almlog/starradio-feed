@@ -1,5 +1,113 @@
 [
   {
+    "id": "20260715_daily",
+    "title": "スタラジ 2026年7月15日 配信分",
+    "date": "2026-07-15",
+    "broadcastMode": "daily",
+    "durationSec": 800.0880000000012,
+    "durationFormatted": "13:20",
+    "cast": [
+      "レイナ",
+      "そらちゃん",
+      "セト"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "IBM株25%急落とAIシフトの現場",
+        "startSec": 57.36000000000001
+      },
+      {
+        "name": "ニューヨーク州、AIデータセンター新設を1年凍結",
+        "startSec": 185.376
+      },
+      {
+        "name": "Apple、iOS 27パブリックベータで新Siriを一般開放",
+        "startSec": 310.1280000000001
+      },
+      {
+        "name": "Anthropicの「不気味CM」とClaude多言語バイアス問題",
+        "startSec": 424.2480000000004
+      },
+      {
+        "name": "中東情勢：トランプ「20％通航料」を撤回、湾岸投資へ舵",
+        "startSec": 530.7600000000007
+      },
+      {
+        "name": "エンタメ：パラマウント統合訴訟とダイアン津田のドラマ初主演",
+        "startSec": 641.4960000000008
+      },
+      {
+        "name": "クロージング",
+        "startSec": 758.0640000000011
+      }
+    ],
+    "sources": [
+      {
+        "source": "Financial Times",
+        "title": "IBM shares plunge 25% as customers shift spending to AI"
+      },
+      {
+        "source": "The Guardian",
+        "title": "IBM loses quarter of its value as tech giant's shares plunge and profits falter"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "富士通メインフレームは残り約500台、移行方針を決め切れぬ20数社が課題"
+      },
+      {
+        "source": "The Guardian",
+        "title": "New York becomes first state to impose one-year pause on new AI datacenters"
+      },
+      {
+        "source": "Financial Times",
+        "title": "New York becomes first US state to suspend data centre development"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta"
+      },
+      {
+        "source": "ZDNet",
+        "title": "I've used the iOS 27 beta for a month: 7 ways the new Siri is dramatically better"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Anthropic's newest ad is creeping people out"
+      },
+      {
+        "source": "The Register",
+        "title": "If you want Claude to speak nicely to you, try Hindi or Arabic"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "トランプ氏、通航料20％徴収見送り　湾岸諸国と投資で合意か"
+      },
+      {
+        "source": "時事通信社",
+        "title": "湾岸諸国との取引に置き換え　ホルムズ通過貨物２０％対価―米大統領"
+      },
+      {
+        "source": "Variety",
+        "title": "Not a Done Deal: How and Why 12 Blue States are Fighting the Paramount-Warner Bros. Merger"
+      },
+      {
+        "source": "Variety",
+        "title": "How Strong Is the Democratic State AGs' Lawsuit Aiming to Block Paramount's Warner Bros. Takeover?"
+      },
+      {
+        "source": "ナタリー",
+        "title": "ダイアン津田篤宏がドラマ初主演！上田誠が脚本担当する「タイムトラベルダディ」放送"
+      }
+    ],
+    "audioFile": "20260715_daily.mp3",
+    "scriptFile": "20260715_daily.md",
+    "publishedAt": "2026-07-14T21:24:22.988Z"
+  },
+  {
     "id": "20260714_daily",
     "title": "スタラジ 2026年7月14日 配信分",
     "date": "2026-07-14",
@@ -5390,97 +5498,5 @@
     "audioFile": "20260416_daily.mp3",
     "scriptFile": "20260416_daily.md",
     "publishedAt": "2026-04-15T20:50:34.549Z"
-  },
-  {
-    "id": "20260415_daily",
-    "title": "スタラジ 2026年4月15日 配信分",
-    "date": "2026-04-15",
-    "broadcastMode": "daily",
-    "durationSec": 432.4320000000004,
-    "durationFormatted": "7:12",
-    "cast": [
-      "レイナ姐さん",
-      "りっくん",
-      "ひなちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "サイバーセキュリティAIの攻防戦",
-        "startSec": 51.672000000000004
-      },
-      {
-        "name": "Amazonの宇宙通信参入とMuskとの競争",
-        "startSec": 133.12800000000007
-      },
-      {
-        "name": "AIボットによるインターネット支配",
-        "startSec": 199.29599999999996
-      },
-      {
-        "name": "音楽業界のAI転換点",
-        "startSec": 256.79999999999995
-      },
-      {
-        "name": "エンタメ業界の大型M&A反対運動",
-        "startSec": 308.1600000000001
-      },
-      {
-        "name": "政治スキャンダルと議員辞任",
-        "startSec": 364.46400000000017
-      },
-      {
-        "name": "クロージング",
-        "startSec": 402.8880000000003
-      }
-    ],
-    "sources": [
-      {
-        "source": "WIRED",
-        "title": "In the Wake of Anthropic's Mythos, OpenAI Has a New Cybersecurity Model—and Strategy"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "OpenAI Releases Cyber Model to Limited Group in Race With Mythos"
-      },
-      {
-        "source": "Axios",
-        "title": "OpenAI expands access to cyber AI as hacking risks grow"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "「悪魔のツール」Claude Mythos、防御側に恩恵をもたらす盾ともなるか"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Amazon's $11.6 Billion Globalstar Deal Amps Up Rivalry With Musk"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Lumen CEO Says AI Bots Are Taking Over the Internet"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "The Music Industry Crosses an AI Tipping Point"
-      },
-      {
-        "source": "Variety",
-        "title": "Florence Pugh, Pedro Pascal and More Join Fight to Block Paramount-Warner Bros. Merger as Open Letter Surpasses 2,000 Hollywood Names"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Eric Swalwell Resigns From Congress Amid Sexual-Misconduct Allegations"
-      },
-      {
-        "source": "Axios",
-        "title": "Reps. Eric Swalwell and Tony Gonzales formally submit resignations from Congress"
-      }
-    ],
-    "audioFile": "20260415_daily.mp3",
-    "scriptFile": "20260415_daily.md",
-    "publishedAt": "2026-04-14T20:41:33.613Z"
   }
 ]
