@@ -1,5 +1,105 @@
 [
   {
+    "id": "20260716_daily",
+    "title": "スタラジ 2026年7月16日 配信分",
+    "date": "2026-07-16",
+    "broadcastMode": "daily",
+    "durationSec": 669.288000000001,
+    "durationFormatted": "11:09",
+    "cast": [
+      "ホリケイ",
+      "そらちゃん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AI開発ツールの\"サイレント障害\"問題",
+        "startSec": 38.064
+      },
+      {
+        "name": "AI企業の巨額調達ラッシュ",
+        "startSec": 161.44800000000004
+      },
+      {
+        "name": "SpaceXから1兆ドルが吹き飛んだ",
+        "startSec": 286.728
+      },
+      {
+        "name": "中東続報 米軍イラン追加攻撃",
+        "startSec": 384.9840000000003
+      },
+      {
+        "name": "Post Malone、W杯閉会式に登場",
+        "startSec": 486.04800000000057
+      },
+      {
+        "name": "クイズ$ミリオネア日本復活",
+        "startSec": 558.6960000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 634.8960000000009
+      }
+    ],
+    "sources": [
+      {
+        "source": "Qiita",
+        "title": "無人のClaude Codeが、誰も拒否していないのに黙って止まる（2.1.210）——怖くなって、自分のhookを58個ぜんぶ数えた"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Top AI tools such as OpenClaw and Github Copilot can be hijacked to create new massive botnets"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "AIエージェントのID管理に4つの課題、過剰な権限を持たせず「小さく」設計"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Daniel Ek's body-scanning startup Neko Health raises another $700M"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Mira Murati's Thinking Machines draws from Chinese rivals in debut AI model"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Dan Ives and Trump family-linked securities group launch AI bank, because why not?"
+      },
+      {
+        "source": "Financial Times",
+        "title": "SpaceX sell-off wipes $1tn from Musk's rocket group"
+      },
+      {
+        "source": "BBC",
+        "title": "SpaceX share price drops below stock market debut"
+      },
+      {
+        "source": "NHK",
+        "title": "アメリカ軍 イランに追加攻撃を開始したと発表"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Post Malone to Perform at the World Cup Closing Ceremony"
+      },
+      {
+        "source": "NHK",
+        "title": "W杯 イングランド×アルゼンチン【速報中】イングランド先制"
+      },
+      {
+        "source": "ナタリー",
+        "title": "横山裕や王林が「クイズ$ミリオネア」出演、二宮和也が出題するクイズに挑む"
+      }
+    ],
+    "audioFile": "20260716_daily.mp3",
+    "scriptFile": "20260716_daily.md",
+    "publishedAt": "2026-07-15T22:02:58.545Z"
+  },
+  {
     "id": "20260715_daily",
     "title": "スタラジ 2026年7月15日 配信分",
     "date": "2026-07-15",
@@ -5390,113 +5490,5 @@
     "audioFile": "20260417_daily.mp3",
     "scriptFile": "20260417_daily.md",
     "publishedAt": "2026-04-16T20:43:34.338Z"
-  },
-  {
-    "id": "20260416_daily",
-    "title": "スタラジ 2026年4月16日 配信分",
-    "date": "2026-04-16",
-    "broadcastMode": "daily",
-    "durationSec": 428.7120000000005,
-    "durationFormatted": "7:08",
-    "cast": [
-      "ホリケイ",
-      "りっくん",
-      "サヤさん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "GitHub Copilot料金混乱とAIツール競争",
-        "startSec": 39.959999999999994
-      },
-      {
-        "name": "メタのAI研究とClaudeの進化",
-        "startSec": 109.77600000000002
-      },
-      {
-        "name": "巨額買収ラッシュと宇宙ビジネス",
-        "startSec": 160.584
-      },
-      {
-        "name": "エンタメ業界の大型再編",
-        "startSec": 222.95999999999995
-      },
-      {
-        "name": "国内ニュースと社会問題",
-        "startSec": 293.47200000000004
-      },
-      {
-        "name": "データセンター規制と環境問題",
-        "startSec": 335.32800000000026
-      },
-      {
-        "name": "クロージング",
-        "startSec": 390.2640000000004
-      }
-    ],
-    "sources": [
-      {
-        "source": "The Register",
-        "title": "Customers revolt as GitHub Copilot 'fixes' rate limits"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "Meta researchers introduce 'hyperagents' to unlock self-improving AI for non-coding tasks"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "We tested Anthropic's redesigned Claude Code desktop app and 'Routines' — here's what enterprises should know"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Amazon to Buy Satellite Company Globalstar for $11.6B"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "SpaceX Plans Site Visits for Large Investors as Mega-IPO Nears"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "CBS 2026-27 Schedule: 'Ghosts,' 'Matlock' Move to Midseason, 'Cupertino' Legal Drama Gets Fall Spot"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "'NCIS' Franchise Expands to New York, LL Cool J Returning as Sam Hanna"
-      },
-      {
-        "source": "Variety",
-        "title": "'NCIS: New York' Starring LL Cool J and Scott Caan Set at CBS"
-      },
-      {
-        "source": "Hacker News",
-        "title": "Live Nation Illegally Monopolized Ticketing Market, Jury Finds"
-      },
-      {
-        "source": "NHK",
-        "title": "熊本地震10年 記憶や教訓の伝承が課題に 初の合同追悼式も"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "神戸市、タワマン「空き部屋課税」試案　導入には課題も"
-      },
-      {
-        "source": "TechRadar",
-        "title": "'If these centers aren't thoughtfully planned and coordinated, they can place extraordinary demands on electric infrastructure, the surrounding environment and host communities': Maine becomes first US state to pass data centre construction ban"
-      },
-      {
-        "source": "TechRadar",
-        "title": "'Maybe it's not science fiction': Solar panels are causing rainwater to fall in one of the driest places on Earth"
-      }
-    ],
-    "audioFile": "20260416_daily.mp3",
-    "scriptFile": "20260416_daily.md",
-    "publishedAt": "2026-04-15T20:50:34.549Z"
   }
 ]
