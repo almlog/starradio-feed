@@ -1,5 +1,101 @@
 [
   {
+    "id": "20260721_daily",
+    "title": "スタラジ 2026年7月21日 配信分",
+    "date": "2026-07-21",
+    "broadcastMode": "daily",
+    "durationSec": 742.2960000000005,
+    "durationFormatted": "12:22",
+    "cast": [
+      "もえちゃん",
+      "りっくん",
+      "キリシマさん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Claude Workbench廃止とAIツールの寿命",
+        "startSec": 49.895999999999994
+      },
+      {
+        "name": "中国AI攻勢とOpenAIの警戒",
+        "startSec": 177.192
+      },
+      {
+        "name": "中露EEZ実弾演習と次期戦闘機",
+        "startSec": 310.51200000000006
+      },
+      {
+        "name": "世界のセキュリティ現場から",
+        "startSec": 447.2400000000003
+      },
+      {
+        "name": "エンタメ枠：カイジ実写とアーティストのAI反発",
+        "startSec": 566.5680000000003
+      },
+      {
+        "name": "クロージング",
+        "startSec": 697.4640000000005
+      }
+    ],
+    "sources": [
+      {
+        "source": "Qiita",
+        "title": "Claude旧Workbench廃止＆実験的プロンプトAPI終了、8/17までの移行対応まとめ"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "「AIツールは半年で陳腐化」、メルカリに学ぶ無駄にならない投資の見極め"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Z.AI Completes Giant Data Center With Chinese Chips to Train AI"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "中国がスパコン性能で首位奪回、独自CPUだけで「エクサの壁」突破"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI is scared of open-weight models. Should the US be?"
+      },
+      {
+        "source": "Yahoo!ニュース",
+        "title": "中露 日本のEEZ内で実弾演習"
+      },
+      {
+        "source": "NHK",
+        "title": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認"
+      },
+      {
+        "source": "NHK",
+        "title": "小泉防衛相 日英伊の次期戦闘機開発は安保協力の新モデルに"
+      },
+      {
+        "source": "The Register",
+        "title": "AWS customer learns the hard way how even the smallest oversight can be mission-critical"
+      },
+      {
+        "source": "Der Spiegel",
+        "title": "Phishing: BKA legt Hunderte Server von Kriminellen lahm"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "亀梨和也が最狂の宿敵！藤原竜也『カイジ』追加キャスト4名発表"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Have Artists Reached Their Breaking Point With AI?"
+      }
+    ],
+    "audioFile": "20260721_daily.mp3",
+    "scriptFile": "20260721_daily.md",
+    "publishedAt": "2026-07-20T21:13:46.582Z"
+  },
+  {
     "id": "20260717_daily",
     "title": "スタラジ 2026年7月17日 配信分",
     "date": "2026-07-17",
@@ -5159,336 +5255,5 @@
     "audioFile": "20260422_daily.mp3",
     "scriptFile": "20260422_daily.md",
     "publishedAt": "2026-04-21T20:45:16.028Z"
-  },
-  {
-    "id": "20260421_daily",
-    "title": "スタラジ 2026年4月21日 配信分",
-    "date": "2026-04-21",
-    "broadcastMode": "daily",
-    "durationSec": 472.58400000000074,
-    "durationFormatted": "7:52",
-    "cast": [
-      "もえちゃん",
-      "そらちゃん",
-      "レイジ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "WhatsAppのサブスク参入",
-        "startSec": 20.927999999999997
-      },
-      {
-        "name": "イラン・パキスタン和平交渉",
-        "startSec": 110.64000000000004
-      },
-      {
-        "name": "中国のレアアース輸出規制",
-        "startSec": 174.04800000000003
-      },
-      {
-        "name": "The OnionがInfowarsを買収",
-        "startSec": 228.71999999999997
-      },
-      {
-        "name": "電気自動車の新展開",
-        "startSec": 300.64800000000014
-      },
-      {
-        "name": "エンタメ界の話題",
-        "startSec": 372.2640000000004
-      },
-      {
-        "name": "クロージング",
-        "startSec": 436.3920000000006
-      }
-    ],
-    "sources": [
-      {
-        "source": "Bloomberg L.P.",
-        "title": "WhatsApp Joins Instagram in Selling New Premium Subscriptions"
-      },
-      {
-        "source": "The Verge",
-        "title": "WhatsApp tests 'Plus' subscription that adds stickers and more for a few bucks a month"
-      },
-      {
-        "source": "時事通信社",
-        "title": "米副大統領、パキスタンへ２１日出発　イランと戦闘終結協議"
-      },
-      {
-        "source": "Axios",
-        "title": "Trump rages at Iran war criticism: \"Time is not my adversary\""
-      },
-      {
-        "source": "NHK",
-        "title": "中国 レアアース磁石の対日輸出27％余減 規制強化影響の見方も"
-      },
-      {
-        "source": "Variety",
-        "title": "The Onion Says It Has a Deal to Take Over Alex Jones' Infowars, Plans to Relaunch Right-Wing Site as Parody of Itself"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "The Onion Cuts a New Deal to Take Over Infowars"
-      },
-      {
-        "source": "EURACTIV Media Network",
-        "title": "Satire website The Onion launches new bid to take over Alex Jones' Infowars"
-      },
-      {
-        "source": "The Verge",
-        "title": "Mercedes' first all-electric C-Class is its sportiest one yet"
-      },
-      {
-        "source": "TechRadar",
-        "title": "Hyundai reinvents the hatchback with the 300-mile range Ioniq 3 — a compact, aerodynamic EV that runs on Android Automotive"
-      },
-      {
-        "source": "Variety",
-        "title": "'Super Troopers 3' Trailer: Broken Lizard Reunites for Raunchy Comedy Filled With High-Speed Chases, a Wedding Gone Wrong and More"
-      },
-      {
-        "source": "Variety",
-        "title": "'Wednesday' Season 3 First Look: Jenna Ortega Arrives in Paris"
-      },
-      {
-        "source": "Variety",
-        "title": "Madonna Says Coachella Outfit Went Missing, Offers Reward for Its Return: 'These Aren't Just Clothes, They're Part of My History'"
-      }
-    ],
-    "audioFile": "20260421_daily.mp3",
-    "scriptFile": "20260421_daily.md",
-    "publishedAt": "2026-04-20T20:47:36.553Z"
-  },
-  {
-    "id": "20260420_daily",
-    "title": "スタラジ 2026年4月20日 配信分",
-    "date": "2026-04-20",
-    "broadcastMode": "daily",
-    "durationSec": 429.0000000000004,
-    "durationFormatted": "7:09",
-    "cast": [
-      "みのりん",
-      "そらちゃん",
-      "ホムラ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "宇宙開発とBlue Origin",
-        "startSec": 40.704
-      },
-      {
-        "name": "AI開発者向けツールの進化",
-        "startSec": 115.92000000000004
-      },
-      {
-        "name": "米国・イラン情勢の新展開",
-        "startSec": 195.33599999999998
-      },
-      {
-        "name": "NSAとAnthropic Mythosの関係",
-        "startSec": 252.45599999999993
-      },
-      {
-        "name": "エンタメとコーチェラ音楽祭",
-        "startSec": 307.392
-      },
-      {
-        "name": "日本のエンタメ最新情報",
-        "startSec": 353.1360000000001
-      },
-      {
-        "name": "クロージング",
-        "startSec": 397.2480000000003
-      }
-    ],
-    "sources": [
-      {
-        "source": "The Verge",
-        "title": "Blue Origin successfully reused its New Glenn rocket"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Blue Origin's New Glenn put a customer satellite in the wrong orbit during its third launch"
-      },
-      {
-        "source": "Ars Technica",
-        "title": "Blue Origin's rocket reuse achievement marred by upper stage failure"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Blue Origin CEO on Growing Satellite Launch Demands"
-      },
-      {
-        "source": "Qiita",
-        "title": "企業導入前に押さえたいClaude Codeの便利機能12選と現場で活きる3つの組み合わせ例"
-      },
-      {
-        "source": "Qiita",
-        "title": "AI に全部書かせたら、自分には何も残らなかった話"
-      },
-      {
-        "source": "Qiita",
-        "title": "電気料金 API を 110 秒 → 115ms（約 1,000 倍）に高速化した話 ── プロファイラで順にボトルネックを潰す"
-      },
-      {
-        "source": "NHK",
-        "title": "トランプ大統領「私の代表団がパキスタンへ向かっている」"
-      },
-      {
-        "source": "時事通信社",
-        "title": "米代表団「２０日パキスタン入り」　イラン和平、再協議か―停戦期限控え「新提案」"
-      },
-      {
-        "source": "Axios",
-        "title": "Trump says he'll send negotiators to Pakistan, Iran suspects trap"
-      },
-      {
-        "source": "Axios",
-        "title": "Scoop: NSA using Anthropic's Mythos despite Defense Department blacklist"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "See Justin Bieber Bring Out Billie Eilish, SZA at Second Coachella Show"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "See Olivia Rodrigo Debut 'Drop Dead' Live During Addison Rae's Coachella Set"
-      },
-      {
-        "source": "Variety",
-        "title": "The Strokes End Coachella Set With Video Condemning U.S. and Israeli Bombings in Iran and Gaza"
-      },
-      {
-        "source": "ナタリー",
-        "title": "「銀魂」完結以来約7年ぶり、空知英秋の新連載は魔王コメディ！ジャンプで開幕"
-      },
-      {
-        "source": "BARKS",
-        "title": "時速36km、アニメ『ONE PIECE』ED主題歌「その未来」MV公開＋フリーライブをYouTube生配信へ"
-      },
-      {
-        "source": "SPICE",
-        "title": "時速36km、新曲「その未来」のミュージックビデオを公開　フリーライブ『時代』のYouTube生配信が決定"
-      },
-      {
-        "source": "ナタリー",
-        "title": "松村北斗が作った街を初公開　指原莉乃、MAHINA、狩野英孝と楽しむ「ぽこポケ」新CM放送"
-      }
-    ],
-    "audioFile": "20260420_daily.mp3",
-    "scriptFile": "20260420_daily.md",
-    "publishedAt": "2026-04-19T20:46:35.075Z"
-  },
-  {
-    "id": "20260418_weekly",
-    "title": "スタラジ土曜増刊号 - 2026年4月18日配信分",
-    "date": "2026-04-18",
-    "broadcastMode": "weekly",
-    "durationSec": 524.2080000000008,
-    "durationFormatted": "8:44",
-    "cast": [
-      "みのりん",
-      "もえちゃん"
-    ],
-    "segments": [
-      {
-        "name": "Part 1: オープニング + プライベートトーク",
-        "startSec": 0
-      },
-      {
-        "name": "Part 2: 土曜ニュースダイジェスト",
-        "startSec": 95.35200000000005
-      },
-      {
-        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
-        "startSec": 252.5999999999999
-      },
-      {
-        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
-        "startSec": 433.8480000000004
-      },
-      {
-        "name": "Part 5: クロージング",
-        "startSec": 498.50400000000053
-      }
-    ],
-    "sources": [
-      {
-        "source": "TechCrunch",
-        "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Cursor In Talks to Raise $2 Billion at Over $50 Billion Value"
-      },
-      {
-        "source": "BBC",
-        "title": "Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Zoom teams up with World to verify humans in meetings"
-      },
-      {
-        "source": "WIRED",
-        "title": "Gazing Into Sam Altman's Orb Now Proves You're Human on Tinder"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Anthropic CEO to meet White House chief of staff as US seeks access to Mythos model"
-      },
-      {
-        "source": "The Verge",
-        "title": "Anthropic's new cybersecurity model could get it back in the government's good graces"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "VC Dealmaking Sets Record, But Nearly All Funds Go to AI"
-      },
-      {
-        "source": "NHK",
-        "title": "イラン外相 条件をつけた上で \"ホルムズ海峡を商船に開放\""
-      },
-      {
-        "source": "NHK",
-        "title": "ホルムズ海峡 安全な航行確保へ 英仏主導の会合開催"
-      },
-      {
-        "source": "WIRED",
-        "title": "OpenAI Executive Kevin Weil Is Leaving the Company"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "'Tokenmaxxing' is making developers less productive than they think"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Everything We Know About Olivia Rodrigo's New Album"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Alright, Drake, What's Going on With 'Iceman'?"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "縮小社会に生きる:「旧制一中」名門進学校が定員割れ　元校長「県民に申し訳ない」"
-      },
-      {
-        "source": "Qiita",
-        "title": "claudeは知識にないことを聞くとアホである"
-      }
-    ],
-    "audioFile": "20260418_weekly.mp3",
-    "scriptFile": "20260418_weekly.md",
-    "publishedAt": "2026-04-17T20:45:13.255Z"
   }
 ]
