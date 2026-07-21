@@ -1,5 +1,109 @@
 [
   {
+    "id": "20260722_daily",
+    "title": "スタラジ 2026年7月22日 配信分",
+    "date": "2026-07-22",
+    "broadcastMode": "daily",
+    "durationSec": 683.1360000000005,
+    "durationFormatted": "11:23",
+    "cast": [
+      "レイナ姐さん",
+      "りっくん",
+      "ヨースケ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Google Gemini 新モデル攻勢",
+        "startSec": 49.656000000000006
+      },
+      {
+        "name": "OpenAI 三重発表 IPO・侵入事件・政府ブリーフ",
+        "startSec": 175.68
+      },
+      {
+        "name": "AIエージェント×ランサム攻撃の新局面",
+        "startSec": 302.04
+      },
+      {
+        "name": "円相場 39年半ぶりの163円台",
+        "startSec": 416.5440000000001
+      },
+      {
+        "name": "エンタメ ミンキーモモ復活とアベンジャーズ前売り",
+        "startSec": 518.1360000000003
+      },
+      {
+        "name": "クロージング",
+        "startSec": 653.0400000000005
+      }
+    ],
+    "sources": [
+      {
+        "source": "VentureBeat",
+        "title": "Google's Gemini 3.6 Flash model cuts AI agent token costs by up to 65% on long horizon engineering tasks —and 3.5 Pro is on the way"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Google Releases Three New Gemini A.I. Models"
+      },
+      {
+        "source": "Der Spiegel",
+        "title": "Google macht uns zu KI-Zombies – Meinung"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI Names BNY, Nubank CEOs to Board Ahead of IPO"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI Says Its AI Used for 'Unprecedented' Hugging Face Breach"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI's Altman to Brief US Officials on Next Wave of AI Models"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "AIエージェントによる「ランサムウエア攻撃」出現、侵入から脅迫まで全自動"
+      },
+      {
+        "source": "NHK",
+        "title": "ニチレイ ハッカー集団が犯行声明 「ランサムウエア」攻撃か"
+      },
+      {
+        "source": "NHK",
+        "title": "円相場 一時1ドル＝163円台に値下がり 約39年半ぶりの円安水準"
+      },
+      {
+        "source": "NHK",
+        "title": "食料品消費税減税 実務者会議で議論再開もとりまとめ難航予想"
+      },
+      {
+        "source": "ナタリー",
+        "title": "「魔法のプリンセス ミンキーモモ」新作OVA特報公開　陽木くるみがミンキーモモ役"
+      },
+      {
+        "source": "ナタリー",
+        "title": "「ミンキーモモ」新作OVAのモモ役は陽木くるみ、お供3匹に落合福嗣・藤原夏海・釘宮理恵"
+      },
+      {
+        "source": "Variety",
+        "title": "'Avengers: Doomsday' Racks Up $16.5 Million in Advance Ticket Sales After First Day (EXCLUSIVE)"
+      },
+      {
+        "source": "ナタリー",
+        "title": "「内村文化祭'26旅姿」石川、福岡、東京で11月に開催"
+      }
+    ],
+    "audioFile": "20260722_daily.mp3",
+    "scriptFile": "20260722_daily.md",
+    "publishedAt": "2026-07-21T21:27:44.380Z"
+  },
+  {
     "id": "20260721_daily",
     "title": "スタラジ 2026年7月21日 配信分",
     "date": "2026-07-21",
@@ -5091,169 +5195,5 @@
     "audioFile": "20260423_daily.mp3",
     "scriptFile": "20260423_daily.md",
     "publishedAt": "2026-04-22T20:47:12.407Z"
-  },
-  {
-    "id": "20260422_daily",
-    "title": "スタラジ 2026年4月22日 配信分",
-    "date": "2026-04-22",
-    "broadcastMode": "daily",
-    "durationSec": 606.264000000001,
-    "durationFormatted": "10:06",
-    "cast": [
-      "レイナ姐さん",
-      "そらちゃん",
-      "まほ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Apple CEO交代劇",
-        "startSec": 50.64
-      },
-      {
-        "name": "OpenAI Images 2.0の衝撃",
-        "startSec": 156.288
-      },
-      {
-        "name": "イラン・米国の緊張続く",
-        "startSec": 258.264
-      },
-      {
-        "name": "Framework新型ラップトップ登場",
-        "startSec": 342.7680000000002
-      },
-      {
-        "name": "AIガバナンスの危機",
-        "startSec": 423.3360000000004
-      },
-      {
-        "name": "エンタメニュース速報",
-        "startSec": 487.63200000000063
-      },
-      {
-        "name": "クロージング",
-        "startSec": 538.8720000000006
-      }
-    ],
-    "sources": [
-      {
-        "source": "TechCrunch",
-        "title": "Apple's John Ternus will run one of the world's most powerful companies; the job is a minefield"
-      },
-      {
-        "source": "The Verge",
-        "title": "Tim Cook was an innovator — just not the Jobs kind"
-      },
-      {
-        "source": "Financial Times",
-        "title": "John Ternus is probably 50 years old"
-      },
-      {
-        "source": "TechRadar",
-        "title": "'This is not goodbye' : Tim Cook makes it clear he's not walking away from Apple"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Tim Cook Turned Apple Into a Hollywood Power Player. Does the New CEO Feel the Same Way?"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Apple Isn't on Right Path for AI, Piecyck Says"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "ChatGPT's new Images 2.0 model is surprisingly good at generating text"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly"
-      },
-      {
-        "source": "WIRED",
-        "title": "OpenAI Beefs Up ChatGPT's Image Generation Model"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "OpenAI Unveils New Image Model That's Better at Charts and Diagrams"
-      },
-      {
-        "source": "The Verge",
-        "title": "OpenAI's updated image generator can now pull information from the web"
-      },
-      {
-        "source": "ZDNet",
-        "title": "I got an early look at ChatGPT Images 2.0, and it's impressive - with one exception"
-      },
-      {
-        "source": "Axios",
-        "title": "Images in ChatGPT are getting a major update"
-      },
-      {
-        "source": "Axios",
-        "title": "Trump extends Iran ceasefire, citing \"fractured\" Iranian government"
-      },
-      {
-        "source": "Axios",
-        "title": "Vance's Pakistan trip postponed indefinitely as Iran boycotts peace talks"
-      },
-      {
-        "source": "時事通信社",
-        "title": "米軍の海上封鎖「戦争行為」　イラン外相"
-      },
-      {
-        "source": "EURACTIV Media Network",
-        "title": "Iran talks on hold because of Trump's blockade"
-      },
-      {
-        "source": "TechRadar",
-        "title": "Iran alleges systematic sabotage of US-made networking infrastructure mid-conflict — hardware shut down and rebooted despite internet blackout"
-      },
-      {
-        "source": "WIRED",
-        "title": "Framework Has a Better, More Take-Apart-Able Laptop"
-      },
-      {
-        "source": "Ars Technica",
-        "title": "Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop"
-      },
-      {
-        "source": "Ars Technica",
-        "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype"
-      },
-      {
-        "source": "ZDNet",
-        "title": "I saw Framework's new 'MacBook Pro for Linux' and it's the hardware enthusiasts deserve"
-      },
-      {
-        "source": "The Verge",
-        "title": "Framework's Laptop 13 Pro launch event"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "The AI governance mirage: Why 72% of enterprises don't have the control and security they think they do"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Elite law firm Sullivan & Cromwell admits to AI 'hallucinations'"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Drake's 'Iceman' Release Date Revealed"
-      },
-      {
-        "source": "SPICE",
-        "title": "山下達郎、新曲「Finally Free」が「オールフリー〈エールテイスト〉」の新TV-CMに起用【コメントあり】"
-      },
-      {
-        "source": "Variety",
-        "title": "Netflix India's New-Talent Bet Lands Three Films in Global Top 10 as 'Toaster' Hits No. 1 (EXCLUSIVE)"
-      }
-    ],
-    "audioFile": "20260422_daily.mp3",
-    "scriptFile": "20260422_daily.md",
-    "publishedAt": "2026-04-21T20:45:16.028Z"
   }
 ]
