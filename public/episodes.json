@@ -1,5 +1,105 @@
 [
   {
+    "id": "20260723_daily",
+    "title": "スタラジ 2026年7月23日 配信分",
+    "date": "2026-07-23",
+    "broadcastMode": "daily",
+    "durationSec": 744.7920000000007,
+    "durationFormatted": "12:24",
+    "cast": [
+      "ホリケイ",
+      "りっくん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "米ビッグテック決算週の温度差",
+        "startSec": 33.768
+      },
+      {
+        "name": "メタ「ソーシャルメディア中毒」訴訟の取り下げ",
+        "startSec": 179.92800000000003
+      },
+      {
+        "name": "AI開発ツール、モデル選びから「オーケストレーション」へ",
+        "startSec": 291.6240000000001
+      },
+      {
+        "name": "JR東日本「みどりの窓口」に生成AI実証",
+        "startSec": 409.89600000000024
+      },
+      {
+        "name": "米・イラン緊張再燃、トランプ発言と原油",
+        "startSec": 511.5600000000004
+      },
+      {
+        "name": "エンタメ2本：24時間テレビと、マイケル・J・フォックスの復帰",
+        "startSec": 623.8320000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 722.5680000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "Tesla Profit Falls Even as Car Sales Rebound"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Alphabet Beats on Cloud Revenue, Posts Strong Gemini Usage"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "IBM Cuts Full-Year Sales Outlook After Mainframe Unit Dip"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Meta Avoids Second Addiction Trial as Teen Accuser Drops Case"
+      },
+      {
+        "source": "BBC",
+        "title": "Teenager drops social media addiction lawsuit against Meta"
+      },
+      {
+        "source": "Qiita",
+        "title": "Cursor Router登場！Autoモードが賢いモデルルーターに進化した話"
+      },
+      {
+        "source": "Qiita",
+        "title": "Fuguが示した次のAI競争はモデル単体ではなくオーケストレーションである"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "AI時代、開発チームの人材は\"5つの型\"に分かれる　Claude Code開発責任者の見立て"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "JR東日本が「みどりの窓口」で生成AI実証、音声で発券情報を整理"
+      },
+      {
+        "source": "Axios",
+        "title": "Trump vows to hit an Iranian bridge or power plant for every ship Iran attacks"
+      },
+      {
+        "source": "ナタリー",
+        "title": "「24時間テレビ」ポスタービジュアル公開　SixTONES、山崎育三郎らが仲よくひょっこり"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Michael J. Fox: Getting Back to Acting \"Really Prolonged My Life\""
+      }
+    ],
+    "audioFile": "20260723_daily.mp3",
+    "scriptFile": "20260723_daily.md",
+    "publishedAt": "2026-07-22T20:48:20.589Z"
+  },
+  {
     "id": "20260722_daily",
     "title": "スタラジ 2026年7月22日 配信分",
     "date": "2026-07-22",
@@ -5079,121 +5179,5 @@
     "audioFile": "20260424_daily.mp3",
     "scriptFile": "20260424_daily.md",
     "publishedAt": "2026-04-23T20:45:06.249Z"
-  },
-  {
-    "id": "20260423_daily",
-    "title": "スタラジ 2026年4月23日 配信分",
-    "date": "2026-04-23",
-    "broadcastMode": "daily",
-    "durationSec": 389.97600000000034,
-    "durationFormatted": "6:29",
-    "cast": [
-      "ホリケイ",
-      "そらちゃん",
-      "セトさん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI開発環境の進化",
-        "startSec": 41.519999999999996
-      },
-      {
-        "name": "半導体製造の未来",
-        "startSec": 111.45600000000005
-      },
-      {
-        "name": "エネルギー危機とEU",
-        "startSec": 190.34399999999997
-      },
-      {
-        "name": "エンタメ界の話題",
-        "startSec": 252.7919999999999
-      },
-      {
-        "name": "国内の重要ニュース",
-        "startSec": 313.8480000000001
-      },
-      {
-        "name": "クロージング",
-        "startSec": 368.44800000000026
-      }
-    ],
-    "sources": [
-      {
-        "source": "DevelopersIO",
-        "title": "Claude Desktop (Cowork) を Amazon Bedrock 経由で利用してみた"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "生成AIネーティブ「Wave Terminal」、ログのコピペなしでAIが的確に助言"
-      },
-      {
-        "source": "The Verge",
-        "title": "OpenAI now lets teams make custom bots that can do work on their own"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "TSMC Says ASML's Latest Chipmaking Gear Is Too Pricey to Use"
-      },
-      {
-        "source": "heise online",
-        "title": "Chipfertigung: Das sind die Pläne des Weltmarktführers TSMC bis 2029"
-      },
-      {
-        "source": "The Register",
-        "title": "SK Hynix's aspirations for 'Merica-made HBM inch closer to reality"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Google Cloud launches two new AI chips to compete with Nvidia"
-      },
-      {
-        "source": "NHK",
-        "title": "EU執行機関が対策発表 燃料の価格高騰と不足への懸念で"
-      },
-      {
-        "source": "TechRadar",
-        "title": "You deserve to watch the World Cup on the best TV on the market — save $1,400 on LG's award-winning C5 OLED TV"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "'Clayface' Teaser Trailer: First Look at DC Studios' R-Rated Body Horror Film"
-      },
-      {
-        "source": "Variety",
-        "title": "'Clayface' Trailer: Batman Villain Enters James Gunn's DC Universe in Gross-Out Body Horror Movie"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "MrBeast's Company Sued by Former Executive Over Alleged Sexual Harassment"
-      },
-      {
-        "source": "The Verge",
-        "title": "Former MrBeast exec sues over 'years' of alleged harassment"
-      },
-      {
-        "source": "Variety",
-        "title": "MrBeast's Beast Industries Sued by Former Employee Alleging Sexual Harassment and Retaliation；Company Says Suit Is Based on 'Categorically False Statements'"
-      },
-      {
-        "source": "NHK",
-        "title": "北海道 知床沖の観光船事故から4年 斜里町で追悼式開催へ"
-      },
-      {
-        "source": "NHK",
-        "title": "岩手 紫波町 遺体発見の前日に消防団員もクマに襲われる"
-      },
-      {
-        "source": "NHK",
-        "title": "岩手 大槌町の山林火災 夜明けから消火活動再開へ"
-      }
-    ],
-    "audioFile": "20260423_daily.mp3",
-    "scriptFile": "20260423_daily.md",
-    "publishedAt": "2026-04-22T20:47:12.407Z"
   }
 ]
