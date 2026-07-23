@@ -1,5 +1,109 @@
 [
   {
+    "id": "20260724_daily",
+    "title": "スタラジ 2026年7月24日 配信分",
+    "date": "2026-07-24",
+    "broadcastMode": "daily",
+    "durationSec": 761.0400000000012,
+    "durationFormatted": "12:41",
+    "cast": [
+      "ヨースケ",
+      "りっくん",
+      "レイナ姐さん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Intel復活とAMDの2兆ドル市場",
+        "startSec": 49.176
+      },
+      {
+        "name": "AI設備投資バブル論と1.65兆ドル債務",
+        "startSec": 169.05600000000004
+      },
+      {
+        "name": "円安164円 39年8か月ぶりの水準",
+        "startSec": 294.98400000000015
+      },
+      {
+        "name": "GoogleへEUが約1500億円の制裁金",
+        "startSec": 409.6320000000004
+      },
+      {
+        "name": "甲子園大 学生募集停止と少子化のリアル",
+        "startSec": 520.5120000000006
+      },
+      {
+        "name": "エンタメ：ザ・ベア最終シーズンと日韓ドラマ",
+        "startSec": 616.4160000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 726.2160000000011
+      }
+    ],
+    "sources": [
+      {
+        "source": "{Bloomberg L.P.|ブルームバーグ}",
+        "title": "Intel Forecast Shatters Estimates on Data Center Growth"
+      },
+      {
+        "source": "{Financial Times|フィナンシャルタイムズ}",
+        "title": "Intel shares rally after chipmaker posts fastest growth in 15 years"
+      },
+      {
+        "source": "{Bloomberg L.P.|ブルームバーグ}",
+        "title": "AMD Unveils New Products in Pursuit of $2 Trillion Market"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Big Tech Isn't Hiding $1.65T of Debt"
+      },
+      {
+        "source": "TechRadar",
+        "title": "'Subprime data center crisis' could threaten the global economy in a way similar to the 2008 subprime mortgage debacle"
+      },
+      {
+        "source": "{Bloomberg L.P.|ブルームバーグ}",
+        "title": "Trump Expands AI Data Center Pledge in Bid to Ease Power Costs"
+      },
+      {
+        "source": "BBC",
+        "title": "Google and Tesla shares plunge as AI spending rattles markets"
+      },
+      {
+        "source": "NHK",
+        "title": "円安加速 1ドル164円に迫る 39年8か月ぶりの水準に"
+      },
+      {
+        "source": "{The New York Times|ニューヨークタイムズ}",
+        "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices"
+      },
+      {
+        "source": "{Der Spiegel|シュピーゲル}",
+        "title": "Google: USA kritisieren EU-Rekordstrafe und warnen vor Handelsfolgen"
+      },
+      {
+        "source": "毎日新聞",
+        "title": "甲子園大が学生募集停止　新型コロナ禍で入学者激減、存続困難に"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Streaming Ratings: 'The Bear' Slips in Final Season Premiere, 'I Will Find You' and 'Love Island' Soar"
+      },
+      {
+        "source": "ナタリー",
+        "title": "チ・チャンウクと今田美桜のW主演ドラマ「メリーベリーラブ」10月期に放送決定"
+      }
+    ],
+    "audioFile": "20260724_daily.mp3",
+    "scriptFile": "20260724_daily.md",
+    "publishedAt": "2026-07-23T20:57:02.593Z"
+  },
+  {
     "id": "20260723_daily",
     "title": "スタラジ 2026年7月23日 配信分",
     "date": "2026-07-23",
@@ -5047,137 +5151,5 @@
     "audioFile": "20260501_daily.mp3",
     "scriptFile": "20260501_daily.md",
     "publishedAt": "2026-04-30T20:42:11.345Z"
-  },
-  {
-    "id": "20260424_daily",
-    "title": "スタラジ 2026年4月24日 配信分",
-    "date": "2026-04-24",
-    "broadcastMode": "daily",
-    "durationSec": 603.5760000000008,
-    "durationFormatted": "10:03",
-    "cast": [
-      "ヨースケ",
-      "そらちゃん",
-      "ホムラ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Meta大規模レイオフとAI戦略",
-        "startSec": 50.88
-      },
-      {
-        "name": "OpenAI GPT-5.5発表の衝撃",
-        "startSec": 141.28800000000004
-      },
-      {
-        "name": "Microsoft GamingからXboxへ",
-        "startSec": 243.552
-      },
-      {
-        "name": "Intel復活の兆し",
-        "startSec": 320.9040000000001
-      },
-      {
-        "name": "エンタメ界の動き",
-        "startSec": 411.19200000000035
-      },
-      {
-        "name": "ホルムズ海峡と国際情勢",
-        "startSec": 491.88000000000056
-      },
-      {
-        "name": "クロージング",
-        "startSec": 561.8880000000007
-      }
-    ],
-    "sources": [
-      {
-        "source": "The New York Times",
-        "title": "Meta to Lay Off 10 Percent of Work Force in A.I. Push"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Meta to cut 10% of jobs to 'offset' Zuckerberg's AI spending"
-      },
-      {
-        "source": "Axios",
-        "title": "Meta to lay off 8,000 as part of AI efficiency push"
-      },
-      {
-        "source": "The New York Times",
-        "title": "OpenAI Unveils Its New, More Powerful GPT-5.5 Model"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0"
-      },
-      {
-        "source": "The Verge",
-        "title": "Anthropic's Mythos breach was humiliating"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI 'super app'"
-      },
-      {
-        "source": "Variety",
-        "title": "Microsoft Gaming Changes Name to Xbox: 'Our New North Star Will Be Daily Active Players,' Execs Say in Staff Memo"
-      },
-      {
-        "source": "The Verge",
-        "title": "'We Are Xbox': read the memo defining Microsoft's gaming future"
-      },
-      {
-        "source": "The Verge",
-        "title": "Microsoft's new Xbox chief is 'reevaluating' exclusive games"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Intel Gives Strong AI-Fueled Outlook, Sending Shares Soaring"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Intel shares jump 15% as it predicts revenue surge from AI data centres"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Intel's Strong AI-Fueled Forecast Tops Estimates"
-      },
-      {
-        "source": "Variety",
-        "title": "'Michael' Kicks Off With Strong $18.5 Million at International Box Office"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Why Diana Ross Isn't a Part of 'Michael'"
-      },
-      {
-        "source": "ナタリー",
-        "title": "ディズニー＆ピクサー映画「モンスターズ・インク」GWにTBS系で放送決定"
-      },
-      {
-        "source": "Variety",
-        "title": "Bob Iger, After Stepping Down as Disney CEO, Tapped as Adviser to Josh Kushner's Thrive Capital (Report)"
-      },
-      {
-        "source": "Axios",
-        "title": "Iran deploys more mines in the Strait of Hormuz, sources say"
-      },
-      {
-        "source": "NHK",
-        "title": "トランプ大統領 機雷敷設の船舶攻撃の方針 協議実現は不透明"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Oil Climbs Amid Hormuz Standoff, The Fed's Next Move | Bloomberg Markets 4/23/2026"
-      }
-    ],
-    "audioFile": "20260424_daily.mp3",
-    "scriptFile": "20260424_daily.md",
-    "publishedAt": "2026-04-23T20:45:06.249Z"
   }
 ]
