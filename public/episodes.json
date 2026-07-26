@@ -1,5 +1,109 @@
 [
   {
+    "id": "20260727_daily",
+    "title": "スタラジ 2026年7月27日 配信分",
+    "date": "2026-07-27",
+    "broadcastMode": "daily",
+    "durationSec": 868.9440000000008,
+    "durationFormatted": "14:28",
+    "cast": [
+      "みのりん",
+      "そらちゃん",
+      "もえちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "中国AIをめぐる警戒と現実",
+        "startSec": 71.376
+      },
+      {
+        "name": "AppleとMetaのスマートグラス戦争",
+        "startSec": 212.496
+      },
+      {
+        "name": "欧州版SpaceXは3000億円規模",
+        "startSec": 352.2000000000001
+      },
+      {
+        "name": "食料品の消費税減税、判断は首相へ",
+        "startSec": 480.1200000000003
+      },
+      {
+        "name": "ロッキード事件から50年、特捜検察のいま",
+        "startSec": 600.7440000000005
+      },
+      {
+        "name": "エンタメ枠：氷川きよしとハリウッド",
+        "startSec": 704.4960000000005
+      },
+      {
+        "name": "クロージング",
+        "startSec": 830.2080000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "TechCrunch",
+        "title": "Making sense of the panic over Chinese AI"
+      },
+      {
+        "source": "Financial Times",
+        "title": "What is the risk of using Chinese open AI models like Kimi K3?"
+      },
+      {
+        "source": "The Verge",
+        "title": "Apple is banking on privacy to set its smart glasses apart"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Apple Glasses May Debut at WWDC 2027: Privacy, Camera Features Versus Meta"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "European SpaceX Rival in Talks to Raise $300 Million, FT Reports"
+      },
+      {
+        "source": "Financial Times",
+        "title": "The Exploration Company with SpaceX ambitions aiming for a $2bn valuation"
+      },
+      {
+        "source": "NHK",
+        "title": "食料品の消費税減税 高市首相が判断するとの見方強まる"
+      },
+      {
+        "source": "Yahoo!ニュース",
+        "title": "消費減税の可否 自民で意見集約案"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "50年前に田中角栄元首相を逮捕　イチから分かるロッキード事件"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "ロッキード事件が生んだ「特捜神話」　弁護人が語る検察の「ゆがみ」"
+      },
+      {
+        "source": "BARKS",
+        "title": "氷川きよし、美空ひばりの名曲を歌い継ぐカバーアルバム発売決定。新ビジュアル公開"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Tom Holland Says Some of His Movies Are \"Sh**,\" Making Them Hard to Promote"
+      },
+      {
+        "source": "Variety",
+        "title": "Gracie Abrams Scores First No. 1 on Albums Chart With 'Daughter From Hell'"
+      }
+    ],
+    "audioFile": "20260727_daily.mp3",
+    "scriptFile": "20260727_daily.md",
+    "publishedAt": "2026-07-26T20:50:43.489Z"
+  },
+  {
     "id": "20260725_weekly",
     "title": "スタラジ 土曜増刊号 2026年7月25日号",
     "date": "2026-07-25",
