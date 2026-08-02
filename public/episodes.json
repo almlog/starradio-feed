@@ -1,5 +1,113 @@
 [
   {
+    "id": "20260803_daily",
+    "title": "スタラジ 2026年8月3日 配信分",
+    "date": "2026-08-03",
+    "broadcastMode": "daily",
+    "durationSec": 766.824000000001,
+    "durationFormatted": "12:46",
+    "cast": [
+      "みのりん",
+      "りっくん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AIバブル論争と「誰が統治するのか」",
+        "startSec": 52.008
+      },
+      {
+        "name": "Palantirの「戦場データセンター」",
+        "startSec": 188.16
+      },
+      {
+        "name": "Apple次期グラスは「健康デバイス」路線",
+        "startSec": 293.88
+      },
+      {
+        "name": "熊本地震7日目 記録的酷暑と災害関連死対策",
+        "startSec": 417.9120000000003
+      },
+      {
+        "name": "エンタメ：アリアナ・グランデ休養と桑木志帆・全英女子V",
+        "startSec": 552.8160000000005
+      },
+      {
+        "name": "スパイダーマン新作、歴代2位デビューでアベンジャーズ超え目前",
+        "startSec": 656.7360000000008
+      },
+      {
+        "name": "クロージング",
+        "startSec": 727.9200000000009
+      }
+    ],
+    "sources": [
+      {
+        "source": "日経xTECH",
+        "title": "心配ご無用のAIバブル崩壊、ただし調子に乗ると日本の製造業は破滅するぞ"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Who Governs the AI Boom?"
+      },
+      {
+        "source": "Yahoo!ニュース",
+        "title": "EU AI規制法で透明性確保を義務化"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Palantir debuts 'war' data center in a container, full of Nvidia's B300 AI accelerators and open-weight models"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Apple Subscriptions; MacBook Air Shortages; Apple to Make Glasses Health Device"
+      },
+      {
+        "source": "時事通信社",
+        "title": "被災地、記録的な酷暑警戒 ホテル避難、受け付け開始―仮設住宅建設も・熊本地震７日目"
+      },
+      {
+        "source": "NHK",
+        "title": "熊本地震 猛暑の中での災害関連死防ぐ対策を強化 政府"
+      },
+      {
+        "source": "時事通信社",
+        "title": "高市首相、熊本被災地を訪問 被災者・自治体の要望聴取"
+      },
+      {
+        "source": "Yahoo!ニュース",
+        "title": "地震と雲を関係付ける誤情報 注意"
+      },
+      {
+        "source": "Variety",
+        "title": "Ariana Grande to Take 'Step Back From Visibility' After Tour Ends Amid 'Public Scrutiny,' Drops Out of 'Sunday in the Park With George' Musical"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Ariana Grande Taking a 'Step Back' From Public Life After Tour"
+      },
+      {
+        "source": "NHK",
+        "title": "ゴルフ 全英女子オープン 桑木志帆が優勝 海外メジャー初制覇"
+      },
+      {
+        "source": "時事通信社",
+        "title": "桑木志帆、プレーオフ制しＶ 日本勢が大会連覇―全英女子ゴルフ"
+      },
+      {
+        "source": "IGN",
+        "title": "Spider-Man: Brand New Day Comes Close to Passing Avengers: Endgame With Second Biggest Box Office Debut of All Time at $927 Million Globally"
+      }
+    ],
+    "audioFile": "20260803_daily.mp3",
+    "scriptFile": "20260803_daily.md",
+    "publishedAt": "2026-08-02T20:53:14.727Z"
+  },
+  {
     "id": "20260731_daily",
     "title": "スタラジ 2026年7月31日 配信分",
     "date": "2026-07-31",
@@ -5314,53 +5422,5 @@
     "audioFile": "20260507_daily.mp3",
     "scriptFile": "20260507_daily.md",
     "publishedAt": "2026-05-06T20:56:48.332Z"
-  },
-  {
-    "id": "20260502_weekly",
-    "title": "スタラジ全員集合スペシャル 2026年5月2日配信 〜復活記念・緊急特番〜",
-    "date": "2026-05-02",
-    "broadcastMode": "weekly",
-    "durationSec": 826.2480000000012,
-    "durationFormatted": "13:46",
-    "cast": [
-      "ヨースケ",
-      "みのりん",
-      "もえちゃん",
-      "レイナ姐さん",
-      "ホリケイ",
-      "りっくん",
-      "ひなちゃん",
-      "そらちゃん",
-      "ホムラ",
-      "レイジ",
-      "あやちゃん",
-      "まほ"
-    ],
-    "segments": [
-      {
-        "name": "Part 1: 全員集合！久しぶりの再会",
-        "startSec": 0
-      },
-      {
-        "name": "Part 2: 「止まってた1週間」それぞれの過ごし方",
-        "startSec": 174.21599999999998
-      },
-      {
-        "name": "Part 3: スタラジへの思い入れ — 毎朝のトークで印象に残ってること",
-        "startSec": 362.40000000000026
-      },
-      {
-        "name": "Part 4: リスナーへのメッセージ",
-        "startSec": 589.0080000000006
-      },
-      {
-        "name": "Part 5: 復活宣言 & 来週からまたよろしく",
-        "startSec": 730.152000000001
-      }
-    ],
-    "sources": [],
-    "audioFile": "20260502_weekly.mp3",
-    "scriptFile": "20260502_weekly.md",
-    "publishedAt": "2026-05-01T20:49:13.031Z"
   }
 ]
