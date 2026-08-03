@@ -1,5 +1,93 @@
 [
   {
+    "id": "20260804_daily",
+    "title": "スタラジ 2026年8月4日 配信分",
+    "date": "2026-08-04",
+    "broadcastMode": "daily",
+    "durationSec": 649.8960000000003,
+    "durationFormatted": "10:49",
+    "cast": [
+      "もえちゃん",
+      "りっくん",
+      "レイジ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AI開発ツールの現在地",
+        "startSec": 37.992000000000004
+      },
+      {
+        "name": "AIハッキング事件、責任は誰に",
+        "startSec": 150.144
+      },
+      {
+        "name": "Appleの新体制とプライバシー戦争",
+        "startSec": 264.11999999999995
+      },
+      {
+        "name": "SNS依存と社会の代償",
+        "startSec": 380.6160000000001
+      },
+      {
+        "name": "Spider-Manと日本のドラマ復帰",
+        "startSec": 487.9680000000003
+      },
+      {
+        "name": "クロージング",
+        "startSec": 607.6080000000003
+      }
+    ],
+    "sources": [
+      {
+        "source": "TechCrunch",
+        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "AIを10分使うだけで思考力や粘り強さが低下、実験結果が示す危うい現状"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks? It's complicated"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "'Concentration of Power' One of Biggest Risks in AI, Says Hugging Face CEO"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Apple's New CEO Taps Retired Hardware Executive for Management Team"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Apple Files New Challenge Against UK Effort to Access User Files"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "TikTok Finalizing Trio of Settlements Over Addiction Claims"
+      },
+      {
+        "source": "Der Spiegel",
+        "title": "Social Media: Frühe Nutzung soll mit schlechterer Schulleistung zusammenhängen"
+      },
+      {
+        "source": "Variety",
+        "title": "Kevin Feige on 'Brand New Day' Breaking Records, Sadie Sink's Reveal and Tom Holland Getting a 'Restful Victory Lap' Before a Potential 'Spider-Man 5'"
+      },
+      {
+        "source": "ナタリー",
+        "title": "榮倉奈々が12年ぶりにテレビドラマ主演、赤楚衛二との禁断ラブサスペンス「あにいもうと」"
+      }
+    ],
+    "audioFile": "20260804_daily.mp3",
+    "scriptFile": "20260804_daily.md",
+    "publishedAt": "2026-08-03T20:49:00.588Z"
+  },
+  {
     "id": "20260803_daily",
     "title": "スタラジ 2026年8月3日 配信分",
     "date": "2026-08-03",
