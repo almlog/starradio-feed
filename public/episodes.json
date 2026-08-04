@@ -1,5 +1,109 @@
 [
   {
+    "id": "20260805_daily",
+    "title": "スタラジ 2026年8月5日 配信分",
+    "date": "2026-08-05",
+    "broadcastMode": "daily",
+    "durationSec": 687.1200000000008,
+    "durationFormatted": "11:27",
+    "cast": [
+      "レイナ姐さん",
+      "りっくん",
+      "キリシマさん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "中東緊張緩和とワシントンの為替圧力",
+        "startSec": 50.61599999999999
+      },
+      {
+        "name": "AI半導体、AMDの決算とサムスンの新地図",
+        "startSec": 153.792
+      },
+      {
+        "name": "国内サイバー、ランサム侵入経路がメールに戻った",
+        "startSec": 264.11999999999995
+      },
+      {
+        "name": "JFEスチール、基幹刷新に5000億円",
+        "startSec": 371.7600000000003
+      },
+      {
+        "name": "ディズニーがA+Eを売却、ハリウッド再編続く",
+        "startSec": 468.2880000000004
+      },
+      {
+        "name": "深夜0時に列ができる作家、東野圭吾",
+        "startSec": 571.5840000000005
+      },
+      {
+        "name": "クロージング",
+        "startSec": 639.0720000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "NHK",
+        "title": "NYダウ 一時1000ドル超上昇 中東情勢 緊張緩和への期待感で"
+      },
+      {
+        "source": "時事通信社",
+        "title": "ＮＹ株、最高値更新　一時８００ドル超高、中東緊張緩和期待"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "円安是正へ日本の政策改善が必要　米財務長官「植田総裁が対応」"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AMD Sales Outlook Disappoints Investors After AI-Fueled Rally"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "AMD、AIラック「Helios」量産　NVIDIAより処理トークン3割多く"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Samsung Reveals New 3D-Memory Roadmap in Bid for AI Tech Lead"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "ランサムウエア攻撃者の侵入経路、脆弱性悪用を抜き「メール」が首位に"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "ついに始まった「脆弱性の嵐」で担当者が燃え尽きる、体制づくりが急務"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Data Centers Exposed US Telecoms to China Hacks, US Panel to Say"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "JFEスチールが設備投資に5000億円、全製鉄所の基幹系刷新し本業加速"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Disney Sells Its Stake in A+E to Hearst for $1.2 Billion"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Paramount Reports Mixed Earnings Results With Warner Bros. Takeover In Limbo"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "東野圭吾さんの最新刊発売　カウントダウンイベントにファン集結"
+      }
+    ],
+    "audioFile": "20260805_daily.mp3",
+    "scriptFile": "20260805_daily.md",
+    "publishedAt": "2026-08-04T20:50:33.812Z"
+  },
+  {
     "id": "20260804_daily",
     "title": "スタラジ 2026年8月4日 配信分",
     "date": "2026-08-04",
