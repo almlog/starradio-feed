@@ -1,5 +1,117 @@
 [
   {
+    "id": "20260806_daily",
+    "title": "スタラジ 2026年8月6日 配信分",
+    "date": "2026-08-06",
+    "broadcastMode": "daily",
+    "durationSec": 839.3760000000012,
+    "durationFormatted": "13:59",
+    "cast": [
+      "ホリケイ",
+      "りっくん",
+      "もえちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "広島 原爆投下から81年",
+        "startSec": 47.952000000000005
+      },
+      {
+        "name": "Google DeepMindのトップ人事",
+        "startSec": 151.848
+      },
+      {
+        "name": "地震の余波でホンダ生産と支援物流に影響",
+        "startSec": 297.38400000000007
+      },
+      {
+        "name": "LINEヤフーのAI活用で成約率1.5倍",
+        "startSec": 435.9600000000003
+      },
+      {
+        "name": "米国決算ラッシュから見える消費動向",
+        "startSec": 553.7760000000005
+      },
+      {
+        "name": "エンタメ",
+        "startSec": 689.8560000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 808.6320000000011
+      }
+    ],
+    "sources": [
+      {
+        "source": "NHK",
+        "title": "広島 原爆投下から81年 核兵器の廃絶を国内外に訴え"
+      },
+      {
+        "source": "毎日新聞",
+        "title": "原爆投下81年　高まる核リスク　被爆者減る中、広島から平和訴え"
+      },
+      {
+        "source": "音楽ナタリー",
+        "title": "今日は原爆の日、ラッパーMoment Joonが広島・長崎や来たる戦争を歌った新曲「WAR」配信"
+      },
+      {
+        "source": "ニューヨーク・タイムズ",
+        "title": "Google Names Demis Hassabis to New AI Role in a Leadership Shake-up"
+      },
+      {
+        "source": "フィナンシャル・タイムズ",
+        "title": "Google DeepMind CEO Demis Hassabis steps down in shake-up of AI lab"
+      },
+      {
+        "source": "NHK",
+        "title": "ホンダ 地震で生産に影響 部品メーカーの復旧状況見て再開判断"
+      },
+      {
+        "source": "朝日新聞",
+        "title": "支援物資が届かない背景に「三つの不足」　物流の専門家に聞く改善策"
+      },
+      {
+        "source": "日経クロステック",
+        "title": "LINEヤフー、商品提案AIで成約率1.5倍に　ChatGPTでも商品探し可能"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "EBay Reports Second-Quarter Sales, Profit That Beat Expectations"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "DoorDash Issues Strong Outlook Fueled by Rise in Orders"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "Expedia Boosts Its Full-Year Sales Outlook on Strong Bookings"
+      },
+      {
+        "source": "ブルームバーグ",
+        "title": "SolarEdge Says US Home Solar Market Weak Due to Financing Issues"
+      },
+      {
+        "source": "映画ナタリー",
+        "title": "石田ゆり子と鈴木敏夫が龍雲寺へ、ジブリ作品と禅の関係性を紐解く「禅とジブリ」新コンテンツ"
+      },
+      {
+        "source": "コミックナタリー",
+        "title": "「リゼロ」4th season「奪還編」PV、スバルたちの葛藤や新たな敵の存在描く"
+      },
+      {
+        "source": "バラエティ",
+        "title": "Carson Daly Not Quitting 'The Voice' and Says Keke Palmer Is Hosting 'Celebrity' Spinoff in 2027 Because She's 'Perfect For It'"
+      }
+    ],
+    "audioFile": "20260806_daily.mp3",
+    "scriptFile": "20260806_daily.md",
+    "publishedAt": "2026-08-05T20:54:54.343Z"
+  },
+  {
     "id": "20260805_daily",
     "title": "スタラジ 2026年8月5日 配信分",
     "date": "2026-08-05",
@@ -5474,145 +5586,5 @@
     "audioFile": "20260508_daily.mp3",
     "scriptFile": "20260508_daily.md",
     "publishedAt": "2026-05-07T20:52:00.975Z"
-  },
-  {
-    "id": "20260507_daily",
-    "title": "スタラジ 2026年5月7日 配信分",
-    "date": "2026-05-07",
-    "broadcastMode": "daily",
-    "durationSec": 897.5040000000008,
-    "durationFormatted": "14:57",
-    "cast": [
-      "ホリケイ",
-      "そらちゃん",
-      "あやちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AnthropicとSpaceX、まさかのコンピュート連合",
-        "startSec": 59.976
-      },
-      {
-        "name": "Claudeが「夢を見る」Managed Agents新機能",
-        "startSec": 226.03199999999998
-      },
-      {
-        "name": "AIが専門医を3年先回りする時代",
-        "startSec": 340.20000000000016
-      },
-      {
-        "name": "イラン合意進展、原油急落",
-        "startSec": 455.5680000000004
-      },
-      {
-        "name": "ウクライナの「ロボット戦争」と防衛AI",
-        "startSec": 578.8320000000004
-      },
-      {
-        "name": "政府AI「源内」、霞が関で答弁作成",
-        "startSec": 682.8480000000005
-      },
-      {
-        "name": "エンタメ: 伊藤沙莉のクレしん初参戦＆B'zがW杯",
-        "startSec": 776.5680000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 851.4720000000008
-      }
-    ],
-    "sources": [
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Anthropic Inks Computing Deal With SpaceX to Meet AI Demand"
-      },
-      {
-        "source": "Financial Times",
-        "title": "SpaceX to rent data centre capacity to Anthropic"
-      },
-      {
-        "source": "WIRED",
-        "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "SpaceX may spend up to $119B on 'Terafab' chip factory in Texas"
-      },
-      {
-        "source": "The Register",
-        "title": "Musk has never built a wafer fab, but he wants to burn $119B on one anyway"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Microsoft's AI data center push is colliding with its clean power goals"
-      },
-      {
-        "source": "Ars Technica",
-        "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of"
-      },
-      {
-        "source": "ZDNet",
-        "title": "Your Claude agents can 'dream' now - how Anthropic's new feature works"
-      },
-      {
-        "source": "DevelopersIO",
-        "title": "【速報】Claude Managed Agents Outcomes試してみた"
-      },
-      {
-        "source": "TechRadar",
-        "title": "'Change in technology that will reshape medicine': Leading medical experts say new AI reasoning models are so good they outperform even the best specialist doctors"
-      },
-      {
-        "source": "GIGAZINE",
-        "title": "専門医よりも3年早くガンを見つけるAIが誕生、通常のCT画像の「見えない変化」を検出"
-      },
-      {
-        "source": "Axios",
-        "title": "Trump optimistic as U.S. awaits Iran's response to peace framework"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "NY原油急落、一時90ドル割れ　供給不安解消の見方広がる"
-      },
-      {
-        "source": "時事通信社",
-        "title": "ホルムズ通航支援を一時停止　米大統領、イランと「大きな進展」―最終合意へ３０日間交渉か"
-      },
-      {
-        "source": "WIRED",
-        "title": "Trump's Team Wants Him to Accept an Iran Deal He's Already Rejected"
-      },
-      {
-        "source": "BBC",
-        "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Meta-Backed Scale AI Wins $500 Million Defense Department Deal"
-      },
-      {
-        "source": "時事通信社",
-        "title": "ＡＩ「源内」で答弁作成へ　政府職員１８万人、連休明け実証開始"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "総務省が自治体にサイバー対策「義務化」、中国製品排除せずも選定を厳格に"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "伊藤沙莉『映画クレヨンしんちゃん』シリーズ初参加で喜び爆発　兄にも先越され「やっと来た！」"
-      },
-      {
-        "source": "ナタリー",
-        "title": "B'zが「FIFAワールドカップ2026」を盛り上げる、日テレ系サッカーテーマソングを担当"
-      }
-    ],
-    "audioFile": "20260507_daily.mp3",
-    "scriptFile": "20260507_daily.md",
-    "publishedAt": "2026-05-06T20:56:48.332Z"
   }
 ]
