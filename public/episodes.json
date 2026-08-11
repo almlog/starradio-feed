@@ -1,5 +1,109 @@
 [
   {
+    "id": "20260812_daily",
+    "title": "スタラジ 2026年8月12日 配信分",
+    "date": "2026-08-12",
+    "broadcastMode": "daily",
+    "durationSec": 928.7280000000011,
+    "durationFormatted": "15:28",
+    "cast": [
+      "レイナ姐さん",
+      "そらちゃん",
+      "もえちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "暗号資産ウォレット大規模ハック",
+        "startSec": 64.272
+      },
+      {
+        "name": "AIインフラ企業の決算とソニー・TSMCの一手",
+        "startSec": 230.87999999999997
+      },
+      {
+        "name": "台風15号の被害と関東の停電",
+        "startSec": 439.60800000000035
+      },
+      {
+        "name": "警察の「顔認証強制」に広がる懸念",
+        "startSec": 584.0400000000005
+      },
+      {
+        "name": "Spotifyの「AI楽曲ラベル」と爆風スランプの武道館",
+        "startSec": 729.8400000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 889.848000000001
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Bitcoin Wallet Hack Shakes Industry | Bloomberg Crypto 8/11/2026"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Bitcoin Will 'Survive' Cold Wallet Hack, Says Galaxy Digital's Thorn"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "'Brave New World' With AI Tied To Hacks: Ledger's Rogers"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Trump Family Crypto Deal Ends In Investor Rout"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "May Be At Bottom of Crypto Winter: Bitwise's Hougan"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "CoreWeave Revenue Surges on Booming Demand for AI Computing"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Super Micro Gives Sales Forecast That Tops Rosiest Projections"
+      },
+      {
+        "source": "NHK",
+        "title": "ソニー・TSMC 次世代画像センサー 2029年から量産へ"
+      },
+      {
+        "source": "NHK",
+        "title": "台風15号 各地の被害 茨城で3人けが 茨城・栃木など7380戸停電"
+      },
+      {
+        "source": "NHK",
+        "title": "台風15号 関東で強風被害 台風から離れても大雨に警戒"
+      },
+      {
+        "source": "NHK",
+        "title": "【交通影響】新幹線や首都圏の鉄道 空の便は平常通り"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "「強制的にスマホの顔認証」警察の捜査で新手法　「行きすぎ」懸念も"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Spotify Will Label A.I. Artists and Avoid Promoting Them"
+      },
+      {
+        "source": "ナタリー",
+        "title": "爆風スランプ35年ぶり武道館は「大きな玉ねぎの下で」大合唱でエンディング、2027年Zeppツアーも発表"
+      }
+    ],
+    "audioFile": "20260812_daily.mp3",
+    "scriptFile": "20260812_daily.md",
+    "publishedAt": "2026-08-11T20:54:01.993Z"
+  },
+  {
     "id": "20260807_daily",
     "title": "スタラジ 2026年8月7日 配信分",
     "date": "2026-08-07",
@@ -5127,440 +5231,5 @@
     "audioFile": "20260514_daily.mp3",
     "scriptFile": "20260514_daily.md",
     "publishedAt": "2026-05-13T20:51:57.099Z"
-  },
-  {
-    "id": "20260513_daily",
-    "title": "スタラジ 2026年5月13日 配信分",
-    "date": "2026-05-13",
-    "broadcastMode": "daily",
-    "durationSec": 706.4880000000007,
-    "durationFormatted": "11:46",
-    "cast": [
-      "レイナ姐さん",
-      "りっくん",
-      "ひなちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI検索とトークン経済",
-        "startSec": 40.056
-      },
-      {
-        "name": "iOS 27のカメラとSiri刷新",
-        "startSec": 179.61599999999999
-      },
-      {
-        "name": "中東緊張とトランプ訪中",
-        "startSec": 289.24800000000005
-      },
-      {
-        "name": "Samsung労組決裂と半導体株",
-        "startSec": 422.0640000000004
-      },
-      {
-        "name": "カンヌ開幕とエンタメ多彩",
-        "startSec": 533.9520000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 679.0560000000008
-      }
-    ],
-    "sources": [
-      {
-        "source": "日経xTECH",
-        "title": "Google検索の「AIモード」、対話形式でベスト回答を素早く引き出す"
-      },
-      {
-        "source": "アイティメディア",
-        "title": "【独自調査】日本語でAIを使うと「約1.5倍」高く付く？　AI利用のコスパを左右する“トークン効率”を比較"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Apple Plans Customizable Camera for Pros, Siri Design Changes in iOS 27"
-      },
-      {
-        "source": "WIRED",
-        "title": "Iran Is Using Tiny ‘Mosquito’ Boats to Shut Down the Strait of Hormuz"
-      },
-      {
-        "source": "NHK",
-        "title": "トランプ大統領 中国へ出発 経済・台湾・イランなど議論"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Samsung’s Labor Talks Fail, Yonhap Says, as Strike Looms"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Chip Stocks Drag Market Lower in Worrying Sign for Momentum Bet"
-      },
-      {
-        "source": "Variety",
-        "title": "‘The Electric Kiss’ Review: Cannes Opens With a Thud — a ‘Light’ French Period Romance About an Artist and a Fake Psychic, but the Movie Is Inert"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Charli XCX Somehow Found Time to Join Headphone Brand Nothing as Its First Global Ambassador"
-      },
-      {
-        "source": "ナタリー",
-        "title": "緑黄色社会「バレーボール アジア選手権」テーマソング担当！石川祐希や髙橋藍への取材経て完成"
-      }
-    ],
-    "audioFile": "20260513_daily.mp3",
-    "scriptFile": "20260513_daily.md",
-    "publishedAt": "2026-05-12T20:51:25.465Z"
-  },
-  {
-    "id": "20260512_daily",
-    "title": "スタラジ 2026年5月12日 配信分",
-    "date": "2026-05-12",
-    "broadcastMode": "daily",
-    "durationSec": 684.912000000001,
-    "durationFormatted": "11:24",
-    "cast": [
-      "もえちゃん",
-      "りっくん",
-      "レイジ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI評価額バブルの正体",
-        "startSec": 37.488
-      },
-      {
-        "name": "マスク対オープンAI裁判",
-        "startSec": 188.112
-      },
-      {
-        "name": "TikTok月600円サブスクとAngi",
-        "startSec": 295.56
-      },
-      {
-        "name": "トランプ連邦ガソリン税停止と日本のEV",
-        "startSec": 418.94400000000024
-      },
-      {
-        "name": "エンタメ：アンナ・サワイの響アンバサダーとRaye主演デビュー",
-        "startSec": 531.4560000000005
-      },
-      {
-        "name": "クロージング",
-        "startSec": 646.7760000000009
-      }
-    ],
-    "sources": [
-      {
-        "source": "Bloomberg L.P.",
-        "title": "AI Chipmaker Cerebras Seeks $4.8 Billion in Upsized IPO | Bloomberg Tech 5/11/2026"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Microsoft Targeted $92 Billion Return on Early OpenAI Investment"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Sutskever Says His OpenAI Stake Worth About $7 Billion"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Inside the Elon Musk-OpenAI Trial Courtroom"
-      },
-      {
-        "source": "BBC",
-        "title": "TikTok launches £3.99 subscription for no ads in UK"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Angi Becomes Latest Company to Announce AI Pivot"
-      },
-      {
-        "source": "Axios",
-        "title": "Trump backs federal gas tax suspension"
-      },
-      {
-        "source": "NHK",
-        "title": "アメリカでのEV計画 日本メーカーの見直し加速 需要減少で"
-      },
-      {
-        "source": "Variety",
-        "title": "Anna Sawai Lands New Role As Global Ambassador for Hibiki Whisky"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Raye Lands First Major Acting Role in Upcoming Crime Drama"
-      }
-    ],
-    "audioFile": "20260512_daily.mp3",
-    "scriptFile": "20260512_daily.md",
-    "publishedAt": "2026-05-11T20:46:43.864Z"
-  },
-  {
-    "id": "20260511_daily",
-    "title": "スタラジ 2026年5月11日 配信分",
-    "date": "2026-05-11",
-    "broadcastMode": "daily",
-    "durationSec": 705.6480000000008,
-    "durationFormatted": "11:45",
-    "cast": [
-      "みのりん",
-      "りっくん",
-      "ホムラ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI開発ツールの使い分けトレンド",
-        "startSec": 37.224
-      },
-      {
-        "name": "ChatGPTで医師に反論しないで問題",
-        "startSec": 175.656
-      },
-      {
-        "name": "中東情勢、ホルムズ封鎖回避に向けて続報",
-        "startSec": 280.08000000000004
-      },
-      {
-        "name": "磐越道バス事故、続報は「制度の穴」へ",
-        "startSec": 396.0000000000002
-      },
-      {
-        "name": "世界卓球、日本男女アベック銀メダル",
-        "startSec": 490.7040000000004
-      },
-      {
-        "name": "エンタメ枠、Dua Lipaがサムスン提訴とKacey Musgraves首位",
-        "startSec": 578.0400000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 679.6560000000009
-      }
-    ],
-    "sources": [
-      {
-        "source": "Zenn",
-        "title": "GitHub Actionsで毎朝OpenAI APIを叩くのをやめて、Codex Automationsに寄せた"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "「Browser Use」を導入、既存ブラウザをAI対応に"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "Gemini本命でも使い分けが正解、ChatGPTとCopilotの得意技"
-      },
-      {
-        "source": "TechRadar",
-        "title": "'It feels like a slap in the face' — never fact-check your doctor with ChatGPT as study shows doing so 'undermines' your relationship with human experts — and could even offend them by making them feel 'disrespected'"
-      },
-      {
-        "source": "時事通信社",
-        "title": "イランが米国案に回答　戦闘終結とホルムズ焦点―報道"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "イラン、米の戦闘終結案にパキスタン通じ回答　国営メディア報道"
-      },
-      {
-        "source": "時事通信社",
-        "title": "米財務長官、１１日から訪日表明　高市首相・片山財務相らと会談"
-      },
-      {
-        "source": "朝日新聞社",
-        "title": "部活バス事故、識者「構造的問題」　あいまいさで見過ごされたリスク"
-      },
-      {
-        "source": "NHK",
-        "title": "磐越道バス事故 過去遠征でもレンタカー「依頼は一度もない」"
-      },
-      {
-        "source": "時事通信社",
-        "title": "過去に「レンタカー代」の請求書　遠征で手配、顧問「見逃した」―北越高が会見・磐越道事故"
-      },
-      {
-        "source": "NHK",
-        "title": "卓球団体世界選手権 日本男子4大会ぶり銀 決勝で中国に敗れる"
-      },
-      {
-        "source": "NHK",
-        "title": "卓球団体世界選手権 日本女子6大会連続銀 決勝で中国に敗れる"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "世界卓球女子　日本は6大会連続の銀メダル　中国は7大会連続V"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Dua Lipa Sues Samsung for $15 Million for Using Her Face to Sell TVs"
-      },
-      {
-        "source": "Variety",
-        "title": "Kacey Musgraves Has Career-Best Opening Week With 'Middle of Nowhere,' as Michael Jackson Lands Two Albums in the Top 10"
-      }
-    ],
-    "audioFile": "20260511_daily.mp3",
-    "scriptFile": "20260511_daily.md",
-    "publishedAt": "2026-05-10T20:51:28.537Z"
-  },
-  {
-    "id": "20260509_weekly",
-    "title": "スタラジ 土曜増刊号 2026年5月9日",
-    "date": "2026-05-09",
-    "broadcastMode": "weekly",
-    "durationSec": 1038.912000000001,
-    "durationFormatted": "17:18",
-    "cast": [
-      "もえちゃん",
-      "みのりん"
-    ],
-    "segments": [
-      {
-        "name": "Part 1: オープニング + プライベートトーク",
-        "startSec": 0
-      },
-      {
-        "name": "Part 2: 土曜ニュースダイジェスト",
-        "startSec": 218.83199999999994
-      },
-      {
-        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
-        "startSec": 379.60800000000023
-      },
-      {
-        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
-        "startSec": 874.2000000000011
-      },
-      {
-        "name": "Part 5: クロージング",
-        "startSec": 996.408000000001
-      }
-    ],
-    "sources": [
-      {
-        "source": "毎日新聞社",
-        "title": "NY原油急落、一時90ドル割れ　供給不安解消の見方広がる"
-      },
-      {
-        "source": "時事通信社",
-        "title": "ホルムズ通航支援を一時停止　米大統領、イランと「大きな進展」―最終合意へ３０日間交渉か"
-      },
-      {
-        "source": "ナタリー",
-        "title": "B'zが「FIFAワールドカップ2026」を盛り上げる、日テレ系サッカーテーマソングを担当"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "SpaceX may spend up to $119B on 'Terafab' chip factory in Texas"
-      },
-      {
-        "source": "WIRED",
-        "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird"
-      },
-      {
-        "source": "Ars Technica",
-        "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Anthropic Inks Computing Deal With SpaceX to Meet AI Demand"
-      },
-      {
-        "source": "The Register",
-        "title": "Musk has never built a wafer fab, but he wants to burn $119B on one anyway"
-      },
-      {
-        "source": "DevelopersIO",
-        "title": "【速報】Claude Managed Agents Outcomes試してみた"
-      },
-      {
-        "source": "GIGAZINE",
-        "title": "予測市場「Polymarket」はユーザーのわずか0.1％だけが全利益の67％を獲得している、「最も頻繁に取引を行うトレーダーが最も成功している」という構図"
-      },
-      {
-        "source": "NHK",
-        "title": "磐越道 高校生ら21人死傷事故 過失運転致死傷容疑で運転手逮捕"
-      },
-      {
-        "source": "NHK",
-        "title": "再審制度見直し 検察不服申し立て原則禁止 本則か付則かで調整"
-      },
-      {
-        "source": "朝日新聞社",
-        "title": "部活バス事故「人ごとじゃない」　足りない予算、安全は現場任せ"
-      },
-      {
-        "source": "ナタリー",
-        "title": "本日100巻発売の「弱虫ペダル」99巻までLINEマンガで無料公開、100時間限定で"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "「宇宙刑事ギャバン」一条寺烈役・大葉健二さん、72歳で死去"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "映画『名探偵コナン』4作連続で興収100億円突破　邦画史上初の快挙達成"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high"
-      },
-      {
-        "source": "WIRED",
-        "title": "Tesla's Latest Recall? Wheels May Fall Off Cybertrucks"
-      },
-      {
-        "source": "The Verge",
-        "title": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Anthropic Inks $1.8 Billion Computing Deal With Akamai"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "AI Chipmaker Cerebras Is Said to Plan Raising IPO Price Range"
-      },
-      {
-        "source": "TechRadar",
-        "title": "The Netherlands' ambitious homegrown AI model enters the real world"
-      },
-      {
-        "source": "TechRadar",
-        "title": "'We're going through the single largest infrastructure buildout in human history': Jensen Huang says new Nvidia AI partnership will 'revitalize American manufacturing'"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Chris Hohn's hedge fund slashes $8bn Microsoft stake in warning over AI disruption"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Nintendo raises Switch 2 prices as profits disappoint"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Big Tech's $725bn AI spending spree sends free cash flow to a decade low"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Anthropic weighs deal for near $1tn valuation as revenue surges"
-      }
-    ],
-    "audioFile": "20260509_weekly.mp3",
-    "scriptFile": "20260509_weekly.md",
-    "publishedAt": "2026-05-08T20:59:56.515Z"
   }
 ]
