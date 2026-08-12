@@ -1,5 +1,109 @@
 [
   {
+    "id": "20260813_daily",
+    "title": "スタラジ 2026年8月13日 配信分",
+    "date": "2026-08-13",
+    "broadcastMode": "daily",
+    "durationSec": 897.1200000000006,
+    "durationFormatted": "14:57",
+    "cast": [
+      "ホリケイ",
+      "そらちゃん",
+      "レイジ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "米インフレとAI資本の綱引き",
+        "startSec": 76.416
+      },
+      {
+        "name": "国内アップデート：法制度と現場の温度",
+        "startSec": 251.92799999999994
+      },
+      {
+        "name": "AI学習の境界線",
+        "startSec": 407.6160000000001
+      },
+      {
+        "name": "iPhone 18の秋抜けと影響",
+        "startSec": 556.1280000000002
+      },
+      {
+        "name": "エンタメアップデート",
+        "startSec": 692.9280000000003
+      },
+      {
+        "name": "クロージング",
+        "startSec": 824.9280000000003
+      }
+    ],
+    "sources": [
+      {
+        "source": "時事通信社",
+        "title": "７月の米消費者物価、３．４％上昇　２カ月連続で減速"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Nvidia Taps Wall Street for $500B Funding"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Morgan Stanley's Weaver Warns of Risks in AI-Compute Bottleneck"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Cisco Beats on Sales Outlook, Citing 'Broad-Based' Record Demand"
+      },
+      {
+        "source": "時事通信社",
+        "title": "国旗損壊処罰法が施行　「著しく不快」で拘禁２年"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "検察抗告「抑制運用を」、法務省が検察庁に周知　改正刑訴法一部施行"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "JCB券の「そごう」が「そでう」　偽物の「売り子」横行の背景は"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Amazon will train on Twitch streamers' content by default, unless they opt out"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "A Man Secured a Lost Billy Joel Interview. Then He Re-Created the Singer in AI. (Exclusive)"
+      },
+      {
+        "source": "Qiita",
+        "title": "GPT-Rosalindの衝撃！OpenAIが創薬AIを一般公開しない本当の理由"
+      },
+      {
+        "source": "The Verge",
+        "title": "It looks like Apple's iPhone 18 really will skip the fall launch this year"
+      },
+      {
+        "source": "ナタリー",
+        "title": "Snow Man岩本照主演のドラマ「真田十勇士」に中川大志、孤高の忍・霧隠才蔵役"
+      },
+      {
+        "source": "ナタリー",
+        "title": "オリエンタルラジオ「佐久間宣行のオールナイトニッポン0」ゲスト出演"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Ousted Disney CEO Bob Chapek Writing Tell-All Memoir"
+      }
+    ],
+    "audioFile": "20260813_daily.mp3",
+    "scriptFile": "20260813_daily.md",
+    "publishedAt": "2026-08-12T20:50:35.973Z"
+  },
+  {
     "id": "20260812_daily",
     "title": "スタラジ 2026年8月12日 配信分",
     "date": "2026-08-12",
@@ -5127,109 +5231,5 @@
     "audioFile": "20260515_daily.mp3",
     "scriptFile": "20260515_daily.md",
     "publishedAt": "2026-05-14T20:49:50.580Z"
-  },
-  {
-    "id": "20260514_daily",
-    "title": "スタラジ 2026年5月14日 配信分",
-    "date": "2026-05-14",
-    "broadcastMode": "daily",
-    "durationSec": 827.8320000000007,
-    "durationFormatted": "13:47",
-    "cast": [
-      "ホリケイ",
-      "りっくん",
-      "あやちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AIメガディール最前線",
-        "startSec": 56.376000000000005
-      },
-      {
-        "name": "フロンティアAIの危険な癖",
-        "startSec": 202.60799999999995
-      },
-      {
-        "name": "AI時代の労働市場の歪み",
-        "startSec": 320.9280000000001
-      },
-      {
-        "name": "ロシア・ウクライナ和平への新提案",
-        "startSec": 434.49600000000027
-      },
-      {
-        "name": "燃料価格とEV、地熱の台頭",
-        "startSec": 552.0000000000003
-      },
-      {
-        "name": "朝のエンタメ便",
-        "startSec": 671.2560000000004
-      },
-      {
-        "name": "クロージング",
-        "startSec": 797.5200000000006
-      }
-    ],
-    "sources": [
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Anthropic in Talks to Raise $30 Billion at a $900 Billion Valuation"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "AI Chipmaker Cerebras Expects to Price Its IPO at $185 Per Share"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Musk's xAI Races to Get Wall Street Firms to Use Grok Chatbot"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "Frontier AI models don't just delete document content — they rewrite it, and the errors are nearly impossible to catch"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Hackers Are Already Using AI to Beef Up Their Attacks, Hide Their Activity"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Cisco Gives Better-Than-Anticipated Forecast, Plans to Cut Jobs"
-      },
-      {
-        "source": "heise online",
-        "title": "Linkedin: Mehr Umsatz, weniger Arbeitsplätze"
-      },
-      {
-        "source": "NHK",
-        "title": "ラブロフ外相 日本のロシア産原油輸入に反対しない考え示す"
-      },
-      {
-        "source": "NHK",
-        "title": "ロシア ウクライナ4州から軍が撤退すれば和平交渉可能に"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Fuel Prices Drive Sales of E.V.s, Just Not in the U.S."
-      },
-      {
-        "source": "The New York Times",
-        "title": "A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public"
-      },
-      {
-        "source": "Variety",
-        "title": "'KPop Demon Hunters' Global Concert Tour Set by Netflix and AEG Presents"
-      },
-      {
-        "source": "ナタリー",
-        "title": "坂口健太郎が海外共同製作ドラマ「kiDnap GAME」で主演、妻を救うため命懸けのゲームに挑む"
-      }
-    ],
-    "audioFile": "20260514_daily.mp3",
-    "scriptFile": "20260514_daily.md",
-    "publishedAt": "2026-05-13T20:51:57.099Z"
   }
 ]
