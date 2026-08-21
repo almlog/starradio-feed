@@ -1,5 +1,160 @@
 [
   {
+    "id": "20260822_weekly",
+    "title": "スタラジ 土曜増刊号（2026年8月22日）",
+    "date": "2026-08-22",
+    "broadcastMode": "weekly",
+    "durationSec": 992.9520000000018,
+    "durationFormatted": "16:32",
+    "cast": [
+      "もえちゃん",
+      "ホリケイ"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト",
+        "startSec": 227.30399999999997
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
+        "startSec": 366.24000000000024
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
+        "startSec": 815.4960000000015
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 951.2640000000018
+      }
+    ],
+    "sources": [
+      {
+        "source": "ナタリー",
+        "title": "「あぶない刑事」40周年プロジェクト始動！7作品が4K＆4DX上映、フィルムコンサート実施"
+      },
+      {
+        "source": "ナタリー",
+        "title": "星野源、大好きな藤井隆＆ずん飯尾との旅行の舞台裏公開"
+      },
+      {
+        "source": "NHK",
+        "title": "千葉豪雨受け アンダーパスを緊急点検 3か所で異常 国交省"
+      },
+      {
+        "source": "NHK",
+        "title": "台風18号 来週 南西諸島に近づくおそれ 今後の情報に注意を"
+      },
+      {
+        "source": "NHK",
+        "title": "台風18号 23日には非常に強い勢力に発達か 今後の情報に注意を"
+      },
+      {
+        "source": "NHK",
+        "title": "スーパーのコメ平均価格 5キロ3191円 2週ぶり値下がり"
+      },
+      {
+        "source": "NHK",
+        "title": "JA全中会長 ことし産のコメ「概算金」下落に懸念示す"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "TikTok to Pay $400 Million to Settle DOJ Child Privacy Case"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "TikTok reaches $400M settlement over children's privacy lawsuit"
+      },
+      {
+        "source": "The Verge",
+        "title": "Apple is laying off staffers working on the Vision Pro and Siri"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Nvidia to Back Ohio Data Center With as Much as $105 Billion"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Pennsylvania Governor Josh Shapiro to Limit New Data Centers"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Chip Startup Fractile in Talks for $6.5 Billion Value After Anthropic Deal"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter"
+      },
+      {
+        "source": "Financial Times",
+        "title": "US chip stocks slide as government borrowing costs hit multiyear highs"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Buildout Entering a Riskier Phase, Says Parnassus CIO"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "クールジャパン機構廃止へ　巨額の累積損失、概算要求も見送り"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "ドメスティックなフィジカルAI、過剰な外資警戒は競争力喪失につながる"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "政府、自衛隊の指揮統制にAI導入へ　誤りや責任の所在に課題も"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "海外製AI依存にリスク　安保3文書改定へ「国内開発力維持を」"
+      },
+      {
+        "source": "IGN",
+        "title": "A $200 Movie Made by a Chinese Mother and Her Son Just Beat Obsession to Become the World's Most Profitable Film After Making 20,000 Times Its Budget"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "井山碁聖、最終局制し2度目の6連覇　17年ぶりの無冠を回避"
+      },
+      {
+        "source": "NHK",
+        "title": "高校野球 夏の甲子園【大会13日目 準々決勝の見どころ】"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "「勝ちきって1番に」　智弁和歌山、決勝前にやる気十分　甲子園"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic Preps for Blockbuster Public Listing | Bloomberg Tech 8/21/2026"
+      },
+      {
+        "source": "時事通信社",
+        "title": "多くの参加者「利上げ必要」　インフレ高止まりなら―米ＦＲＢ議事要旨"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "内閣改造、9月中下旬を軸　維新は閣内協力へ　鈴木氏ら処遇焦点"
+      }
+    ],
+    "audioFile": "20260822_weekly.mp3",
+    "scriptFile": "20260822_weekly.md",
+    "publishedAt": "2026-08-21T21:00:59.199Z"
+  },
+  {
     "id": "20260821_daily",
     "title": "スタラジ 2026年8月21日 配信分",
     "date": "2026-08-21",
@@ -5018,116 +5173,5 @@
     "audioFile": "20260525_daily.mp3",
     "scriptFile": "20260525_daily.md",
     "publishedAt": "2026-05-24T20:53:27.215Z"
-  },
-  {
-    "id": "20260523_weekly",
-    "title": "スタラジ 土曜増刊号 — 2026年5月23日",
-    "date": "2026-05-23",
-    "broadcastMode": "weekly",
-    "durationSec": 883.4880000000005,
-    "durationFormatted": "14:43",
-    "cast": [
-      "ホリケイ",
-      "ヨースケ"
-    ],
-    "segments": [
-      {
-        "name": "Part 1: オープニング + プライベートトーク",
-        "startSec": 0
-      },
-      {
-        "name": "Part 2: 土曜ニュースダイジェスト",
-        "startSec": 156.456
-      },
-      {
-        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
-        "startSec": 286.176
-      },
-      {
-        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
-        "startSec": 728.5680000000003
-      },
-      {
-        "name": "Part 5: クロージング",
-        "startSec": 848.8320000000004
-      }
-    ],
-    "sources": [
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Anthropic to Close Over $30 Billion Round as Soon as Next Week"
-      },
-      {
-        "source": "The Register",
-        "title": "SpaceX scrubs Starship launch with seconds to go"
-      },
-      {
-        "source": "BBC",
-        "title": "Musk's SpaceX postpones Starship launch as mega share sale looms"
-      },
-      {
-        "source": "Axios",
-        "title": "Tulsi Gabbard resigns as director of national intelligence"
-      },
-      {
-        "source": "WIRED",
-        "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation"
-      },
-      {
-        "source": "TechRadar",
-        "title": "Want to get promoted at work? New study says learning new AI skills is the key to a pay rise"
-      },
-      {
-        "source": "Axios",
-        "title": "Trump says he's pausing plan to attack Iran"
-      },
-      {
-        "source": "NHK",
-        "title": "中東情勢受け 電気・ガス料金の支援策など対策調整 政府・与党"
-      },
-      {
-        "source": "NHK",
-        "title": "日韓首脳 エネルギー供給強じん化で一致 政策対話で具体化へ"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "AI's Expanding Market Grip Traps Active Managers on Wall Street"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code"
-      },
-      {
-        "source": "Variety",
-        "title": "Best of Cannes 2026: 20 Critics' Picks From This Year's Festival"
-      },
-      {
-        "source": "Variety",
-        "title": "Phil Collins Says He Would 'Contemplate' Performing Live Again as Condition Improves"
-      },
-      {
-        "source": "DevelopersIO",
-        "title": "The Agentic Evolution - Anthropicが語るClaudeとエージェント時代のいま - AWS Summit Hamburg 2026 レポート"
-      },
-      {
-        "source": "The New York Times",
-        "title": "OpenAI Prepares to File for an I.P.O. in Coming Weeks"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "ソブリンAIがなければ「デジタル属国」、MistralのCEOがフランス国会で警告"
-      }
-    ],
-    "audioFile": "20260523_weekly.mp3",
-    "scriptFile": "20260523_weekly.md",
-    "publishedAt": "2026-05-22T20:53:28.565Z"
   }
 ]
