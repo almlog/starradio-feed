@@ -1,5 +1,85 @@
 [
   {
+    "id": "20260824_daily",
+    "title": "スタラジ 2026年8月24日 配信分",
+    "date": "2026-08-24",
+    "broadcastMode": "daily",
+    "durationSec": 691.4880000000007,
+    "durationFormatted": "11:31",
+    "cast": [
+      "みのりん",
+      "そらちゃん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "国産初の量子コンピューター稼働開始",
+        "startSec": 39.408
+      },
+      {
+        "name": "謎のAIモデル「Ox Alpha」の正体探し",
+        "startSec": 169.176
+      },
+      {
+        "name": "熱波と台風のダブル警戒",
+        "startSec": 275.04
+      },
+      {
+        "name": "データセンター反対運動が米中間選挙の争点に",
+        "startSec": 380.28000000000026
+      },
+      {
+        "name": "山下達郎「高気圧ガール」がCMソングに",
+        "startSec": 488.1600000000005
+      },
+      {
+        "name": "Katseyeがビルボード1位、Phoebe Bridgersが2位",
+        "startSec": 568.4880000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 663.4800000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "NHK",
+        "title": "新方式で国産初の量子コンピューター稼働開始 分子科学研究所"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Who's behind the new 'stealth model' Ox Alpha?"
+      },
+      {
+        "source": "NHK",
+        "title": "24日は大分で40度予想 西・東日本で猛烈な暑さか 熱中症対策を"
+      },
+      {
+        "source": "NHK",
+        "title": "台風20号 先島諸島で大雨 台風18号 25日から沖縄 奄美に接近へ"
+      },
+      {
+        "source": "The New York Times",
+        "title": "The Data Center Backlash Bursts Into the Midterms"
+      },
+      {
+        "source": "ナタリー",
+        "title": "山下達郎「高気圧ガール」の世界観から「ピュアポテト」新CMが誕生"
+      },
+      {
+        "source": "Variety",
+        "title": "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2"
+      }
+    ],
+    "audioFile": "20260824_daily.mp3",
+    "scriptFile": "20260824_daily.md",
+    "publishedAt": "2026-08-23T20:52:35.253Z"
+  },
+  {
     "id": "20260822_weekly",
     "title": "スタラジ 土曜増刊号（2026年8月22日）",
     "date": "2026-08-22",
@@ -5073,105 +5153,5 @@
     "audioFile": "20260526_daily.mp3",
     "scriptFile": "20260526_daily.md",
     "publishedAt": "2026-05-25T20:55:46.996Z"
-  },
-  {
-    "id": "20260525_daily",
-    "title": "スタラジ 2026年5月25日 配信分",
-    "date": "2026-05-25",
-    "broadcastMode": "daily",
-    "durationSec": 645.768000000001,
-    "durationFormatted": "10:45",
-    "cast": [
-      "みのりん",
-      "りっくん",
-      "ホムラ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI開発ツールの新世代",
-        "startSec": 40.8
-      },
-      {
-        "name": "ECBがAIを武器に銀行を叩く",
-        "startSec": 162.07200000000003
-      },
-      {
-        "name": "中東情勢続報：ホルムズ海峡から原油タンカー日本到着",
-        "startSec": 270.216
-      },
-      {
-        "name": "高市政権・補正予算3兆円",
-        "startSec": 375.00000000000034
-      },
-      {
-        "name": "エンタメ：Drakeがチャート史上初の3作同時独占",
-        "startSec": 462.6000000000004
-      },
-      {
-        "name": "エンタメ：「汝、星のごとく」追加キャスト",
-        "startSec": 547.2480000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 620.9040000000009
-      }
-    ],
-    "sources": [
-      {
-        "source": "Qiita",
-        "title": "AI Daily Digest: 2026年5月25日 — Grok Build CLI・Cursor Composer 2.5・Qwen 3.7・X-Humanoid慧思開物Agent"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "ECB Convenes Banks to Fix Flaws Exposed by AI Models, FT Says"
-      },
-      {
-        "source": "Financial Times",
-        "title": "ECB summons banks to urge them to fix flaws exposed by latest AI models"
-      },
-      {
-        "source": "NHK",
-        "title": "トランプ大統領「急いで合意するなと指示」イラン情勢めぐり"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "トランプ氏、イランとの合意急がぬ姿勢も　「時間は我々に味方」"
-      },
-      {
-        "source": "NHK",
-        "title": "ホルムズ海峡通過の原油タンカー きょうにも初めて日本到着へ"
-      },
-      {
-        "source": "NHK",
-        "title": "小売各社 中東情勢受け配送回数削減へ 価格転嫁抑えるねらい"
-      },
-      {
-        "source": "NHK",
-        "title": "補正予算案3兆円規模で調整 高市首相 きょう今後の対応を説明"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "不正会計のニデック、監視委が検査へ　金融庁への勧告も視野"
-      },
-      {
-        "source": "Variety",
-        "title": "Drake Sets Album Charts Record as First Artist to Hold Top Three Positions With 'Iceman,' 'Habibti' and 'Maid of Honour'"
-      },
-      {
-        "source": "ナタリー",
-        "title": "横浜流星×広瀬すず「汝、星のごとく」に尾野真千子、木村佳乃、石田ゆり子、長谷川博己"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "石田ゆり子、『汝、星のごとく』で髪バッサリ　尾野真千子・木村佳乃・長谷川博己ら追加キャスト発表"
-      }
-    ],
-    "audioFile": "20260525_daily.mp3",
-    "scriptFile": "20260525_daily.md",
-    "publishedAt": "2026-05-24T20:53:27.215Z"
   }
 ]
