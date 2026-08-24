@@ -1,5 +1,113 @@
 [
   {
+    "id": "20260825_daily",
+    "title": "スタラジ 2026年8月25日 配信分",
+    "date": "2026-08-25",
+    "broadcastMode": "daily",
+    "durationSec": 748.2720000000011,
+    "durationFormatted": "12:28",
+    "cast": [
+      "もえちゃん",
+      "そらちゃん",
+      "レイジ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "対カナダ50%関税と日本の自動車",
+        "startSec": 32.687999999999995
+      },
+      {
+        "name": "AI電力の争奪戦とApple再配置",
+        "startSec": 152.78400000000002
+      },
+      {
+        "name": "太陽光パネルリサイクル法と除染土の再利用",
+        "startSec": 286.56000000000006
+      },
+      {
+        "name": "福岡スタートアップが育つ理由",
+        "startSec": 388.9680000000002
+      },
+      {
+        "name": "暗号資産の24時間市場がウォール街を揺さぶる",
+        "startSec": 494.0880000000005
+      },
+      {
+        "name": "幾田りらの映画デビューとOlivia Rodrigoの戦略",
+        "startSec": 592.6560000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 717.144000000001
+      }
+    ],
+    "sources": [
+      {
+        "source": "毎日新聞",
+        "title": "米、対カナダ自動車関税を50％に引き上げ表明　日本勢に影響も"
+      },
+      {
+        "source": "NHK",
+        "title": "トランプ大統領 カナダの自動車などへの追加関税を50％に"
+      },
+      {
+        "source": "時事通信",
+        "title": "対イラン、二次制裁を拡大　５分野で警告、「全ての国対象」―米財務長官"
+      },
+      {
+        "source": "時事通信",
+        "title": "米、シリアのテロ支援国指定解除　再建支援、イラン排除狙う"
+      },
+      {
+        "source": "Bloomberg",
+        "title": "Nvidia Customers Brace for Higher AI Costs"
+      },
+      {
+        "source": "Bloomberg",
+        "title": "Nuclear Power Demand Driven by AI, Hyperscaler Companies, Says TerraPower CEO"
+      },
+      {
+        "source": "Bloomberg",
+        "title": "Apple Cuts Jobs as It Reprioritizes Around AI"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "太陽光パネルリサイクル法が成立、段階的に規制強化する方針も"
+      },
+      {
+        "source": "NHK",
+        "title": "除染土再生利用 さいたま市と仙台市の国の出先機関でも 都外初"
+      },
+      {
+        "source": "毎日新聞",
+        "title": "経済プラス:ビジネスが出会う「異空間」　スタートアップが福岡で育つワケ"
+      },
+      {
+        "source": "Bloomberg",
+        "title": "Crypto's 24/7 Markets Take Aim at Wall Street"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "幾田りら、実写映画初出演！岡田准一主演映画で歌手・梓みちよ役、「こんにちは赤ちゃん」歌唱"
+      },
+      {
+        "source": "映画ナタリー",
+        "title": "幾田りら「SUKIYAKI」で実写映画に初出演、梓みちよ役で「こんにちは赤ちゃん」歌う"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Olivia Rodrigo, Days After Releasing via Exclusive CD, Spreads 'Serena Joy' Around"
+      }
+    ],
+    "audioFile": "20260825_daily.mp3",
+    "scriptFile": "20260825_daily.md",
+    "publishedAt": "2026-08-24T20:50:41.030Z"
+  },
+  {
     "id": "20260824_daily",
     "title": "スタラジ 2026年8月24日 配信分",
     "date": "2026-08-24",
@@ -5065,93 +5173,5 @@
     "audioFile": "20260527_daily.mp3",
     "scriptFile": "20260527_daily.md",
     "publishedAt": "2026-05-26T20:54:48.312Z"
-  },
-  {
-    "id": "20260526_daily",
-    "title": "スタラジ 2026年5月26日 配信分",
-    "date": "2026-05-26",
-    "broadcastMode": "daily",
-    "durationSec": 666.144000000001,
-    "durationFormatted": "11:06",
-    "cast": [
-      "もえちゃん",
-      "りっくん",
-      "レイジ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "エンタープライズAIの「技術負債」",
-        "startSec": 42.215999999999994
-      },
-      {
-        "name": "クラウド値上げと量子コンピュータ二刀流",
-        "startSec": 171.33599999999998
-      },
-      {
-        "name": "AIの責任を誰が取るのか",
-        "startSec": 314.016
-      },
-      {
-        "name": "補正予算続報と「バイ・ブリティッシュ」",
-        "startSec": 433.75200000000035
-      },
-      {
-        "name": "エンタメ：火9枠の社会派化と「クリス問題」",
-        "startSec": 541.1280000000005
-      },
-      {
-        "name": "クロージング",
-        "startSec": 638.0880000000008
-      }
-    ],
-    "sources": [
-      {
-        "source": "VentureBeat",
-        "title": "Why prompt debt, retrieval debt, and evaluation debt are quietly reshaping enterprise AI risk"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "始まったクラウド値上げ　焦点は大手3社、Google「石油価格に懸念なし」"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "Google、量子コンピューター開発を2本立てに　中性原子方式を追加"
-      },
-      {
-        "source": "The New York Times",
-        "title": "As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words"
-      },
-      {
-        "source": "Der Spiegel",
-        "title": "ChatGPT: Kann KI für einen Mord verantwortlich gemacht werden?"
-      },
-      {
-        "source": "NHK",
-        "title": "補正予算案 3兆1000億円規模で提出へ 6月上旬成立目指す 政府"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "赤字国債「市中発行額は増やさず対応」　電気ガス補助へ補正予算"
-      },
-      {
-        "source": "The Guardian",
-        "title": "Rachel Reeves tells ministers to ‘buy British’ in four key industries"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "小池栄子、フジ火9枠で初主演　7月期ドラマ「さよならノワール」北香那と犯罪被害者を救うバディに"
-      },
-      {
-        "source": "Variety",
-        "title": "Films Are More Likely to Star a Man Named Chris or a Talking Animal Than an Older Woman, According to Study"
-      }
-    ],
-    "audioFile": "20260526_daily.mp3",
-    "scriptFile": "20260526_daily.md",
-    "publishedAt": "2026-05-25T20:55:46.996Z"
   }
 ]
