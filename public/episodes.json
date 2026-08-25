@@ -1,5 +1,93 @@
 [
   {
+    "id": "20260826_daily",
+    "title": "スタラジ 2026年8月26日 配信分",
+    "date": "2026-08-26",
+    "broadcastMode": "daily",
+    "durationSec": 742.512000000001,
+    "durationFormatted": "12:22",
+    "cast": [
+      "レイナ姐さん",
+      "そらちゃん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AIの安全性テストが崩壊した日",
+        "startSec": 51.00000000000001
+      },
+      {
+        "name": "AIエージェント暴走を止める、現場の実装パターン",
+        "startSec": 175.608
+      },
+      {
+        "name": "台湾で高性能AIサーバ密輸、9人が起訴",
+        "startSec": 277.24800000000005
+      },
+      {
+        "name": "カナダの報復関税、日本製造業にも波及",
+        "startSec": 384.72000000000025
+      },
+      {
+        "name": "百日せきを2か月先読み、下水疫学の実力",
+        "startSec": 490.1760000000005
+      },
+      {
+        "name": "秋ドラマとGamescom、エンタメの秋が動き始めた",
+        "startSec": 596.6880000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 715.5840000000009
+      }
+    ],
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "Why Irregular's A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "法を守れば十分とは言い切れず、AIリスク対応が難しい理由"
+      },
+      {
+        "source": "Qiita",
+        "title": "AIエージェントの暴走を止めるガード実装パターン集 — 実機ログから抽出した7つの型"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Taiwan charges nine people for smuggling 'high-end' AI servers to China"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "カナダ、米国から輸入する約700品目に最大50％の関税へ"
+      },
+      {
+        "source": "NHK",
+        "title": "「百日せき」患者増の2か月前に下水調査で流行の兆し 阪大など"
+      },
+      {
+        "source": "ナタリー",
+        "title": "ドラマ「救命病棟24時」13年ぶりに復活！江口洋介×松嶋菜々子が再共演、10月放送スタート"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Everything announced at Gamescom Opening Night Live 2026 — from Heroes of Might and Magic 3 Remake to The Witcher 3 remastered and more"
+      },
+      {
+        "source": "4Gamer.net",
+        "title": "名作RPGがさらに進化。「ウィッチャー3 ワイルドハント リマスター」が発表に。既存ユーザーには無料アップグレードを提供"
+      }
+    ],
+    "audioFile": "20260826_daily.mp3",
+    "scriptFile": "20260826_daily.md",
+    "publishedAt": "2026-08-25T20:50:22.761Z"
+  },
+  {
     "id": "20260825_daily",
     "title": "スタラジ 2026年8月25日 配信分",
     "date": "2026-08-25",
@@ -5069,109 +5157,5 @@
     "audioFile": "20260528_daily.mp3",
     "scriptFile": "20260528_daily.md",
     "publishedAt": "2026-05-27T20:54:46.122Z"
-  },
-  {
-    "id": "20260527_daily",
-    "title": "スタラジ 2026年5月27日 配信分",
-    "date": "2026-05-27",
-    "broadcastMode": "daily",
-    "durationSec": 793.8000000000013,
-    "durationFormatted": "13:13",
-    "cast": [
-      "レイナ姐さん",
-      "りっくん",
-      "ホリケイ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Mythos 1万件の脆弱性発見",
-        "startSec": 45.288
-      },
-      {
-        "name": "企業に広がるシャドーAI",
-        "startSec": 185.112
-      },
-      {
-        "name": "中東情勢の続報とエネルギー",
-        "startSec": 296.5680000000001
-      },
-      {
-        "name": "SpaceX IPOとビットコイン保有",
-        "startSec": 424.5600000000004
-      },
-      {
-        "name": "アサヒの「第3のビール」消滅とビール市場",
-        "startSec": 544.6320000000006
-      },
-      {
-        "name": "エンタメ枠 ハウス・オブ・ザ・ドラゴンとトイ・ストーリー5",
-        "startSec": 649.9680000000009
-      },
-      {
-        "name": "クロージング",
-        "startSec": 764.4960000000011
-      }
-    ],
-    "sources": [
-      {
-        "source": "日経xTECH",
-        "title": "Mythosが1万件超の深刻な脆弱性発見　「同等能力のモデル、他社も開発」"
-      },
-      {
-        "source": "NHK",
-        "title": "米アンソロピック「ミュトス」1万件のぜい弱性検出と発表"
-      },
-      {
-        "source": "TechRadar",
-        "title": "Every organization is pouring money into AI right now, and almost none of them know what their people are actually doing with it"
-      },
-      {
-        "source": "Qiita",
-        "title": "Claudeエージェントの封じ込め設計"
-      },
-      {
-        "source": "NHK",
-        "title": "イランのタスニム通信 革命防衛隊が米の無人機を撃墜と報道"
-      },
-      {
-        "source": "NHK",
-        "title": "英海事機関 オマーン沖のタンカーから外部爆発の報告"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Iran starts to restore internet access after months-long blackout"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Elon Musk's SpaceX Has More Bitcoin Than Estimated, SEC Filing Shows"
-      },
-      {
-        "source": "The New York Times",
-        "title": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk"
-      },
-      {
-        "source": "NHK",
-        "title": "アサヒ 主力の第3のビールを「ビール」に 大手4社で同様の対応"
-      },
-      {
-        "source": "Variety",
-        "title": "'House of the Dragon' Boss Calls Season 3's Battle of the Gullet 'Craziest Episode of TV Ever Made'"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Bad Bunny Will Bring a Slice to Life in 'Toy Story 5'"
-      },
-      {
-        "source": "Variety",
-        "title": "'Love Story': From Pulp to Lenny Kravitz, How Music Supervisor Jen Malone Built the Show's Perfect '90s Soundtrack"
-      }
-    ],
-    "audioFile": "20260527_daily.mp3",
-    "scriptFile": "20260527_daily.md",
-    "publishedAt": "2026-05-26T20:54:48.312Z"
   }
 ]
