@@ -1,5 +1,97 @@
 [
   {
+    "id": "20260827_daily",
+    "title": "スタラジ 2026年8月27日 配信分",
+    "date": "2026-08-27",
+    "broadcastMode": "daily",
+    "durationSec": 1109.0880000000002,
+    "durationFormatted": "18:29",
+    "cast": [
+      "ホリケイ",
+      "そらちゃん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Meta 171億ドル和解と若者のSNS",
+        "startSec": 80.92800000000001
+      },
+      {
+        "name": "政府備蓄米、9月中の買い戻し",
+        "startSec": 281.37600000000003
+      },
+      {
+        "name": "決算三連発、AI追い風のSaaS",
+        "startSec": 471.8400000000003
+      },
+      {
+        "name": "AI電力インフラ、小型原発と地元反発の逆流",
+        "startSec": 660.2160000000005
+      },
+      {
+        "name": "音楽と映像、この一日のエンタメ",
+        "startSec": 862.1520000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 1029.7440000000006
+      }
+    ],
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims"
+      },
+      {
+        "source": "The New York Times",
+        "title": "What's Changing For Teens on Instagram and Facebook After Meta Settlement"
+      },
+      {
+        "source": "The New York Times",
+        "title": "What Does $17.1 Billion Mean for Meta?"
+      },
+      {
+        "source": "NHK",
+        "title": "政府の備蓄米 9月中に買い戻しの方針 農水省が最終調整"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Salesforce Projects Strong Growth in Sales and Bookings"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Okta Lifts Annual Revenue View as Double-Digit Growth Holds"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "CrowdStrike Stock Jumps After Annual Revenue Outlook Beats"
+      },
+      {
+        "source": "Axios",
+        "title": "Exclusive: Why Antares is bringing nuclear power to Fort Bragg"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Data Center Backlash Is Seen as Slowing, Reshaping New Projects"
+      },
+      {
+        "source": "ナタリー",
+        "title": "トラジャ松田元太が江國香織原作ドラマで主演、役の印象は「欲望に手足が生えた生き物」"
+      },
+      {
+        "source": "Variety",
+        "title": "Dolly Parton Streams Surge on Spotify With 2,320% Increase in the United States"
+      }
+    ],
+    "audioFile": "20260827_daily.mp3",
+    "scriptFile": "20260827_daily.md",
+    "publishedAt": "2026-08-26T20:54:11.588Z"
+  },
+  {
     "id": "20260826_daily",
     "title": "スタラジ 2026年8月26日 配信分",
     "date": "2026-08-26",
@@ -5061,101 +5153,5 @@
     "audioFile": "20260529_daily.mp3",
     "scriptFile": "20260529_daily.md",
     "publishedAt": "2026-05-28T20:52:22.679Z"
-  },
-  {
-    "id": "20260528_daily",
-    "title": "スタラジ 2026年5月28日 配信分",
-    "date": "2026-05-28",
-    "broadcastMode": "daily",
-    "durationSec": 794.4960000000011,
-    "durationFormatted": "13:14",
-    "cast": [
-      "ホリケイ",
-      "りっくん",
-      "レイジ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Snowflake×AWSの60億ドル契約",
-        "startSec": 43.632000000000005
-      },
-      {
-        "name": "AI半導体の勝者と敗者",
-        "startSec": 181.824
-      },
-      {
-        "name": "Fed利上げ姿勢とNY原油の急落",
-        "startSec": 299.9520000000001
-      },
-      {
-        "name": "日本の「国家情報局」と安保の新フェーズ",
-        "startSec": 417.2640000000003
-      },
-      {
-        "name": "キアヌの男気、Netflix1100万ドル詐欺事件",
-        "startSec": 535.3680000000004
-      },
-      {
-        "name": "The White Lotus シーズン4、カンヌでロケ",
-        "startSec": 657.8880000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 764.664000000001
-      }
-    ],
-    "sources": [
-      {
-        "source": "テッククランチ",
-        "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips"
-      },
-      {
-        "source": "ブルームバーグ",
-        "title": "Snowflake Raises Sales Outlook, Touts Impact of AI Demand"
-      },
-      {
-        "source": "ブルームバーグ",
-        "title": "Three Charts Capturing Micron's Record Rise to $1 Trillion"
-      },
-      {
-        "source": "ブルームバーグ",
-        "title": "HP Gives Profit Outlook That Tops Estimate, Managing Chip Crunch"
-      },
-      {
-        "source": "ブルームバーグ",
-        "title": "Fed's Cook Prepared to Raise Rates If Inflation Lingers"
-      },
-      {
-        "source": "NHK",
-        "title": "NY原油 一時1バレル＝87ドル台に下落 その後は再び上昇も"
-      },
-      {
-        "source": "NHK",
-        "title": "「国家情報局」設置法成立 「対外情報庁」など検討加速 政府"
-      },
-      {
-        "source": "NHK",
-        "title": "台湾 頼清徳総統 アメリカの武器売却に改めて期待示す"
-      },
-      {
-        "source": "毎日新聞",
-        "title": "激動期の安保:非核三原則に「撃ち込ませず」提言 元統合幕僚長の現実路線"
-      },
-      {
-        "source": "バラエティ",
-        "title": "Keanu Reeves Seeks Leniency for Director Who Faces Years in Prison for Swindling Netflix Out of $11 Million"
-      },
-      {
-        "source": "ハリウッドレポーター",
-        "title": "'The White Lotus' Takes Cannes: See the First Photos of Laura Dern, Chris Messina on Set for Season 4"
-      }
-    ],
-    "audioFile": "20260528_daily.mp3",
-    "scriptFile": "20260528_daily.md",
-    "publishedAt": "2026-05-27T20:54:46.122Z"
   }
 ]
