@@ -1,5 +1,113 @@
 [
   {
+    "id": "20260911_daily",
+    "title": "スタラジ 2026年9月11日 配信分",
+    "date": "2026-09-11",
+    "broadcastMode": "daily",
+    "durationSec": 820.6800000000012,
+    "durationFormatted": "13:40",
+    "cast": [
+      "ヨースケ",
+      "そらちゃん",
+      "レイジ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "折りたたみiPhone「Duo」ついに登場",
+        "startSec": 55.152
+      },
+      {
+        "name": "AI景気の分岐点、Oracleの快進撃とAdobeの失速",
+        "startSec": 212.25599999999997
+      },
+      {
+        "name": "紀子さま60歳、皇位継承の議論はどこへ",
+        "startSec": 346.0080000000002
+      },
+      {
+        "name": "高市政権のいまと「寝ない首相」問題",
+        "startSec": 448.00800000000044
+      },
+      {
+        "name": "リュウグウは太陽系初期の残骸、そして地球の8月は史上最高",
+        "startSec": 545.0400000000005
+      },
+      {
+        "name": "大森元貴が水原弘役、そしてPeacockの新作ドラマ",
+        "startSec": 676.7040000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 787.5600000000011
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "iPhone Duo Hands-On: Apple's First Foldable Phone Makes Strong First Impression"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Why is Apple's New Foldable iPhone Duo $1,999?"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Duo Will Make Up 10% of All iPhone Sales, Munster Says"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Apple's big goal after foldable iPhone"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Oracle Posts Cloud Sales That Top Estimates on Surging AI Demand"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Adobe Forecast Misses Estimates, Renewing Fears About AI Impact"
+      },
+      {
+        "source": "NHK",
+        "title": "紀子さま 60歳の誕生日"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "紀子さまが60歳の誕生日　典範改正「子どもたちの幸せ願う」"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "読む政治:高市首相は参院自民に不満?　「権限外」の実力者人事が焦点に"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "「日本の国力高めるには…」　寝てない首相に睡眠の研究者が提言"
+      },
+      {
+        "source": "NHK",
+        "title": "小惑星リュウグウは太陽系初期の天体の残骸 北海道大学など"
+      },
+      {
+        "source": "NHK",
+        "title": "8月の世界の平均気温が過去最高に EU気象情報機関発表"
+      },
+      {
+        "source": "ナタリー",
+        "title": "ミセス大森元貴「SUKIYAKI」で昭和の大スター・水原弘に、劇中で「黒い花びら」を歌唱"
+      },
+      {
+        "source": "Variety",
+        "title": "Peacock Orders 'Before I Let Go' Based on Kennedy Ryan Novel From Malcolm D. Lee, Attica Locke, Tembi Locke"
+      }
+    ],
+    "audioFile": "20260911_daily.mp3",
+    "scriptFile": "20260911_daily.md",
+    "publishedAt": "2026-09-10T20:51:44.236Z"
+  },
+  {
     "id": "20260827_daily",
     "title": "スタラジ 2026年8月27日 配信分",
     "date": "2026-08-27",
@@ -4202,956 +4310,5 @@
     "audioFile": "20260620_weekly.mp3",
     "scriptFile": "20260620_weekly.md",
     "publishedAt": "2026-06-19T20:54:13.921Z"
-  },
-  {
-    "id": "20260609_daily",
-    "title": "スタラジ 2026年6月9日 配信分",
-    "date": "2026-06-09",
-    "broadcastMode": "daily",
-    "durationSec": 754.4160000000007,
-    "durationFormatted": "12:34",
-    "cast": [
-      "もえちゃん",
-      "りっくん",
-      "まほ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Apple WWDC 2026ラッシュ",
-        "startSec": 50.688
-      },
-      {
-        "name": "OpenClaw崩壊と量子コンピューティングの加速",
-        "startSec": 184.55999999999997
-      },
-      {
-        "name": "国内外で連発するセキュリティ事故",
-        "startSec": 294.67199999999997
-      },
-      {
-        "name": "中東情勢続報とG7食料安全保障",
-        "startSec": 396.48000000000013
-      },
-      {
-        "name": "SBF赦免申請とSpaceX IPOバブル",
-        "startSec": 487.99200000000036
-      },
-      {
-        "name": "エンタメ：Game Pass減少と日本のスポーツドラマ",
-        "startSec": 589.5840000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 696.3600000000007
-      }
-    ],
-    "sources": [
-      {
-        "source": "ワイアード",
-        "title": "Apple WWDC 2026で発表された全て"
-      },
-      {
-        "source": "シーネットジャパン",
-        "title": "「iOS 27」発表、AIで進化した新Siri搭載「iPhone 11」以降に対応"
-      },
-      {
-        "source": "ブルームバーグ",
-        "title": "Apple、EUのiPhoneユーザー向けSiri AIを遅延、規制当局の協議拒否を理由に"
-      },
-      {
-        "source": "ブルームバーグ",
-        "title": "Apple、Google AIモデル採用がプライバシーを損なうとの懸念に反論"
-      },
-      {
-        "source": "アスキー",
-        "title": "アップルもAIで急追！Google Geminiとのモデル統合で大幅強化の「Apple Intelligence」"
-      },
-      {
-        "source": "ギズモード",
-        "title": "watchOS 27、対応機種がバッサリ半減。5つのみです #WWDC26"
-      },
-      {
-        "source": "日経クロステック",
-        "title": "3カ月で幕、OpenClawの熱狂　使って分かった危険な正体とブーム終了の理由"
-      },
-      {
-        "source": "日経クロステック",
-        "title": "米IonQ、26年の売上高見通しを引き上げ　第1四半期は6470万ドルで過去最高"
-      },
-      {
-        "source": "テックレーダー",
-        "title": "AIより警戒すべき、格付け大手が警告「ポスト量子暗号への投資はAI投資と直接競合する」"
-      },
-      {
-        "source": "テッククランチ",
-        "title": "MicrosoftのオープンソースツールがハッキングされAI開発者のパスワードが盗まれた"
-      },
-      {
-        "source": "日経クロステック",
-        "title": "YCC情報システム、個人情報100万件に漏洩のおそれ　契約後20年超のデータも"
-      },
-      {
-        "source": "日経クロステック",
-        "title": "アソビューで不正ログイン、狙われた事業者アカウント　1万4000件超に影響"
-      },
-      {
-        "source": "NHK",
-        "title": "イランとイスラエルが攻撃停止 レバノン南部への攻撃続く"
-      },
-      {
-        "source": "NHK",
-        "title": "G7農相 「肥料が食料安全保障の重要課題に」認識を共有"
-      },
-      {
-        "source": "ニューヨーク・タイムズ",
-        "title": "Sam Bankman-Friedがトランプ政権に赦免を申請"
-      },
-      {
-        "source": "ニューヨーク・タイムズ",
-        "title": "銀行がSpaceXのIPOで富裕層にすり寄る方法"
-      },
-      {
-        "source": "アイジーエヌ",
-        "title": "Xbox Game Pass、2025年10月の値上げ後、数百万人のサブスク会員を失った"
-      },
-      {
-        "source": "ナタリー",
-        "title": "山田杏奈「俺たちの箱根駅伝」で生中継を支えるADに、大泉洋・伊藤沙莉は頼もしい先輩"
-      }
-    ],
-    "audioFile": "20260609_daily.mp3",
-    "scriptFile": "20260609_daily.md",
-    "publishedAt": "2026-06-08T20:55:52.673Z"
-  },
-  {
-    "id": "20260608_daily",
-    "title": "スタラジ 2026年6月8日 配信分",
-    "date": "2026-06-08",
-    "broadcastMode": "daily",
-    "durationSec": 699.4800000000009,
-    "durationFormatted": "11:39",
-    "cast": [
-      "みのりん",
-      "りっくん",
-      "ホムラ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "中東情勢、停戦後初のミサイル発射",
-        "startSec": 52.775999999999996
-      },
-      {
-        "name": "Apple、AIに本気になった「秘密会議」",
-        "startSec": 176.73600000000002
-      },
-      {
-        "name": "AIインフラに「死のスパイラル」？ データセンター反発も",
-        "startSec": 307.0560000000001
-      },
-      {
-        "name": "個人開発者の「API代の壁」とAI社員時代",
-        "startSec": 460.4640000000005
-      },
-      {
-        "name": "エンタメ、Vaundyの甲子園と「ペルソナ4 リバイバル」",
-        "startSec": 575.4480000000007
-      },
-      {
-        "name": "クロージング",
-        "startSec": 661.6080000000009
-      }
-    ],
-    "sources": [
-      {
-        "source": "時事通信社",
-        "title": "イランがミサイル発射　イスラエルへ停戦後初"
-      },
-      {
-        "source": "NHK",
-        "title": "“イランからイスラエルへミサイル発射” イスラエル軍が発表"
-      },
-      {
-        "source": "Axios",
-        "title": "Trump tells Axios he will ask Netanyahu not to strike back at Iran"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "産油国、7月も生産枠拡大　4カ月連続で小幅増産"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Inside Apple's Secret Meeting That Led It to Finally Take AI Seriously"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Why an AI 'Death Spiral' Threatens the Internet"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Kevin O'Leary's Huge Data Center in Canada Faces a Skeptical Public"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Is this the dawn of the Tokenpocalypse?"
-      },
-      {
-        "source": "Qiita",
-        "title": "マイクラAIを個人で作ったら、API代という現実の壁にぶち当たった話"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "「情シスが人事に」「AI費用は人件費に」、AI社員誕生　火付け役はOpenClaw"
-      },
-      {
-        "source": "ナタリー",
-        "title": "Vaundyが夏の高校野球応援ソング書き下ろし、中継や「熱闘甲子園」を彩る"
-      },
-      {
-        "source": "4Gamer.net",
-        "title": "「ペルソナ4 リバイバル」，新戦術「ボコスカラッシュ」やフルボイス化などの詳細が判明。価格・エディション情報も公開"
-      },
-      {
-        "source": "NHK",
-        "title": "沖縄 土砂災害などに十分注意を 関東甲信と東海で梅雨入り"
-      }
-    ],
-    "audioFile": "20260608_daily.mp3",
-    "scriptFile": "20260608_daily.md",
-    "publishedAt": "2026-06-07T20:49:56.296Z"
-  },
-  {
-    "id": "20260606_weekly",
-    "title": "スタラジ土曜増刊号 - 2026年6月6日配信",
-    "date": "2026-06-06",
-    "broadcastMode": "weekly",
-    "durationSec": 914.6400000000009,
-    "durationFormatted": "15:14",
-    "cast": [
-      "もえちゃん",
-      "レイナ姐さん"
-    ],
-    "segments": [
-      {
-        "name": "Part 1: オープニング + プライベートトーク",
-        "startSec": 0
-      },
-      {
-        "name": "Part 2: 土曜ニュースダイジェスト",
-        "startSec": 183.144
-      },
-      {
-        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
-        "startSec": 313.6560000000001
-      },
-      {
-        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
-        "startSec": 757.6320000000007
-      },
-      {
-        "name": "Part 5: クロージング",
-        "startSec": 875.9280000000008
-      }
-    ],
-    "sources": [
-      {
-        "source": "ナタリー",
-        "title": "「THE MUSIC DAY」今年は9時間半の生放送！総合司会は14年連続で櫻井翔"
-      },
-      {
-        "source": "TechRadar",
-        "title": "The Dyson HushJet Mini Cool is the powerful personal fan you won't want to live without this summer — and it's surprisingly reasonably priced, too"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "SpaceX Inks $30 Billion Computing Power Deal With Google"
-      },
-      {
-        "source": "BBC",
-        "title": "Trump to meet AI leaders to discuss US investment in their companies"
-      },
-      {
-        "source": "Variety",
-        "title": "Madonna to Release 'Confessions II – The Film' on YouTube Next Week"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "「嵐」が活動終了　ファンと走り抜けた26年半は「最高の思い出」"
-      },
-      {
-        "source": "NHK",
-        "title": "ソフトバンクG 仏で14兆円投じAIデータセンター開発へ"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O."
-      },
-      {
-        "source": "VentureBeat",
-        "title": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Trump Signs Executive Order Seeking Oversight of A.I. Models"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Trump signs watered-down AI vetting order after Maga infighting"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Alphabet's record-breaking $85B raise for Google's AI business is a helluva good signal"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Google upsizes historic equity raising to $85bn to back AI spending spree"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Nasdaq tumbles 4% as shares in chip and memory groups sink"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Tech Leaders Mull the Next Phase of AI as Top Labs Plan IPOs"
-      },
-      {
-        "source": "Qiita",
-        "title": "Microsoft Build 2026 の AI 発表を整理する"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "温暖化で水没危機の島国ツバル　首相が先進国に求める「補償」は"
-      },
-      {
-        "source": "The Guardian",
-        "title": "In first, California city overwhelmingly votes to permanently ban datacenters"
-      },
-      {
-        "source": "Qiita",
-        "title": "Claude API 障害レポート"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "DoubleLine's Cohen Warns of AI Bubble Coming to Credit Markets"
-      }
-    ],
-    "audioFile": "20260606_weekly.mp3",
-    "scriptFile": "20260606_weekly.md",
-    "publishedAt": "2026-06-05T20:55:57.325Z"
-  },
-  {
-    "id": "20260605_daily",
-    "title": "スタラジ 2026年6月5日 配信分",
-    "date": "2026-06-05",
-    "broadcastMode": "daily",
-    "durationSec": 882.6960000000003,
-    "durationFormatted": "14:42",
-    "cast": [
-      "ヨースケ",
-      "そらちゃん",
-      "あやちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AnthropicとOpenAI ー コードを書くAIがコードを発見する時代",
-        "startSec": 43.488
-      },
-      {
-        "name": "NSAがMythosを兵器化 ー サイバー戦の主役交代",
-        "startSec": 191.904
-      },
-      {
-        "name": "AIが奪う仕事と国家戦略 ー Verizonとカナダ",
-        "startSec": 321.888
-      },
-      {
-        "name": "AIバブルの揺り戻し ー Broadcom株が2850億ドル蒸発",
-        "startSec": 451.27200000000016
-      },
-      {
-        "name": "日本のエネルギー戦略 ー 原発回帰と中東リスク",
-        "startSec": 576.4080000000004
-      },
-      {
-        "name": "夏のエンタメ ー 実写ブルーロックと大追跡シーズン2",
-        "startSec": 711.1200000000002
-      },
-      {
-        "name": "クロージング",
-        "startSec": 843.8400000000001
-      }
-    ],
-    "sources": [
-      {
-        "source": "VentureBeat",
-        "title": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up"
-      },
-      {
-        "source": "TechRadar",
-        "title": "OpenAI's Codex helps discover HTTP/2 Bomb DoS attack that can nuke over 30GB of RAM within seconds, knocking web servers offline before they can react"
-      },
-      {
-        "source": "Hacker News",
-        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery"
-      },
-      {
-        "source": "Financial Times",
-        "title": "NSA using Anthropic's Mythos for cyber attacks"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Verizon CEO Sees AI Replacing Large Share of Customer Service"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Wary of Americans, Canada Bets on Its Own A.I."
-      },
-      {
-        "source": "Financial Times",
-        "title": "Broadcom suffers $285bn rout as revenue outlook disappoints"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Tech groups find a new way to monetise AI hype: selling volatility"
-      },
-      {
-        "source": "NHK",
-        "title": "原発 2040年代までに2～5基建て替えの目標 政府"
-      },
-      {
-        "source": "NHK",
-        "title": "小売各社が省エネ対応加速 中東情勢によるコスト高受け"
-      },
-      {
-        "source": "ナタリー",
-        "title": "高橋文哉・櫻井海音・高橋恭平ら極限の戦い、Adoの主題歌が彩る実写「ブルーロック」予告"
-      },
-      {
-        "source": "ナタリー",
-        "title": "大森南朋×相葉雅紀×松下奈緒のドラマ「大追跡」新シーズンが7月開始、2度目の夏が始まる"
-      }
-    ],
-    "audioFile": "20260605_daily.mp3",
-    "scriptFile": "20260605_daily.md",
-    "publishedAt": "2026-06-04T20:57:05.050Z"
-  },
-  {
-    "id": "20260604_daily",
-    "title": "スタラジ 2026年6月4日 配信分",
-    "date": "2026-06-04",
-    "broadcastMode": "daily",
-    "durationSec": 800.6400000000009,
-    "durationFormatted": "13:20",
-    "cast": [
-      "ホリケイ",
-      "そらちゃん",
-      "ホムラ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Google 850億ドル調達とAIバブル警鐘",
-        "startSec": 48.12
-      },
-      {
-        "name": "NVIDIAの2世代先ロードマップとRTX Spark",
-        "startSec": 208.87199999999996
-      },
-      {
-        "name": "住民投票でデータセンター永久禁止——カリフォルニアの決断",
-        "startSec": 349.99200000000013
-      },
-      {
-        "name": "EUが脱アメリカtech依存プランを公表",
-        "startSec": 490.6320000000004
-      },
-      {
-        "name": "ハリウッドのAI受容と国内エンタメ",
-        "startSec": 618.1440000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 761.1120000000009
-      }
-    ],
-    "sources": [
-      {
-        "source": "フィナンシャル・タイムズ",
-        "title": "Google upsizes historic equity raising to $85bn to back AI spending spree"
-      },
-      {
-        "source": "テッククランチ",
-        "title": "Alphabet's record-breaking $85B raise for Google's AI business is a helluva good signal"
-      },
-      {
-        "source": "ブルームバーグ",
-        "title": "DoubleLine's Cohen Warns of AI Bubble Coming to Credit Markets"
-      },
-      {
-        "source": "ブルームバーグ",
-        "title": "AI CapEx Rush Seen as Continuing as Market Stresses Bubble Up"
-      },
-      {
-        "source": "ブルームバーグ",
-        "title": "Broadcom Outlook Disappoints Investors Seeking AI-Fueled Blowout"
-      },
-      {
-        "source": "ザ・ヴァージ",
-        "title": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer"
-      },
-      {
-        "source": "ブルームバーグ",
-        "title": "Nvidia's RTX Spark Sets Up Fight Over the Soul of Windows PCs"
-      },
-      {
-        "source": "ガーディアン",
-        "title": "In first, California city overwhelmingly votes to permanently ban datacenters"
-      },
-      {
-        "source": "テックレーダー",
-        "title": "A PhD student has discovered new plant-inspired window glass that could 'simultaneously store solar energy and darken' a room when sunny to cool it down"
-      },
-      {
-        "source": "ニューヨーク・タイムズ",
-        "title": "European Union Outlines Plan to Reduce Dependence on American Tech"
-      },
-      {
-        "source": "バラエティ",
-        "title": "What Martin Scorsese's AI Embrace Means for Filmmaking's Future: 5 Takeaways"
-      },
-      {
-        "source": "ハリウッドリポーター",
-        "title": "Hasbro Launching an AI Studio That Will Let Companies License Its Stable of Characters"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "『映画クレヨンしんちゃん』新作の主題歌決定　本予告＆本ポスタービジュアルも公開"
-      }
-    ],
-    "audioFile": "20260604_daily.mp3",
-    "scriptFile": "20260604_daily.md",
-    "publishedAt": "2026-06-03T20:55:47.149Z"
-  },
-  {
-    "id": "20260603_daily",
-    "title": "スタラジ 2026年6月3日 配信分",
-    "date": "2026-06-03",
-    "broadcastMode": "daily",
-    "durationSec": 731.472000000001,
-    "durationFormatted": "12:11",
-    "cast": [
-      "レイナ姐さん",
-      "そらちゃん",
-      "ひなちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "トランプ政権のAI規制とアンソロピックの世界戦略",
-        "startSec": 44.75999999999999
-      },
-      {
-        "name": "台風6号、首都圏直撃の朝",
-        "startSec": 189.432
-      },
-      {
-        "name": "Microsoftの量子チップと純国産量子の進化",
-        "startSec": 315.9600000000002
-      },
-      {
-        "name": "2200万件の情報漏洩——匿名アプリの落とし穴",
-        "startSec": 460.6800000000005
-      },
-      {
-        "name": "エンタメ枠：ブロードウェイ復活とカズレーザーの新スタイル",
-        "startSec": 567.4560000000008
-      },
-      {
-        "name": "クロージング",
-        "startSec": 709.944000000001
-      }
-    ],
-    "sources": [
-      {
-        "source": "ザ・ニューヨーク・タイムズ",
-        "title": "Trump Signs Executive Order Seeking Oversight of A.I. Models"
-      },
-      {
-        "source": "フィナンシャル・タイムズ",
-        "title": "Trump signs watered-down AI vetting order after Maga infighting"
-      },
-      {
-        "source": "フィナンシャル・タイムズ",
-        "title": "Anthropic to expand Mythos access to more than 15 countries"
-      },
-      {
-        "source": "NHK",
-        "title": "台風6号 和歌山県南部に上陸 関東甲信でも線状降水帯おそれ"
-      },
-      {
-        "source": "NHK",
-        "title": "首都圏の在来線 3日の始発から運休する路線【一覧あり】"
-      },
-      {
-        "source": "CNET Japan",
-        "title": "台風6号接近、大雨警報などが「レベル付き」に刷新--何が変わった？ 暴風警報は従来通り"
-      },
-      {
-        "source": "BBC",
-        "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "純国産量子コンピューターの誕生秘話、開発者の阪大教授が解説"
-      },
-      {
-        "source": "TechRadar",
-        "title": "Anonymous video chat app leaks data on millions of users — more than 22 million records exposed, including 3 million containing names and email addresses"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Broadway Box Office: 'Death of a Salesman' Hits $1.8 Million, 'Book of Mormon' Returns"
-      },
-      {
-        "source": "ナタリー",
-        "title": "カズレーザーとニューヨーク、毎週火曜の生放送に手応え　屋敷「3人で好き勝手できている」"
-      }
-    ],
-    "audioFile": "20260603_daily.mp3",
-    "scriptFile": "20260603_daily.md",
-    "publishedAt": "2026-06-02T20:51:49.308Z"
-  },
-  {
-    "id": "20260602_daily",
-    "title": "スタラジ 2026年6月2日 配信分",
-    "date": "2026-06-02",
-    "broadcastMode": "daily",
-    "durationSec": 707.4480000000007,
-    "durationFormatted": "11:47",
-    "cast": [
-      "もえちゃん",
-      "そらちゃん",
-      "みのりん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Anthropic、ついにIPO申請",
-        "startSec": 44.592000000000006
-      },
-      {
-        "name": "ゴールドマンの銀行員も「AIデータセンター漬け」",
-        "startSec": 159.83999999999995
-      },
-      {
-        "name": "米中、ボーイングを巡る駆け引き",
-        "startSec": 281.68799999999993
-      },
-      {
-        "name": "本能寺の変、当日の書状",
-        "startSec": 398.59200000000016
-      },
-      {
-        "name": "AIが生んだ13種類の新しい仕事",
-        "startSec": 486.3840000000003
-      },
-      {
-        "name": "エンタメ枠：内田有紀ドラマ復帰とOutlanderスピンオフ",
-        "startSec": 583.6080000000004
-      },
-      {
-        "name": "クロージング",
-        "startSec": 665.8560000000006
-      }
-    ],
-    "sources": [
-      {
-        "source": "The New York Times",
-        "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O."
-      },
-      {
-        "source": "NHK",
-        "title": "米AI新興企業「アンソロピック」新規株式公開を申請と発表"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "For Goldman's Top Bankers, It's All AI Data Centers All the Time"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "HPE Sees Strong Growth Over Next 18 Months on Server Demand"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "GoPro Warns of Going-Concern Risk Amid AI-Fueled Memory Crunch"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "激動期の安保:日本もボーイングに接近　中国に遅れた「日の丸ジェット」の行方"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "「本能寺の変」当日の書状見つかる　秀吉軍と対陣、切迫の戦況伝え"
-      },
-      {
-        "source": "The New York Times",
-        "title": "How Box Created 13 New Types of Jobs Because of A.I."
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "内田有紀、30年ぶりフジ連ドラ主演　timelesz・寺西拓人とW主演で歳の差恋愛描く「ラストノート」7月期放送"
-      },
-      {
-        "source": "Variety",
-        "title": "'Outlander: Blood of My Blood' Season 2 Sets Starz Release Date, Drops Tearjerking First Teaser"
-      }
-    ],
-    "audioFile": "20260602_daily.mp3",
-    "scriptFile": "20260602_daily.md",
-    "publishedAt": "2026-06-01T20:53:09.205Z"
-  },
-  {
-    "id": "20260601_daily",
-    "title": "スタラジ 2026年6月1日 配信分",
-    "date": "2026-06-01",
-    "broadcastMode": "daily",
-    "durationSec": 911.9760000000008,
-    "durationFormatted": "15:11",
-    "cast": [
-      "みのりん",
-      "そらちゃん",
-      "ヨースケ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "ソフトバンクG 14兆円AI投資とコスト見直しの分岐",
-        "startSec": 52.727999999999994
-      },
-      {
-        "name": "AIエージェント用語整理と「AI疲れ」の二面性",
-        "startSec": 203.784
-      },
-      {
-        "name": "AI×クリエイティブ業界の地殻変動",
-        "startSec": 359.71200000000016
-      },
-      {
-        "name": "嵐ラストコンサートとドゥア・リパ結婚",
-        "startSec": 517.4880000000003
-      },
-      {
-        "name": "サッカー日本代表、無失点で壮行戦勝利",
-        "startSec": 657.1200000000003
-      },
-      {
-        "name": "新潟知事3選・皇位継承・イラン情勢の駆け足チェック",
-        "startSec": 773.3760000000005
-      },
-      {
-        "name": "クロージング",
-        "startSec": 874.7040000000006
-      }
-    ],
-    "sources": [
-      {
-        "source": "NHK",
-        "title": "ソフトバンクG 仏で14兆円投じAIデータセンター開発へ"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Major Companies Reconsider AI Costs"
-      },
-      {
-        "source": "The Verge",
-        "title": "How to watch Nvidia's Computex keynote"
-      },
-      {
-        "source": "アイティメディア",
-        "title": "「ハーネス」って結局、何？　みんな使い方が違うAIエージェント用語をHugging Faceが整理"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "AI疲れに効くFirefoxの「AI controls」、余計なお世話を止める"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "LLM特有の課題に対応、W＆B Weaveの主な機能を押さえる"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "'This is fine' artist KC Green reaches agreement with AI startup Artisan"
-      },
-      {
-        "source": "The Guardian",
-        "title": "This model is not a real person: how AI is shaking up fashion – video"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "This weekend's two biggest movies were both directed by YouTubers"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "「We are ARASHI」幸せ感じ　「嵐」がラストコンサート"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "「嵐」が活動終了　ファンと走り抜けた26年半は「最高の思い出」"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Dua Lipa and Callum Turner Are Married"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Dua Lipa Marries Callum Turner During Intimate Ceremony in London"
-      },
-      {
-        "source": "NHK",
-        "title": "サッカー日本代表 壮行試合でアイスランドに1対0で勝利"
-      },
-      {
-        "source": "時事通信社",
-        "title": "小川、狙い通りの決勝点　サッカー日本代表"
-      },
-      {
-        "source": "時事通信社",
-        "title": "長友、健在示す　サッカー日本代表"
-      },
-      {
-        "source": "時事通信社",
-        "title": "新潟知事に花角氏３選　２新人破る"
-      },
-      {
-        "source": "NHK",
-        "title": "安定的な皇位継承 衆参両院の議長・副議長 今週再会談へ"
-      },
-      {
-        "source": "NHK",
-        "title": "イラン議長 安易な譲歩せず \"米大統領は覚書に修正要求\"報道"
-      }
-    ],
-    "audioFile": "20260601_daily.mp3",
-    "scriptFile": "20260601_daily.md",
-    "publishedAt": "2026-05-31T20:57:35.366Z"
-  },
-  {
-    "id": "20260529_daily",
-    "title": "スタラジ 2026年5月29日 配信分",
-    "date": "2026-05-29",
-    "broadcastMode": "daily",
-    "durationSec": 659.9280000000007,
-    "durationFormatted": "10:59",
-    "cast": [
-      "ヨースケ",
-      "りっくん",
-      "まほ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "アンソロピック6.5兆円調達でOpenAI超え",
-        "startSec": 31.608
-      },
-      {
-        "name": "AI関連M&Aラッシュ：AsanaがStack AI買収、Autodeskが5400億円買収",
-        "startSec": 173.30399999999997
-      },
-      {
-        "name": "Dell AIサーバー出荷予想を9兆円超に引き上げ",
-        "startSec": 286.51200000000006
-      },
-      {
-        "name": "アジア安保会議と横田早紀江さん拉致問題",
-        "startSec": 368.7360000000002
-      },
-      {
-        "name": "三菱自動車が日産から米国向け車両供給、関税対策のアライアンス連携",
-        "startSec": 471.6960000000003
-      },
-      {
-        "name": "エンタメ：Toy Story 5の感涙シーンとThe Boys配信ランキング1位",
-        "startSec": 542.5680000000004
-      },
-      {
-        "name": "クロージング",
-        "startSec": 638.9760000000007
-      }
-    ],
-    "sources": [
-      {
-        "source": "ブルームバーグ",
-        "title": "Anthropic Raises $65 Billion in Funding Round, Eclipses OpenAI"
-      },
-      {
-        "source": "フィナンシャルタイムズ",
-        "title": "Anthropic finalises $65bn funding deal to surpass OpenAI's valuation"
-      },
-      {
-        "source": "フィナンシャルタイムズ",
-        "title": "Musk's tweet undermines SpaceX's claims about Anthropic data centre deal"
-      },
-      {
-        "source": "テッククランチ",
-        "title": "Asana acquires no-code agent-builder Stack AI"
-      },
-      {
-        "source": "ブルームバーグ",
-        "title": "Autodesk to Buy MaintainX for About $3.6 Billion in Cash"
-      },
-      {
-        "source": "ブルームバーグ",
-        "title": "Dell Boosts Outlook to $60 Billion in AI Server Sales This Year"
-      },
-      {
-        "source": "NHK",
-        "title": "「アジア安全保障会議」シンガポールできょうから開催"
-      },
-      {
-        "source": "朝日新聞",
-        "title": "横田早紀江さんが拉致問題解決への思い語る　朝日新聞東京本社を訪問"
-      },
-      {
-        "source": "NHK",
-        "title": "三菱 日産から車両供給受けアメリカで販売へ 関税影響軽減"
-      },
-      {
-        "source": "ハリウッドレポーター",
-        "title": "Tom Hanks Teases \"One of the Most Heartbreaking Scenes I've Seen\" in 'Toy Story 5' as Cast Reunites for U.K. Launch"
-      },
-      {
-        "source": "ハリウッドレポーター",
-        "title": "Streaming Ratings: 'The Boys' Rises to No. 1"
-      }
-    ],
-    "audioFile": "20260529_daily.mp3",
-    "scriptFile": "20260529_daily.md",
-    "publishedAt": "2026-05-28T20:52:22.679Z"
   }
 ]
