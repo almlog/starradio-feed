@@ -1,5 +1,120 @@
 [
   {
+    "id": "20260913_weekly",
+    "title": "スタラジ 増刊号 2026年9月13日（日）",
+    "date": "2026-09-13",
+    "broadcastMode": "weekly",
+    "durationSec": 885.2640000000009,
+    "durationFormatted": "14:45",
+    "cast": [
+      "もえちゃん",
+      "レイナ姐さん"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜（なった日曜）ニュースダイジェスト",
+        "startSec": 143.88000000000002
+      },
+      {
+        "name": "Part 3: 特集・前編「今、エンジニアは実際に何をしているのか」",
+        "startSec": 251.01599999999996
+      },
+      {
+        "name": "Part 4: 特集・後編「未来のエンジニアは何をしているか。自分たちは今どう振る舞うか」",
+        "startSec": 585.0720000000005
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 860.256000000001
+      }
+    ],
+    "sources": [
+      {
+        "source": "The Hollywood Reporter",
+        "title": "'Practical Magic 2' Leads Box Office as 'Spider-Man' Eyes All-Time Domestic Record"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "'The Family Stone' Sequel in the Works With Most of Original Cast Returning"
+      },
+      {
+        "source": "BARKS",
+        "title": "木村柾哉、INIの5周年とリーダーとしての矜持を語る"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Larry Ellison Scraps Plan to Sell Up to 50 Million Oracle Shares"
+      },
+      {
+        "source": "BBC",
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "ルールを作る「管理職」ほどシャドーAI　「AI白書2026」調査が映す\"ガイドライン\"の限界"
+      },
+      {
+        "source": "Zenn",
+        "title": "「これを仕事にできないかなぁ」——Claude Codeに1セッション相談したら、妄想ではなく「検証可能な設計問題」になっていた"
+      },
+      {
+        "source": "Zenn",
+        "title": "「あ、これ前も言ったな」から始める Claude Code の育て方"
+      },
+      {
+        "source": "Zenn",
+        "title": "AGENTS.md に書くべきは「リポジトリを読んでも分からないこと」だけ"
+      },
+      {
+        "source": "Zenn",
+        "title": "あなたのClaude Codeは直列ですか？うちは並列です。"
+      },
+      {
+        "source": "Zenn",
+        "title": "ツール呼び出しの55.5%はサブエージェントが出していた。画面に見えているのは半分以下だった"
+      },
+      {
+        "source": "GIGAZINE",
+        "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?"
+      },
+      {
+        "source": "Zenn",
+        "title": "Claude Code の請求の8割は「居座り続けた出力」だった"
+      },
+      {
+        "source": "アイティメディア",
+        "title": "「それ、うまくいかないよ」――\"ベテランの壁\"だった開発者の態度を一変させた、新人の工夫が参考になる"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "China's AI Industry Pivots to Agents From Models, Report Says"
+      },
+      {
+        "source": "Zenn",
+        "title": "なぜエージェントハーネスで開発パイプラインを作っているのか"
+      },
+      {
+        "source": "Zenn",
+        "title": "Claude Code の memory と skill を分けて設計した——事実と手順の置き場所"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "AIエージェント同士が縄張り争い　矛盾した指示によるリスク判明"
+      },
+      {
+        "source": "IEEE Spectrum",
+        "title": "An Engineer's Guide to Surviving a Layoff"
+      }
+    ],
+    "audioFile": "20260913_weekly.mp3",
+    "scriptFile": "20260913_weekly.md",
+    "publishedAt": "2026-09-12T17:17:36.595Z"
+  },
+  {
     "id": "20260911_daily",
     "title": "スタラジ 2026年9月11日 配信分",
     "date": "2026-09-11",
