@@ -1,5 +1,129 @@
 [
   {
+    "id": "20260914_daily",
+    "title": "スタラジ 2026年9月14日 配信分",
+    "date": "2026-09-14",
+    "broadcastMode": "daily",
+    "durationSec": 846.9600000000006,
+    "durationFormatted": "14:06",
+    "cast": [
+      "みのりん",
+      "りっくん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AI開発ブレーキ論争が政治マター化",
+        "startSec": 33.071999999999996
+      },
+      {
+        "name": "Anthropic、上場先はNasdaqへ",
+        "startSec": 201.576
+      },
+      {
+        "name": "沖縄知事選、12年ぶり保守系奪還",
+        "startSec": 318.16800000000006
+      },
+      {
+        "name": "バレー男子、ロス五輪切符を掴む",
+        "startSec": 468.7200000000003
+      },
+      {
+        "name": "織田裕二、14年ぶりに青島俊作へ",
+        "startSec": 612.3840000000006
+      },
+      {
+        "name": "エミー賞2026、司会は異例のNBA選手コラボ",
+        "startSec": 726.4080000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 825.2640000000006
+      }
+    ],
+    "sources": [
+      {
+        "source": "The Guardian",
+        "title": "Obama reportedly urges Democrats to prioritize safety plan for AI"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Donald Trump rejects calls from tech bosses for an AI slowdown"
+      },
+      {
+        "source": "The Guardian",
+        "title": "OpenAI boss and Elon Musk back calls to put brakes on 'reckless' AI development"
+      },
+      {
+        "source": "BBC",
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "沖縄知事選2026:保守系12年ぶり県政奪還、国の安保政策に追い風　古謝氏初当選"
+      },
+      {
+        "source": "時事通信社",
+        "title": "沖縄知事、古謝氏が当選　辺野古容認、１２年ぶり自民奪還"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "「基地問題スパスパッと進む」　落選確実の玉城氏、今後どうする"
+      },
+      {
+        "source": "NHK",
+        "title": "維新 中司幹事長の入閣調整 今週にも自民党役員人事 内閣改造"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "100%ユウキ:最後の得点を決めた石川祐希「持ってきてくれと言っていました」"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "バレー推し:深津英臣、マッチポイントは「祐希の表情を見て」ロス切符獲得"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "バレー推し:チーム救った堅守、山本智大「拾った瞬間、ユウキ行けと叫んだ」"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "バレー推し:小川智大、決勝で出番なく「自分かなと思っていたんですけど…」"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "バレー推し:大塚達宣は途中出場でロス切符に貢献「優勝は本当に特別な経験」"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "『踊る大捜査線』織田裕二、14年ぶり青島俊作に和久さん重なる　ワンカットだけ同じ表情「和久さん、ありがとう」"
+      },
+      {
+        "source": "Variety",
+        "title": "New York Knicks Player Jalen Brunson — Emmys Host Mariska Hargitay's Buddy — Expected to Open Show (EXCLUSIVE)"
+      },
+      {
+        "source": "Variety",
+        "title": "'One Battle After Another,' 'Frankenstein' and 'Avatar: Fire And Ash' Among the Winners at MacGuffin Awards"
+      },
+      {
+        "source": "Variety",
+        "title": "Emmys Party Pics 2026: Mariska Hargitay, Sheryl Lee Ralph, Riz Ahmed, Katherine LaNasa and More"
+      }
+    ],
+    "audioFile": "20260914_daily.mp3",
+    "scriptFile": "20260914_daily.md",
+    "publishedAt": "2026-09-13T20:55:28.233Z"
+  },
+  {
     "id": "20260913_weekly",
     "title": "スタラジ 増刊号 2026年9月13日（日）",
     "date": "2026-09-13",
