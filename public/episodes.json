@@ -1,5 +1,93 @@
 [
   {
+    "id": "20260915_daily",
+    "title": "スタラジ 2026年9月15日 配信分",
+    "date": "2026-09-15",
+    "broadcastMode": "daily",
+    "durationSec": 637.2960000000007,
+    "durationFormatted": "10:37",
+    "cast": [
+      "もえちゃん",
+      "りっくん",
+      "レイジ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "高市内閣改造と自民党役員人事",
+        "startSec": 37.416000000000004
+      },
+      {
+        "name": "消費税減税と景気実感の乖離",
+        "startSec": 125.83200000000004
+      },
+      {
+        "name": "米長期金利5％突破の衝撃",
+        "startSec": 227.20799999999994
+      },
+      {
+        "name": "JR北海道の赤字8区間問題",
+        "startSec": 321.5280000000001
+      },
+      {
+        "name": "iPhone 18 Pro の2ナノ半導体",
+        "startSec": 422.76000000000033
+      },
+      {
+        "name": "香取慎吾のマクドナルドCMとMock the Weekの復活",
+        "startSec": 514.5120000000005
+      },
+      {
+        "name": "クロージング",
+        "startSec": 614.1840000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "NHK",
+        "title": "自民党役員人事 内閣改造 政策推進でポスト詰めの調整"
+      },
+      {
+        "source": "時事通信社",
+        "title": "維新・中司幹事長が入閣へ　自民国対委員長に村井氏―高市首相、１６日役員人事"
+      },
+      {
+        "source": "NHK",
+        "title": "政府 消費税減税の大綱 閣議決定へ 臨時国会で法案成立目指す"
+      },
+      {
+        "source": "NHK",
+        "title": "景気よくなっている実感「ある」15％「ない」78％ NHK世論調査"
+      },
+      {
+        "source": "時事通信社",
+        "title": "米長期金利、５％突破　３年ぶり、インフレ懸念で"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "JR北の赤字8区間「維持したいが負担困難」8割　毎日新聞調査"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "「iPhone 18 Pro」の2ナノ半導体、パッケージに新構造　AI処理性能を強化"
+      },
+      {
+        "source": "ナタリー",
+        "title": "香取慎吾が大好きなマクドナルドCMに初出演、実は月見バーガーと同期"
+      },
+      {
+        "source": "Variety",
+        "title": "How British Comedy Show ‘Mock the Week’ Found New Life on TLC After BBC Cancellation"
+      }
+    ],
+    "audioFile": "20260915_daily.mp3",
+    "scriptFile": "20260915_daily.md",
+    "publishedAt": "2026-09-14T20:48:46.774Z"
+  },
+  {
     "id": "20260914_daily",
     "title": "スタラジ 2026年9月14日 配信分",
     "date": "2026-09-14",
