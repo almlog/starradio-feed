@@ -1,5 +1,101 @@
 [
   {
+    "id": "20260916_daily",
+    "title": "スタラジ 2026年9月16日 配信分",
+    "date": "2026-09-16",
+    "broadcastMode": "daily",
+    "durationSec": 792.6960000000009,
+    "durationFormatted": "13:12",
+    "cast": [
+      "レイナ姐さん",
+      "りっくん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AIをどう規制するか、業界と議会の温度差",
+        "startSec": 56.808
+      },
+      {
+        "name": "半導体、脱アメリカの動きと日本の急伸",
+        "startSec": 188.88
+      },
+      {
+        "name": "首都圏の「億戸建て」、悩んでる間に上がる住宅価格",
+        "startSec": 317.808
+      },
+      {
+        "name": "日経、広告料金を過大請求",
+        "startSec": 439.08000000000027
+      },
+      {
+        "name": "木村拓哉、ギャツビー新CMでスペクトラムに乗ってターン",
+        "startSec": 546.2640000000004
+      },
+      {
+        "name": "Finneas、Ed Sheeranツアー降板でパレスチナ連帯",
+        "startSec": 656.7840000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 758.7600000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Nvidia's Huang Says AI Industry Doesn't Need Any New Laws"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Bernie Sanders says Congress has been 'asleep at the wheel' over AI – video"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic's Tough Balancing Act Between AI Doom Talk and IPO"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Huawei says its new smartphone chip is entirely free of any US-made components"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "半導体売上高、26年1〜7月の累計額が25年の年間額を超えた"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "物価考:「悩んでいると戸建ても上がる」　首都圏で人気「億戸建て」とは"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "物価考:地価高騰で難易度上がる住宅取得　専門家が考える「近道」は?"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "日経、広告料金を過大請求　2社から数千万円ずつ不正受領"
+      },
+      {
+        "source": "ナタリー",
+        "title": "木村拓哉がスペクトラム楽曲に乗せて華麗にターン、「ギャツビー」新CM放送"
+      },
+      {
+        "source": "ナタリー",
+        "title": "木村拓哉「ギャツビー ムービングラバー」新CMで\"いい予感\"を表現、メイキング公開"
+      },
+      {
+        "source": "Variety",
+        "title": "Finneas Drops Out of Ed Sheeran Tour in Solidarity With Macklemore"
+      }
+    ],
+    "audioFile": "20260916_daily.mp3",
+    "scriptFile": "20260916_daily.md",
+    "publishedAt": "2026-09-15T20:51:00.948Z"
+  },
+  {
     "id": "20260915_daily",
     "title": "スタラジ 2026年9月15日 配信分",
     "date": "2026-09-15",
