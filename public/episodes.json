@@ -1,5 +1,101 @@
 [
   {
+    "id": "20260917_daily",
+    "title": "スタラジ 2026年9月17日 配信分",
+    "date": "2026-09-17",
+    "broadcastMode": "daily",
+    "durationSec": 778.4400000000006,
+    "durationFormatted": "12:58",
+    "cast": [
+      "ホリケイ",
+      "りっくん",
+      "レイナ姐さん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "高市内閣きょう改造",
+        "startSec": 44.424
+      },
+      {
+        "name": "FRB 3年ぶりの利上げ",
+        "startSec": 159.336
+      },
+      {
+        "name": "AI規制論争、ザッカーバーグ参戦",
+        "startSec": 285.9840000000001
+      },
+      {
+        "name": "スコットランド、データセンター一時停止へ",
+        "startSec": 414.31200000000024
+      },
+      {
+        "name": "生田斗真、初アルバムの豪華すぎる布陣",
+        "startSec": 529.9920000000005
+      },
+      {
+        "name": "マドンナ、23年ぶりVMAへ",
+        "startSec": 645.0480000000005
+      },
+      {
+        "name": "クロージング",
+        "startSec": 749.2320000000005
+      }
+    ],
+    "sources": [
+      {
+        "source": "NHK",
+        "title": "高市首相きょう内閣改造 政権の骨格維持 維新は中司氏初入閣へ"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "高市内閣改造、骨格は維持　裏金問題、不記載議員の初入閣で調整"
+      },
+      {
+        "source": "時事通信社",
+        "title": "米ＦＲＢ、３年ぶり利上げ　０．２５％、インフレ長期化回避へ―政策転換、追加引き締め想定"
+      },
+      {
+        "source": "NHK",
+        "title": "米 FRB 0.25％の利上げ決定 利上げは約3年ぶり"
+      },
+      {
+        "source": "時事通信社",
+        "title": "ＦＲＢは年内にあと１回の追加利上げを行う想定を示した"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "FRB、3年2カ月ぶり利上げ　引き締めにトランプ氏の反発必至"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Zuckerberg, Huang Break With Industry Leaders on AI Warnings"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Scotland votes for moratorium on new large-scale datacentres for up to a year"
+      },
+      {
+        "source": "ナタリー",
+        "title": "生田斗真が1stアルバムリリース、岡村靖幸＆斉藤和義や菅田将暉＆石崎ひゅーいら楽曲提供"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Madonna to Perform at VMAs for First Time in 23 Years"
+      }
+    ],
+    "audioFile": "20260917_daily.mp3",
+    "scriptFile": "20260917_daily.md",
+    "publishedAt": "2026-09-16T20:50:32.238Z"
+  },
+  {
     "id": "20260916_daily",
     "title": "スタラジ 2026年9月16日 配信分",
     "date": "2026-09-16",
