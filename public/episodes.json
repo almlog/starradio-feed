@@ -1,5 +1,109 @@
 [
   {
+    "id": "20260918_daily",
+    "title": "スタラジ 2026年9月18日 配信分",
+    "date": "2026-09-18",
+    "broadcastMode": "daily",
+    "durationSec": 762.3360000000007,
+    "durationFormatted": "12:42",
+    "cast": [
+      "ヨースケ",
+      "りっくん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AI安全性論争、科学者からの反論",
+        "startSec": 40.224
+      },
+      {
+        "name": "旭化成、元社員逮捕で見えた企業機密のリアル",
+        "startSec": 171.69599999999997
+      },
+      {
+        "name": "美浜原発トラブルと関電1400万円過大請求",
+        "startSec": 289.344
+      },
+      {
+        "name": "九州新幹線、52日ぶり全線復旧と台湾からの14億円",
+        "startSec": 423.21600000000024
+      },
+      {
+        "name": "TGS 2026とあいみょん×タモリ、国内カルチャーの熱量",
+        "startSec": 528.8160000000004
+      },
+      {
+        "name": "Netflixとユニバーサル、DCで税制ロビー活動へ",
+        "startSec": 625.9680000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 725.2320000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Pioneer Andrew Ng Calls Extinction Fears 'Science Fiction'"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic's Warning of Existential Risk Hijacks Larger AI Debate"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Is the AI safety debate about safety or control?"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "旭化成の製造情報漏らした疑い、元社員を逮捕　会社側「中国に流出」"
+      },
+      {
+        "source": "NHK",
+        "title": "関電の美浜原発3号配管から水滴落下 原子炉を手動停止 福井"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "美浜原発3号機、水漏れで原子炉を手動停止　5月にもトラブル"
+      },
+      {
+        "source": "NHK",
+        "title": "関西電力 電気料金を過大請求 総額最大1400万円 原価算定ミス"
+      },
+      {
+        "source": "NHK",
+        "title": "九州新幹線 52日ぶりに全線で運行再開へ"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "台湾、熊本地震復興へ義援金　14億円超を日本側へ贈呈"
+      },
+      {
+        "source": "4Gamer.net",
+        "title": "XBOXの名を冠するASUSの携帯型ゲームPCに第2世代モデル「ROG XBOX Ally X20」が登場。実機をTGS2026で触ってきた"
+      },
+      {
+        "source": "4Gamer.net",
+        "title": "「Twitch」がもたらすのは\"経験の共有\"という魔法。CEOのダン・クランシー氏が語るコミュニティ，そして変わらない人間の欲求とは［TGS2026］"
+      },
+      {
+        "source": "ナタリー",
+        "title": "あいみょん「人生においての宝物になりました」ベスト盤スペシャル映像でタモリとコラボ"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Netflix, Universal Chiefs Descend On D.C. to Capitalize on Trump Tax Credit Momentum"
+      }
+    ],
+    "audioFile": "20260918_daily.mp3",
+    "scriptFile": "20260918_daily.md",
+    "publishedAt": "2026-09-17T20:52:01.043Z"
+  },
+  {
     "id": "20260917_daily",
     "title": "スタラジ 2026年9月17日 配信分",
     "date": "2026-09-17",
