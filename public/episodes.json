@@ -1,5 +1,132 @@
 [
   {
+    "id": "20260919_weekly",
+    "title": "スタラジ 土曜増刊号 — 2026年9月19日",
+    "date": "2026-09-19",
+    "broadcastMode": "weekly",
+    "durationSec": 935.2800000000011,
+    "durationFormatted": "15:35",
+    "cast": [
+      "ヨースケ",
+      "ホリケイ"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト",
+        "startSec": 235.632
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
+        "startSec": 398.4960000000002
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
+        "startSec": 763.6080000000009
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 906.624000000001
+      }
+    ],
+    "sources": [
+      {
+        "source": "毎日新聞社",
+        "title": "台風25号接近、シルバーウイークは荒天恐れ　関東上陸可能性も"
+      },
+      {
+        "source": "Yahoo!ニュース",
+        "title": "東京ゲームショウ大混雑 背景は"
+      },
+      {
+        "source": "ASCII.jp",
+        "title": "かわいすぎ！ コージーコーナー「お月見うさぎ」練乳風味クリームでちょこん"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "「怖がらずに投げられた」　阪神・大竹、重圧はねのけ7回無失点"
+      },
+      {
+        "source": "NHK",
+        "title": "台風25号 小笠原暴風警戒 あす以降伊豆諸島 関東近づくおそれ"
+      },
+      {
+        "source": "NHK",
+        "title": "高市首相 日米首脳会談を調整 対中認識のすりあわせ図る"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Bitcoin Tops $80,000 as Coinbase and Crypto Stocks Rally | Closing Bell"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Nvidia-Backed Data Center Firm Nscale Files Publicly for US IPO"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings"
+      },
+      {
+        "source": "BBC",
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic's Warning of Existential Risk Hijacks Larger AI Debate"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Zuckerberg, Huang Break With Industry Leaders on AI Warnings"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Pioneer Andrew Ng Calls Extinction Fears 'Science Fiction'"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Newsom Wants AI 'Kill Switch' to Rein in Tech Industry"
+      },
+      {
+        "source": "時事通信社",
+        "title": "米ＦＲＢ、３年ぶり利上げ　０．２５％、インフレ長期化回避へ―政策転換、追加引き締め想定"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "金利ある世界:「リフレ派」が障壁に?　「利上げ続ける」前向き日銀に不安材料"
+      },
+      {
+        "source": "NHK",
+        "title": "高市首相きょう内閣改造 政権の骨格維持 維新は中司氏初入閣へ"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "第2次高市改造内閣　副大臣・政務官の顔ぶれ　一覧"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "沖縄知事選2026:保守系12年ぶり県政奪還、国の安保政策に追い風　古謝氏初当選"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "「iPhone 18 Pro」の2ナノ半導体、パッケージに新構造　AI処理性能を強化"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "iPhone 18 Pro分解、「中身は別物」　半導体チップの冷却優先に"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "バレー推し:チーム救った堅守、山本智大「拾った瞬間、ユウキ行けと叫んだ」"
+      }
+    ],
+    "audioFile": "20260919_weekly.mp3",
+    "scriptFile": "20260919_weekly.md",
+    "publishedAt": "2026-09-18T20:51:48.634Z"
+  },
+  {
     "id": "20260918_daily",
     "title": "スタラジ 2026年9月18日 配信分",
     "date": "2026-09-18",
@@ -4846,92 +4973,5 @@
     "audioFile": "20260629_daily.mp3",
     "scriptFile": "20260629_daily.md",
     "publishedAt": "2026-06-28T23:39:07.364Z"
-  },
-  {
-    "id": "20260620_weekly",
-    "title": "スタラジ土曜増刊号 - 2026年6月20日配信",
-    "date": "2026-06-20",
-    "broadcastMode": "weekly",
-    "durationSec": 927.816000000001,
-    "durationFormatted": "15:27",
-    "cast": [
-      "もえちゃん",
-      "ホリケイ"
-    ],
-    "segments": [
-      {
-        "name": "Part 1: オープニング + プライベートトーク",
-        "startSec": 0
-      },
-      {
-        "name": "Part 2: 土曜ニュースダイジェスト",
-        "startSec": 190.60800000000003
-      },
-      {
-        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
-        "startSec": 325.3200000000001
-      },
-      {
-        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
-        "startSec": 742.5600000000007
-      },
-      {
-        "name": "Part 5: クロージング",
-        "startSec": 870.6480000000008
-      }
-    ],
-    "sources": [
-      {
-        "source": "NHK",
-        "title": "台風7号発生 沖縄県に近づくおそれ 今後の情報に注意"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic"
-      },
-      {
-        "source": "TechRadar",
-        "title": "'Investors suffered damages': Microsoft shareholders file class action lawsuit over its huge increase in AI and cloud spending"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Is the US government's Anthropic ban accidentally helping the brand?"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Trump Tells Axios He Doesn't See Anthropic as US Security Threat"
-      },
-      {
-        "source": "TechRadar",
-        "title": "'We've proven that carbon removal technology can work': Google, Anthropic, Salesforce and others pledge nearly $1 billion on new environmental push"
-      },
-      {
-        "source": "Hacker News",
-        "title": "Hyundai buys Boston Dynamics"
-      },
-      {
-        "source": "The Verge",
-        "title": "NASA selects Eric Schmidt's rocket company for a 2028 mission to Mars"
-      },
-      {
-        "source": "TechRadar",
-        "title": "'Workers need to be involved in these conversations': Amazon engineers to be investigated after criticising company's AI data center buildout"
-      },
-      {
-        "source": "Qiita",
-        "title": "「セクションを追加して」と頼んだら、状態ファイルが丸ごと消えた——Claude Code の Write ツールが Edit の代わりに選ばれて、git 管理外のファイルを静かに全置換する事故"
-      },
-      {
-        "source": "Qiita",
-        "title": "LLMにも「睡眠」が必要だった？（Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories）"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Every fusion startup that has raised over $100M"
-      }
-    ],
-    "audioFile": "20260620_weekly.mp3",
-    "scriptFile": "20260620_weekly.md",
-    "publishedAt": "2026-06-19T20:54:13.921Z"
   }
 ]
