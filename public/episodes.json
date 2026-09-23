@@ -1,5 +1,89 @@
 [
   {
+    "id": "20260924_daily",
+    "title": "スタラジ 2026年9月24日 配信分",
+    "date": "2026-09-24",
+    "broadcastMode": "daily",
+    "durationSec": 956.7600000000006,
+    "durationFormatted": "15:56",
+    "cast": [
+      "ホリケイ",
+      "そらちゃん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "米中首脳会談とAI覇権",
+        "startSec": 56.232
+      },
+      {
+        "name": "日本の現場で動くAI",
+        "startSec": 230.87999999999997
+      },
+      {
+        "name": "副首都構想の行方",
+        "startSec": 422.0160000000001
+      },
+      {
+        "name": "あのちゃんと秋の音楽シーン",
+        "startSec": 583.4400000000003
+      },
+      {
+        "name": "国際エミー賞とYouTubeの縦型ドラマ戦略",
+        "startSec": 735.2880000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 921.8880000000005
+      }
+    ],
+    "sources": [
+      {
+        "source": "NHK",
+        "title": "中国 習近平主席 まもなくアメリカに到着 米中首脳会談へ"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "船舶データを営業や経営に生かす商船三井、AIに「反証」できる人材育成"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "三菱マテリアルとセブン銀行のIT幹部が回答、レガシー刷新やDXのポイント"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "副首都に5道府県・6政令市が名乗り　毎日新聞35自治体調査"
+      },
+      {
+        "source": "ナタリー",
+        "title": "あのちゃんが王様になって次々に国難解決"
+      },
+      {
+        "source": "ナタリー",
+        "title": "クリープハイプ「news23」エンディングテーマのMVティザー公開、宮﨑優が出演"
+      },
+      {
+        "source": "Variety",
+        "title": "International Emmy Nominations: United Kingdom Leads This Year's Tally; Canada's 'Heated Rivalry' Doesn't Make the Cut"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "YouTube Wants to Turbocharge Microdramas on the TV Screen"
+      }
+    ],
+    "audioFile": "20260924_daily.mp3",
+    "scriptFile": "20260924_daily.md",
+    "publishedAt": "2026-09-23T20:52:37.839Z"
+  },
+  {
     "id": "20260919_weekly",
     "title": "スタラジ 土曜増刊号 — 2026年9月19日",
     "date": "2026-09-19",
