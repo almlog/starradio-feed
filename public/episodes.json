@@ -1,5 +1,109 @@
 [
   {
+    "id": "20260925_daily",
+    "title": "スタラジ 2026年9月25日 配信分",
+    "date": "2026-09-25",
+    "broadcastMode": "daily",
+    "durationSec": 867.5520000000009,
+    "durationFormatted": "14:27",
+    "cast": [
+      "ヨースケ",
+      "そらちゃん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "米中首脳会談とAIガバナンス",
+        "startSec": 44.471999999999994
+      },
+      {
+        "name": "AI業界の資金調達が桁違いに",
+        "startSec": 194.68799999999996
+      },
+      {
+        "name": "日販×アンソロピック、出版流通の再定義",
+        "startSec": 343.6320000000002
+      },
+      {
+        "name": "プルトニウム政策の迷走",
+        "startSec": 496.4160000000004
+      },
+      {
+        "name": "生田絵梨花のCMからSEKIROアニメまで",
+        "startSec": 601.8240000000003
+      },
+      {
+        "name": "クロージング",
+        "startSec": 823.0080000000008
+      }
+    ],
+    "sources": [
+      {
+        "source": "時事通信社",
+        "title": "米中首脳がＡＩ、貿易協議　習主席、１１年ぶり国賓訪問―トランプ大統領は異例の出迎え"
+      },
+      {
+        "source": "NHK",
+        "title": "【随時更新】米中首脳会談 終わる 台湾やAIについての議論は"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Emerges as a Flashpoint in Trump-Xi Talks"
+      },
+      {
+        "source": "時事通信社",
+        "title": "「米中はＡＩ管理に責任」　アトランタにパンダ２頭―習主席"
+      },
+      {
+        "source": "時事通信社",
+        "title": "台湾問題「慎重に処理を」　イランの平和実現要求―中国主席"
+      },
+      {
+        "source": "時事通信社",
+        "title": "米大統領は、中国主席と素晴らしい会談を行ったと述べた"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic Strikes $12 Billion AI Computing Deal With Akamai"
+      },
+      {
+        "source": "Financial Times",
+        "title": "SoftBank pays steep price for record bond sale to fund OpenAI bet"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI-Tied Debt Seeing Higher Costs"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "アンソロピックのAI学習向け書籍販売、日販が契約　米出版取次は拒否"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "迷走プルトニウム:英国は撤退、仏も苦戦　国策・核燃料サイクルの深まる迷走"
+      },
+      {
+        "source": "ナタリー",
+        "title": "踊っているだけの生田絵梨花、住友生命CMでバナナマン設楽統と共演「楽しみすぎて昨日全然寝れなかった」"
+      },
+      {
+        "source": "ナタリー",
+        "title": "「SEKIRO: NO DEFEAT」TVアニメ版が2027年1月放送、新規エピソードなど追加"
+      },
+      {
+        "source": "Variety",
+        "title": "Letterboxd Suitors Include A24 and New York Times; Sale Could Value Social Movie Platform at $300 Million: Report"
+      }
+    ],
+    "audioFile": "20260925_daily.mp3",
+    "scriptFile": "20260925_daily.md",
+    "publishedAt": "2026-09-24T20:52:15.698Z"
+  },
+  {
     "id": "20260924_daily",
     "title": "スタラジ 2026年9月24日 配信分",
     "date": "2026-09-24",
