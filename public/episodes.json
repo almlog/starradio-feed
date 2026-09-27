@@ -1,5 +1,129 @@
 [
   {
+    "id": "20260928_daily",
+    "title": "スタラジ 2026年9月28日 配信分",
+    "date": "2026-09-28",
+    "broadcastMode": "daily",
+    "durationSec": 765.7200000000007,
+    "durationFormatted": "12:45",
+    "cast": [
+      "みのりん",
+      "りっくん",
+      "そらちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AIをめぐる政治の綱引き",
+        "startSec": 56.784
+      },
+      {
+        "name": "日本企業の\"共生型\"AI受容",
+        "startSec": 240.7439999999999
+      },
+      {
+        "name": "台風26号と内閣支持率",
+        "startSec": 392.49600000000004
+      },
+      {
+        "name": "井上拓真、那須川天心に判定勝ち",
+        "startSec": 525.0000000000003
+      },
+      {
+        "name": "エンタメ ミセスとMCU続編準備",
+        "startSec": 618.6000000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 733.2720000000005
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Anthropic CEO Amodei to Meet Trump With AI Safety Concern Rising"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AI Safety Concerns Put Congress on the Spot"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Corporate America embraces cheaper 'open' AI models"
+      },
+      {
+        "source": "The New York Times",
+        "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "「AIは代理人ではなく共生・協働する存在」MUFG亀澤会長らが討論"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "生成AIにExcelを操作させる、プロンプトを駆使してクレンジングを実現"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "ギャルのほうがDX人材に向いている、富士通などJTCが採用した驚がくの施策"
+      },
+      {
+        "source": "NHK",
+        "title": "前線停滞 九州北部で記録的大雨も 台風26号 沖縄・奄美接近へ"
+      },
+      {
+        "source": "Yahoo!ニュース",
+        "title": "台風 非常に強い勢力で沖縄接近へ"
+      },
+      {
+        "source": "NHK",
+        "title": "\"見えない避難者\"約2000世帯 熊本地震2か月 八代市調査で判明"
+      },
+      {
+        "source": "NHK",
+        "title": "熊本地震2か月 避難生活が長期化 住まいの確保が課題に"
+      },
+      {
+        "source": "Yahoo!ニュース",
+        "title": "内閣支持率45%に上昇 毎日調査"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "井上拓真、再戦の那須川天心に判定勝ち　2度目の王座防衛"
+      },
+      {
+        "source": "時事通信社",
+        "title": "井上拓真、再び那須川天心退ける　松本流星が暫定王者―ボクシング"
+      },
+      {
+        "source": "ナタリー",
+        "title": "Mrs. GREEN APPLE「anan」で赤い糸に絡まり、新曲「瞞（まやか）し」への素直の思い語る"
+      },
+      {
+        "source": "ナタリー",
+        "title": "back numberの日産スタジアム公演がよみがえる、ライブ音源配信リリース"
+      },
+      {
+        "source": "IGN",
+        "title": "Avengers: Endgame Encore Collects $86 Million in Theaters as New Scenes Help MCU Fans Prep for Doomsday"
+      }
+    ],
+    "audioFile": "20260928_daily.mp3",
+    "scriptFile": "20260928_daily.md",
+    "publishedAt": "2026-09-27T20:49:16.618Z"
+  },
+  {
     "id": "20260925_daily",
     "title": "スタラジ 2026年9月25日 配信分",
     "date": "2026-09-25",
@@ -5085,81 +5209,5 @@
     "audioFile": "20260630_daily.mp3",
     "scriptFile": "20260630_daily.md",
     "publishedAt": "2026-06-30T01:30:37.479Z"
-  },
-  {
-    "id": "20260629_daily",
-    "title": "スタラジ 2026年6月29日 配信分",
-    "date": "2026-06-29",
-    "broadcastMode": "daily",
-    "durationSec": 783.4560000000008,
-    "durationFormatted": "13:03",
-    "cast": [
-      "みのりん",
-      "そらちゃん",
-      "レイナ姐さん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Apple値上げが告げるAI時代のコスト",
-        "startSec": 159.288
-      },
-      {
-        "name": "AIに任せて失敗、熟練エンジニアを呼び戻すFord",
-        "startSec": 277.77600000000007
-      },
-      {
-        "name": "Anthropic、米国からEUへ？オーストリアが招致合戦",
-        "startSec": 399.9120000000002
-      },
-      {
-        "name": "国内：マルサが暴いた84億円と、防衛相どうしの卓球外交",
-        "startSec": 516.3360000000004
-      },
-      {
-        "name": "エンタメ：踊る大捜査線リブートと、目黒蓮のサングラスCM",
-        "startSec": 636.6480000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 742.4160000000007
-      }
-    ],
-    "sources": [
-      {
-        "source": "{Bloomberg L.P.|ブルームバーグ}",
-        "title": "Apple's Sweeping Price Increases Bring Home the Costs of the AI Era"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Ford rehires 'gray beard' engineers after AI falls short"
-      },
-      {
-        "source": "{Bloomberg L.P.|ブルームバーグ}",
-        "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs"
-      },
-      {
-        "source": "NHK",
-        "title": "マルサ告発の脱税総額 昨年度約84億円 3年ぶり増加"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "日韓防衛相が卓球でダブルス　「我々のラリーは続いていく」"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "『踊る大捜査線 N.E.W.』新キャスト9名発表　NEWS増田貴久が真下正義の息子役、趣里＆白洲迅が所轄刑事に"
-      },
-      {
-        "source": "ナタリー",
-        "title": "Snow Man目黒蓮が「Zoff」新テレビCMにサンカットグラス姿で登場"
-      }
-    ],
-    "audioFile": "20260629_daily.mp3",
-    "scriptFile": "20260629_daily.md",
-    "publishedAt": "2026-06-28T23:39:07.364Z"
   }
 ]
