@@ -1,5 +1,93 @@
 [
   {
+    "id": "20260929_daily",
+    "title": "スタラジ 2026年9月29日 配信分",
+    "date": "2026-09-29",
+    "broadcastMode": "daily",
+    "durationSec": 648.6480000000008,
+    "durationFormatted": "10:48",
+    "cast": [
+      "もえちゃん",
+      "りっくん",
+      "みのりん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "半導体マネーの過熱（NVIDIA自社株買いとAMDのWorld Labs買収）",
+        "startSec": 45.432
+      },
+      {
+        "name": "さくらインターネットへの不正アクセス",
+        "startSec": 168.672
+      },
+      {
+        "name": "東大に女性初の学長",
+        "startSec": 268.3679999999999
+      },
+      {
+        "name": "首都圏マンション修繕の巨額談合",
+        "startSec": 358.96800000000013
+      },
+      {
+        "name": "SpaceX Starship、ついに軌道到達",
+        "startSec": 454.75200000000035
+      },
+      {
+        "name": "エンタメ：『LIAR GAME』第2期と『Tulsa King』シーズン4",
+        "startSec": 529.9200000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 618.9360000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AMD to Buy Fei-Fei Li's World Labs AI Startup for $8.2 Billion"
+      },
+      {
+        "source": "The Guardian",
+        "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "さくらインターネットに不正アクセス、136万超の会員情報に影響"
+      },
+      {
+        "source": "時事通信社",
+        "title": "東大次期学長に藤垣裕子教授　女性初、来年４月から任期６年"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "計310億円のマンション修繕談合　「知る限り10～20年前から」"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Starship Reaches Orbit in Major SpaceX Milestone"
+      },
+      {
+        "source": "ナタリー",
+        "title": "「LIAR GAME」第2期制作決定！キャストがコメントでお祝い　第1期の一挙配信も"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "'Tulsa King' Season 4 Trailer Released: \"Bad Things Are Going to Happen\""
+      }
+    ],
+    "audioFile": "20260929_daily.mp3",
+    "scriptFile": "20260929_daily.md",
+    "publishedAt": "2026-09-28T20:50:03.422Z"
+  },
+  {
     "id": "20260928_daily",
     "title": "スタラジ 2026年9月28日 配信分",
     "date": "2026-09-28",
@@ -5105,109 +5193,5 @@
     "audioFile": "20260701_daily.mp3",
     "scriptFile": "20260701_daily.md",
     "publishedAt": "2026-06-30T21:20:16.320Z"
-  },
-  {
-    "id": "20260630_daily",
-    "title": "スタラジ 2026年6月30日 配信分",
-    "date": "2026-06-30",
-    "broadcastMode": "daily",
-    "durationSec": 568.3200000000008,
-    "durationFormatted": "9:28",
-    "cast": [
-      "もえちゃん",
-      "そらちゃん",
-      "ヨースケ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI開発ツールがモバイルへ",
-        "startSec": 42.839999999999996
-      },
-      {
-        "name": "EUがビッグテックに挑む3つの法律",
-        "startSec": 145.77600000000004
-      },
-      {
-        "name": "AI時代の「電力戦争」",
-        "startSec": 245.448
-      },
-      {
-        "name": "日印AI協力、首脳会談の本気度",
-        "startSec": 338.1600000000002
-      },
-      {
-        "name": "W杯、日本ベスト16の壁",
-        "startSec": 414.3600000000004
-      },
-      {
-        "name": "結婚＆CM、エンタメ小話",
-        "startSec": 476.1120000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 551.6400000000008
-      }
-    ],
-    "sources": [
-      {
-        "source": "Qiita",
-        "title": "Cursor for iOS公開ベータ開始"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Gemini's personalized AI image generation is now free for US users"
-      },
-      {
-        "source": "Qiita",
-        "title": "NotionのMCPツール「notion-get-async-task」がChangelogから削除された件"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "EU独自のデジタル主権、ビッグテックに3つの法律で対応する"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "SBOMのAI版「AI BOM」、26年9月施行のCRAで関心高まる"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "AI革命の陰で進む「電力戦争」、送電に焦点当てる異質のスタートアップ"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "「中途半端」に陥りかねない日本の定置用蓄電池産業"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "日印、AI協力の共同声明発表へ　首脳会談で　高度人材招く"
-      },
-      {
-        "source": "時事通信社",
-        "title": "日本、ブラジルに惜敗　１６強ならず―Ｗ杯サッカー"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "「忍者ポーズ」町野修斗がW杯2大会目で初出場　サッカー"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "We Know What Taylor Swift Is Wearing to Her Wedding (Maybe)"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "22 Burning Questions About Taylor Swift's Wedding"
-      },
-      {
-        "source": "ナタリー",
-        "title": "「日産サクラ」CMに0.5秒だけ出演していたダイアン津田、今度はWebムービーにガッツリ登場"
-      }
-    ],
-    "audioFile": "20260630_daily.mp3",
-    "scriptFile": "20260630_daily.md",
-    "publishedAt": "2026-06-30T01:30:37.479Z"
   }
 ]
