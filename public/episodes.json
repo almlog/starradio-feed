@@ -1,5 +1,105 @@
 [
   {
+    "id": "20260930_daily",
+    "title": "スタラジ 2026年9月30日 配信分",
+    "date": "2026-09-30",
+    "broadcastMode": "daily",
+    "durationSec": 687.2160000000008,
+    "durationFormatted": "11:27",
+    "cast": [
+      "レイナ姐さん",
+      "りっくん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "OpenAI「Dots」発表とアプリストア攻撃",
+        "startSec": 41.928000000000004
+      },
+      {
+        "name": "Citi×Coinbase・銀行と暗号資産の握手",
+        "startSec": 168.96
+      },
+      {
+        "name": "臨時国会と建設労働力不足",
+        "startSec": 262.9679999999999
+      },
+      {
+        "name": "北大「追い出し部屋」アカハラ認定",
+        "startSec": 357.5760000000001
+      },
+      {
+        "name": "milet新曲と平野紫耀の新CM",
+        "startSec": 456.6000000000003
+      },
+      {
+        "name": "Fincher×Netflix破局とサウスパーク",
+        "startSec": 557.5680000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 657.2880000000007
+      }
+    ],
+    "sources": [
+      {
+        "source": "BBC",
+        "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "OpenAI's latest features take direct aim at the app store model"
+      },
+      {
+        "source": "The New York Times",
+        "title": "OpenAI Ignored Employees' Warnings About Safely Testing A.I. Models"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Citi, Coinbase Team Up To Let Merchants Accept Stablecoins"
+      },
+      {
+        "source": "NHK",
+        "title": "政府・与党 臨時国会で消費税法案成立を 野党は論戦の構え"
+      },
+      {
+        "source": "NHK",
+        "title": "政府 成長戦略実行に向け建設分野の労働力不足の対応策検討へ"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "北大「追い出し部屋」　教授会の「組織的なアカハラ」認定"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "アカハラ認定されても説明なく「失望」　現役教員から疑問の声"
+      },
+      {
+        "source": "ナタリー",
+        "title": "milet「アナログナース」主題歌に新曲「My Voice, My Life」提供、約4年ぶりのワンオクToruプロデュース曲"
+      },
+      {
+        "source": "ナタリー",
+        "title": "Number_i平野紫耀がステージ級の輝き放つウォンジョンヨ ヘア新CM"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "David Fincher to End Deal With Netflix, Adding to String of Departures"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "'South Park' and Butters Take on AI Data Centers in Latest Episode"
+      }
+    ],
+    "audioFile": "20260930_daily.mp3",
+    "scriptFile": "20260930_daily.md",
+    "publishedAt": "2026-09-29T20:50:23.833Z"
+  },
+  {
     "id": "20260929_daily",
     "title": "スタラジ 2026年9月29日 配信分",
     "date": "2026-09-29",
@@ -5097,101 +5197,5 @@
     "audioFile": "20260703_daily.mp3",
     "scriptFile": "20260703_daily.md",
     "publishedAt": "2026-07-02T22:02:49.757Z"
-  },
-  {
-    "id": "20260701_daily",
-    "title": "スタラジ 2026年7月1日 配信分",
-    "date": "2026-07-01",
-    "broadcastMode": "daily",
-    "durationSec": 680.6640000000006,
-    "durationFormatted": "11:20",
-    "cast": [
-      "レイナ姐さん",
-      "そらちゃん",
-      "ひなちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI×医療・創薬の新展開",
-        "startSec": 41.471999999999994
-      },
-      {
-        "name": "「ChatGPT広告」日本上陸と法務AIの加速",
-        "startSec": 176.76000000000005
-      },
-      {
-        "name": "AI社会リスク：医療デマと金融キルスイッチ",
-        "startSec": 309.40800000000024
-      },
-      {
-        "name": "米国動向：出生地主義の最高裁判断とBending Spoons上場",
-        "startSec": 414.4320000000004
-      },
-      {
-        "name": "エンタメ：The Bear S5、生田斗真×10-FEET、海外カードゲーム事情",
-        "startSec": 537.2640000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 649.8000000000005
-      }
-    ],
-    "sources": [
-      {
-        "source": "Financial Times",
-        "title": "Anthropic launches Claude Science in push for pharma revenue"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "量子の活用5選　ホンダは材料を高速開発、塩野義製薬「創薬に有用」"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "「ChatGPT広告」が日本上陸　AIが揺さぶるマーケティングの常識"
-      },
-      {
-        "source": "朝日新聞社",
-        "title": "企業法務にAI活用、法務省が検討会設置へ　「非弁行為」規制を緩和"
-      },
-      {
-        "source": "The Guardian",
-        "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds"
-      },
-      {
-        "source": "Financial Times",
-        "title": "‘Kill switches’ could be needed for AI-powered trading, BoE official says"
-      },
-      {
-        "source": "NHK",
-        "title": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "SpaceX Cuts Starlink Internet Prices in Memphis After Data Center Opposition"
-      },
-      {
-        "source": "Variety",
-        "title": "Lionel Boyce on Why ‘The Bear’ Season 5 Was His ‘Most Intense Shoot’ Yet and Wrapping Up Marcus’ Arc"
-      },
-      {
-        "source": "BARKS",
-        "title": "生田斗真、10-FEETのTAKUMA楽曲提供による10-FEET演奏の6分越えコラボナンバーを緊急リリース"
-      },
-      {
-        "source": "IGN",
-        "title": "Card Shop Suspends Yu-Gi-Oh Tournaments Over Smelly Players"
-      }
-    ],
-    "audioFile": "20260701_daily.mp3",
-    "scriptFile": "20260701_daily.md",
-    "publishedAt": "2026-06-30T21:20:16.320Z"
   }
 ]
