@@ -1,5 +1,117 @@
 [
   {
+    "id": "20261001_daily",
+    "title": "スタラジ 2026年10月1日 配信分",
+    "date": "2026-10-01",
+    "broadcastMode": "daily",
+    "durationSec": 810.4080000000009,
+    "durationFormatted": "13:30",
+    "cast": [
+      "ホリケイ",
+      "りっくん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Gemini 4発表とAI規制強化",
+        "startSec": 32.448
+      },
+      {
+        "name": "消費税減税と給付法案の中身",
+        "startSec": 160.056
+      },
+      {
+        "name": "永住許可の要件厳格化、今日から",
+        "startSec": 286.056
+      },
+      {
+        "name": "介護スポットワークの光と影",
+        "startSec": 416.08800000000014
+      },
+      {
+        "name": "AIデータセンターと電力インフラ",
+        "startSec": 546.4800000000004
+      },
+      {
+        "name": "パラマウント合併とおぼっちゃまくん35年ぶり復活",
+        "startSec": 664.4880000000005
+      },
+      {
+        "name": "クロージング",
+        "startSec": 778.1280000000008
+      }
+    ],
+    "sources": [
+      {
+        "source": "Google DeepMind Blog",
+        "title": "Gemini 4 Argon: our next era of frontier intelligence"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Google releases most advanced Gemini AI model"
+      },
+      {
+        "source": "The New York Times",
+        "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms"
+      },
+      {
+        "source": "The Guardian",
+        "title": "US trade regulator opens investigation into AI giants including Anthropic and OpenAI"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Google Grapples With Employee Skepticism About New Gemini Model"
+      },
+      {
+        "source": "NHK",
+        "title": "消費税減税と所得に応じた給付の法案 概要判明"
+      },
+      {
+        "source": "時事通信社",
+        "title": "永住許可、きょう要件厳格化　平均年収「日本人超」"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "介護漂流:「助かったが…」　介護現場で広がるスポットワークの光と影"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "介護漂流:介護職不足の切り札？　スポットワークが正社員採用の手段にも"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Amazon Nuclear Deal to Help Expand Constellation's Maryland Site"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Biggest US Grid Suspends Plan for Data Center Power Auction"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Paramount Cleared to Close Warner Bros. Megamerger"
+      },
+      {
+        "source": "Variety",
+        "title": "David Ellison Taps Mattel's Ynon Kreiz to Be Co-CEO of Merged Paramount-Warner Bros."
+      },
+      {
+        "source": "ナタリー",
+        "title": "帰ってきたぶぁい！「おぼっちゃまくん」新作アニメが2027年放送、茶魔役は神代知衣"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "「おぼっちゃまくん」35年ぶり新作アニメ放送決定　誕生のきっかけはインドでのヒット"
+      }
+    ],
+    "audioFile": "20261001_daily.mp3",
+    "scriptFile": "20261001_daily.md",
+    "publishedAt": "2026-09-30T20:54:38.392Z"
+  },
+  {
     "id": "20260930_daily",
     "title": "スタラジ 2026年9月30日 配信分",
     "date": "2026-09-30",
