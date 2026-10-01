@@ -1,5 +1,97 @@
 [
   {
+    "id": "20261002_daily",
+    "title": "スタラジ 2026年10月2日 配信分",
+    "date": "2026-10-02",
+    "broadcastMode": "daily",
+    "durationSec": 788.9520000000006,
+    "durationFormatted": "13:08",
+    "cast": [
+      "ヨースケ",
+      "りっくん",
+      "みのりん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AIエージェントが\"暴走\"したとき、責任は誰が負うのか",
+        "startSec": 61.32000000000001
+      },
+      {
+        "name": "日本企業のAI人材戦略と、安全性を\"企業任せ\"にしない議論",
+        "startSec": 215.928
+      },
+      {
+        "name": "「副首都」要件案が判明、全国で4市が条件を満たす",
+        "startSec": 344.7120000000001
+      },
+      {
+        "name": "佐川急便に不正アクセス、物流インフラの情報漏洩リスク",
+        "startSec": 446.2320000000002
+      },
+      {
+        "name": "Google広告テック独占めぐり、32億ドルの損害賠償請求",
+        "startSec": 543.8640000000003
+      },
+      {
+        "name": "エンタメ：倉本聰追悼と、トーキングヘッズ名盤リイシュー",
+        "startSec": 644.3040000000003
+      },
+      {
+        "name": "クロージング",
+        "startSec": 748.6800000000006
+      }
+    ],
+    "sources": [
+      {
+        "source": "The New York Times",
+        "title": "Who’s to Blame When A.I. Goes Rogue?"
+      },
+      {
+        "source": "The Guardian",
+        "title": "California issues investigative subpoena to OpenAI over rogue agents’ hacking"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI Parts Ways With 3 Workers Over Mishandling Information"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "SOMPOとミスミGはFDE人材を自前育成、プロジェクト成功に「3つのリアル」"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "AI安全性対策は「企業任せ」、トランプ政権とベンダーの協定でどうする日本"
+      },
+      {
+        "source": "NHK",
+        "title": "「副首都」要件案判明 人口全国の1.2％以上など 4市満たす"
+      },
+      {
+        "source": "NHK",
+        "title": "佐川急便に不正アクセス 住所など個人情報が漏えいか"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Google Faces $3.2 Billion Damage Claims on Ad-Tech Monopoly"
+      },
+      {
+        "source": "ナタリー",
+        "title": "倉本聰を追悼して「北の国から '83冬」テレビ放送、連続ドラマ開始から45年の節目に"
+      },
+      {
+        "source": "Rolling Stone",
+        "title": "Talking Heads Detail Massive ‘Fear of Music’ Reissue"
+      }
+    ],
+    "audioFile": "20261002_daily.mp3",
+    "scriptFile": "20261002_daily.md",
+    "publishedAt": "2026-10-01T20:50:19.131Z"
+  },
+  {
     "id": "20261001_daily",
     "title": "スタラジ 2026年10月1日 配信分",
     "date": "2026-10-01",
@@ -5213,101 +5305,5 @@
     "audioFile": "20260704_weekly.mp3",
     "scriptFile": "20260704_weekly.md",
     "publishedAt": "2026-07-03T20:54:25.707Z"
-  },
-  {
-    "id": "20260703_daily",
-    "title": "スタラジ 2026年7月3日 配信分",
-    "date": "2026-07-03",
-    "broadcastMode": "daily",
-    "durationSec": 775.5360000000004,
-    "durationFormatted": "12:55",
-    "cast": [
-      "ヨースケ",
-      "そらちゃん",
-      "まほ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI評価額の狂騒曲",
-        "startSec": 51.24
-      },
-      {
-        "name": "Anthropic × Micron：AIがメモリを設計する",
-        "startSec": 170.37600000000003
-      },
-      {
-        "name": "熱波とデータセンター、電力網の悲鳴",
-        "startSec": 298.104
-      },
-      {
-        "name": "Spotify vs 予測市場、チャート操作事件",
-        "startSec": 414.40800000000024
-      },
-      {
-        "name": "映画スタジオとAI、Midjourneyの反攻",
-        "startSec": 537.7440000000004
-      },
-      {
-        "name": "週末に効く音楽ニュース2本",
-        "startSec": 660.5760000000002
-      },
-      {
-        "name": "クロージング",
-        "startSec": 741.1920000000003
-      }
-    ],
-    "sources": [
-      {
-        "source": "Bloomberg L.P.",
-        "title": "ElevenLabs in Talks for Tender Offer at $22 Billion Valuation"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Jersey Mike's IPO illustrates how bad the AI hype has become"
-      },
-      {
-        "source": "Financial Times",
-        "title": "The chip rally is tightening tech's grip on Wall Street"
-      },
-      {
-        "source": "TechRadar",
-        "title": "Anthropic's Claude to help Micron design better HBM, DRAM, and SSD for AI even as both companies refuse to address computational storage directly"
-      },
-      {
-        "source": "The New York Times",
-        "title": "To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Spotify deletes streams of chart-topping song after suspicious Kalshi bets"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Spotify Challenges Prediction Markets After Song Chart Rigging"
-      },
-      {
-        "source": "Variety",
-        "title": "Midjourney Seeks to Reveal Studios' Use of AI in High-Stakes Copyright Battle"
-      },
-      {
-        "source": "Variety",
-        "title": "'Young Washington' Director Jon Erwin Breaks Down Film's Use of AI: Tech Made Production 'Safer and More Affordable' (EXCLUSIVE)"
-      },
-      {
-        "source": "SPICE",
-        "title": "PUFFY×奥田民生による最新シングル「モヤーズ」の配信リリースが決定【コメントあり】"
-      },
-      {
-        "source": "ナタリー",
-        "title": "timeleszが横アリで届けた「一瞬も見逃せない」全力パフォーマンス、MCではメンバー間のおごりおごられエピソード告白"
-      }
-    ],
-    "audioFile": "20260703_daily.mp3",
-    "scriptFile": "20260703_daily.md",
-    "publishedAt": "2026-07-02T22:02:49.757Z"
   }
 ]
