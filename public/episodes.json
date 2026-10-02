@@ -1,5 +1,192 @@
 [
   {
+    "id": "20261003_weekly",
+    "title": "スタラジ 土曜増刊号 2026年10月3日",
+    "date": "2026-10-03",
+    "broadcastMode": "weekly",
+    "durationSec": 1069.8240000000008,
+    "durationFormatted": "17:49",
+    "cast": [
+      "ヨースケ",
+      "ホリケイ"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト",
+        "startSec": 185.16
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
+        "startSec": 341.85600000000005
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
+        "startSec": 889.3680000000007
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 1024.7520000000009
+      }
+    ],
+    "sources": [
+      {
+        "source": "NHK",
+        "title": "G7首脳会議 軽油など石油備蓄1億バレル 4か月間で放出へ"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "G7が石油備蓄協調放出で合意　選挙控えるトランプ氏の要請受け"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Apple says it's tightening macOS 'Full Disk Access' controls due to new risks from AI agents"
+      },
+      {
+        "source": "TechRadar",
+        "title": "OpenAI, Blackstone, Softbank form US data center lobbying group"
+      },
+      {
+        "source": "TechRadar",
+        "title": "Meta told the IRS its AI data centers are experimental to shave $6 billion off its tax bill"
+      },
+      {
+        "source": "The Guardian",
+        "title": "US arrests California man for allegedly smuggling $300m worth of computer servers to China"
+      },
+      {
+        "source": "NHK",
+        "title": "台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "AMD to Buy Fei-Fei Li's World Labs AI Startup for $8.2 Billion"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Starship Reaches Orbit in Major SpaceX Milestone"
+      },
+      {
+        "source": "The New York Times",
+        "title": "OpenAI Ignored Employees' Warnings About Safely Testing A.I. Models"
+      },
+      {
+        "source": "BBC",
+        "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model"
+      },
+      {
+        "source": "The Verge",
+        "title": "OpenAI's Dot agent is enterprise software that can also order your dinner"
+      },
+      {
+        "source": "The New York Times",
+        "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms"
+      },
+      {
+        "source": "Google DeepMind Blog",
+        "title": "Gemini 4 Argon: our next era of frontier intelligence"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Google releases most advanced Gemini AI model"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Google Grapples With Employee Skepticism About New Gemini Model"
+      },
+      {
+        "source": "The Guardian",
+        "title": "California issues investigative subpoena to OpenAI over rogue agents' hacking"
+      },
+      {
+        "source": "The Register",
+        "title": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Amazon Nuclear Deal to Help Expand Constellation's Maryland Site"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Biggest US Grid Suspends Plan for Data Center Power Auction"
+      },
+      {
+        "source": "The Register",
+        "title": "Shut up and take our money: Amazon plows $1B into quashing datacenter dissent"
+      },
+      {
+        "source": "NHK",
+        "title": "消費税減税と所得に応じた給付の法案 概要判明"
+      },
+      {
+        "source": "NHK",
+        "title": "政府・与党 臨時国会で消費税法案成立を 野党は論戦の構え"
+      },
+      {
+        "source": "時事通信社",
+        "title": "永住許可、きょう要件厳格化　平均年収「日本人超」"
+      },
+      {
+        "source": "NHK",
+        "title": "「副首都」要件案判明 人口全国の1.2％以上など 4市満たす"
+      },
+      {
+        "source": "NHK",
+        "title": "佐川急便に不正アクセス 住所など個人情報が漏えいか"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "さくらインターネットに不正アクセス、136万超の会員情報に影響"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "AI安全性対策は「企業任せ」、トランプ政権とベンダーの協定でどうする日本"
+      },
+      {
+        "source": "Ars Technica",
+        "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3"
+      },
+      {
+        "source": "The New York Times",
+        "title": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Nscale Hires Meta's Justin Osofsky to Be COO Ahead of IPO"
+      },
+      {
+        "source": "Qiita",
+        "title": "4万行のVBA要塞を作って気づいたこと ── 話題の「AI残業主義」に学びつつ、これからは引き算をしようという話"
+      },
+      {
+        "source": "ナタリー",
+        "title": "かまいたち山内＆長嶋一茂が共同出資したラーメン屋オープン、濱家は知らされず"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Paramount Cleared to Close Warner Bros. Megamerger"
+      },
+      {
+        "source": "Variety",
+        "title": "David Ellison Taps Mattel's Ynon Kreiz to Be Co-CEO of Merged Paramount-Warner Bros."
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "「おぼっちゃまくん」35年ぶり新作アニメ放送決定　誕生のきっかけはインドでのヒット"
+      }
+    ],
+    "audioFile": "20261003_weekly.mp3",
+    "scriptFile": "20261003_weekly.md",
+    "publishedAt": "2026-10-02T20:54:00.003Z"
+  },
+  {
     "id": "20261002_daily",
     "title": "スタラジ 2026年10月2日 配信分",
     "date": "2026-10-02",
@@ -5242,68 +5429,5 @@
     "audioFile": "20260706_daily.mp3",
     "scriptFile": "20260706_daily.md",
     "publishedAt": "2026-07-05T20:57:02.197Z"
-  },
-  {
-    "id": "20260704_weekly",
-    "title": "スタラジ 土曜増刊号 — 2026年7月4日（土）",
-    "date": "2026-07-04",
-    "broadcastMode": "weekly",
-    "durationSec": 830.1120000000011,
-    "durationFormatted": "13:50",
-    "cast": [
-      "もえちゃん",
-      "ヨースケ"
-    ],
-    "segments": [
-      {
-        "name": "Part 1: オープニング — 週末の挨拶、そして正直な話",
-        "startSec": 0
-      },
-      {
-        "name": "Part 2: 探偵劇 第一幕 — ハードウェアが勝手に再起動していた",
-        "startSec": 105.14400000000002
-      },
-      {
-        "name": "Part 3: 探偵劇 第二幕 — 「推測」から「計測」への転換",
-        "startSec": 225.38399999999996
-      },
-      {
-        "name": "Part 4: 探偵劇 第三幕 — コントロールできない層を、受け入れて包む",
-        "startSec": 393.28800000000024
-      },
-      {
-        "name": "Part 5: 探偵劇 第四幕 — 安全網そのものにバグがあった",
-        "startSec": 463.41600000000034
-      },
-      {
-        "name": "Part 6: 今週の締めと、直近ニュースへ",
-        "startSec": 579.2400000000007
-      },
-      {
-        "name": "Part 7: 展望とクロージング",
-        "startSec": 751.4400000000009
-      }
-    ],
-    "sources": [
-      {
-        "source": "Qiita",
-        "title": "Claude Codeが確認の返事を60秒待って勝手に進む——消したファイルが復元されコードが書き換わる事故と、その防ぎ方"
-      },
-      {
-        "source": "TechRadar",
-        "title": "Rocket Lab buys Iridium in an $8 billion deal to build the most formidable rival to Musk's SpaceX — will it change the Ukraine war?"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari"
-      },
-      {
-        "source": "The Register",
-        "title": "Amazon Leo constellation nears 400 satellites as broadband launch looms"
-      }
-    ],
-    "audioFile": "20260704_weekly.mp3",
-    "scriptFile": "20260704_weekly.md",
-    "publishedAt": "2026-07-03T20:54:25.707Z"
   }
 ]
