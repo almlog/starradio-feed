@@ -1,5 +1,93 @@
 [
   {
+    "id": "20261005_daily",
+    "title": "スタラジ 2026年10月5日 配信分",
+    "date": "2026-10-05",
+    "broadcastMode": "daily",
+    "durationSec": 787.3200000000012,
+    "durationFormatted": "13:07",
+    "cast": [
+      "みのりん",
+      "そらちゃん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "日本の金融・自治体でAIエージェント実戦投入",
+        "startSec": 42.480000000000004
+      },
+      {
+        "name": "日経新聞も被害、国内サイバー攻撃の連鎖",
+        "startSec": 225.264
+      },
+      {
+        "name": "臨時国会召集、消費税減税法案の論戦スタート",
+        "startSec": 342.0000000000002
+      },
+      {
+        "name": "柔道世界選手権 古賀若菜が48キロ級初の金",
+        "startSec": 452.1360000000005
+      },
+      {
+        "name": "日本映画「90メートル」がハリウッドへ",
+        "startSec": 542.2800000000005
+      },
+      {
+        "name": "トム・クルーズ新作「Digger」が興行急落",
+        "startSec": 638.0400000000008
+      },
+      {
+        "name": "クロージング",
+        "startSec": 745.0320000000011
+      }
+    ],
+    "sources": [
+      {
+        "source": "日経xTECH",
+        "title": "みずほ、AIエージェント「Cowork」3万人に導入へ　非定型タスクも自律処理"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "財務・経理の知識をAIに移植、SMBCグループが目指すビジネスモデル変革"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "AIで差し押さえ調査選定の時間を9割削減、練馬区が進める税務変革"
+      },
+      {
+        "source": "日経xTECH",
+        "title": "AI時代こそ在宅勤務からオフィス出社回帰、GMO熊谷正寿会長が対面重視"
+      },
+      {
+        "source": "Yahoo!ニュース",
+        "title": "日経新聞がサイバー攻撃被害 発表"
+      },
+      {
+        "source": "NHK",
+        "title": "臨時国会きょう召集 消費税減税法案などで論戦へ"
+      },
+      {
+        "source": "NHK",
+        "title": "柔道世界選手権 女子48キロ 古賀若菜が初の金メダル"
+      },
+      {
+        "source": "ナタリー",
+        "title": "菅野美穂＆西野七瀬がハリウッドへ、「90メートル」上映「親が子を思う気持ちは世界共通」"
+      },
+      {
+        "source": "IGN",
+        "title": "Tom Cruise's Digger Bombs Hard With $20 Million Global Opening in Theaters"
+      }
+    ],
+    "audioFile": "20261005_daily.mp3",
+    "scriptFile": "20261005_daily.md",
+    "publishedAt": "2026-10-04T20:47:22.208Z"
+  },
+  {
     "id": "20261003_weekly",
     "title": "スタラジ 土曜増刊号 2026年10月3日",
     "date": "2026-10-03",
@@ -5337,97 +5425,5 @@
     "audioFile": "20260707_daily.mp3",
     "scriptFile": "20260707_daily.md",
     "publishedAt": "2026-07-06T21:16:11.472Z"
-  },
-  {
-    "id": "20260706_daily",
-    "title": "スタラジ 2026年7月6日 配信分",
-    "date": "2026-07-06",
-    "broadcastMode": "daily",
-    "durationSec": 731.4240000000012,
-    "durationFormatted": "12:11",
-    "cast": [
-      "みのりん",
-      "りっくん",
-      "もえちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AIエージェント評価の新潮流",
-        "startSec": 37.92
-      },
-      {
-        "name": "Trumpミームコインで消えた38億ドル",
-        "startSec": 178.752
-      },
-      {
-        "name": "日本のロボット1000万台計画とAI規制論",
-        "startSec": 289.9440000000001
-      },
-      {
-        "name": "OPEC増産とデータセンターの電力争奪",
-        "startSec": 399.60000000000036
-      },
-      {
-        "name": "大坂なおみ ウィンブルドン準々決勝進出",
-        "startSec": 499.8720000000006
-      },
-      {
-        "name": "市川團十郎襲名とハリウッド新作",
-        "startSec": 588.7680000000008
-      },
-      {
-        "name": "クロージング",
-        "startSec": 704.1360000000012
-      }
-    ],
-    "sources": [
-      {
-        "source": "Qiita",
-        "title": "SWE-benchだけではAIエージェントを測れない時代へ"
-      },
-      {
-        "source": "Hacker News",
-        "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Trump memecoin investors lost $3.8 billion, analysis finds"
-      },
-      {
-        "source": "TechRadar",
-        "title": "Japan reveals new Noetra plan to flood the country with 10 million robots by 2040 — including work in the nursing, food and drink sectors"
-      },
-      {
-        "source": "The Guardian",
-        "title": "AI poses 'Hiroshima'-style threat to humanity without global rules, says Cooper"
-      },
-      {
-        "source": "NHK",
-        "title": "OPECプラスの7か国 8月に日量18万バレル余の増産発表"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Data centres are a crucial test of US industrial resolve"
-      },
-      {
-        "source": "NHK",
-        "title": "ウィンブルドン 大坂なおみが世界1位破り初の準々決勝進出"
-      },
-      {
-        "source": "ナタリー",
-        "title": "市川團十郎が親子同時襲名に挑む舞台裏、三池崇史の監督作「襲名」予告解禁"
-      },
-      {
-        "source": "Variety",
-        "title": "Tom Holland Thought Christopher Nolan Hated His 'Odyssey' Performance on His First Day Filming: 'I Thought I Was Totally S—-ing the Bed'"
-      }
-    ],
-    "audioFile": "20260706_daily.mp3",
-    "scriptFile": "20260706_daily.md",
-    "publishedAt": "2026-07-05T20:57:02.197Z"
   }
 ]
