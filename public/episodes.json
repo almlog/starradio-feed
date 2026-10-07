@@ -1,5 +1,101 @@
 [
   {
+    "id": "20261008_daily",
+    "title": "スタラジ 2026年10月8日 配信分",
+    "date": "2026-10-08",
+    "broadcastMode": "daily",
+    "durationSec": 747.072000000001,
+    "durationFormatted": "12:27",
+    "cast": [
+      "ホリケイ",
+      "そらちゃん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "ノーベル化学賞2026",
+        "startSec": 62.376
+      },
+      {
+        "name": "大手ビール4社「裏会」疑惑",
+        "startSec": 164.18400000000003
+      },
+      {
+        "name": "FOMCと原油、朝の相場",
+        "startSec": 276.288
+      },
+      {
+        "name": "Microsoft×NVIDIAの新AI PC",
+        "startSec": 387.3360000000002
+      },
+      {
+        "name": "著作権とAI時代の権利",
+        "startSec": 489.2640000000004
+      },
+      {
+        "name": "エンタメ：共犯ダンスとグラミー予想",
+        "startSec": 607.5600000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 702.4080000000008
+      }
+    ],
+    "sources": [
+      {
+        "source": "NHK",
+        "title": "ノーベル化学賞に東京理科大学名誉教授 会見で喜びの声"
+      },
+      {
+        "source": "heise online",
+        "title": "Chemie-Nobelpreis 2026: Wie aus einem Hauch Asymmetrie Homochiralität entsteht"
+      },
+      {
+        "source": "NHK",
+        "title": "大手ビールメーカー4社 出荷価格の一覧表“裏会”で示し協議か"
+      },
+      {
+        "source": "時事通信社",
+        "title": "年末までの追加利上げ適切　インフレ上振れ警戒―米ＦＯＭＣ議事要旨"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Rising Oil Puts Wall Street on Edge"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Microsoft Says New Laptop With Nvidia Chip Outperforms MacBooks"
+      },
+      {
+        "source": "朝日新聞社",
+        "title": "「バンドスコア」を模倣し無断公開、賠償責任は？　最高裁で9日判決"
+      },
+      {
+        "source": "The New York Times",
+        "title": "A.I. Music Fraudster Who Drew Millions in Royalties Is Sentenced to 18 Months"
+      },
+      {
+        "source": "ナタリー",
+        "title": "Mrs. GREEN APPLE、“共犯ダンス”をTikTokで公開"
+      },
+      {
+        "source": "Variety",
+        "title": "Olivia vs. Olivia: Predicting the Grammys' Album of the Year Contenders… and Why Rodrigo and Dean Are at the Front of the Race"
+      }
+    ],
+    "audioFile": "20261008_daily.mp3",
+    "scriptFile": "20261008_daily.md",
+    "publishedAt": "2026-10-07T20:56:52.693Z"
+  },
+  {
     "id": "20261006_daily",
     "title": "スタラジ 2026年10月6日 配信分",
     "date": "2026-10-06",
@@ -5225,205 +5321,5 @@
     "audioFile": "20260710_daily.mp3",
     "scriptFile": "20260710_daily.md",
     "publishedAt": "2026-07-09T21:18:58.218Z"
-  },
-  {
-    "id": "20260709_daily",
-    "title": "スタラジ 2026年7月9日 配信分",
-    "date": "2026-07-09",
-    "broadcastMode": "daily",
-    "durationSec": 736.4880000000009,
-    "durationFormatted": "12:16",
-    "cast": [
-      "ホリケイ",
-      "りっくん",
-      "ホムラ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "OpenAIマネーが不動産まで動かす",
-        "startSec": 48.720000000000006
-      },
-      {
-        "name": "AIチップ第2世代の地殻変動",
-        "startSec": 194.92799999999997
-      },
-      {
-        "name": "ホルムズ海峡と原油相場の綱引き",
-        "startSec": 307.29600000000005
-      },
-      {
-        "name": "「スマホがないと生きられない社会」への疑問",
-        "startSec": 420.2160000000003
-      },
-      {
-        "name": "なにわ男子、映画主題歌で王道ラブソング",
-        "startSec": 526.9200000000005
-      },
-      {
-        "name": "ディズニー「Cheetah Girls」次世代版で復活",
-        "startSec": 614.0880000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 694.2000000000007
-      }
-    ],
-    "sources": [
-      {
-        "source": "{Bloomberg L.P.|ブルームバーグ}",
-        "title": "BofA Makes U-Turn on OpenAI, Provides $520M Credit Line"
-      },
-      {
-        "source": "The New York Times",
-        "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock"
-      },
-      {
-        "source": "The Register",
-        "title": "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks"
-      },
-      {
-        "source": "{Bloomberg L.P.|ブルームバーグ}",
-        "title": "Incredible Demand for Inferencing at High Speeds: SambaNova CEO"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "NVIDIAも一押し、小規模言語モデルに脚光再び　特有の課題を踏まえた議論を"
-      },
-      {
-        "source": "Axios",
-        "title": "U.S. strikes Iranian targets in Strait of Hormuz for 2nd straight day"
-      },
-      {
-        "source": "時事通信社",
-        "title": "イランとの衝突、「ごく短期間」　トランプ氏"
-      },
-      {
-        "source": "時事通信社",
-        "title": "〔ＮＹ金〕続落、４０８２．４０ドル（８日）"
-      },
-      {
-        "source": "時事通信社",
-        "title": "トランプ氏、ＮＡＴＯ会議で同盟国非難　対イラン作戦巡り不満"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "経済プラス:スマホがないと生きられない?　デジタル強制に疑問、必要な視点"
-      },
-      {
-        "source": "ナタリー",
-        "title": "道枝駿佑の主演映画「うるわしの宵の月」主題歌決定、なにわ男子が歌う王道ラブソング"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "なにわ男子、道枝駿佑の主演映画で初主題歌『うるわしの宵の月』新曲「Moonlit」入り予告も公開"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "'The Cheetah Girls: Next Gen' Movie Greenlit at Disney; Raven-Symoné, Adrienne Bailon Return Alongside New Cast"
-      }
-    ],
-    "audioFile": "20260709_daily.mp3",
-    "scriptFile": "20260709_daily.md",
-    "publishedAt": "2026-07-08T21:06:45.436Z"
-  },
-  {
-    "id": "20260708_daily",
-    "title": "スタラジ 2026年7月8日 配信分",
-    "date": "2026-07-08",
-    "broadcastMode": "daily",
-    "durationSec": 902.184000000001,
-    "durationFormatted": "15:02",
-    "cast": [
-      "レイナ姐さん",
-      "りっくん",
-      "ひなちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "企業AIエージェントの「本当のコスト」",
-        "startSec": 54.6
-      },
-      {
-        "name": "Metaの新画像生成AI「Muse」",
-        "startSec": 244.67999999999998
-      },
-      {
-        "name": "AIサイバー攻撃の「完全自動化」",
-        "startSec": 390.7200000000003
-      },
-      {
-        "name": "W杯とウインブルドン、スポーツの週末",
-        "startSec": 543.2400000000005
-      },
-      {
-        "name": "エンタメ二連発：エルトン・ジョン復活公演と内田有紀",
-        "startSec": 691.4400000000007
-      },
-      {
-        "name": "クロージング",
-        "startSec": 840.3600000000009
-      }
-    ],
-    "sources": [
-      {
-        "source": "{VentureBeat|ベンチャービート}",
-        "title": "The real cost, security, and culture problems behind enterprise AI agents"
-      },
-      {
-        "source": "アイティメディア",
-        "title": "ソフトバンクの「1人100エージェント」を支える独自AIゲートウェイ「Cloud Proxy」の正体"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Microsoft joins AI cost-cutting trend by relying more on its own models"
-      },
-      {
-        "source": "{The New York Times|ニューヨーク・タイムズ}",
-        "title": "Meta Unveils an A.I. Image Generator"
-      },
-      {
-        "source": "{Financial Times|フィナンシャル・タイムズ}",
-        "title": "Meta releases first image model since Zuckerberg's AI overhaul"
-      },
-      {
-        "source": "Qiita",
-        "title": "JADEPUFFER"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "「AI駆動型ワーム」の脅威　自律的に脆弱性を見つけて感染、特定率は8割超"
-      },
-      {
-        "source": "時事通信社",
-        "title": "アルゼンチン、逆転勝ちで８強　メッシが９試合連続ゴール"
-      },
-      {
-        "source": "NHK",
-        "title": "テニス ウインブルドン選手権 大坂なおみ敗れ準決勝進出ならず"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "World Cup Sets Another Ratings Record in U.S. Loss to Belgium"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Elton John to Conclude Farewell Tour — Three Years After It Ended — in Mexico City"
-      },
-      {
-        "source": "ナタリー",
-        "title": "内田有紀とtimelesz寺西拓人「ラストノート」オファー時の反応は対照的「やったー」「申し訳ない」"
-      }
-    ],
-    "audioFile": "20260708_daily.mp3",
-    "scriptFile": "20260708_daily.md",
-    "publishedAt": "2026-07-07T21:02:46.137Z"
   }
 ]
