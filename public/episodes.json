@@ -1,5 +1,105 @@
 [
   {
+    "id": "20261009_daily",
+    "title": "スタラジ 2026年10月9日 配信分",
+    "date": "2026-10-09",
+    "broadcastMode": "daily",
+    "durationSec": 663.1920000000011,
+    "durationFormatted": "11:03",
+    "cast": [
+      "ヨースケ",
+      "そらちゃん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "OpenAIの収益実態とガバナンス",
+        "startSec": 34.464
+      },
+      {
+        "name": "声優団体の生成AIガイドライン",
+        "startSec": 145.776
+      },
+      {
+        "name": "消費税法案と農家給付金",
+        "startSec": 238.03199999999998
+      },
+      {
+        "name": "阪神・佐藤輝明が三冠王",
+        "startSec": 339.6960000000002
+      },
+      {
+        "name": "ガンダム新作劇場版とMステ新サブMC",
+        "startSec": 433.5840000000005
+      },
+      {
+        "name": "カリフォルニア州・人vsロボット格闘を規制へ",
+        "startSec": 527.3280000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 629.808000000001
+      }
+    ],
+    "sources": [
+      {
+        "source": "Bloomberg L.P.",
+        "title": "OpenAI's Revenue Run Rate Nears $50 Billion, Less Than Reported"
+      },
+      {
+        "source": "Financial Times",
+        "title": "OpenAI annualised revenues $20bn less than previously signalled"
+      },
+      {
+        "source": "TechCrunch",
+        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect"
+      },
+      {
+        "source": "NHK",
+        "title": "声優などの団体 声の生成AIガイドライン初作成\"事前許諾を\""
+      },
+      {
+        "source": "NHK",
+        "title": "消費税法案提出へ 与党\"早期審議入り\"野党\"財源追及\""
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "消費減税で収入減の農家に給付金検討　政府、売上高の5％程度"
+      },
+      {
+        "source": "NHK",
+        "title": "阪神 佐藤輝明が三冠王 4年ぶり史上9人目 村上宗隆以来"
+      },
+      {
+        "source": "時事通信社",
+        "title": "阪神の佐藤が打撃４部門トップ　投手は阪神・高橋が２冠―プロ野球セ・リーグ"
+      },
+      {
+        "source": "毎日新聞社",
+        "title": "「バースの再来」は西宮出身だった　阪神・佐藤輝明が3冠王"
+      },
+      {
+        "source": "シネマトゥデイ",
+        "title": "『ガンダムSEED FREEDOM ZERO』2027年1月15日公開決定！シン・アスカ主人公で「フリーダム強奪事件」描く"
+      },
+      {
+        "source": "ナタリー",
+        "title": "「ミュージックステーション」8代目サブMCに入社1年目の谷胡桃アナウンサー就任"
+      },
+      {
+        "source": "The Verge",
+        "title": "California is trying to shut down robot vs. human cage matches"
+      }
+    ],
+    "audioFile": "20261009_daily.mp3",
+    "scriptFile": "20261009_daily.md",
+    "publishedAt": "2026-10-08T20:49:18.324Z"
+  },
+  {
     "id": "20261008_daily",
     "title": "スタラジ 2026年10月8日 配信分",
     "date": "2026-10-08",
@@ -5221,105 +5321,5 @@
     "audioFile": "20260711_weekly.mp3",
     "scriptFile": "20260711_weekly.md",
     "publishedAt": "2026-07-10T21:17:56.427Z"
-  },
-  {
-    "id": "20260710_daily",
-    "title": "スタラジ 2026年7月10日 配信分",
-    "date": "2026-07-10",
-    "broadcastMode": "daily",
-    "durationSec": 715.8720000000011,
-    "durationFormatted": "11:55",
-    "cast": [
-      "ヨースケ",
-      "りっくん",
-      "まほ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "OpenAI GPT-5.6 と ChatGPT Work",
-        "startSec": 40.056
-      },
-      {
-        "name": "AI業界に吹く逆風：訴訟とホワイトハウス",
-        "startSec": 193.12799999999996
-      },
-      {
-        "name": "メモリー戦争とSK Hynixの2.65兆円上場",
-        "startSec": 325.3920000000001
-      },
-      {
-        "name": "西ヨーロッパ「史上最も暑い6月」と現場の備え",
-        "startSec": 459.19200000000046
-      },
-      {
-        "name": "エンタメ枠：ハンガー・ゲームズ復活、原菜乃華主演、亀梨和也の野球取材",
-        "startSec": 568.5840000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 682.104000000001
-      }
-    ],
-    "sources": [
-      {
-        "source": "ZDNet",
-        "title": "OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity"
-      },
-      {
-        "source": "アイティメディア",
-        "title": "デスクトップ版ChatGPT大幅刷新　AIエージェント「Codex」統合、「ChatGPT Work」に"
-      },
-      {
-        "source": "Qiita",
-        "title": "GPT-5.6 は何が変わった？ Luna / Terra / Sol の違いと実務での選び方"
-      },
-      {
-        "source": "The New York Times",
-        "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "OpenAI, Anthropic Hit New Speed Bump With US Government"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Former Fed Chairman Bernanke Joins Anthropic Oversight Trust"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "SK Hynix's $26.5 Billion Listing Reopens Asia Route to US Market"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Lutnick Presses SK Hynix, Samsung to Boost Memory Output in US"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "メモリー高騰に苦慮するFCNT、「arrows We3」など新機種で何を強化したのか"
-      },
-      {
-        "source": "NHK",
-        "title": "「西ヨーロッパ、史上最も暑い6月」EU気象情報機関"
-      },
-      {
-        "source": "Variety",
-        "title": "All 5 'Hunger Games' Movies Return to Theaters With 'Sunrise on the Reaping' Sneak Peek"
-      },
-      {
-        "source": "ナタリー",
-        "title": "原菜乃華が連続ドラマ「もうパパ！」で主演、「虎に翼」吉田恵里香によるオリジナル脚本"
-      },
-      {
-        "source": "ナタリー",
-        "title": "亀梨和也が巨人選手の食事や\"名ショート\"を取材、日テレプロ野球中継「DRAMATIC BASEBALL」"
-      }
-    ],
-    "audioFile": "20260710_daily.mp3",
-    "scriptFile": "20260710_daily.md",
-    "publishedAt": "2026-07-09T21:18:58.218Z"
   }
 ]
