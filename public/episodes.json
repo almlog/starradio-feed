@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261014_daily",
+    "title": "スタラジ 2026年10月14日 配信分",
+    "date": "2026-10-14",
+    "broadcastMode": "daily",
+    "durationSec": 752.6400000000012,
+    "durationFormatted": "12:32",
+    "cast": [
+      "レイナ姐さん",
+      "ヨースケ",
+      "りっくん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "ロシア、北海道新聞記者をスパイ容疑で拘束",
+        "startSec": 45.792
+      },
+      {
+        "name": "NVIDIAが欧州で20億ドル投資、Armもフィジカルに踏み込む",
+        "startSec": 151.07999999999998
+      },
+      {
+        "name": "AppleがAI強化スマートホームデバイスを発表",
+        "startSec": 271.68
+      },
+      {
+        "name": "グリコ看板、11月末で6代目が見納め",
+        "startSec": 375.0960000000002
+      },
+      {
+        "name": "「相棒」号外配布＆桑田佳祐×吉井和哉コラボ",
+        "startSec": 474.8160000000004
+      },
+      {
+        "name": "Raye、AIボットがコンサートを席巻 ＆ 「Girls」リブート",
+        "startSec": 588.7920000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 718.0800000000011
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261014_daily.mp3",
+    "scriptFile": "20261014_daily.md",
+    "publishedAt": "2026-10-13T21:34:41.830Z"
+  },
+  {
     "id": "20261013_weekly",
     "title": "スタラジ 特別回 2026年10月13日（火曜日）配信7ヶ月のトレンド総括",
     "date": "2026-10-13",
@@ -4962,113 +5013,5 @@
     "audioFile": "20260716_daily.mp3",
     "scriptFile": "20260716_daily.md",
     "publishedAt": "2026-07-15T22:02:58.545Z"
-  },
-  {
-    "id": "20260715_daily",
-    "title": "スタラジ 2026年7月15日 配信分",
-    "date": "2026-07-15",
-    "broadcastMode": "daily",
-    "durationSec": 800.0880000000012,
-    "durationFormatted": "13:20",
-    "cast": [
-      "レイナ",
-      "そらちゃん",
-      "セト"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "IBM株25%急落とAIシフトの現場",
-        "startSec": 57.36000000000001
-      },
-      {
-        "name": "ニューヨーク州、AIデータセンター新設を1年凍結",
-        "startSec": 185.376
-      },
-      {
-        "name": "Apple、iOS 27パブリックベータで新Siriを一般開放",
-        "startSec": 310.1280000000001
-      },
-      {
-        "name": "Anthropicの「不気味CM」とClaude多言語バイアス問題",
-        "startSec": 424.2480000000004
-      },
-      {
-        "name": "中東情勢：トランプ「20％通航料」を撤回、湾岸投資へ舵",
-        "startSec": 530.7600000000007
-      },
-      {
-        "name": "エンタメ：パラマウント統合訴訟とダイアン津田のドラマ初主演",
-        "startSec": 641.4960000000008
-      },
-      {
-        "name": "クロージング",
-        "startSec": 758.0640000000011
-      }
-    ],
-    "sources": [
-      {
-        "source": "Financial Times",
-        "title": "IBM shares plunge 25% as customers shift spending to AI"
-      },
-      {
-        "source": "The Guardian",
-        "title": "IBM loses quarter of its value as tech giant's shares plunge and profits falter"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "富士通メインフレームは残り約500台、移行方針を決め切れぬ20数社が課題"
-      },
-      {
-        "source": "The Guardian",
-        "title": "New York becomes first state to impose one-year pause on new AI datacenters"
-      },
-      {
-        "source": "Financial Times",
-        "title": "New York becomes first US state to suspend data centre development"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta"
-      },
-      {
-        "source": "ZDNet",
-        "title": "I've used the iOS 27 beta for a month: 7 ways the new Siri is dramatically better"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Anthropic's newest ad is creeping people out"
-      },
-      {
-        "source": "The Register",
-        "title": "If you want Claude to speak nicely to you, try Hindi or Arabic"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "トランプ氏、通航料20％徴収見送り　湾岸諸国と投資で合意か"
-      },
-      {
-        "source": "時事通信社",
-        "title": "湾岸諸国との取引に置き換え　ホルムズ通過貨物２０％対価―米大統領"
-      },
-      {
-        "source": "Variety",
-        "title": "Not a Done Deal: How and Why 12 Blue States are Fighting the Paramount-Warner Bros. Merger"
-      },
-      {
-        "source": "Variety",
-        "title": "How Strong Is the Democratic State AGs' Lawsuit Aiming to Block Paramount's Warner Bros. Takeover?"
-      },
-      {
-        "source": "ナタリー",
-        "title": "ダイアン津田篤宏がドラマ初主演！上田誠が脚本担当する「タイムトラベルダディ」放送"
-      }
-    ],
-    "audioFile": "20260715_daily.mp3",
-    "scriptFile": "20260715_daily.md",
-    "publishedAt": "2026-07-14T21:24:22.988Z"
   }
 ]
