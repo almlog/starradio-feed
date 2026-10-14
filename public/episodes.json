@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261015_daily",
+    "title": "スタラジ 2026年10月15日 配信分",
+    "date": "2026-10-15",
+    "broadcastMode": "daily",
+    "durationSec": 777.2640000000007,
+    "durationFormatted": "12:57",
+    "cast": [
+      "ホリケイ",
+      "りっくん",
+      "レイジ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "OpenAI 連続スキャンダル",
+        "startSec": 44.352000000000004
+      },
+      {
+        "name": "AIインフラの亀裂：CoreWeave とチップ株安",
+        "startSec": 164.68800000000002
+      },
+      {
+        "name": "簗農相辞任と農業政策の空白",
+        "startSec": 291.384
+      },
+      {
+        "name": "Kairos 核エネルギースタートアップ 6.4億ドル調達",
+        "startSec": 417.3600000000002
+      },
+      {
+        "name": "スターリンク制限問題：インフラ依存の地政学",
+        "startSec": 533.6400000000004
+      },
+      {
+        "name": "エンタメ：千と千尋ワールドツアーと Sally Rooney の覚悟",
+        "startSec": 632.1600000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 737.2800000000007
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261015_daily.mp3",
+    "scriptFile": "20261015_daily.md",
+    "publishedAt": "2026-10-14T21:09:20.369Z"
+  },
+  {
     "id": "20261014_daily",
     "title": "スタラジ 2026年10月14日 配信分",
     "date": "2026-10-14",
@@ -4913,105 +4964,5 @@
     "audioFile": "20260717_daily.mp3",
     "scriptFile": "20260717_daily.md",
     "publishedAt": "2026-07-16T21:01:44.822Z"
-  },
-  {
-    "id": "20260716_daily",
-    "title": "スタラジ 2026年7月16日 配信分",
-    "date": "2026-07-16",
-    "broadcastMode": "daily",
-    "durationSec": 669.288000000001,
-    "durationFormatted": "11:09",
-    "cast": [
-      "ホリケイ",
-      "そらちゃん",
-      "あやちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI開発ツールの\"サイレント障害\"問題",
-        "startSec": 38.064
-      },
-      {
-        "name": "AI企業の巨額調達ラッシュ",
-        "startSec": 161.44800000000004
-      },
-      {
-        "name": "SpaceXから1兆ドルが吹き飛んだ",
-        "startSec": 286.728
-      },
-      {
-        "name": "中東続報 米軍イラン追加攻撃",
-        "startSec": 384.9840000000003
-      },
-      {
-        "name": "Post Malone、W杯閉会式に登場",
-        "startSec": 486.04800000000057
-      },
-      {
-        "name": "クイズ$ミリオネア日本復活",
-        "startSec": 558.6960000000007
-      },
-      {
-        "name": "クロージング",
-        "startSec": 634.8960000000009
-      }
-    ],
-    "sources": [
-      {
-        "source": "Qiita",
-        "title": "無人のClaude Codeが、誰も拒否していないのに黙って止まる（2.1.210）——怖くなって、自分のhookを58個ぜんぶ数えた"
-      },
-      {
-        "source": "TechRadar",
-        "title": "Top AI tools such as OpenClaw and Github Copilot can be hijacked to create new massive botnets"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "AIエージェントのID管理に4つの課題、過剰な権限を持たせず「小さく」設計"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Daniel Ek's body-scanning startup Neko Health raises another $700M"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Mira Murati's Thinking Machines draws from Chinese rivals in debut AI model"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Dan Ives and Trump family-linked securities group launch AI bank, because why not?"
-      },
-      {
-        "source": "Financial Times",
-        "title": "SpaceX sell-off wipes $1tn from Musk's rocket group"
-      },
-      {
-        "source": "BBC",
-        "title": "SpaceX share price drops below stock market debut"
-      },
-      {
-        "source": "NHK",
-        "title": "アメリカ軍 イランに追加攻撃を開始したと発表"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Post Malone to Perform at the World Cup Closing Ceremony"
-      },
-      {
-        "source": "NHK",
-        "title": "W杯 イングランド×アルゼンチン【速報中】イングランド先制"
-      },
-      {
-        "source": "ナタリー",
-        "title": "横山裕や王林が「クイズ$ミリオネア」出演、二宮和也が出題するクイズに挑む"
-      }
-    ],
-    "audioFile": "20260716_daily.mp3",
-    "scriptFile": "20260716_daily.md",
-    "publishedAt": "2026-07-15T22:02:58.545Z"
   }
 ]
