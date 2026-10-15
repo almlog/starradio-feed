@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261016_daily",
+    "title": "スタラジ 2026年10月16日 配信分",
+    "date": "2026-10-16",
+    "broadcastMode": "daily",
+    "durationSec": 754.4880000000007,
+    "durationFormatted": "12:34",
+    "cast": [
+      "ヨースケ",
+      "そらちゃん",
+      "りっくん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AnthropicのIPO独走",
+        "startSec": 47.304
+      },
+      {
+        "name": "楽天モバイルの正念場",
+        "startSec": 171.95999999999998
+      },
+      {
+        "name": "うるう秒が消える日",
+        "startSec": 293.52
+      },
+      {
+        "name": "コミックシーモア緊急停止",
+        "startSec": 410.4720000000002
+      },
+      {
+        "name": "GTA 6トレーラー公開",
+        "startSec": 518.1840000000003
+      },
+      {
+        "name": "ウォーターボーイズ復活",
+        "startSec": 618.0720000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 708.3840000000006
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261016_daily.mp3",
+    "scriptFile": "20261016_daily.md",
+    "publishedAt": "2026-10-15T21:50:31.789Z"
+  },
+  {
     "id": "20261015_daily",
     "title": "スタラジ 2026年10月15日 配信分",
     "date": "2026-10-15",
@@ -4848,121 +4899,5 @@
     "audioFile": "20260721_daily.mp3",
     "scriptFile": "20260721_daily.md",
     "publishedAt": "2026-07-20T21:13:46.582Z"
-  },
-  {
-    "id": "20260717_daily",
-    "title": "スタラジ 2026年7月17日 配信分",
-    "date": "2026-07-17",
-    "broadcastMode": "daily",
-    "durationSec": 864.9600000000013,
-    "durationFormatted": "14:24",
-    "cast": [
-      "ヨースケ",
-      "そらちゃん",
-      "まほ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Netflix Q2決算と生成AIの浸透",
-        "startSec": 51.672000000000004
-      },
-      {
-        "name": "中国発Kimi K3とGemini遅延、AI開発の明暗",
-        "startSec": 213.43199999999996
-      },
-      {
-        "name": "DeepMindのAI国際検証機関構想",
-        "startSec": 352.20000000000016
-      },
-      {
-        "name": "国内政治：皇室典範改正と消費税減税議論",
-        "startSec": 478.65600000000046
-      },
-      {
-        "name": "国際情勢：英労働党バーナム新党首と米ブラジル関税",
-        "startSec": 595.8720000000008
-      },
-      {
-        "name": "エンタメ枠：SNL退団と英語音楽シェアの低下",
-        "startSec": 706.4640000000009
-      },
-      {
-        "name": "クロージング",
-        "startSec": 827.1360000000012
-      }
-    ],
-    "sources": [
-      {
-        "source": "Variety",
-        "title": "Netflix Q2 Earnings Results In-Line With Expectations, Stock Drops"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Netflix Stock Hits 52-Week Low On Q2 Earnings Report"
-      },
-      {
-        "source": "Financial Times",
-        "title": "Netflix's shares slide on disappointing growth forecasts"
-      },
-      {
-        "source": "The Verge",
-        "title": "Netflix says around 300 titles used generative AI"
-      },
-      {
-        "source": "Variety",
-        "title": "About 300 Netflix Programs Used Generative AI This Year, Company Reveals"
-      },
-      {
-        "source": "Variety",
-        "title": "Netflix to Stop Releasing Viewership Data Every 6 Months, Will Shift to Annual Reports"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "China's Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Google Gemini Launch Delayed as Tech Falls Short of Internal Goals"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "DeepMind CEO Rallies Support for International Group to Vet AI Models"
-      },
-      {
-        "source": "NHK",
-        "title": "皇室典範改正案成立へ 与党 会期延長し「副首都」法案成立図る"
-      },
-      {
-        "source": "NHK",
-        "title": "消費税減税 隔たり埋まる見通し立たず 与党に首相判断必要の声"
-      },
-      {
-        "source": "NHK",
-        "title": "イギリス労働党 新党首にバーナム氏選出へ 新首相就任の見込み"
-      },
-      {
-        "source": "NHK",
-        "title": "米 ブラジルに25％追加関税 ブラジル「正当化の根拠ない」"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Chloe Fineman Exits 'SNL' After Seven Seasons"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Americans Are Listening to Less Music in English, Thanks To Bad Bunny and BTS"
-      }
-    ],
-    "audioFile": "20260717_daily.mp3",
-    "scriptFile": "20260717_daily.md",
-    "publishedAt": "2026-07-16T21:01:44.822Z"
   }
 ]
