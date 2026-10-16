@@ -1,5 +1,43 @@
 [
   {
+    "id": "20261017_weekly",
+    "title": "スタラジ 土曜増刊号 ── 2026年10月17日（土）",
+    "date": "2026-10-17",
+    "broadcastMode": "weekly",
+    "durationSec": 736.7520000000007,
+    "durationFormatted": "12:16",
+    "cast": [
+      "もえちゃん",
+      "みのりん"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング＋プライベートトーク（約5分）",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト（約3分）",
+        "startSec": 157.776
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する（約8分）",
+        "startSec": 257.85599999999994
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？（約3分）",
+        "startSec": 629.5440000000006
+      },
+      {
+        "name": "Part 5: クロージング（約1分）",
+        "startSec": 714.4080000000007
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261017_weekly.mp3",
+    "scriptFile": "20261017_weekly.md",
+    "publishedAt": "2026-10-16T21:15:25.013Z"
+  },
+  {
     "id": "20261016_daily",
     "title": "スタラジ 2026年10月16日 配信分",
     "date": "2026-10-16",
