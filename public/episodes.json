@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261019_daily",
+    "title": "スタラジ 2026年10月19日 配信分",
+    "date": "2026-10-19",
+    "broadcastMode": "daily",
+    "durationSec": 825.696000000001,
+    "durationFormatted": "13:45",
+    "cast": [
+      "みのりん",
+      "まほ",
+      "そらちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "横浜市長選 原沢氏が初当選",
+        "startSec": 43.752
+      },
+      {
+        "name": "国内で相次ぐサイバー被害",
+        "startSec": 171
+      },
+      {
+        "name": "声・肖像のAI無断使用 法整備へ",
+        "startSec": 299.4960000000001
+      },
+      {
+        "name": "Anthropic 公益ファンドとWikipedia",
+        "startSec": 447.7440000000004
+      },
+      {
+        "name": "世界体操 日本男子1・2位独占",
+        "startSec": 564.0960000000007
+      },
+      {
+        "name": "テイラー15週1位と山下達郎",
+        "startSec": 674.0160000000008
+      },
+      {
+        "name": "クロージング",
+        "startSec": 775.1280000000008
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261019_daily.mp3",
+    "scriptFile": "20261019_daily.md",
+    "publishedAt": "2026-10-18T21:10:05.351Z"
+  },
+  {
     "id": "20261017_weekly",
     "title": "スタラジ 土曜増刊号 ── 2026年10月17日（土）",
     "date": "2026-10-17",
