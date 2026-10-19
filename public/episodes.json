@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261020_daily",
+    "title": "スタラジ 2026年10月20日 配信分",
+    "date": "2026-10-20",
+    "broadcastMode": "daily",
+    "durationSec": 824.1120000000012,
+    "durationFormatted": "13:44",
+    "cast": [
+      "もえちゃん",
+      "そらちゃん",
+      "レイジ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "火星衛星探査機「MMX」打ち上げ",
+        "startSec": 23.712
+      },
+      {
+        "name": "OpenAI盗聴事件続報 - サウジ王族関与",
+        "startSec": 146.61600000000004
+      },
+      {
+        "name": "ブラックストーン日本6兆円投資 × 消費減税論争",
+        "startSec": 266.616
+      },
+      {
+        "name": "サイバーセキュリティ：不正アクセスに「中国系AI」使用",
+        "startSec": 391.0560000000002
+      },
+      {
+        "name": "TOYO TIRE「SAP切り替え」大混乱 - DXの現実",
+        "startSec": 510.04800000000046
+      },
+      {
+        "name": "エンタメ：シゴンヌ武道館 × 鉄拳6モッド騒動",
+        "startSec": 639.1200000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 776.112000000001
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261020_daily.mp3",
+    "scriptFile": "20261020_daily.md",
+    "publishedAt": "2026-10-19T21:29:55.510Z"
+  },
+  {
     "id": "20261019_daily",
     "title": "スタラジ 2026年10月19日 配信分",
     "date": "2026-10-19",
@@ -4892,101 +4943,5 @@
     "audioFile": "20260722_daily.mp3",
     "scriptFile": "20260722_daily.md",
     "publishedAt": "2026-07-21T21:27:44.380Z"
-  },
-  {
-    "id": "20260721_daily",
-    "title": "スタラジ 2026年7月21日 配信分",
-    "date": "2026-07-21",
-    "broadcastMode": "daily",
-    "durationSec": 742.2960000000005,
-    "durationFormatted": "12:22",
-    "cast": [
-      "もえちゃん",
-      "りっくん",
-      "キリシマさん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Claude Workbench廃止とAIツールの寿命",
-        "startSec": 49.895999999999994
-      },
-      {
-        "name": "中国AI攻勢とOpenAIの警戒",
-        "startSec": 177.192
-      },
-      {
-        "name": "中露EEZ実弾演習と次期戦闘機",
-        "startSec": 310.51200000000006
-      },
-      {
-        "name": "世界のセキュリティ現場から",
-        "startSec": 447.2400000000003
-      },
-      {
-        "name": "エンタメ枠：カイジ実写とアーティストのAI反発",
-        "startSec": 566.5680000000003
-      },
-      {
-        "name": "クロージング",
-        "startSec": 697.4640000000005
-      }
-    ],
-    "sources": [
-      {
-        "source": "Qiita",
-        "title": "Claude旧Workbench廃止＆実験的プロンプトAPI終了、8/17までの移行対応まとめ"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "「AIツールは半年で陳腐化」、メルカリに学ぶ無駄にならない投資の見極め"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Z.AI Completes Giant Data Center With Chinese Chips to Train AI"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "中国がスパコン性能で首位奪回、独自CPUだけで「エクサの壁」突破"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "OpenAI is scared of open-weight models. Should the US be?"
-      },
-      {
-        "source": "Yahoo!ニュース",
-        "title": "中露 日本のEEZ内で実弾演習"
-      },
-      {
-        "source": "NHK",
-        "title": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認"
-      },
-      {
-        "source": "NHK",
-        "title": "小泉防衛相 日英伊の次期戦闘機開発は安保協力の新モデルに"
-      },
-      {
-        "source": "The Register",
-        "title": "AWS customer learns the hard way how even the smallest oversight can be mission-critical"
-      },
-      {
-        "source": "Der Spiegel",
-        "title": "Phishing: BKA legt Hunderte Server von Kriminellen lahm"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "亀梨和也が最狂の宿敵！藤原竜也『カイジ』追加キャスト4名発表"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Have Artists Reached Their Breaking Point With AI?"
-      }
-    ],
-    "audioFile": "20260721_daily.mp3",
-    "scriptFile": "20260721_daily.md",
-    "publishedAt": "2026-07-20T21:13:46.582Z"
   }
 ]
