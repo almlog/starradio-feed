@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261021_daily",
+    "title": "スタラジ 2026年10月21日 配信分",
+    "date": "2026-10-21",
+    "broadcastMode": "daily",
+    "durationSec": 879.4800000000009,
+    "durationFormatted": "14:39",
+    "cast": [
+      "レイナ姐さん",
+      "そらちゃん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "Google Cloud障害と国内セキュリティ連鎖",
+        "startSec": 59.352
+      },
+      {
+        "name": "Netflix決算 — 数字は良好、でも本質は",
+        "startSec": 193.53599999999992
+      },
+      {
+        "name": "Boeing 737 Max 10、FAA認可を取得",
+        "startSec": 335.8800000000001
+      },
+      {
+        "name": "SpaceXとAI、宇宙ビジネスの新しい地図",
+        "startSec": 459.7440000000003
+      },
+      {
+        "name": "エンタメ ① 粗品がラン・ランと指揮台へ",
+        "startSec": 575.2800000000004
+      },
+      {
+        "name": "エンタメ ② AHSシーズン14と「汝、星のごとく」アジア展開",
+        "startSec": 692.2320000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 813.3600000000009
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261021_daily.mp3",
+    "scriptFile": "20261021_daily.md",
+    "publishedAt": "2026-10-20T22:26:54.051Z"
+  },
+  {
     "id": "20261020_daily",
     "title": "スタラジ 2026年10月20日 配信分",
     "date": "2026-10-20",
@@ -4839,109 +4890,5 @@
     "audioFile": "20260723_daily.mp3",
     "scriptFile": "20260723_daily.md",
     "publishedAt": "2026-07-22T20:48:20.589Z"
-  },
-  {
-    "id": "20260722_daily",
-    "title": "スタラジ 2026年7月22日 配信分",
-    "date": "2026-07-22",
-    "broadcastMode": "daily",
-    "durationSec": 683.1360000000005,
-    "durationFormatted": "11:23",
-    "cast": [
-      "レイナ姐さん",
-      "りっくん",
-      "ヨースケ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Google Gemini 新モデル攻勢",
-        "startSec": 49.656000000000006
-      },
-      {
-        "name": "OpenAI 三重発表 IPO・侵入事件・政府ブリーフ",
-        "startSec": 175.68
-      },
-      {
-        "name": "AIエージェント×ランサム攻撃の新局面",
-        "startSec": 302.04
-      },
-      {
-        "name": "円相場 39年半ぶりの163円台",
-        "startSec": 416.5440000000001
-      },
-      {
-        "name": "エンタメ ミンキーモモ復活とアベンジャーズ前売り",
-        "startSec": 518.1360000000003
-      },
-      {
-        "name": "クロージング",
-        "startSec": 653.0400000000005
-      }
-    ],
-    "sources": [
-      {
-        "source": "VentureBeat",
-        "title": "Google's Gemini 3.6 Flash model cuts AI agent token costs by up to 65% on long horizon engineering tasks —and 3.5 Pro is on the way"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Google Releases Three New Gemini A.I. Models"
-      },
-      {
-        "source": "Der Spiegel",
-        "title": "Google macht uns zu KI-Zombies – Meinung"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "OpenAI Names BNY, Nubank CEOs to Board Ahead of IPO"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "OpenAI Says Its AI Used for 'Unprecedented' Hugging Face Breach"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "OpenAI's Altman to Brief US Officials on Next Wave of AI Models"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "AIエージェントによる「ランサムウエア攻撃」出現、侵入から脅迫まで全自動"
-      },
-      {
-        "source": "NHK",
-        "title": "ニチレイ ハッカー集団が犯行声明 「ランサムウエア」攻撃か"
-      },
-      {
-        "source": "NHK",
-        "title": "円相場 一時1ドル＝163円台に値下がり 約39年半ぶりの円安水準"
-      },
-      {
-        "source": "NHK",
-        "title": "食料品消費税減税 実務者会議で議論再開もとりまとめ難航予想"
-      },
-      {
-        "source": "ナタリー",
-        "title": "「魔法のプリンセス ミンキーモモ」新作OVA特報公開　陽木くるみがミンキーモモ役"
-      },
-      {
-        "source": "ナタリー",
-        "title": "「ミンキーモモ」新作OVAのモモ役は陽木くるみ、お供3匹に落合福嗣・藤原夏海・釘宮理恵"
-      },
-      {
-        "source": "Variety",
-        "title": "'Avengers: Doomsday' Racks Up $16.5 Million in Advance Ticket Sales After First Day (EXCLUSIVE)"
-      },
-      {
-        "source": "ナタリー",
-        "title": "「内村文化祭'26旅姿」石川、福岡、東京で11月に開催"
-      }
-    ],
-    "audioFile": "20260722_daily.mp3",
-    "scriptFile": "20260722_daily.md",
-    "publishedAt": "2026-07-21T21:27:44.380Z"
   }
 ]
