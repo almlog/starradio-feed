@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261023_daily",
+    "title": "スタラジ 2026年10月23日 配信分",
+    "date": "2026-10-23",
+    "broadcastMode": "daily",
+    "durationSec": 968.2560000000009,
+    "durationFormatted": "16:08",
+    "cast": [
+      "ヨースケ",
+      "そらちゃん",
+      "セトさん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "MetaのAI投資懸念とナスダック急落",
+        "startSec": 69.52799999999999
+      },
+      {
+        "name": "日本製鉄 USスチール4700億円投資",
+        "startSec": 211.1039999999999
+      },
+      {
+        "name": "大手テックへの法的逆風",
+        "startSec": 371.8560000000001
+      },
+      {
+        "name": "Arcブラウザ12月終了とDia時代へ",
+        "startSec": 503.6160000000003
+      },
+      {
+        "name": "国内エンタメ：プロ野球ドラフトとゆず30周年",
+        "startSec": 631.5600000000004
+      },
+      {
+        "name": "海外エンタメ：Charli xcx × スコセッシ新作",
+        "startSec": 788.4720000000008
+      },
+      {
+        "name": "クロージング",
+        "startSec": 906.1680000000008
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261023_daily.mp3",
+    "scriptFile": "20261023_daily.md",
+    "publishedAt": "2026-10-22T21:13:50.626Z"
+  },
+  {
     "id": "20261022_daily",
     "title": "スタラジ 2026年10月22日 配信分",
     "date": "2026-10-22",
@@ -4737,109 +4788,5 @@
     "audioFile": "20260725_weekly.mp3",
     "scriptFile": "20260725_weekly.md",
     "publishedAt": "2026-07-24T20:52:31.649Z"
-  },
-  {
-    "id": "20260724_daily",
-    "title": "スタラジ 2026年7月24日 配信分",
-    "date": "2026-07-24",
-    "broadcastMode": "daily",
-    "durationSec": 761.0400000000012,
-    "durationFormatted": "12:41",
-    "cast": [
-      "ヨースケ",
-      "りっくん",
-      "レイナ姐さん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Intel復活とAMDの2兆ドル市場",
-        "startSec": 49.176
-      },
-      {
-        "name": "AI設備投資バブル論と1.65兆ドル債務",
-        "startSec": 169.05600000000004
-      },
-      {
-        "name": "円安164円 39年8か月ぶりの水準",
-        "startSec": 294.98400000000015
-      },
-      {
-        "name": "GoogleへEUが約1500億円の制裁金",
-        "startSec": 409.6320000000004
-      },
-      {
-        "name": "甲子園大 学生募集停止と少子化のリアル",
-        "startSec": 520.5120000000006
-      },
-      {
-        "name": "エンタメ：ザ・ベア最終シーズンと日韓ドラマ",
-        "startSec": 616.4160000000007
-      },
-      {
-        "name": "クロージング",
-        "startSec": 726.2160000000011
-      }
-    ],
-    "sources": [
-      {
-        "source": "{Bloomberg L.P.|ブルームバーグ}",
-        "title": "Intel Forecast Shatters Estimates on Data Center Growth"
-      },
-      {
-        "source": "{Financial Times|フィナンシャルタイムズ}",
-        "title": "Intel shares rally after chipmaker posts fastest growth in 15 years"
-      },
-      {
-        "source": "{Bloomberg L.P.|ブルームバーグ}",
-        "title": "AMD Unveils New Products in Pursuit of $2 Trillion Market"
-      },
-      {
-        "source": "Hacker News",
-        "title": "Big Tech Isn't Hiding $1.65T of Debt"
-      },
-      {
-        "source": "TechRadar",
-        "title": "'Subprime data center crisis' could threaten the global economy in a way similar to the 2008 subprime mortgage debacle"
-      },
-      {
-        "source": "{Bloomberg L.P.|ブルームバーグ}",
-        "title": "Trump Expands AI Data Center Pledge in Bid to Ease Power Costs"
-      },
-      {
-        "source": "BBC",
-        "title": "Google and Tesla shares plunge as AI spending rattles markets"
-      },
-      {
-        "source": "NHK",
-        "title": "円安加速 1ドル164円に迫る 39年8か月ぶりの水準に"
-      },
-      {
-        "source": "{The New York Times|ニューヨークタイムズ}",
-        "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices"
-      },
-      {
-        "source": "{Der Spiegel|シュピーゲル}",
-        "title": "Google: USA kritisieren EU-Rekordstrafe und warnen vor Handelsfolgen"
-      },
-      {
-        "source": "毎日新聞",
-        "title": "甲子園大が学生募集停止　新型コロナ禍で入学者激減、存続困難に"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Streaming Ratings: 'The Bear' Slips in Final Season Premiere, 'I Will Find You' and 'Love Island' Soar"
-      },
-      {
-        "source": "ナタリー",
-        "title": "チ・チャンウクと今田美桜のW主演ドラマ「メリーベリーラブ」10月期に放送決定"
-      }
-    ],
-    "audioFile": "20260724_daily.mp3",
-    "scriptFile": "20260724_daily.md",
-    "publishedAt": "2026-07-23T20:57:02.593Z"
   }
 ]
