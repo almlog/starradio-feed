@@ -1,5 +1,49 @@
 [
   {
+    "id": "20261024_weekly",
+    "title": "スタラジ 土曜増刊号",
+    "date": "2026-10-24",
+    "broadcastMode": "weekly",
+    "durationSec": 839.4240000000009,
+    "durationFormatted": "13:59",
+    "cast": [
+      "出演",
+      "尺目安",
+      "みのりん",
+      "レイナ姐さん"
+    ],
+    "segments": [
+      {
+        "name": "2026年10月24日（土）",
+        "startSec": 0
+      },
+      {
+        "name": "Part 1: オープニング + プライベートトーク",
+        "startSec": 6.119999999999999
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト",
+        "startSec": 177.432
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
+        "startSec": 268.008
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
+        "startSec": 717.1200000000008
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 813.2880000000009
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261024_weekly.mp3",
+    "scriptFile": "20261024_weekly.md",
+    "publishedAt": "2026-10-23T21:07:00.386Z"
+  },
+  {
     "id": "20261023_daily",
     "title": "スタラジ 2026年10月23日 配信分",
     "date": "2026-10-23",
@@ -4701,92 +4745,5 @@
     "audioFile": "20260727_daily.mp3",
     "scriptFile": "20260727_daily.md",
     "publishedAt": "2026-07-26T20:50:43.489Z"
-  },
-  {
-    "id": "20260725_weekly",
-    "title": "スタラジ 土曜増刊号 2026年7月25日号",
-    "date": "2026-07-25",
-    "broadcastMode": "weekly",
-    "durationSec": 1073.4000000000003,
-    "durationFormatted": "17:53",
-    "cast": [
-      "ホリケイ",
-      "レイナ姐さん"
-    ],
-    "segments": [
-      {
-        "name": "Part 1: オープニング + プライベートトーク",
-        "startSec": 0
-      },
-      {
-        "name": "Part 2: 土曜ニュースダイジェスト",
-        "startSec": 197.23199999999997
-      },
-      {
-        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する",
-        "startSec": 368.3040000000002
-      },
-      {
-        "name": "Part 4: 展望 — 来週どうなる？次は何をする？",
-        "startSec": 898.7520000000012
-      },
-      {
-        "name": "Part 5: クロージング",
-        "startSec": 1038.7200000000012
-      }
-    ],
-    "sources": [
-      {
-        "source": "NHK",
-        "title": "コメの民間在庫量 243万トン 6月末時点で過去最大に"
-      },
-      {
-        "source": "NHK",
-        "title": "「全東信」経営破綻 経産省と金融庁が調査を開始"
-      },
-      {
-        "source": "Yahoo!ニュース",
-        "title": "「副首都構想」関連法が成立"
-      },
-      {
-        "source": "Yahoo!ニュース",
-        "title": "首相 内閣改造と党役員人事検討へ"
-      },
-      {
-        "source": "DevelopersIO",
-        "title": "Amazon Bedrock で Claude Opus 5 が利用可能になったので Converse API で試してみた"
-      },
-      {
-        "source": "BBC",
-        "title": "Trump vows to investigate EU over fining of US tech companies"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Paramount Agrees to Hold Off on Warner Bros. Merger Until After Antitrust Trial"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "'The Rings of Power' Season 3 Trailer Is Full of Middle-earth Action, Simon Pegg Joins Cast"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "『ブレードランナー』初実写ドラマ、11月25日配信決定！サンディエゴ・コミコンで予告編公開"
-      },
-      {
-        "source": "WIRED",
-        "title": "The 2026 El Niño Is on Track to Be the Strongest on Record"
-      },
-      {
-        "source": "The Verge",
-        "title": "Meta just created a moderation nightmare for its smart glasses"
-      },
-      {
-        "source": "TechRadar",
-        "title": "South Korean nuclear container ship proposal receives US approval for 15,000 TEU ultra-safe molten salt reactor design"
-      }
-    ],
-    "audioFile": "20260725_weekly.mp3",
-    "scriptFile": "20260725_weekly.md",
-    "publishedAt": "2026-07-24T20:52:31.649Z"
   }
 ]
