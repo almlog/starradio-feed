@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261027_daily",
+    "title": "スタラジ 2026年10月27日 配信分",
+    "date": "2026-10-27",
+    "broadcastMode": "daily",
+    "durationSec": 766.6560000000005,
+    "durationFormatted": "12:46",
+    "cast": [
+      "もえちゃん",
+      "レイナ姐さん",
+      "りっくん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "個人情報流出ダブル（楽天・新幹線）",
+        "startSec": 70.44000000000001
+      },
+      {
+        "name": "AnthropicのIPO申請",
+        "startSec": 208.10399999999993
+      },
+      {
+        "name": "Microsoftが6万人に早期退職提示",
+        "startSec": 333.6960000000001
+      },
+      {
+        "name": "北海道新聞記者 ロシア拘束続報",
+        "startSec": 438.2880000000003
+      },
+      {
+        "name": "BLEACHアニメ完結22年",
+        "startSec": 541.1760000000004
+      },
+      {
+        "name": "Flaming Lipsが6年ぶりの新アルバム発表",
+        "startSec": 638.8080000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 725.7600000000006
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261027_daily.mp3",
+    "scriptFile": "20261027_daily.md",
+    "publishedAt": "2026-10-26T21:11:37.466Z"
+  },
+  {
     "id": "20261026_daily",
     "title": "スタラジ 2026年10月26日 配信分",
     "date": "2026-10-26",
