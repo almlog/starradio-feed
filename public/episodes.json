@@ -1,5 +1,52 @@
 [
   {
+    "id": "20261028_daily",
+    "title": "スタラジ 2026年10月28日 配信分",
+    "date": "2026-10-28",
+    "broadcastMode": "daily",
+    "durationSec": 763.680000000001,
+    "durationFormatted": "12:43",
+    "cast": [
+      "レイナ姐さん",
+      "キリシマさん",
+      "りっくん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AIエージェントと「ARTEX」の正体",
+        "startSec": 40.488
+      },
+      {
+        "name": "ロボティクス研究所に3兆円の評価",
+        "startSec": 196.51199999999994
+      },
+      {
+        "name": "EU EV優遇、域外生産の日本車は対象外か",
+        "startSec": 318.76800000000014
+      },
+      {
+        "name": "日本シリーズ第4戦",
+        "startSec": 454.3920000000005
+      },
+      {
+        "name": "映画「九条の大罪」と「Crystal Lake」",
+        "startSec": 558.2880000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 708.1200000000008
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261028_daily.mp3",
+    "scriptFile": "20261028_daily.md",
+    "publishedAt": "2026-10-27T21:09:20.789Z"
+  },
+  {
     "id": "20261027_daily",
     "title": "スタラジ 2026年10月27日 配信分",
     "date": "2026-10-27",
