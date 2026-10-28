@@ -1,5 +1,101 @@
 [
   {
+    "id": "20261029_daily",
+    "title": "スタラジ 2026年10月29日 配信分",
+    "date": "2026-10-29",
+    "broadcastMode": "daily",
+    "durationSec": 639.9360000000011,
+    "durationFormatted": "10:39",
+    "cast": [
+      "ホリケイ",
+      "りっくん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "GMO・IDCFサイバー攻撃",
+        "startSec": 48.48
+      },
+      {
+        "name": "FRBが政策金利を据え置き",
+        "startSec": 161.928
+      },
+      {
+        "name": "ホンダ × 日産 EV電池協業",
+        "startSec": 267
+      },
+      {
+        "name": "Alphabet と Oracle、AIへの賭けの明暗",
+        "startSec": 368.8560000000002
+      },
+      {
+        "name": "Nintendo Indie World と今週のエンタメ",
+        "startSec": 484.48800000000057
+      },
+      {
+        "name": "クロージング",
+        "startSec": 602.0160000000009
+      }
+    ],
+    "sources": [
+      {
+        "source": "NHK",
+        "title": "GMO 攻撃者に関する情報精査 被害拡大防止で緊急の対応続く"
+      },
+      {
+        "source": "CNET Japan",
+        "title": "IDCFクラウド攻撃、認証システムの脆弱性が原因　最大71社の登録情報を不正照会"
+      },
+      {
+        "source": "NHK",
+        "title": "FRB 政策金利を据え置き 2会合ぶり インフレへの影響見極めか"
+      },
+      {
+        "source": "時事通信社",
+        "title": "米ＦＲＢ、金利据え置き　インフレ加速も様子見―利上げ主張で２人反対"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Fed's Warsh 'Sensitive' to AI, BlackRock's Rosenberg Says"
+      },
+      {
+        "source": "NHK",
+        "title": "ホンダと日産 EV用バッテリーの協業へ具体的な交渉"
+      },
+      {
+        "source": "Financial Times",
+        "title": "Oracle jumps 12% as it tells investors its AI bet will pay off sooner than expected"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Alphabet Reports Disappointing Revenue, Income; Shares Drop"
+      },
+      {
+        "source": "Bloomberg L.P.",
+        "title": "Microsoft Reports Cloud Sales That Beat Estimates"
+      },
+      {
+        "source": "4Gamer.net",
+        "title": "「Indie World 2026.10.28」発表情報まとめ。話題作「Order of the Sinking Star」やSwitch2版「都市伝説解体センター」がいきなり発売！"
+      },
+      {
+        "source": "The Hollywood Reporter",
+        "title": "Dwayne Johnson and Jack Black Get Flirty in 'Jumanji: Open World' Trailer"
+      },
+      {
+        "source": "ナタリー",
+        "title": "なにわ男子、デビュー5周年に大きな愛を伝えた全45公演のアリーナツアーが閉幕"
+      }
+    ],
+    "audioFile": "20261029_daily.mp3",
+    "scriptFile": "20261029_daily.md",
+    "publishedAt": "2026-10-28T20:58:39.069Z"
+  },
+  {
     "id": "20261028_daily",
     "title": "スタラジ 2026年10月28日 配信分",
     "date": "2026-10-28",
