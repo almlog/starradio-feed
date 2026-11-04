@@ -25,6 +25,13 @@
       <itunes:duration>844</itunes:duration>
     </item>
     <item>
+      <title>スタラジ 土曜増刊号 2026年10月31日（土）ハロウィン増刊号</title>
+      <enclosure url="https://almlog.github.io/starradio-feed/audio/20261031_weekly.mp3" type="audio/mpeg"/>
+      <guid>20261031_weekly</guid>
+      <pubDate>Wed, 04 Nov 2026 14:41:25 GMT</pubDate>
+      <itunes:duration>777</itunes:duration>
+    </item>
+    <item>
       <title>スタラジ 2026年10月30日 配信分</title>
       <enclosure url="https://almlog.github.io/starradio-feed/audio/20261030_daily.mp3" type="audio/mpeg"/>
       <guid>20261030_daily</guid>

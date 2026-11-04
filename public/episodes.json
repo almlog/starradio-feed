@@ -94,6 +94,44 @@
     "publishedAt": "2026-11-01T21:41:42.414Z"
   },
   {
+    "id": "20261031_weekly",
+    "title": "スタラジ 土曜増刊号 2026年10月31日（土）ハロウィン増刊号",
+    "date": "2026-10-31",
+    "broadcastMode": "weekly",
+    "durationSec": 777.4800000000006,
+    "durationFormatted": "12:57",
+    "cast": [
+      "もえちゃん",
+      "みのりん"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + プライベートトーク（約5分）",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: 土曜ニュースダイジェスト（約3分）",
+        "startSec": 177.84000000000003
+      },
+      {
+        "name": "Part 3: ウィークリーサマリー — 今週の世界を俯瞰する（約8分）",
+        "startSec": 294.696
+      },
+      {
+        "name": "Part 4: 展望 — 来週どうなる？（約3分）",
+        "startSec": 657.6000000000005
+      },
+      {
+        "name": "Part 5: クロージング（約1分）",
+        "startSec": 750.0960000000006
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261031_weekly.mp3",
+    "scriptFile": "20261031_weekly.md",
+    "publishedAt": "2026-11-04T14:41:25.624Z"
+  },
+  {
     "id": "20261030_daily",
     "title": "スタラジ 2026年10月30日 配信分",
     "date": "2026-10-30",
