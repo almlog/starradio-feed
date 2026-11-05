@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261106_daily",
+    "title": "スタラジ 2026年11月6日 配信分",
+    "date": "2026-11-06",
+    "broadcastMode": "daily",
+    "durationSec": 859.104000000001,
+    "durationFormatted": "14:19",
+    "cast": [
+      "ヨースケ",
+      "そらちゃん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "岩井コスモ証券 / サイバーBCP",
+        "startSec": 50.952
+      },
+      {
+        "name": "JT × ロシア",
+        "startSec": 193.2
+      },
+      {
+        "name": "消費税減税採決",
+        "startSec": 317.61600000000004
+      },
+      {
+        "name": "自転車青切符半年",
+        "startSec": 427.3920000000002
+      },
+      {
+        "name": "AI・テック株急落",
+        "startSec": 516.2160000000003
+      },
+      {
+        "name": "エンタメ",
+        "startSec": 658.5600000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 797.9040000000008
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261106_daily.mp3",
+    "scriptFile": "20261106_daily.md",
+    "publishedAt": "2026-11-05T21:31:42.847Z"
+  },
+  {
     "id": "20261105_daily",
     "title": "スタラジ 2026年11月5日 配信分",
     "date": "2026-11-05",
@@ -4512,101 +4563,5 @@
     "audioFile": "20260812_daily.mp3",
     "scriptFile": "20260812_daily.md",
     "publishedAt": "2026-08-11T20:54:01.993Z"
-  },
-  {
-    "id": "20260807_daily",
-    "title": "スタラジ 2026年8月7日 配信分",
-    "date": "2026-08-07",
-    "broadcastMode": "daily",
-    "durationSec": 784.4160000000005,
-    "durationFormatted": "13:04",
-    "cast": [
-      "ヨースケ",
-      "あやちゃん",
-      "りっくん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "OpenAI初のハードとAIインフラ狂騒",
-        "startSec": 53.400000000000006
-      },
-      {
-        "name": "中国AIの逆襲とチップM&A",
-        "startSec": 192.816
-      },
-      {
-        "name": "台風13号と災害対応の底力",
-        "startSec": 334.94399999999996
-      },
-      {
-        "name": "円安157円台と日本製造業の隠れリスク",
-        "startSec": 453.43200000000024
-      },
-      {
-        "name": "甲子園の女性審判とエンタメの新しい潮流",
-        "startSec": 564.7920000000003
-      },
-      {
-        "name": "国内エンタメ - ポケモン30年の重み",
-        "startSec": 662.7600000000003
-      },
-      {
-        "name": "クロージング",
-        "startSec": 754.8000000000004
-      }
-    ],
-    "sources": [
-      {
-        "source": "{Bloomberg L.P.|ブルームバーグ}",
-        "title": "What Is OpenAI's Device? A Doughnut-Shaped Speaker That Costs Over $300"
-      },
-      {
-        "source": "{Bloomberg L.P.|ブルームバーグ}",
-        "title": "Nscale Touts $51 Billion in Contracts, Targets September US IPO"
-      },
-      {
-        "source": "{Der Spiegel|シュピーゲル}",
-        "title": "Künstliche Intelligenz: Chinesische KI-Modelle greifen Silicon Valley frontal an"
-      },
-      {
-        "source": "{Bloomberg L.P.|ブルームバーグ}",
-        "title": "Advanced Micro Devices to Buy Startup Taalas for New AI Chips"
-      },
-      {
-        "source": "NHK",
-        "title": "大型で強い台風13号 沖縄・奄美に接近へ 厳重警戒を"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "高校生らが災害キッチンカーを共同製作、熊本被災地支援へ　群馬"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "NY円、157円台後半　米イランの折衝見極めで方向感乏しく"
-      },
-      {
-        "source": "NHK",
-        "title": "経産省 日本製紙の煙突倒壊受け自家発事業者に報告求める通知"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "「女性もできるよ」　初日に続き女性審判登場　夏の甲子園"
-      },
-      {
-        "source": "Rolling Stone",
-        "title": "Green Day Launches 24/7 YouTube Channel With Videos, Live Performances, and Unseen Archival Footage"
-      },
-      {
-        "source": "4Gamer.net",
-        "title": "ポケモン1025匹の情報を収録した「ポケモン公式ぜんこく図鑑 1996-2026」本日発売。シリーズ30年のアートを詰め込んだ画集も12月18日に発売決定"
-      }
-    ],
-    "audioFile": "20260807_daily.mp3",
-    "scriptFile": "20260807_daily.md",
-    "publishedAt": "2026-08-06T20:50:14.387Z"
   }
 ]
