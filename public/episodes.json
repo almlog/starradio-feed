@@ -1,5 +1,52 @@
 [
   {
+    "id": "20261109_daily",
+    "title": "スタラジ 2026年11月9日 配信分",
+    "date": "2026-11-09",
+    "broadcastMode": "daily",
+    "durationSec": 666.5760000000007,
+    "durationFormatted": "11:06",
+    "cast": [
+      "りっくん",
+      "みのりん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "NVIDIAのCEO、スパイ疑惑と不倫スキャンダル",
+        "startSec": 41.784
+      },
+      {
+        "name": "COP31開幕と消費税減税の審議入り",
+        "startSec": 188.30399999999997
+      },
+      {
+        "name": "Amazon Alexa+上陸とNECのAIワーカー部門",
+        "startSec": 298.728
+      },
+      {
+        "name": "目黒蓮×池井戸潤、テレ朝春ドラマ",
+        "startSec": 438.6480000000003
+      },
+      {
+        "name": "Denis Villeneuve、AIプロンプトよりクリエイティブプロセスを語る",
+        "startSec": 524.6640000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 623.4720000000005
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261109_daily.mp3",
+    "scriptFile": "20261109_daily.md",
+    "publishedAt": "2026-11-08T20:58:18.372Z"
+  },
+  {
     "id": "20261107_weekly",
     "title": "スタラジ 土曜増刊号 2026年11月7日",
     "date": "2026-11-07",
