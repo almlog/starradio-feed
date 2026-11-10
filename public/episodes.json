@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261111_daily",
+    "title": "スタラジ 2026年11月11日 配信分",
+    "date": "2026-11-11",
+    "broadcastMode": "daily",
+    "durationSec": 762.4560000000008,
+    "durationFormatted": "12:42",
+    "cast": [
+      "レイナ姐さん",
+      "りっくん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "裁判のネット中継と公開原則",
+        "startSec": 29.327999999999996
+      },
+      {
+        "name": "10月の米CPIと12月利上げ",
+        "startSec": 151.27200000000002
+      },
+      {
+        "name": "タマホーム 火災保険不正請求疑惑",
+        "startSec": 262.488
+      },
+      {
+        "name": "KDDI 量子技術で上り通信を改善",
+        "startSec": 383.8080000000003
+      },
+      {
+        "name": "ストリートファイター映画、歴代最高興収に",
+        "startSec": 505.82400000000047
+      },
+      {
+        "name": "乃木坂46「君ロス」MV、雨の中の18人",
+        "startSec": 620.6880000000006
+      },
+      {
+        "name": "クロージング",
+        "startSec": 737.0400000000008
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261111_daily.mp3",
+    "scriptFile": "20261111_daily.md",
+    "publishedAt": "2026-11-10T20:59:25.850Z"
+  },
+  {
     "id": "20261110_daily",
     "title": "スタラジ 2026年11月10日 配信分",
     "date": "2026-11-10",
@@ -4595,109 +4646,5 @@
     "audioFile": "20260813_daily.mp3",
     "scriptFile": "20260813_daily.md",
     "publishedAt": "2026-08-12T20:50:35.973Z"
-  },
-  {
-    "id": "20260812_daily",
-    "title": "スタラジ 2026年8月12日 配信分",
-    "date": "2026-08-12",
-    "broadcastMode": "daily",
-    "durationSec": 928.7280000000011,
-    "durationFormatted": "15:28",
-    "cast": [
-      "レイナ姐さん",
-      "そらちゃん",
-      "もえちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "暗号資産ウォレット大規模ハック",
-        "startSec": 64.272
-      },
-      {
-        "name": "AIインフラ企業の決算とソニー・TSMCの一手",
-        "startSec": 230.87999999999997
-      },
-      {
-        "name": "台風15号の被害と関東の停電",
-        "startSec": 439.60800000000035
-      },
-      {
-        "name": "警察の「顔認証強制」に広がる懸念",
-        "startSec": 584.0400000000005
-      },
-      {
-        "name": "Spotifyの「AI楽曲ラベル」と爆風スランプの武道館",
-        "startSec": 729.8400000000007
-      },
-      {
-        "name": "クロージング",
-        "startSec": 889.848000000001
-      }
-    ],
-    "sources": [
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Bitcoin Wallet Hack Shakes Industry | Bloomberg Crypto 8/11/2026"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Bitcoin Will 'Survive' Cold Wallet Hack, Says Galaxy Digital's Thorn"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "'Brave New World' With AI Tied To Hacks: Ledger's Rogers"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Trump Family Crypto Deal Ends In Investor Rout"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "May Be At Bottom of Crypto Winter: Bitwise's Hougan"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "CoreWeave Revenue Surges on Booming Demand for AI Computing"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Super Micro Gives Sales Forecast That Tops Rosiest Projections"
-      },
-      {
-        "source": "NHK",
-        "title": "ソニー・TSMC 次世代画像センサー 2029年から量産へ"
-      },
-      {
-        "source": "NHK",
-        "title": "台風15号 各地の被害 茨城で3人けが 茨城・栃木など7380戸停電"
-      },
-      {
-        "source": "NHK",
-        "title": "台風15号 関東で強風被害 台風から離れても大雨に警戒"
-      },
-      {
-        "source": "NHK",
-        "title": "【交通影響】新幹線や首都圏の鉄道 空の便は平常通り"
-      },
-      {
-        "source": "朝日新聞社",
-        "title": "「強制的にスマホの顔認証」警察の捜査で新手法　「行きすぎ」懸念も"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Spotify Will Label A.I. Artists and Avoid Promoting Them"
-      },
-      {
-        "source": "ナタリー",
-        "title": "爆風スランプ35年ぶり武道館は「大きな玉ねぎの下で」大合唱でエンディング、2027年Zeppツアーも発表"
-      }
-    ],
-    "audioFile": "20260812_daily.mp3",
-    "scriptFile": "20260812_daily.md",
-    "publishedAt": "2026-08-11T20:54:01.993Z"
   }
 ]
