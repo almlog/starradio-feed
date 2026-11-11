@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261112_daily",
+    "title": "スタラジ 2026年11月12日 配信分",
+    "date": "2026-11-12",
+    "broadcastMode": "daily",
+    "durationSec": 589.8960000000005,
+    "durationFormatted": "9:49",
+    "cast": [
+      "ホリケイ",
+      "りっくん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "ドコモ通信障害復旧",
+        "startSec": 29.303999999999995
+      },
+      {
+        "name": "円安159円台",
+        "startSec": 97.84800000000004
+      },
+      {
+        "name": "ウクライナ情勢と停戦の胎動",
+        "startSec": 180.696
+      },
+      {
+        "name": "AI投資の実体経済",
+        "startSec": 280.296
+      },
+      {
+        "name": "任天堂IPR大掃討",
+        "startSec": 375.84000000000015
+      },
+      {
+        "name": "エンタメ",
+        "startSec": 460.1760000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 542.9520000000003
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261112_daily.mp3",
+    "scriptFile": "20261112_daily.md",
+    "publishedAt": "2026-11-11T21:14:32.901Z"
+  },
+  {
     "id": "20261111_daily",
     "title": "スタラジ 2026年11月11日 配信分",
     "date": "2026-11-11",
@@ -4542,109 +4593,5 @@
     "audioFile": "20260814_daily.mp3",
     "scriptFile": "20260814_daily.md",
     "publishedAt": "2026-08-13T20:58:50.236Z"
-  },
-  {
-    "id": "20260813_daily",
-    "title": "スタラジ 2026年8月13日 配信分",
-    "date": "2026-08-13",
-    "broadcastMode": "daily",
-    "durationSec": 897.1200000000006,
-    "durationFormatted": "14:57",
-    "cast": [
-      "ホリケイ",
-      "そらちゃん",
-      "レイジ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "米インフレとAI資本の綱引き",
-        "startSec": 76.416
-      },
-      {
-        "name": "国内アップデート：法制度と現場の温度",
-        "startSec": 251.92799999999994
-      },
-      {
-        "name": "AI学習の境界線",
-        "startSec": 407.6160000000001
-      },
-      {
-        "name": "iPhone 18の秋抜けと影響",
-        "startSec": 556.1280000000002
-      },
-      {
-        "name": "エンタメアップデート",
-        "startSec": 692.9280000000003
-      },
-      {
-        "name": "クロージング",
-        "startSec": 824.9280000000003
-      }
-    ],
-    "sources": [
-      {
-        "source": "時事通信社",
-        "title": "７月の米消費者物価、３．４％上昇　２カ月連続で減速"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Nvidia Taps Wall Street for $500B Funding"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Morgan Stanley's Weaver Warns of Risks in AI-Compute Bottleneck"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Cisco Beats on Sales Outlook, Citing 'Broad-Based' Record Demand"
-      },
-      {
-        "source": "時事通信社",
-        "title": "国旗損壊処罰法が施行　「著しく不快」で拘禁２年"
-      },
-      {
-        "source": "朝日新聞社",
-        "title": "検察抗告「抑制運用を」、法務省が検察庁に周知　改正刑訴法一部施行"
-      },
-      {
-        "source": "朝日新聞社",
-        "title": "JCB券の「そごう」が「そでう」　偽物の「売り子」横行の背景は"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Amazon will train on Twitch streamers' content by default, unless they opt out"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "A Man Secured a Lost Billy Joel Interview. Then He Re-Created the Singer in AI. (Exclusive)"
-      },
-      {
-        "source": "Qiita",
-        "title": "GPT-Rosalindの衝撃！OpenAIが創薬AIを一般公開しない本当の理由"
-      },
-      {
-        "source": "The Verge",
-        "title": "It looks like Apple's iPhone 18 really will skip the fall launch this year"
-      },
-      {
-        "source": "ナタリー",
-        "title": "Snow Man岩本照主演のドラマ「真田十勇士」に中川大志、孤高の忍・霧隠才蔵役"
-      },
-      {
-        "source": "ナタリー",
-        "title": "オリエンタルラジオ「佐久間宣行のオールナイトニッポン0」ゲスト出演"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Ousted Disney CEO Bob Chapek Writing Tell-All Memoir"
-      }
-    ],
-    "audioFile": "20260813_daily.mp3",
-    "scriptFile": "20260813_daily.md",
-    "publishedAt": "2026-08-12T20:50:35.973Z"
   }
 ]
