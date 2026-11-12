@@ -11,6 +11,13 @@
   <itunes:category text="Technology"/>
   <atom:link href="https://almlog.github.io/starradio-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>スタラジ 2026年11月13日 配信分</title>
+      <enclosure url="https://almlog.github.io/starradio-feed/audio/20261113_daily.mp3" type="audio/mpeg"/>
+      <guid>20261113_daily</guid>
+      <pubDate>Thu, 12 Nov 2026 21:08:14 GMT</pubDate>
+      <itunes:duration>757</itunes:duration>
+    </item>
+    <item>
       <title>スタラジ 2026年11月12日 配信分</title>
       <enclosure url="https://almlog.github.io/starradio-feed/audio/20261112_daily.mp3" type="audio/mpeg"/>
       <guid>20261112_daily</guid>
@@ -415,13 +422,6 @@
       <guid>20260815_weekly</guid>
       <pubDate>Fri, 14 Aug 2026 21:05:03 GMT</pubDate>
       <itunes:duration>1114</itunes:duration>
-    </item>
-    <item>
-      <title>スタラジ 2026年8月14日 配信分</title>
-      <enclosure url="https://almlog.github.io/starradio-feed/audio/20260814_daily.mp3" type="audio/mpeg"/>
-      <guid>20260814_daily</guid>
-      <pubDate>Thu, 13 Aug 2026 20:58:50 GMT</pubDate>
-      <itunes:duration>855</itunes:duration>
     </item>
 </channel>
 </rss>

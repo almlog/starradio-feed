@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261113_daily",
+    "title": "スタラジ 2026年11月13日 配信分",
+    "date": "2026-11-13",
+    "broadcastMode": "daily",
+    "durationSec": 757.0080000000008,
+    "durationFormatted": "12:37",
+    "cast": [
+      "ヨースケ",
+      "りっくん",
+      "まほ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "ジェンセン・ファン辞任とNvidiaの行方",
+        "startSec": 49.968
+      },
+      {
+        "name": "円安160円台と消費税審議",
+        "startSec": 181.44000000000003
+      },
+      {
+        "name": "最高検が生成AI活用指針を策定",
+        "startSec": 288.6480000000001
+      },
+      {
+        "name": "Microsoftの大規模メール障害",
+        "startSec": 404.7360000000004
+      },
+      {
+        "name": "幾田りら映画初主演「くろねこ」",
+        "startSec": 512.6400000000004
+      },
+      {
+        "name": "ゼルダリメイク＆Doom新作",
+        "startSec": 602.4240000000007
+      },
+      {
+        "name": "クロージング",
+        "startSec": 719.9040000000008
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261113_daily.mp3",
+    "scriptFile": "20261113_daily.md",
+    "publishedAt": "2026-11-12T21:08:14.374Z"
+  },
+  {
     "id": "20261112_daily",
     "title": "スタラジ 2026年11月12日 配信分",
     "date": "2026-11-12",
@@ -4481,117 +4532,5 @@
     "audioFile": "20260815_weekly.mp3",
     "scriptFile": "20260815_weekly.md",
     "publishedAt": "2026-08-14T21:05:03.831Z"
-  },
-  {
-    "id": "20260814_daily",
-    "title": "スタラジ 2026年8月14日 配信分",
-    "date": "2026-08-14",
-    "broadcastMode": "daily",
-    "durationSec": 855.9360000000011,
-    "durationFormatted": "14:15",
-    "cast": [
-      "ヨースケ",
-      "そらちゃん",
-      "まほ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "千葉の記録的大雨と帰宅困難者",
-        "startSec": 36.36000000000001
-      },
-      {
-        "name": "米国が「日本経由の中国製品」を名指しで批判",
-        "startSec": 183.64799999999997
-      },
-      {
-        "name": "AIの「本当のコスト」を測る新指標",
-        "startSec": 309.24
-      },
-      {
-        "name": "Databricks、評価額29兆円で50億ドル調達",
-        "startSec": 440.2320000000003
-      },
-      {
-        "name": "3体のClaudeが仕事の途中で「サボタージュ」した実験",
-        "startSec": 564.7680000000004
-      },
-      {
-        "name": "山﨑天ドラマ初主演＆二宮和也パズドラCM",
-        "startSec": 695.9040000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 830.376000000001
-      }
-    ],
-    "sources": [
-      {
-        "source": "NHK",
-        "title": "千葉県 レベル5の大雨と土砂災害の特別警報 命助かる行動を"
-      },
-      {
-        "source": "NHK",
-        "title": "千葉県内の大雨特別警報を危険警報などに切り替え【詳しく】"
-      },
-      {
-        "source": "NHK",
-        "title": "成田空港 ターミナルに約6600人滞留 電車やバス運休で"
-      },
-      {
-        "source": "NHK",
-        "title": "【大雨】千葉県・千葉市・船橋市 帰宅困難者向けに施設を開放"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "千葉・市原の村田川に氾濫発生情報　県水防対策本部"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "千葉の大雨　政府、情報連絡室を官邸連絡室に格上げ"
-      },
-      {
-        "source": "朝日新聞社",
-        "title": "立ち往生する車、道路は至るところで冠水　千葉で大雨特別警報"
-      },
-      {
-        "source": "時事通信社",
-        "title": "米政権、中国製品流入を非難　「関税回避」日本など経由"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "OpenAI, Anthropic Tout New Metric to Better Gauge AI's Cost"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation."
-      },
-      {
-        "source": "VentureBeat",
-        "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done"
-      },
-      {
-        "source": "ナタリー",
-        "title": "櫻坂46山﨑天がドラマ初主演、友情と恋心の間で揺れながらデスゲームを企てる高校生役"
-      },
-      {
-        "source": "ナタリー",
-        "title": "櫻坂46・山﨑天がドラマ初主演、「デス（青春）ゲーム」で親友の死から復讐へ向かう高校生に"
-      },
-      {
-        "source": "ナタリー",
-        "title": "二宮和也「パズドラ」新CMでモンスターたちと共演、歴代CMで印象深いのはやっぱり嵐の撮影"
-      },
-      {
-        "source": "Variety",
-        "title": "'House of the Dragon' Season 3 Finale Hits 21 Million Viewers in Three Days"
-      }
-    ],
-    "audioFile": "20260814_daily.mp3",
-    "scriptFile": "20260814_daily.md",
-    "publishedAt": "2026-08-13T20:58:50.236Z"
   }
 ]
