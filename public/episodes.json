@@ -1,5 +1,52 @@
 [
   {
+    "id": "20261117_daily",
+    "title": "スタラジ 2026年11月17日 配信分",
+    "date": "2026-11-17",
+    "broadcastMode": "daily",
+    "durationSec": 835.2720000000008,
+    "durationFormatted": "13:55",
+    "cast": [
+      "もえちゃん",
+      "ヨースケ",
+      "そらちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "番組の裏側: ニュース選びに\"審判AI\"を入れました",
+        "startSec": 52.583999999999996
+      },
+      {
+        "name": "米中ロ首脳会談、19日に開幕",
+        "startSec": 237.64799999999997
+      },
+      {
+        "name": "カリフォルニア州がOpenAIを提訴",
+        "startSec": 371.8800000000002
+      },
+      {
+        "name": "富岳スパコンに不正アクセス",
+        "startSec": 505.53600000000046
+      },
+      {
+        "name": "007新ボンド決定 & 稲葉浩志の東京ドーム",
+        "startSec": 644.3040000000005
+      },
+      {
+        "name": "クロージング",
+        "startSec": 775.9200000000008
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261117_daily.mp3",
+    "scriptFile": "20261117_daily.md",
+    "publishedAt": "2026-11-16T20:57:21.514Z"
+  },
+  {
     "id": "20261116_daily",
     "title": "スタラジ 2026年11月16日 配信分",
     "date": "2026-11-16",
@@ -4327,56 +4374,5 @@
     "audioFile": "20260819_daily.mp3",
     "scriptFile": "20260819_daily.md",
     "publishedAt": "2026-08-18T20:51:06.160Z"
-  },
-  {
-    "id": "20260818_daily",
-    "title": "スタラジ 2026年8月18日 配信分",
-    "date": "2026-08-18",
-    "broadcastMode": "daily",
-    "durationSec": 665.9280000000014,
-    "durationFormatted": "11:05",
-    "cast": [
-      "もえちゃん",
-      "りっくん",
-      "レイジ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI資金、いよいよ実弾フェーズ",
-        "startSec": 42.504
-      },
-      {
-        "name": "AI生成コンテンツの信頼性",
-        "startSec": 175.60799999999998
-      },
-      {
-        "name": "崩壊しかけている介護現場と外国人労働",
-        "startSec": 283.488
-      },
-      {
-        "name": "北方領土をめぐる摩擦",
-        "startSec": 391.84800000000024
-      },
-      {
-        "name": "音楽シーンの世代を超えたコラボ",
-        "startSec": 480.50400000000053
-      },
-      {
-        "name": "Ellie Gouldingがマネジメントを提訴",
-        "startSec": 554.7120000000009
-      },
-      {
-        "name": "クロージング",
-        "startSec": 636.5520000000012
-      }
-    ],
-    "sources": [],
-    "audioFile": "20260818_daily.mp3",
-    "scriptFile": "20260818_daily.md",
-    "publishedAt": "2026-08-17T20:50:58.926Z"
   }
 ]
