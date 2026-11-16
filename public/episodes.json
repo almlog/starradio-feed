@@ -1,5 +1,52 @@
 [
   {
+    "id": "20261116_daily",
+    "title": "スタラジ 2026年11月16日 配信分",
+    "date": "2026-11-16",
+    "broadcastMode": "daily",
+    "durationSec": 683.0160000000004,
+    "durationFormatted": "11:23",
+    "cast": [
+      "みのりん",
+      "そらちゃん",
+      "ホムラ"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "AIチップ規制とNVIDIA余波",
+        "startSec": 42.144
+      },
+      {
+        "name": "APEC深圳サミット＆日フィリピン外交",
+        "startSec": 179.97600000000003
+      },
+      {
+        "name": "Uber×Zoox ラスベガス自動運転サービス開始",
+        "startSec": 303.216
+      },
+      {
+        "name": "グラミー賞2027ノミネート発表",
+        "startSec": 414.3120000000002
+      },
+      {
+        "name": "国内ニュース: 福岡市長選＆玉鷲の快挙",
+        "startSec": 519.1680000000002
+      },
+      {
+        "name": "クロージング",
+        "startSec": 637.0320000000005
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261116_daily.mp3",
+    "scriptFile": "20261116_daily.md",
+    "publishedAt": "2026-11-16T14:34:21.168Z"
+  },
+  {
     "id": "20261114_weekly",
     "title": "スタラジ 土曜増刊号 2026年11月14日",
     "date": "2026-11-14",
@@ -4331,85 +4378,5 @@
     "audioFile": "20260818_daily.mp3",
     "scriptFile": "20260818_daily.md",
     "publishedAt": "2026-08-17T20:50:58.926Z"
-  },
-  {
-    "id": "20260817_daily",
-    "title": "スタラジ 2026年8月17日 配信分",
-    "date": "2026-08-17",
-    "broadcastMode": "daily",
-    "durationSec": 882.144000000001,
-    "durationFormatted": "14:42",
-    "cast": [
-      "みのりん",
-      "りっくん",
-      "もえちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI業界の巨額M&A：Stripe が OpenRouter を7000億円超で買収",
-        "startSec": 71.42399999999999
-      },
-      {
-        "name": "生成AI詐欺の現実化：ディープフェイク首相と、AIエージェントの暴走続報",
-        "startSec": 235.07999999999996
-      },
-      {
-        "name": "内閣改造と自民役員人事：注目点はどこか",
-        "startSec": 409.05600000000015
-      },
-      {
-        "name": "バスケ日本男子、韓国に連勝の意味",
-        "startSec": 551.1360000000005
-      },
-      {
-        "name": "エンタメ：真田十勇士キャスト発表と、ビートルズ伝記の\"アビイ・ロード再現\"",
-        "startSec": 667.2000000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 835.512000000001
-      }
-    ],
-    "sources": [
-      {
-        "source": "{Bloomberg L.P.|ブルームバーグ}",
-        "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter"
-      },
-      {
-        "source": "The Guardian",
-        "title": "Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "OpenAIやAnthropicでも続々発生、AIの「悪意なき暴走」は止められるか"
-      },
-      {
-        "source": "Yahoo!ニュース",
-        "title": "内閣改造と自民役員人事 注目点は"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "バスケ日本男子、韓国に連勝　河村、佐々木ら活躍　国際強化試合"
-      },
-      {
-        "source": "シネマトゥデイ",
-        "title": "岩本照主演「真田十勇士」真田幸村役は安藤政信　伊原六花、城桧吏らキャスト10名一挙発表"
-      },
-      {
-        "source": "ナタリー",
-        "title": "福士蒼汰主演ドラマ「ハイド＆シーク」10月放送、今村昌弘が原作書き下ろすラブミステリー"
-      },
-      {
-        "source": "The Hollywood Reporter",
-        "title": "Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Seen Recreating 'Abbey Road' Album Cover"
-      }
-    ],
-    "audioFile": "20260817_daily.mp3",
-    "scriptFile": "20260817_daily.md",
-    "publishedAt": "2026-08-16T20:52:16.571Z"
   }
 ]
