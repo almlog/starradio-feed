@@ -1,5 +1,43 @@
 [
   {
+    "id": "20261114_weekly",
+    "title": "スタラジ 土曜増刊号 2026年11月14日",
+    "date": "2026-11-14",
+    "broadcastMode": "weekly",
+    "durationSec": 751.2240000000003,
+    "durationFormatted": "12:31",
+    "cast": [
+      "みのりん",
+      "もえちゃん"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + ショート雑談",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: マーケット・トレンド — 今週の株・為替・金利・商品",
+        "startSec": 47.568
+      },
+      {
+        "name": "Part 3: 土曜ニュースダイジェスト",
+        "startSec": 200.59199999999996
+      },
+      {
+        "name": "Part 4: ウィークリーサマリー + 来週の展望 — 今週の世界を俯瞰する",
+        "startSec": 349.58400000000006
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 721.7280000000004
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261114_weekly.mp3",
+    "scriptFile": "20261114_weekly.md",
+    "publishedAt": "2026-11-16T13:28:00.059Z"
+  },
+  {
     "id": "20261113_daily",
     "title": "スタラジ 2026年11月13日 配信分",
     "date": "2026-11-13",
@@ -4373,164 +4411,5 @@
     "audioFile": "20260817_daily.mp3",
     "scriptFile": "20260817_daily.md",
     "publishedAt": "2026-08-16T20:52:16.571Z"
-  },
-  {
-    "id": "20260815_weekly",
-    "title": "スタラジ 土曜増刊号（2026年8月15日）",
-    "date": "2026-08-15",
-    "broadcastMode": "weekly",
-    "durationSec": 1114.7760000000005,
-    "durationFormatted": "18:34",
-    "cast": [
-      "もえちゃん",
-      "みのりん"
-    ],
-    "segments": [
-      {
-        "name": "Part 1: オープニング + プライベートトーク",
-        "startSec": 0
-      },
-      {
-        "name": "Part 2: 土曜ニュースダイジェスト",
-        "startSec": 215.688
-      },
-      {
-        "name": "Part 3: ウィークリーサマリー ─ 今週の世界を俯瞰する",
-        "startSec": 428.2560000000003
-      },
-      {
-        "name": "Part 4: 展望 ─ 来週どうなる？",
-        "startSec": 901.5840000000009
-      },
-      {
-        "name": "Part 5: クロージング",
-        "startSec": 1076.952000000001
-      }
-    ],
-    "sources": [
-      {
-        "source": "毎日新聞社",
-        "title": "甲子園最速156キロ　打者の日南学園・谷口「楽しくて」"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "甲子園最速156キロ「大怪物」伝説の始まり　横浜・織田の5球"
-      },
-      {
-        "source": "NHK",
-        "title": "大リーグ村上宗隆選手が熊本支援のチャリティープロジェクト"
-      },
-      {
-        "source": "NHK",
-        "title": "米 7月の小売業の売上高 前月比0.6％減 FRB利上げ観測やや後退"
-      },
-      {
-        "source": "時事通信社",
-        "title": "７月の米消費者物価、３．４％上昇　２カ月連続で減速"
-      },
-      {
-        "source": "Yahoo!ニュース",
-        "title": "ニチレイ 従業員の個人情報流出か"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "「Excelでこっそり共有」はやめよう　現場のセキュリティー意識が鍵に"
-      },
-      {
-        "source": "時事通信社",
-        "title": "フランス、１５歳未満ＳＮＳ禁止に違憲判断　「表現・通信の自由侵害」"
-      },
-      {
-        "source": "NHK",
-        "title": "千葉県 レベル5の大雨と土砂災害の特別警報 命助かる行動を"
-      },
-      {
-        "source": "NHK",
-        "title": "成田空港 ターミナルに約6600人滞留 電車やバス運休で"
-      },
-      {
-        "source": "NHK",
-        "title": "台風15号 各地の被害 茨城で3人けが 茨城・栃木など7380戸停電"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Nvidia Taps Wall Street for $500B Funding"
-      },
-      {
-        "source": "TechCrunch",
-        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation."
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "CoreWeave Revenue Surges on Booming Demand for AI Computing"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Super Micro Gives Sales Forecast That Tops Rosiest Projections"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Morgan Stanley’s Weaver Warns of Risks in AI-Compute Bottleneck"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "OpenAI, Anthropic Tout New Metric to Better Gauge AI’s Cost"
-      },
-      {
-        "source": "VentureBeat",
-        "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done"
-      },
-      {
-        "source": "NHK",
-        "title": "ソニー・TSMC 次世代画像センサー 2029年から量産へ"
-      },
-      {
-        "source": "朝日新聞社",
-        "title": "「強制的にスマホの顔認証」警察の捜査で新手法　「行きすぎ」懸念も"
-      },
-      {
-        "source": "朝日新聞社",
-        "title": "検察抗告「抑制運用を」、法務省が検察庁に周知　改正刑訴法一部施行"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Spotify Will Label A.I. Artists and Avoid Promoting Them"
-      },
-      {
-        "source": "アイティメディア",
-        "title": "【注目記事まとめ】NEC、日立、富士通――Anthropicとの電撃的協業、その舞台裏　経営陣の狙いは？"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "OpenAI on Track to Double Revenue Ahead of IPO"
-      },
-      {
-        "source": "Axios",
-        "title": "OpenAI sheds senior execs in pre-IPO refresh"
-      },
-      {
-        "source": "Ars Technica",
-        "title": "Vulnerability giving attackers full control of Macs is under active exploitation"
-      },
-      {
-        "source": "SPICE",
-        "title": "『はたらく細胞』がスクランブル歌舞伎として27年に上演決定　片岡愛之助、中村壱太郎、石川凌雅、関口メンディー、市川中車が出演"
-      },
-      {
-        "source": "ナタリー",
-        "title": "【今週の注目記事】1位はちいかわ×くら寿司　8月21日から9月30日まで実施"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "米政府、植田総裁発言受け協調介入決定　9月会合で利上げ見通し"
-      },
-      {
-        "source": "Qiita",
-        "title": "お盆休みは、Excelの道具の手入れをしています ── 郵便番号まわりが見違えた話"
-      }
-    ],
-    "audioFile": "20260815_weekly.mp3",
-    "scriptFile": "20260815_weekly.md",
-    "publishedAt": "2026-08-14T21:05:03.831Z"
   }
 ]
