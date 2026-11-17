@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261118_daily",
+    "title": "スタラジ 2026年11月18日 配信分",
+    "date": "2026-11-18",
+    "broadcastMode": "daily",
+    "durationSec": 689.9760000000009,
+    "durationFormatted": "11:29",
+    "cast": [
+      "レイナ姐さん",
+      "そらちゃん",
+      "ひなちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "防衛費50兆円と日米豪印安保",
+        "startSec": 31.968
+      },
+      {
+        "name": "最高裁・受刑者の投票権",
+        "startSec": 143.928
+      },
+      {
+        "name": "国債と投資市場の変化",
+        "startSec": 237.16799999999992
+      },
+      {
+        "name": "相次ぐ情報流出",
+        "startSec": 330.50400000000013
+      },
+      {
+        "name": "EUとAI規制の新章",
+        "startSec": 434.0400000000003
+      },
+      {
+        "name": "エンタメ: 桑田佳祐、三体、GTA6",
+        "startSec": 533.4960000000004
+      },
+      {
+        "name": "クロージング",
+        "startSec": 654.6240000000007
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261118_daily.mp3",
+    "scriptFile": "20261118_daily.md",
+    "publishedAt": "2026-11-17T20:48:53.081Z"
+  },
+  {
     "id": "20261117_daily",
     "title": "スタラジ 2026年11月17日 配信分",
     "date": "2026-11-17",
@@ -4290,89 +4341,5 @@
     "audioFile": "20260820_daily.mp3",
     "scriptFile": "20260820_daily.md",
     "publishedAt": "2026-08-19T20:52:49.888Z"
-  },
-  {
-    "id": "20260819_daily",
-    "title": "スタラジ 2026年8月19日 配信分",
-    "date": "2026-08-19",
-    "broadcastMode": "daily",
-    "durationSec": 705.3360000000011,
-    "durationFormatted": "11:45",
-    "cast": [
-      "レイナ姐さん",
-      "りっくん",
-      "あやちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AIデータセンター規制と半導体市場の失速",
-        "startSec": 59.59199999999999
-      },
-      {
-        "name": "メタの集団訴訟とOpenAIの十代向けチャットGPT",
-        "startSec": 198.81599999999995
-      },
-      {
-        "name": "外国人採用厳格化の行方 - 続報",
-        "startSec": 323.2800000000001
-      },
-      {
-        "name": "熊本地震を受けた全国煙突調査 - 続報",
-        "startSec": 455.8560000000004
-      },
-      {
-        "name": "エンタメ - 石原さとみの新ドラマとインディゲームの話題作",
-        "startSec": 553.3920000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 669.9360000000011
-      }
-    ],
-    "sources": [
-      {
-        "source": "{Bloomberg L.P.|ブルームバーグ}",
-        "title": "Pennsylvania Governor Josh Shapiro to Limit New Data Centers"
-      },
-      {
-        "source": "{Financial Times|フィナンシャルタイムズ}",
-        "title": "US chip stocks slide as government borrowing costs hit multiyear highs"
-      },
-      {
-        "source": "日経xTECH",
-        "title": "キオクシア、CXL対応のフラッシュメモリー　AIデータセンター狙う"
-      },
-      {
-        "source": "{The New York Times|ニューヨークタイムズ}",
-        "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media"
-      },
-      {
-        "source": "{Bloomberg L.P.|ブルームバーグ}",
-        "title": "ChatGPT Shouldn't Be a 'Friend' to Teens, Says OpenAI"
-      },
-      {
-        "source": "毎日新聞社",
-        "title": "移民と社会:外国人採用急停止「よくやった」の声も　高市印「厳格化」の行方"
-      },
-      {
-        "source": "NHK",
-        "title": "熊本地震受け 全国の工場など煙突の状況を調査開始 金子国交相"
-      },
-      {
-        "source": "ナタリー",
-        "title": "石原さとみが新ドラマ「ポリティカルパン」で野木亜紀子と再タッグ、政治の金を狙う怪盗に"
-      },
-      {
-        "source": "4Gamer.net",
-        "title": "「The Witness」や「Braid」を手掛けたクリエイターによる新作「Order of the Sinking Star」，発売日を10月8日に決定"
-      }
-    ],
-    "audioFile": "20260819_daily.mp3",
-    "scriptFile": "20260819_daily.md",
-    "publishedAt": "2026-08-18T20:51:06.160Z"
   }
 ]
