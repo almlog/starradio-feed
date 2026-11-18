@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261119_daily",
+    "title": "スタラジ 2026年11月19日 配信分",
+    "date": "2026-11-19",
+    "broadcastMode": "daily",
+    "durationSec": 803.280000000001,
+    "durationFormatted": "13:23",
+    "cast": [
+      "ホリケイ",
+      "ヨースケ",
+      "そらちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "高市首相 外交ウィーク — APEC・ロシア・ペルー",
+        "startSec": 50.376
+      },
+      {
+        "name": "衆院定数削減 — 比例31議席の行方",
+        "startSec": 174.84000000000003
+      },
+      {
+        "name": "Java4Shell — インフラを脅かす重大脆弱性",
+        "startSec": 314.0640000000001
+      },
+      {
+        "name": "NY・LA・シカゴ 学校区がGoogle検索を離れる？",
+        "startSec": 432.3360000000004
+      },
+      {
+        "name": "COP31 — 脱化石燃料の号砲",
+        "startSec": 534.5520000000005
+      },
+      {
+        "name": "ちいかわとマトリックス、それぞれの権利闘争",
+        "startSec": 657.0000000000008
+      },
+      {
+        "name": "クロージング",
+        "startSec": 754.3440000000008
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261119_daily.mp3",
+    "scriptFile": "20261119_daily.md",
+    "publishedAt": "2026-11-18T20:53:41.903Z"
+  },
+  {
     "id": "20261118_daily",
     "title": "スタラジ 2026年11月18日 配信分",
     "date": "2026-11-18",
@@ -4290,56 +4341,5 @@
     "audioFile": "20260821_daily.mp3",
     "scriptFile": "20260821_daily.md",
     "publishedAt": "2026-08-20T20:51:53.808Z"
-  },
-  {
-    "id": "20260820_daily",
-    "title": "スタラジ 2026年8月20日 配信分",
-    "date": "2026-08-20",
-    "broadcastMode": "daily",
-    "durationSec": 722.6160000000006,
-    "durationFormatted": "12:02",
-    "cast": [
-      "ホリケイ",
-      "りっくん",
-      "ホムラ"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "AI企業を巡る買収の連鎖",
-        "startSec": 54.72
-      },
-      {
-        "name": "経産省7.7兆概算要求と米国金利",
-        "startSec": 189.35999999999999
-      },
-      {
-        "name": "フィジカルAIと日本の競争力",
-        "startSec": 316.848
-      },
-      {
-        "name": "OpenAIが企業向け安全プロセスを強化",
-        "startSec": 420.09600000000034
-      },
-      {
-        "name": "上白石萌音の新ドラマと59歳カズの2得点",
-        "startSec": 504.36000000000047
-      },
-      {
-        "name": "BTS北米ツアー始動",
-        "startSec": 613.3920000000005
-      },
-      {
-        "name": "クロージング",
-        "startSec": 690.8160000000006
-      }
-    ],
-    "sources": [],
-    "audioFile": "20260820_daily.mp3",
-    "scriptFile": "20260820_daily.md",
-    "publishedAt": "2026-08-19T20:52:49.888Z"
   }
 ]
