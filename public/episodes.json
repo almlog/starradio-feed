@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261126_daily",
+    "title": "スタラジ 2026年11月26日 配信分",
+    "date": "2026-11-26",
+    "broadcastMode": "daily",
+    "durationSec": 748.4880000000005,
+    "durationFormatted": "12:28",
+    "cast": [
+      "ホリケイ",
+      "りっくん",
+      "あやちゃん"
+    ],
+    "segments": [
+      {
+        "name": "オープニング",
+        "startSec": 0
+      },
+      {
+        "name": "米追加関税と経済指標――日本への影響",
+        "startSec": 37.152
+      },
+      {
+        "name": "PayPayシステム障害――決済インフラ依存のリスク",
+        "startSec": 168.93599999999998
+      },
+      {
+        "name": "Microsoft「Code Red」――世界規模のIT障害",
+        "startSec": 260.8079999999999
+      },
+      {
+        "name": "ElevenLabsが33億ドル評価額で資金調達交渉中",
+        "startSec": 368.6400000000002
+      },
+      {
+        "name": "「葬送のフリーレン」×JR東日本 ＆ 趣里×杉野遥亮の月9「ラスト・サイレン」",
+        "startSec": 503.4480000000004
+      },
+      {
+        "name": "アベンジャーズ最新作が初週末2.7億ドル超え予測 ＆ 神谷英樹の新作構想",
+        "startSec": 594.3600000000005
+      },
+      {
+        "name": "クロージング",
+        "startSec": 687.6480000000006
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261126_daily.mp3",
+    "scriptFile": "20261126_daily.md",
+    "publishedAt": "2026-11-25T20:51:02.702Z"
+  },
+  {
     "id": "20261125_daily",
     "title": "スタラジ 2026年11月25日 配信分",
     "date": "2026-11-25",
@@ -3921,97 +3972,5 @@
     "audioFile": "20260911_daily.mp3",
     "scriptFile": "20260911_daily.md",
     "publishedAt": "2026-09-10T20:51:44.236Z"
-  },
-  {
-    "id": "20260827_daily",
-    "title": "スタラジ 2026年8月27日 配信分",
-    "date": "2026-08-27",
-    "broadcastMode": "daily",
-    "durationSec": 1109.0880000000002,
-    "durationFormatted": "18:29",
-    "cast": [
-      "ホリケイ",
-      "そらちゃん",
-      "あやちゃん"
-    ],
-    "segments": [
-      {
-        "name": "オープニング",
-        "startSec": 0
-      },
-      {
-        "name": "Meta 171億ドル和解と若者のSNS",
-        "startSec": 80.92800000000001
-      },
-      {
-        "name": "政府備蓄米、9月中の買い戻し",
-        "startSec": 281.37600000000003
-      },
-      {
-        "name": "決算三連発、AI追い風のSaaS",
-        "startSec": 471.8400000000003
-      },
-      {
-        "name": "AI電力インフラ、小型原発と地元反発の逆流",
-        "startSec": 660.2160000000005
-      },
-      {
-        "name": "音楽と映像、この一日のエンタメ",
-        "startSec": 862.1520000000006
-      },
-      {
-        "name": "クロージング",
-        "startSec": 1029.7440000000006
-      }
-    ],
-    "sources": [
-      {
-        "source": "The New York Times",
-        "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims"
-      },
-      {
-        "source": "The New York Times",
-        "title": "What's Changing For Teens on Instagram and Facebook After Meta Settlement"
-      },
-      {
-        "source": "The New York Times",
-        "title": "What Does $17.1 Billion Mean for Meta?"
-      },
-      {
-        "source": "NHK",
-        "title": "政府の備蓄米 9月中に買い戻しの方針 農水省が最終調整"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Salesforce Projects Strong Growth in Sales and Bookings"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Okta Lifts Annual Revenue View as Double-Digit Growth Holds"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "CrowdStrike Stock Jumps After Annual Revenue Outlook Beats"
-      },
-      {
-        "source": "Axios",
-        "title": "Exclusive: Why Antares is bringing nuclear power to Fort Bragg"
-      },
-      {
-        "source": "Bloomberg L.P.",
-        "title": "Data Center Backlash Is Seen as Slowing, Reshaping New Projects"
-      },
-      {
-        "source": "ナタリー",
-        "title": "トラジャ松田元太が江國香織原作ドラマで主演、役の印象は「欲望に手足が生えた生き物」"
-      },
-      {
-        "source": "Variety",
-        "title": "Dolly Parton Streams Surge on Spotify With 2,320% Increase in the United States"
-      }
-    ],
-    "audioFile": "20260827_daily.mp3",
-    "scriptFile": "20260827_daily.md",
-    "publishedAt": "2026-08-26T20:54:11.588Z"
   }
 ]
