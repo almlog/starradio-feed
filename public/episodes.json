@@ -1,5 +1,43 @@
 [
   {
+    "id": "20261128_weekly",
+    "title": "スタラジ 土曜増刊号 2026年11月28日",
+    "date": "2026-11-28",
+    "broadcastMode": "weekly",
+    "durationSec": 900.9360000000006,
+    "durationFormatted": "15:00",
+    "cast": [
+      "みのりん",
+      "ホリケイ"
+    ],
+    "segments": [
+      {
+        "name": "Part 1: オープニング + ショート雑談",
+        "startSec": 0
+      },
+      {
+        "name": "Part 2: マーケット・トレンド — 今週の株・為替・金利・商品",
+        "startSec": 45.648
+      },
+      {
+        "name": "Part 3: 土曜ニュースダイジェスト",
+        "startSec": 233.56799999999996
+      },
+      {
+        "name": "Part 4: ウィークリーサマリー + 来週の展望 — 今週の世界を俯瞰する",
+        "startSec": 380.4960000000001
+      },
+      {
+        "name": "Part 5: クロージング",
+        "startSec": 861.2400000000005
+      }
+    ],
+    "sources": [],
+    "audioFile": "20261128_weekly.mp3",
+    "scriptFile": "20261128_weekly.md",
+    "publishedAt": "2026-11-27T20:57:13.248Z"
+  },
+  {
     "id": "20261127_daily",
     "title": "スタラジ 2026年11月27日 配信分",
     "date": "2026-11-27",
